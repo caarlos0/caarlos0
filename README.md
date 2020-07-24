@@ -10,10 +10,10 @@ I'm Carlos! I'm a software engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.2.0), today) - my own dotfiles ported to fish (using oh-my-fish)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) ([v0.2.2](https://github.com/caarlos0/jsonfmt/releases/tag/v0.2.2), 1 day ago) -  Like gofmt, but for JSON files.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.140.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.140.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v1.7.0](https://github.com/caarlos0/fork-cleaner/releases/tag/v1.7.0), 2 days ago) - Cleans up old and inactive forks on your github account.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.5.0](https://github.com/goreleaser/nfpm/releases/tag/v1.5.0), 2 days ago) - NFPM is Not FPM - a simple deb and rpm packager written in Go
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.32.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.32.1), 3 days ago) - New Relic Client for the Go programming language
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.33.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.33.0), today) - New Relic Client for the Go programming language
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.2.0), 1 day ago) - my own dotfiles ported to fish (using oh-my-fish)
+- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) ([v0.2.2](https://github.com/caarlos0/jsonfmt/releases/tag/v0.2.2), 2 days ago) -  Like gofmt, but for JSON files.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.140.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.140.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v1.7.0](https://github.com/caarlos0/fork-cleaner/releases/tag/v1.7.0), 3 days ago) - Cleans up old and inactive forks on your github account.
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.5.0](https://github.com/goreleaser/nfpm/releases/tag/v1.5.0), 3 days ago) - NFPM is Not FPM - a simple deb and rpm packager written in Go
 - [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.1.2](https://github.com/caarlos0/clone-org/releases/tag/v1.1.2), 1 week ago) - Clone all repos of a github organization
