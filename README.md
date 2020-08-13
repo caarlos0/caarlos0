@@ -10,8 +10,9 @@ I'm Carlos! I'm a software engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.3.0), 2 days ago) - my own dotfiles ported to fish (using oh-my-fish)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.141.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.141.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.13.0](https://github.com/wjdp/htmltest/releases/tag/v0.13.0), 1 day ago) - :white_check_mark: Test generated HTML for problems
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.3.0), 3 days ago) - my own dotfiles ported to fish (using oh-my-fish)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.141.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.141.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.6.0](https://github.com/goreleaser/nfpm/releases/tag/v1.6.0), 1 week ago) - NFPM is Not FPM - a simple deb and rpm packager written in Go
 - [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.35.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.35.1), 1 week ago) - New Relic Client for the Go programming language
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) ([v0.2.2](https://github.com/caarlos0/jsonfmt/releases/tag/v0.2.2), 3 weeks ago) -  Like gofmt, but for JSON files.
@@ -19,4 +20,3 @@ I'm Carlos! I'm a software engineer based in Joinville - 🇧🇷.
 - [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.1.2](https://github.com/caarlos0/clone-org/releases/tag/v1.1.2), 4 weeks ago) - Clone all repos of a github organization
 - [goreleaser/chglog](https://github.com/goreleaser/chglog) ([v0.1.1](https://github.com/goreleaser/chglog/releases/tag/v0.1.1), 1 month ago) - chglog is a changelog management library and tool
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.0](https://github.com/getantibody/antibody/releases/tag/v6.1.0), 1 month ago) - The fastest shell plugin manager.
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v0.24.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v0.24.0), 1 month ago) - Build Container Images In Kubernetes
