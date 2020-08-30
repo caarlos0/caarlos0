@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.39.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.39.0), 2 days ago) - New Relic Client for the Go programming language
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
-- [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after) ([v0.2.0](https://github.com/caarlos0/kube-shutdown-after/releases/tag/v0.2.0), 3 days ago) - Shutdown pods in sandbox clusters when it&#39;s not work hours
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.26.1](https://github.com/travelaudience/docker-nexus/releases/tag/3.26.1), 5 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.39.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.39.0), 3 days ago) - New Relic Client for the Go programming language
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.0), 3 days ago) - :octocat: GitHub Action for GoReleaser
+- [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after) ([v0.2.0](https://github.com/caarlos0/kube-shutdown-after/releases/tag/v0.2.0), 4 days ago) - Shutdown pods in sandbox clusters when it&#39;s not work hours
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.26.1](https://github.com/travelaudience/docker-nexus/releases/tag/3.26.1), 6 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.142.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.142.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.7.0](https://github.com/goreleaser/nfpm/releases/tag/v1.7.0), 1 week ago) - NFPM is Not FPM - a simple deb and rpm packager written in Go
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.8.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.8.0), 1 week ago) - Exports the expiration time of your domains as prometheus metrics.
