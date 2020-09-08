@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.143.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.143.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-3.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-3.5.2), 1 day ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.40.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.40.0), 3 days ago) - New Relic Client for the Go programming language
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.5.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.5.1), 4 days ago) - my own dotfiles ported to fish (using oh-my-fish)
-- [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 4 days ago) - The fastest shell plugin manager.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.3.2), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.143.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.143.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.40.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.40.0), 4 days ago) - New Relic Client for the Go programming language
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.5.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.5.1), 5 days ago) - my own dotfiles ported to fish (using oh-my-fish)
+- [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 5 days ago) - The fastest shell plugin manager.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.0), 1 week ago) - :octocat: GitHub Action for GoReleaser
 - [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after) ([v0.2.0](https://github.com/caarlos0/kube-shutdown-after/releases/tag/v0.2.0), 1 week ago) - Shutdown pods in sandbox clusters when it&#39;s not work hours
 - [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.26.1](https://github.com/travelaudience/docker-nexus/releases/tag/3.26.1), 2 weeks ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
