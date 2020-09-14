@@ -10,13 +10,13 @@ I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-9.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-9.4.1), 1 day ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.41.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.41.0), 2 days ago) - New Relic Client for the Go programming language
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.27.0](https://github.com/travelaudience/docker-nexus/releases/tag/3.27.0), 2 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [caarlos0/carlosbecker.com](https://github.com/caarlos0/carlosbecker.com) ([back-to-hugo](https://github.com/caarlos0/carlosbecker.com/releases/tag/back-to-hugo), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-9.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-9.4.1), 2 days ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.41.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.41.0), 3 days ago) - New Relic Client for the Go programming language
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.27.0](https://github.com/travelaudience/docker-nexus/releases/tag/3.27.0), 3 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.143.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.143.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.5.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.5.1), 1 week ago) - my own dotfiles ported to fish (using oh-my-fish)
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 1 week ago) - The fastest shell plugin manager.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.0), 2 weeks ago) - :octocat: GitHub Action for GoReleaser
 - [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after) ([v0.2.0](https://github.com/caarlos0/kube-shutdown-after/releases/tag/v0.2.0), 2 weeks ago) - Shutdown pods in sandbox clusters when it&#39;s not work hours
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.7.0](https://github.com/goreleaser/nfpm/releases/tag/v1.7.0), 3 weeks ago) - NFPM is Not FPM - a simple deb and rpm packager written in Go
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.8.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.8.0), 3 weeks ago) - Exports the expiration time of your domains as prometheus metrics.
