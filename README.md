@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.7.0), 2 days ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.42.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.42.0), 4 days ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.1.0), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.42.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.42.0), 5 days ago) - New Relic Client for the Go programming language
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.8.0](https://github.com/goreleaser/nfpm/releases/tag/v1.8.0), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [totvslabs/storage-auth-proxy](https://github.com/totvslabs/storage-auth-proxy) ([v1.1.2](https://github.com/totvslabs/storage-auth-proxy/releases/tag/v1.1.2), 1 week ago) - Storage Authentication Proxy: adds a basic authentication layer to your GCS/S3/Azure bucket - useful for simple, private helm repositories
 - [caarlos0/carlosbecker.com](https://github.com/caarlos0/carlosbecker.com) ([back-to-hugo](https://github.com/caarlos0/carlosbecker.com/releases/tag/back-to-hugo), 2 weeks ago) - my personal website
