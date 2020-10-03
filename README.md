@@ -10,13 +10,13 @@ I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.43.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.43.0), 1 day ago) - New Relic Client for the Go programming language
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.1), 1 day ago) - :octocat: GitHub Action for GoReleaser
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.2.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.2.0), 1 day ago) - Build Container Images In Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-9.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-9.4.5), 2 days ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.44.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.44.0), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.1.1), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.2.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.2.1), 2 days ago) - :octocat: GitHub Action for GoReleaser
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.2.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.2.0), 2 days ago) - Build Container Images In Kubernetes
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.8.0](https://github.com/goreleaser/nfpm/releases/tag/v1.8.0), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [totvslabs/storage-auth-proxy](https://github.com/totvslabs/storage-auth-proxy) ([v1.1.2](https://github.com/totvslabs/storage-auth-proxy/releases/tag/v1.1.2), 2 weeks ago) - Storage Authentication Proxy: adds a basic authentication layer to your GCS/S3/Azure bucket - useful for simple, private helm repositories
 - [caarlos0/carlosbecker.com](https://github.com/caarlos0/carlosbecker.com) ([back-to-hugo](https://github.com/caarlos0/carlosbecker.com/releases/tag/back-to-hugo), 2 weeks ago) - my personal website
 - [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.27.0](https://github.com/travelaudience/docker-nexus/releases/tag/3.27.0), 3 weeks ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.143.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.143.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.5.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.5.1), 4 weeks ago) - my own dotfiles ported to fish (using oh-my-fish)
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.5.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.5.1), 1 month ago) - my own dotfiles ported to fish (using oh-my-fish)
