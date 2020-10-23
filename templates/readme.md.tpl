@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carlos! I'm a Site Reliability Engineer based in Joinville - 🇧🇷.
+I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 3}}
