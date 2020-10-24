@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-10.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-10.1.2), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.5](https://github.com/hashicorp/terraform/releases/tag/v0.13.5), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.0](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.0), 4 days ago) - Prometheus Presto Exporter
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.47.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.47.0), 1 week ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-0.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-0.8.1), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.47.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.47.1), 1 day ago) - New Relic Client for the Go programming language
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.5](https://github.com/hashicorp/terraform/releases/tag/v0.13.5), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.0](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.0), 5 days ago) - Prometheus Presto Exporter
 - [caarlos0/env](https://github.com/caarlos0/env) ([v6.4.0](https://github.com/caarlos0/env/releases/tag/v6.4.0), 1 week ago) - Simple lib to parse environment variables to structs
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.145.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.145.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
