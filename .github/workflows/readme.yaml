@@ -14,6 +14,8 @@ jobs:
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GOODREADS_USER_ID: ${{ secrets.MY_GOODREADS_USER_ID }}
+          GOODREADS_TOKEN: ${{ secrets.MY_GOODREADS_TOKEN }}
         with:
           template: "templates/readme.md.tpl"
           writeTo: "README.md"
