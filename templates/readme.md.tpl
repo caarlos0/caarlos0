@@ -31,5 +31,5 @@ Many thanks everyone! 🙏
 #### 📚 Some books I'm reading
 
 {{- range goodReadsCurrentlyReading 5 }}
-- [{{ .Book.Title }}]({{ .Book.Link }}) ({{ humanize .DateUpdated }})
+- [{{ .Book.Title }}]({{ .Book.Link }})
 {{- end}}
