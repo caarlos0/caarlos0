@@ -33,6 +33,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) (Tue Aug 25 09:50:01 -0700 2020)
-- [Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer](https://www.goodreads.com/book/show/36389464-understanding-software) (Tue Aug 07 07:52:17 -0700 2018)
-- [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) (Sun Aug 20 15:12:39 -0700 2017)
+- [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver)
+- [Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer](https://www.goodreads.com/book/show/36389464-understanding-software)
+- [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade)
