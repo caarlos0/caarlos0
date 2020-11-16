@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-11.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-11.1.3), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-11.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-11.1.4), today) - Prometheus community Helm charts
 - [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 3 days ago) - New Relic Client for the Go programming language
 - [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 3 days ago) - Prometheus Presto Exporter
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
@@ -33,6 +33,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver)
-- [Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer](https://www.goodreads.com/book/show/36389464-understanding-software)
-- [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade)
+- [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
+- [Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer](https://www.goodreads.com/book/show/36389464-understanding-software) - Max Kanat-Alexander
+- [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) - Clóvis de Barros Filho
