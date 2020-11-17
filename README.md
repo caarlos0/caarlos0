@@ -3,25 +3,25 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish (using oh-my-fish)
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
 - [caarlos0/fish-gcp-machines](https://github.com/caarlos0/fish-gcp-machines) - Simple utility to quickly print the vCPU and Memory of a given GCP instance type
 - [caarlos0/fish-git-sync](https://github.com/caarlos0/fish-git-sync) - A fish plugin to sync git repositories and clean them up.
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-11.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-11.1.4), today) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 3 days ago) - New Relic Client for the Go programming language
-- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 3 days ago) - Prometheus Presto Exporter
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-11.1.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-11.1.6), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 4 days ago) - New Relic Client for the Go programming language
+- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 4 days ago) - Prometheus Presto Exporter
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
 - [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (6 months ago)
 - [Leader Election inside Kubernetes](https://carlosbecker.com/posts/k8s-leader-election/) (8 months ago)
 - [Kubernetes Jobs: shut down sidecar when main container finishes](https://carlosbecker.com/posts/k8s-sidecar-shutdown/) (8 months ago)
-- [Easy private Helm repositories](https://carlosbecker.com/posts/private-helm-repo/) (8 months ago)
+- [Easy private Helm repositories](https://carlosbecker.com/posts/private-helm-repo/) (9 months ago)
 
 #### ❤️ Sponsors
 - [Joseph Kato](https://github.com/jdkato) (1 week ago)
