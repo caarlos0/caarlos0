@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-11.1.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-11.1.6), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 4 days ago) - New Relic Client for the Go programming language
-- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 4 days ago) - Prometheus Presto Exporter
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.0.1), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 5 days ago) - New Relic Client for the Go programming language
+- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 5 days ago) - Prometheus Presto Exporter
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
