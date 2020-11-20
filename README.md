@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 1 day ago) - my own dotfiles ported to fish
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 6 days ago) - New Relic Client for the Go programming language
-- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 6 days ago) - Prometheus Presto Exporter
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.1.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 2 days ago) - my own dotfiles ported to fish
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.49.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.49.0), 1 week ago) - New Relic Client for the Go programming language
+- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 1 week ago) - Prometheus Presto Exporter
 
 ### 📄 Latest posts
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Easy private Helm repositories](https://carlosbecker.com/posts/private-helm-repo/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Joseph Kato](https://github.com/jdkato) (1 week ago)
+- [Joseph Kato](https://github.com/jdkato) (2 weeks ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (4 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (4 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (6 months ago)
