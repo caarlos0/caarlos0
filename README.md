@@ -10,16 +10,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.1.0), 2 days ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 3 days ago) - my own dotfiles ported to fish
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [totvslabs/presto-exporter](https://github.com/totvslabs/presto-exporter) ([v0.2.1](https://github.com/totvslabs/presto-exporter/releases/tag/v0.2.1), 1 week ago) - Prometheus Presto Exporter
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.0), 1 day ago) - Prometheus community Helm charts
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 2 days ago) - New Relic Client for the Go programming language
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 4 days ago) - my own dotfiles ported to fish
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (1 day ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (2 days ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
-- [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (6 months ago)
+- [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (7 months ago)
 - [Leader Election inside Kubernetes](https://carlosbecker.com/posts/k8s-leader-election/) (8 months ago)
 - [Kubernetes Jobs: shut down sidecar when main container finishes](https://carlosbecker.com/posts/k8s-sidecar-shutdown/) (8 months ago)
 
