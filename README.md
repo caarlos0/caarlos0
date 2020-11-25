@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.2), 1 day ago) - Prometheus community Helm charts
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 4 days ago) - New Relic Client for the Go programming language
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 6 days ago) - my own dotfiles ported to fish
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.3), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.4.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.4.0), 1 day ago) - Exports GitHub release metrics to the Prometheus format
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 5 days ago) - New Relic Client for the Go programming language
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 1 week ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (4 days ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (5 days ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
 - [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (7 months ago)
 - [Leader Election inside Kubernetes](https://carlosbecker.com/posts/k8s-leader-election/) (8 months ago)
