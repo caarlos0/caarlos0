@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.2.0), 1 day ago) - Prometheus community Helm charts
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.4.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.4.0), 2 days ago) - Exports GitHub release metrics to the Prometheus format
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 6 days ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.4.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.4.0), 3 days ago) - Exports GitHub release metrics to the Prometheus format
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 1 week ago) - New Relic Client for the Go programming language
 - [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v1.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v1.8.0), 1 week ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (6 days ago)
-- [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (3 months ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (1 week ago)
+- [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (4 months ago)
 - [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (7 months ago)
 - [Leader Election inside Kubernetes](https://carlosbecker.com/posts/k8s-leader-election/) (8 months ago)
 - [Kubernetes Jobs: shut down sidecar when main container finishes](https://carlosbecker.com/posts/k8s-sidecar-shutdown/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Joseph Kato](https://github.com/jdkato) (2 weeks ago)
+- [Joseph Kato](https://github.com/jdkato) (3 weeks ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (4 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (4 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (6 months ago)
