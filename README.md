@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.10.2](https://github.com/goreleaser/nfpm/releases/tag/v1.10.2), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.1), 2 days ago) - Prometheus community Helm charts
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.4.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.4.0), 4 days ago) - Exports GitHub release metrics to the Prometheus format
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.50.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.50.0), 1 week ago) - New Relic Client for the Go programming language
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.4), 1 day ago) - Prometheus community Helm charts
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v24.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v24.0.0), 1 day ago)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.10.2](https://github.com/goreleaser/nfpm/releases/tag/v1.10.2), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ### 📄 Latest posts
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (1 week ago)
