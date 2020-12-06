@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.4.0), 3 days ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.0.0), 3 days ago) - my own dotfiles ported to fish
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.51.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.51.0), 4 days ago) - New Relic Client for the Go programming language
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.1](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.1), 4 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.8.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.0.0), 4 days ago) - my own dotfiles ported to fish
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.51.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.51.0), 5 days ago) - New Relic Client for the Go programming language
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.1](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.1), 5 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
 
 ### 📄 Latest posts
-- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (5 days ago)
+- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 days ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (2 weeks ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (4 months ago)
 - [Publishing libraries with GoReleaser](https://carlosbecker.com/posts/goreleaser-libs/) (7 months ago)
@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Nikita Khomitsevych](https://github.com/hamsternik) (4 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (5 months ago)
-- [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (6 months ago)
+- [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (7 months ago)
 - [Nadim Kobeissi](https://github.com/kaepora) (7 months ago)
 - [Aleksandr Razumov](https://github.com/ernado) (7 months ago)
 
