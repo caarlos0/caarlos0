@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.7.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.0.0), 6 days ago) - my own dotfiles ported to fish
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.51.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.51.0), 1 week ago) - New Relic Client for the Go programming language
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.1](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.1), 1 week ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v0.3.1](https://github.com/goreleaser/fileglob/releases/tag/v0.3.1), 1 day ago) - A file globbing library.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.2](https://github.com/hashicorp/terraform/releases/tag/v0.14.2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.0.0), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.52.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.52.0), 1 day ago) - New Relic Client for the Go programming language
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.0.0), 1 week ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
-- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (1 day ago)
+- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (2 days ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (1 week ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (2 weeks ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (4 months ago)
