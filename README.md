@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.1.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.1.1), 1 day ago) - my own dotfiles ported to fish
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v1.10.3](https://github.com/goreleaser/nfpm/releases/tag/v1.10.3), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.0.0](https://github.com/goreleaser/nfpm/releases/tag/v2.0.0), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), 2 days ago) - Prometheus community Helm charts
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.1.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.1.1), 2 days ago) - my own dotfiles ported to fish
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.0), 1 week ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
 ### 📄 Latest posts
