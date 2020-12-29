@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.0](https://github.com/goreleaser/nfpm/releases/tag/v2.1.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), 6 days ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.1.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.1.1), 6 days ago) - my own dotfiles ported to fish
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.53.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.53.0), 1 day ago) - New Relic Client for the Go programming language
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.0](https://github.com/goreleaser/nfpm/releases/tag/v2.1.0), 4 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), 1 week ago) - Prometheus community Helm charts
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.1.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.1.1), 1 week ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 week ago)
