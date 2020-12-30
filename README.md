@@ -10,16 +10,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.53.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.53.0), 1 day ago) - New Relic Client for the Go programming language
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.0](https://github.com/goreleaser/nfpm/releases/tag/v2.1.0), 4 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), 1 week ago) - Prometheus community Helm charts
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.1.1](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.1.1), 1 week ago) - my own dotfiles ported to fish
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.2](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.2), 1 day ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.1](https://github.com/goreleaser/nfpm/releases/tag/v2.1.1), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-1.6.0), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.53.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.53.0), 2 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
-- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 week ago)
+- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 weeks ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (3 weeks ago)
-- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (4 weeks ago)
+- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (1 month ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (1 month ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (5 months ago)
 
