@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.2](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.2), 1 day ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.1](https://github.com/goreleaser/nfpm/releases/tag/v2.1.1), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-1.6.0), 1 day ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.53.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.53.0), 2 days ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.9.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.0.2](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.0.2), 2 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.1.1](https://github.com/goreleaser/nfpm/releases/tag/v2.1.1), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.53.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.53.0), 3 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 weeks ago)
