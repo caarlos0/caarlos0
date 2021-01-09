@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.4](https://github.com/hashicorp/terraform/releases/tag/v0.14.4), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.1](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.1), 1 day ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.153.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.153.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.0), 2 days ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.10.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.10.6), 2 days ago) - Prometheus community Helm charts
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 1 day ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.2.0), 2 days ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 weeks ago)
