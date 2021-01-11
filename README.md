@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 2 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.11.3), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 3 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 3 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 weeks ago)
