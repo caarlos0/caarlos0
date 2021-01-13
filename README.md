@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.2](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.2), today) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.2.0), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 4 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 4 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.3](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.3), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.2.0), 2 days ago) - Prometheus community Helm charts
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 5 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 5 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
 
 ### 📄 Latest posts
-- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 weeks ago)
+- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 weeks ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (1 month ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (1 month ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (1 month ago)
