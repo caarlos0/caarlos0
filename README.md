@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.3](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.3), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.2.0), 2 days ago) - Prometheus community Helm charts
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 5 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 5 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.4](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.4), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.12.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 3 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 6 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [travelaudience/docker-nexus](https://github.com/travelaudience/docker-nexus) ([3.29.2](https://github.com/travelaudience/docker-nexus/releases/tag/3.29.2), 6 days ago) - A container image for Sonatype Nexus Repository Manager OSS, based on Alpine Linux.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 weeks ago)
@@ -33,6 +33,5 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [Guia Suno Fundos Imobiliários: Introdução sobre Investimentos Seguros e Rentáveis](https://www.goodreads.com/book/show/41973969-guia-suno-fundos-imobili-rios) - Marcos Baroni
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
 - [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) - Clóvis de Barros Filho
