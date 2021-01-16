@@ -3,18 +3,18 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Dead simple task timer
 - [caarlos0/beckerly](https://github.com/caarlos0/beckerly)
 - [caarlos0/upptime](https://github.com/caarlos0/upptime) - 📈 Uptime monitor and status page for Carlos Alexandro Becker, powered by @upptime
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.1), 1 day ago) - Cleans up old and inactive forks on your github account.
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.5](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.5), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.12.1), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 4 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-alpha.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-alpha.1), 1 week ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.8](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.8), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-0.5.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-0.5.8), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.2](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.2), 1 day ago) - Quickly clean up unused forks on your github account.
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 5 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
