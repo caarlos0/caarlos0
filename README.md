@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.8](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.8), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-0.5.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-0.5.8), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.2](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.2), 1 day ago) - Quickly clean up unused forks on your github account.
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.2.3](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.2.3), 5 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.14.0-rc2](https://github.com/wjdp/htmltest/releases/tag/v0.14.0-rc2), 1 day ago) - :white_check_mark: Test generated HTML for problems
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.7.0), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.8](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.8), 2 days ago) - New Relic Client for the Go programming language
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.2](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.2), 2 days ago) - Quickly clean up unused forks on your github account.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
@@ -28,7 +28,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [TJ Holowaychuk](https://github.com/tj) (6 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (8 months ago)
 - [Nadim Kobeissi](https://github.com/kaepora) (8 months ago)
-- [Aleksandr Razumov](https://github.com/ernado) (8 months ago)
+- [Aleksandr Razumov](https://github.com/ernado) (9 months ago)
 
 Many thanks everyone! 🙏
 
