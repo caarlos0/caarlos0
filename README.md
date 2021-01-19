@@ -35,3 +35,5 @@ Many thanks everyone! 🙏
 #### 📚 Some books I'm reading
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
 - [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) - Clóvis de Barros Filho
+
+
