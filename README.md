@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.0.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.0.0), today) - Task Timer (tt) is a dead simple TUI task timer
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.0.0), 1 day ago) - Prometheus community Helm charts
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 1 day ago) - A powerful little TUI framework 🏗
-- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.14.0-rc2](https://github.com/wjdp/htmltest/releases/tag/v0.14.0-rc2), 3 days ago) - :white_check_mark: Test generated HTML for problems
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.8](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.8), 4 days ago) - New Relic Client for the Go programming language
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.1.3](https://github.com/caarlos0/tasktimer/releases/tag/v1.1.3), today) - Task Timer (tt) is a dead simple TUI task timer
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.0.2), 1 day ago) - Prometheus community Helm charts
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 2 days ago) - A powerful little TUI framework 🏗
+- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.14.0-rc2](https://github.com/wjdp/htmltest/releases/tag/v0.14.0-rc2), 4 days ago) - :white_check_mark: Test generated HTML for problems
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.55.8](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.55.8), 5 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
