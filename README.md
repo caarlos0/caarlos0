@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.1.1), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.3.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.3.0), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.5](https://github.com/hashicorp/terraform/releases/tag/v0.14.5), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v2.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v2.3.0), 1 day ago) - my own dotfiles ported to fish
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.1.3](https://github.com/caarlos0/tasktimer/releases/tag/v1.1.3), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.2.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.2.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.2.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.3](https://github.com/goreleaser/nfpm/releases/tag/v2.2.3), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/example](https://github.com/goreleaser/example) ([v1.1.0](https://github.com/goreleaser/example/releases/tag/v1.1.0), 1 day ago) - Example GoReleaser project
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.3.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.3.0), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
@@ -27,7 +27,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Nikita Khomitsevych](https://github.com/hamsternik) (6 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (6 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (8 months ago)
-- [Nadim Kobeissi](https://github.com/kaepora) (8 months ago)
+- [Nadim Kobeissi](https://github.com/kaepora) (9 months ago)
 - [Aleksandr Razumov](https://github.com/ernado) (9 months ago)
 
 Many thanks everyone! 🙏
