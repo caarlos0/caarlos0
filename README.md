@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.2.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.2.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.2.0), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.3](https://github.com/goreleaser/nfpm/releases/tag/v2.2.3), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [goreleaser/example](https://github.com/goreleaser/example) ([v1.1.0](https://github.com/goreleaser/example/releases/tag/v1.1.0), 1 day ago) - Example GoReleaser project
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.3.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.3.0), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.56.2](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.56.2), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-1.7.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.2.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.2.0), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.3](https://github.com/goreleaser/nfpm/releases/tag/v2.2.3), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/example](https://github.com/goreleaser/example) ([v1.1.0](https://github.com/goreleaser/example/releases/tag/v1.1.0), 2 days ago) - Example GoReleaser project
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
