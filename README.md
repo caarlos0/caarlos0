@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.0), today) - Prometheus community Helm charts
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.2.1](https://github.com/caarlos0/svu/releases/tag/v1.2.1), 1 day ago) - Semantic Version Util
-- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.14.0](https://github.com/wjdp/htmltest/releases/tag/v0.14.0), 3 days ago) - :white_check_mark: Test generated HTML for problems
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.56.2](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.56.2), 4 days ago) - New Relic Client for the Go programming language
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.2.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.2.0), 5 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [pascalgn/size-label-action](https://github.com/pascalgn/size-label-action) ([v0.4.2](https://github.com/pascalgn/size-label-action/releases/tag/v0.4.2), 1 day ago) - GitHub action to assign labels based on pull request change sizes
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.2.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.2.2), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.2.1](https://github.com/caarlos0/svu/releases/tag/v1.2.1), 2 days ago) - Semantic Version Util
+- [wjdp/htmltest](https://github.com/wjdp/htmltest) ([v0.14.0](https://github.com/wjdp/htmltest/releases/tag/v0.14.0), 4 days ago) - :white_check_mark: Test generated HTML for problems
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
