@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.4.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.4.0), 1 day ago) - Build Container Images In Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.57.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.57.0), 2 days ago) - New Relic Client for the Go programming language
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.3.1](https://github.com/caarlos0/svu/releases/tag/v1.3.1), 2 days ago) - Semantic Version Util
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.57.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.57.1), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.4.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.3.1](https://github.com/caarlos0/svu/releases/tag/v1.3.1), 3 days ago) - Semantic Version Util
+- [pascalgn/size-label-action](https://github.com/pascalgn/size-label-action) ([v0.4.2](https://github.com/pascalgn/size-label-action/releases/tag/v0.4.2), 4 days ago) - GitHub action to assign labels based on pull request change sizes
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
