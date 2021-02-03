@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.57.2](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.57.2), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.14.1), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.9.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.9.0), 1 day ago) - Exports the expiration time of your domains as prometheus metrics.
-- [caarlos0/env](https://github.com/caarlos0/env) ([v6.5.0](https://github.com/caarlos0/env/releases/tag/v6.5.0), 1 day ago) - Simple lib to parse environment variables to structs
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.11.1), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.57.2](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.57.2), 2 days ago) - New Relic Client for the Go programming language
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.9.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.9.0), 2 days ago) - Exports the expiration time of your domains as prometheus metrics.
+- [caarlos0/env](https://github.com/caarlos0/env) ([v6.5.0](https://github.com/caarlos0/env/releases/tag/v6.5.0), 2 days ago) - Simple lib to parse environment variables to structs
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
