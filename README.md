@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v0.4.0](https://github.com/goreleaser/fileglob/releases/tag/v0.4.0), 1 day ago) - A file globbing library.
-- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.3.1](https://github.com/caarlos0/testfs/releases/tag/v0.3.1), 1 day ago) - A simple `fs.FS` implementation to be used inside tests.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.6.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.3.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.3.0), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.7.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v0.4.0](https://github.com/goreleaser/fileglob/releases/tag/v0.4.0), 2 days ago) - A file globbing library.
+- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.3.1](https://github.com/caarlos0/testfs/releases/tag/v0.3.1), 2 days ago) - A simple `fs.FS` implementation to be used inside tests.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.3.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.3.0), 3 days ago) - Task Timer (tt) is a dead simple TUI task timer
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
@@ -24,11 +24,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (6 months ago)
 
 #### ❤️ Sponsors
+- [Denis Panfilov](https://github.com/flaticols) (1 day ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (6 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (7 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (9 months ago)
 - [Nadim Kobeissi](https://github.com/kaepora) (9 months ago)
-- [Aleksandr Razumov](https://github.com/ernado) (9 months ago)
 
 Many thanks everyone! 🙏
 
