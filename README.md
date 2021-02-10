@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.5.1), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.4.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.4.0), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
-- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.4.0](https://github.com/caarlos0/testfs/releases/tag/v0.4.0), 3 days ago) - A simple `fs.FS` implementation to be used inside tests.
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v0.4.0](https://github.com/goreleaser/fileglob/releases/tag/v0.4.0), 5 days ago) - A file globbing library.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.3.2](https://github.com/caarlos0/svu/releases/tag/v1.3.2), 1 day ago) - Semantic Version Util
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.4.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.4.0), 3 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.4.0](https://github.com/caarlos0/testfs/releases/tag/v0.4.0), 4 days ago) - A simple `fs.FS` implementation to be used inside tests.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Denis Panfilov](https://github.com/flaticols) (4 days ago)
+- [Denis Panfilov](https://github.com/flaticols) (5 days ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (6 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (7 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (9 months ago)
