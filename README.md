@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 1 day ago) - The Charm Tool and Library 🌟
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.4](https://github.com/goreleaser/nfpm/releases/tag/v2.2.4), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.3.2), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210210](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210210), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.3.2](https://github.com/caarlos0/svu/releases/tag/v1.3.2), 2 days ago) - Semantic Version Util
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), today) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 3 days ago) - The Charm Tool and Library 🌟
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.4](https://github.com/goreleaser/nfpm/releases/tag/v2.2.4), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Denis Panfilov](https://github.com/flaticols) (6 days ago)
+- [Denis Panfilov](https://github.com/flaticols) (1 week ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (6 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (7 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (9 months ago)
