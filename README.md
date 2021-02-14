@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), today) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 3 days ago) - The Charm Tool and Library 🌟
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.4](https://github.com/goreleaser/nfpm/releases/tag/v2.2.4), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 2 days ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 4 days ago) - The Charm Tool and Library 🌟
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.4](https://github.com/goreleaser/nfpm/releases/tag/v2.2.4), 4 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
 ### 📄 Latest posts
-- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (1 month ago)
+- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (2 months ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (2 months ago)
