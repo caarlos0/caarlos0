@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), 3 days ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 4 days ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 6 days ago) - The Charm Tool and Library 🌟
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.4](https://github.com/goreleaser/nfpm/releases/tag/v2.2.4), 6 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v2.3.2](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v2.3.2), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.14.1), 1 day ago) - Prometheus community Helm charts
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), 4 days ago) - New Relic Client for the Go programming language
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 1 week ago) - The Charm Tool and Library 🌟
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
@@ -25,7 +25,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 - [Denis Panfilov](https://github.com/flaticols) (1 week ago)
-- [Nikita Khomitsevych](https://github.com/hamsternik) (6 months ago)
+- [Nikita Khomitsevych](https://github.com/hamsternik) (7 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (7 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (9 months ago)
 - [Nadim Kobeissi](https://github.com/kaepora) (9 months ago)
