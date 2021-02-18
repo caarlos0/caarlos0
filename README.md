@@ -10,17 +10,17 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v2.3.2](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v2.3.2), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.14.1), 1 day ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), 4 days ago) - New Relic Client for the Go programming language
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 1 week ago) - The Charm Tool and Library 🌟
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.7](https://github.com/hashicorp/terraform/releases/tag/v0.14.7), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.9.1), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v2.3.2](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v2.3.2), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.0), 5 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (2 months ago)
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (2 months ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (3 months ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (6 months ago)
 
 #### ❤️ Sponsors
