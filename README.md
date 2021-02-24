@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) ([v0.1.0](https://github.com/caarlos0/es-snap-hanging-nodes/releases/tag/v0.1.0), 1 day ago) - Find nodes hanging an ElasticSearch snapshot
-- [totvslabs/elasticsearch-tasks-exporter](https://github.com/totvslabs/elasticsearch-tasks-exporter) ([v0.1.1](https://github.com/totvslabs/elasticsearch-tasks-exporter/releases/tag/v0.1.1), 1 day ago) - Exports ElasticSearch pending task metrics in the Prometheus format.
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v3.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v3.0.0), 2 days ago) - my own dotfiles ported to fish
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.12.1), 3 days ago) - Prometheus community Helm charts
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.3](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.3), 4 days ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.3.0), 1 day ago) - Prometheus community Helm charts
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.5.1](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.5.1), 1 day ago) - Build Container Images In Kubernetes
+- [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) ([v0.1.0](https://github.com/caarlos0/es-snap-hanging-nodes/releases/tag/v0.1.0), 2 days ago) - Find nodes hanging an ElasticSearch snapshot
+- [totvslabs/elasticsearch-tasks-exporter](https://github.com/totvslabs/elasticsearch-tasks-exporter) ([v0.1.1](https://github.com/totvslabs/elasticsearch-tasks-exporter/releases/tag/v0.1.1), 2 days ago) - Exports ElasticSearch pending task metrics in the Prometheus format.
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v3.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v3.0.0), 3 days ago) - my own dotfiles ported to fish
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
