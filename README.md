@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.2](https://github.com/ahmetb/kubectx/releases/tag/v0.9.2), 2 days ago) - Faster way to switch between clusters and namespaces in kubectl
-- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.4.4](https://github.com/caarlos0/testfs/releases/tag/v0.4.4), 2 days ago) - A simple fs.FS implementation to be used inside tests.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.3.0), 3 days ago) - Prometheus community Helm charts
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.5.1](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.5.1), 3 days ago) - Build Container Images In Kubernetes
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.5](https://github.com/goreleaser/nfpm/releases/tag/v2.2.5), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.3](https://github.com/ahmetb/kubectx/releases/tag/v0.9.3), 1 day ago) - Faster way to switch between clusters and namespaces in kubectl
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [caarlos0/testfs](https://github.com/caarlos0/testfs) ([v0.4.4](https://github.com/caarlos0/testfs/releases/tag/v0.4.4), 3 days ago) - A simple fs.FS implementation to be used inside tests.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.3.0), 4 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
