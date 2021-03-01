@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.4.0), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v1.0.1](https://github.com/goreleaser/fileglob/releases/tag/v1.0.1), 1 day ago) - A file globbing library.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.5](https://github.com/goreleaser/nfpm/releases/tag/v2.2.5), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.3](https://github.com/ahmetb/kubectx/releases/tag/v0.9.3), 2 days ago) - Faster way to switch between clusters and namespaces in kubectl
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v1.1.1](https://github.com/goreleaser/fileglob/releases/tag/v1.1.1), 1 day ago) - A file globbing library.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.4.0), 2 days ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.5](https://github.com/goreleaser/nfpm/releases/tag/v2.2.5), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.3](https://github.com/ahmetb/kubectx/releases/tag/v0.9.3), 3 days ago) - Faster way to switch between clusters and namespaces in kubectl
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
@@ -33,6 +33,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- [Unfuck Your Brain: Using Science to Get Over Anxiety, Depression, Anger, Freak-Outs, and Triggers](https://www.goodreads.com/book/show/34885438-unfuck-your-brain) - Faith G. Harper
 - [Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics) - Eric Voskuil
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
 - [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) - Clóvis de Barros Filho
