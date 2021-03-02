@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob) ([v1.1.1](https://github.com/goreleaser/fileglob/releases/tag/v1.1.1), 1 day ago) - A file globbing library.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.4.0), 2 days ago) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.2.5](https://github.com/goreleaser/nfpm/releases/tag/v2.2.5), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.3](https://github.com/ahmetb/kubectx/releases/tag/v0.9.3), 3 days ago) - Faster way to switch between clusters and namespaces in kubectl
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 1 day ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.13.1), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.3.1](https://github.com/goreleaser/nfpm/releases/tag/v2.3.1), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.0](https://github.com/fish-shell/fish-shell/releases/tag/3.2.0), 1 day ago) - The user-friendly command line shell.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
