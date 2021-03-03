@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 1 day ago) - A powerful little TUI framework 🏗
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.13.1), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.3.1](https://github.com/goreleaser/nfpm/releases/tag/v2.3.1), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.0](https://github.com/fish-shell/fish-shell/releases/tag/3.2.0), 1 day ago) - The user-friendly command line shell.
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.4.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.4.0), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 2 days ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.13.1), 2 days ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.3.1](https://github.com/goreleaser/nfpm/releases/tag/v2.3.1), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
