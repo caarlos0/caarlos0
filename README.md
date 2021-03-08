@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.6.0), 2 days ago) - Prometheus community Helm charts
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.10.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.10.0), 4 days ago) - Exports the expiration time of your domains as prometheus metrics.
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.4.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.4.0), 5 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 6 days ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.5.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.10.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.10.0), 5 days ago) - Exports the expiration time of your domains as prometheus metrics.
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.4.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.4.0), 6 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 1 week ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
