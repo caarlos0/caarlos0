@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.0.1), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.8](https://github.com/hashicorp/terraform/releases/tag/v0.14.8), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.10.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.10.0), 1 week ago) - Exports the expiration time of your domains as prometheus metrics.
 - [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.4.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.4.0), 1 week ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 1 week ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (2 months ago)
