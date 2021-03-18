@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 4 days ago) - A powerful little TUI framework 🏗
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 5 days ago) - A powerful little TUI framework 🏗
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.1), 1 week ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.8](https://github.com/hashicorp/terraform/releases/tag/v0.14.8), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
