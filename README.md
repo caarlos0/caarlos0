@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 5 days ago) - A powerful little TUI framework 🏗
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.1), 1 week ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.16.2), 1 day ago) - Prometheus community Helm charts
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.1](https://github.com/fish-shell/fish-shell/releases/tag/3.2.1), 1 day ago) - The user-friendly command line shell.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 6 days ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
@@ -25,7 +25,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 - [Denis Panfilov](https://github.com/flaticols) (1 month ago)
-- [Nikita Khomitsevych](https://github.com/hamsternik) (7 months ago)
+- [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (8 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (10 months ago)
 - [Nadim Kobeissi](https://github.com/nadimkobeissi) (10 months ago)
