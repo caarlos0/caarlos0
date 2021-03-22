@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.1](https://github.com/fish-shell/fish-shell/releases/tag/3.2.1), 3 days ago) - The user-friendly command line shell.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 2 days ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.1](https://github.com/fish-shell/fish-shell/releases/tag/3.2.1), 4 days ago) - The user-friendly command line shell.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ### 📄 Latest posts
