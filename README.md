@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 2 days ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.1](https://github.com/fish-shell/fish-shell/releases/tag/3.2.1), 4 days ago) - The user-friendly command line shell.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.3](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.3), 1 day ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 3 days ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.1](https://github.com/fish-shell/fish-shell/releases/tag/3.2.1), 5 days ago) - The user-friendly command line shell.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
@@ -28,7 +28,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (8 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (10 months ago)
-- [Nadim Kobeissi](https://github.com/nadimkobeissi) (10 months ago)
+- [Nadim Kobeissi](https://github.com/nadimkobeissi) (11 months ago)
 
 Many thanks everyone! 🙏
 
