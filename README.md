@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-beta.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-beta.1), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.3](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.3), 3 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 5 days ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-beta.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-beta.1), 3 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.3](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.3), 4 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 6 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
@@ -24,11 +24,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (7 months ago)
 
 #### ❤️ Sponsors
+- [Miguel Mota](https://github.com/miguelmota) (1 day ago)
 - [Denis Panfilov](https://github.com/flaticols) (1 month ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (8 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (10 months ago)
-- [Nadim Kobeissi](https://github.com/nadimkobeissi) (11 months ago)
 
 Many thanks everyone! 🙏
 
