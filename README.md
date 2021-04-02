@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy) ([v0.0.2](https://github.com/goreleaser/example-mod-proxy/releases/tag/v0.0.2), 1 day ago) - Example of project using @goreleaser&#39;s gomod.proxy feature.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.5.2](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.5.2), 1 day ago) - Build Container Images In Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.0), 3 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy) ([v0.0.2](https://github.com/goreleaser/example-mod-proxy/releases/tag/v0.0.2), 2 days ago) - Example of project using @goreleaser&#39;s gomod.proxy feature.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.5.2](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.5.2), 2 days ago) - Build Container Images In Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.0), 4 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
