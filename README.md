@@ -3,18 +3,18 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/home](https://github.com/caarlos0/home) - my home k3s cluster
 - [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) - Find nodes hanging an ElasticSearch snapshot
 - [caarlos0/apkcat](https://github.com/caarlos0/apkcat) - Simple tool to debug apk packages
-- [caarlos0/testfs](https://github.com/caarlos0/testfs) - A simple fs.FS implementation to be used inside tests.
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy) ([v0.0.2](https://github.com/goreleaser/example-mod-proxy/releases/tag/v0.0.2), 4 days ago) - Example of project using @goreleaser&#39;s gomod.proxy feature.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.6.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.6.0), 1 day ago) - Exports GitHub release metrics to the Prometheus format
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 3 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy) ([v0.0.2](https://github.com/goreleaser/example-mod-proxy/releases/tag/v0.0.2), 5 days ago) - Example of project using @goreleaser&#39;s gomod.proxy feature.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
@@ -28,7 +28,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Denis Panfilov](https://github.com/flaticols) (1 month ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (9 months ago)
-- [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (10 months ago)
+- [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (11 months ago)
 
 Many thanks everyone! 🙏
 
