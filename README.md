@@ -3,29 +3,29 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter)
 - [caarlos0/home](https://github.com/caarlos0/home) - my home k3s cluster
 - [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) - Find nodes hanging an ElasticSearch snapshot
-- [caarlos0/apkcat](https://github.com/caarlos0/apkcat) - Simple tool to debug apk packages
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.6.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.6.0), 1 day ago) - Exports GitHub release metrics to the Prometheus format
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 3 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy) ([v0.0.2](https://github.com/goreleaser/example-mod-proxy/releases/tag/v0.0.2), 5 days ago) - Example of project using @goreleaser&#39;s gomod.proxy feature.
+- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.1.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.1.0), 1 day ago)
+- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.6.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.6.0), 2 days ago) - Exports GitHub release metrics to the Prometheus format
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 3 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 4 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
-- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (3 months ago)
+- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (4 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (4 months ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (4 months ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (8 months ago)
 
 #### ❤️ Sponsors
 - [Miguel Mota](https://github.com/miguelmota) (1 week ago)
-- [Denis Panfilov](https://github.com/flaticols) (1 month ago)
+- [Denis Panfilov](https://github.com/flaticols) (2 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (9 months ago)
 - [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (11 months ago)
