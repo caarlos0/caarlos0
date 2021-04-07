@@ -3,18 +3,18 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter)
+- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) - Exports speedtest-cli metrics in the prometheus format
 - [caarlos0/home](https://github.com/caarlos0/home) - my home k3s cluster
 - [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) - Find nodes hanging an ElasticSearch snapshot
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.1.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.1.0), 1 day ago)
-- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.6.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.6.0), 2 days ago) - Exports GitHub release metrics to the Prometheus format
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 3 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 4 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.0.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.3.1](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.3.1), 1 day ago) - Exports speedtest-cli metrics in the prometheus format
+- [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) ([v1.6.0](https://github.com/caarlos0/github_releases_exporter/releases/tag/v1.6.0), 3 days ago) - Exports GitHub release metrics to the Prometheus format
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.1](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.1), 4 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
