@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.10.4), today) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.10](https://github.com/hashicorp/terraform/releases/tag/v0.14.10), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.5.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.5.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.2.2](https://github.com/fish-shell/fish-shell/releases/tag/3.2.2), 1 day ago) - The user-friendly command line shell.
-- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.3.1](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.3.1), 2 days ago) - Exports speedtest-cli metrics in the prometheus format
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-rc.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-rc.0), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.6.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.6.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), 1 day ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.10.4), 1 day ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
