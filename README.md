@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-rc.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-rc.0), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.6.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.6.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), 1 day ago) - A powerful little TUI framework 🏗
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.10.4), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.6.2), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-rc.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-rc.0), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.6.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.6.0), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), 2 days ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
