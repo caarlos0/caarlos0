@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.0), today) - Task Timer (tt) is a dead simple TUI task timer
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.8.0), 2 days ago) - Prometheus community Helm charts
 - [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v4.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.0.0), 2 days ago) - my own dotfiles ported to fish
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-rc.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-rc.0), 6 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.6.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.6.0), 6 days ago) - Task Timer (tt) is a dead simple TUI task timer
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (3 months ago)
