@@ -3,32 +3,32 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/adguard-filters](https://github.com/caarlos0/adguard-filters) - Personal adguard/pihole blocklist
 - [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) - Exports speedtest-cli metrics in the prometheus format
 - [caarlos0/home](https://github.com/caarlos0/home) - my home k3s cluster
-- [caarlos0/es-snap-hanging-nodes](https://github.com/caarlos0/es-snap-hanging-nodes) - Find nodes hanging an ElasticSearch snapshot
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.9.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0](https://github.com/hashicorp/terraform/releases/tag/v0.15.0), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) ([v4.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.0.0), 3 days ago) - my own dotfiles ported to fish
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0-rc.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0-rc.0), 1 week ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.1.0), today) - Prometheus community Helm charts
+- [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.3.0](https://github.com/caarlos0/clone-org/releases/tag/v1.3.0), today) - Clone all repos of a github organization
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.3](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.3), today) - Quickly clean up unused forks on your github account.
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.11.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.11.0), today) - Exports the expiration time of your domains as prometheus metrics.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (4 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (4 months ago)
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (4 months ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (5 months ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (8 months ago)
 
 #### ❤️ Sponsors
+- [Raphaël](https://github.com/sundowndev) (today)
 - [Miguel Mota](https://github.com/miguelmota) (3 weeks ago)
 - [Denis Panfilov](https://github.com/flaticols) (2 months ago)
-- [Nikita Khomitsevych](https://github.com/hamsternik) (8 months ago)
+- [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (9 months ago)
-- [Bradford Lamson-Scribner](https://github.com/bradford-hamilton) (11 months ago)
 
 Many thanks everyone! 🙏
 
