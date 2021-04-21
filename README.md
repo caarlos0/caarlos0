@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.1.0), today) - Prometheus community Helm charts
-- [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.3.0](https://github.com/caarlos0/clone-org/releases/tag/v1.3.0), today) - Clone all repos of a github organization
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.3](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.3), today) - Quickly clean up unused forks on your github account.
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.11.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.11.0), today) - Exports the expiration time of your domains as prometheus metrics.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.1.1), today) - Prometheus community Helm charts
+- [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.3.0](https://github.com/caarlos0/clone-org/releases/tag/v1.3.0), 1 day ago) - Clone all repos of a github organization
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.3](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.3), 1 day ago) - Quickly clean up unused forks on your github account.
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.11.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.11.0), 1 day ago) - Exports the expiration time of your domains as prometheus metrics.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (8 months ago)
 
 #### ❤️ Sponsors
-- [Raphaël](https://github.com/sundowndev) (today)
+- [Raphaël](https://github.com/sundowndev) (1 day ago)
 - [Miguel Mota](https://github.com/miguelmota) (3 weeks ago)
 - [Denis Panfilov](https://github.com/flaticols) (2 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
