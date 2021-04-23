@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.2), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.4](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.4), 2 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
 - [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.3.0](https://github.com/caarlos0/clone-org/releases/tag/v1.3.0), 3 days ago) - Clone all repos of a github organization
