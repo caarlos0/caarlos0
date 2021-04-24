@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.2), today) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.4](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.4), 2 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
-- [caarlos0/clone-org](https://github.com/caarlos0/clone-org) ([v1.3.0](https://github.com/caarlos0/clone-org/releases/tag/v1.3.0), 3 days ago) - Clone all repos of a github organization
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) ([v2.0.3](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.0.3), 3 days ago) - Quickly clean up unused forks on your github account.
+- [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 1 day ago) - A task runner / simpler Make alternative written in Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.3), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.0](https://github.com/goreleaser/nfpm/releases/tag/v2.5.0), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.4](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.4), 3 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
@@ -24,8 +24,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (8 months ago)
 
 #### ❤️ Sponsors
-- [Raphaël](https://github.com/sundowndev) (3 days ago)
-- [Miguel Mota](https://github.com/miguelmota) (4 weeks ago)
+- [Raphaël](https://github.com/sundowndev) (4 days ago)
+- [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (2 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (9 months ago)
