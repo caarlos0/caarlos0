@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.1), today) - Prometheus community Helm charts
 - [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 2 days ago) - Go library for accessing the GitHub API
 - [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 3 days ago) - A task runner / simpler Make alternative written in Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.3), 3 days ago) - Prometheus community Helm charts
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.0](https://github.com/goreleaser/nfpm/releases/tag/v2.5.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
