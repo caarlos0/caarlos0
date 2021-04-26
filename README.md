@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 1 day ago) - Go library for accessing the GitHub API
-- [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 2 days ago) - A task runner / simpler Make alternative written in Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.3), 2 days ago) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.0](https://github.com/goreleaser/nfpm/releases/tag/v2.5.0), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 2 days ago) - Go library for accessing the GitHub API
+- [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 3 days ago) - A task runner / simpler Make alternative written in Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.3), 3 days ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.0](https://github.com/goreleaser/nfpm/releases/tag/v2.5.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (4 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (4 months ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (5 months ago)
-- [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (8 months ago)
+- [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Raphaël](https://github.com/sundowndev) (5 days ago)
+- [Raphaël](https://github.com/sundowndev) (6 days ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (2 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
