@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.12.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.11.15](https://github.com/hashicorp/terraform/releases/tag/v0.11.15), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.6.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.6.0), 1 day ago) - Build Container Images In Kubernetes
 - [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 3 days ago) - Go library for accessing the GitHub API
