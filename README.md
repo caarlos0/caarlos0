@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.1), today) - Prometheus community Helm charts
-- [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 2 days ago) - Go library for accessing the GitHub API
-- [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 3 days ago) - A task runner / simpler Make alternative written in Go
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.0](https://github.com/goreleaser/nfpm/releases/tag/v2.5.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.12.2), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.11.15](https://github.com/hashicorp/terraform/releases/tag/v0.11.15), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.6.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.6.0), 1 day ago) - Build Container Images In Kubernetes
+- [google/go-github](https://github.com/google/go-github) ([v35.1.0](https://github.com/google/go-github/releases/tag/v35.1.0), 3 days ago) - Go library for accessing the GitHub API
+- [go-task/task](https://github.com/go-task/task) ([v3.4.2](https://github.com/go-task/task/releases/tag/v3.4.2), 4 days ago) - A task runner / simpler Make alternative written in Go
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Raphaël](https://github.com/sundowndev) (6 days ago)
+- [Raphaël](https://github.com/sundowndev) (1 week ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (2 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
