@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), 1 day ago) - Prometheus community Helm charts
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.5](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.5), 3 days ago) - New Relic Client for the Go programming language
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.11.15](https://github.com/hashicorp/terraform/releases/tag/v0.11.15), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.6.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.6.0), 4 days ago) - Build Container Images In Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), 2 days ago) - Prometheus community Helm charts
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 3 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.5](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.5), 4 days ago) - New Relic Client for the Go programming language
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.11.15](https://github.com/hashicorp/terraform/releases/tag/v0.11.15), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ([v1.6.0](https://github.com/GoogleContainerTools/kaniko/releases/tag/v1.6.0), 5 days ago) - Build Container Images In Kubernetes
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
