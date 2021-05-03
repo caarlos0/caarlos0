@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.15.0), today) - Prometheus community Helm charts
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), today) - Task Timer (tt) is a dead simple TUI task timer
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 1 day ago) - The world’s fastest framework for building websites.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), 4 days ago) - Prometheus community Helm charts
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 5 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.58.5](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.58.5), 6 days ago) - New Relic Client for the Go programming language
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.11.15](https://github.com/hashicorp/terraform/releases/tag/v0.11.15), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
