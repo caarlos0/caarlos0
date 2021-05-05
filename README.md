@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.2), today) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 2 days ago) - The world’s fastest framework for building websites.
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 6 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.4), today) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 3 days ago) - The world’s fastest framework for building websites.
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 1 week ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
