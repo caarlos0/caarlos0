@@ -10,15 +10,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.10.0), today) - Prometheus community Helm charts
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 2 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 3 days ago) - The world’s fastest framework for building websites.
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.0.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.0.0), 1 week ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.2](https://github.com/hashicorp/terraform/releases/tag/v0.15.2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.10.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), 3 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 4 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
-- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (4 months ago)
+- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (5 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (5 months ago)
 - [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (5 months ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Raphaël](https://github.com/sundowndev) (2 weeks ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
-- [Denis Panfilov](https://github.com/flaticols) (2 months ago)
+- [Denis Panfilov](https://github.com/flaticols) (3 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
 - [TJ Holowaychuk](https://github.com/tj) (10 months ago)
 
