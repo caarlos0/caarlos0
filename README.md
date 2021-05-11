@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.0.2), 3 days ago) - Prometheus community Helm charts
-- [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 4 days ago) - Go library for accessing the GitHub API
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 1 day ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.12.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.12.3), 1 day ago) - Prometheus community Helm charts
+- [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 5 days ago) - Go library for accessing the GitHub API
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.1), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Raphaël](https://github.com/sundowndev) (2 weeks ago)
+- [Raphaël](https://github.com/sundowndev) (3 weeks ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (3 months ago)
 - [Nikita Khomitsevych](https://github.com/hamsternik) (9 months ago)
