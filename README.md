@@ -3,17 +3,17 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/flink-async-http-example](https://github.com/caarlos0/flink-async-http-example)
 - [caarlos0/dracula-fzf](https://github.com/caarlos0/dracula-fzf) - Dracula Theme for FZF
 - [caarlos0/adguard-filters](https://github.com/caarlos0/adguard-filters) - Personal adguard/pihole blocklist
-- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) - Exports speedtest-cli metrics in the prometheus format
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 1 day ago) - A powerful little TUI framework 🏗
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.12.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.12.3), 1 day ago) - Prometheus community Helm charts
-- [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 5 days ago) - Go library for accessing the GitHub API
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.3.1), 1 day ago) - Prometheus community Helm charts
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 2 days ago) - A powerful little TUI framework 🏗
+- [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 6 days ago) - Go library for accessing the GitHub API
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
 ### 📄 Latest posts
