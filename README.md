@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.6), 1 day ago) - Prometheus community Helm charts
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 3 days ago) - A powerful little TUI framework 🏗
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.0), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.6), 2 days ago) - Prometheus community Helm charts
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 4 days ago) - A powerful little TUI framework 🏗
 - [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 1 week ago) - Go library for accessing the GitHub API
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.5.1](https://github.com/goreleaser/nfpm/releases/tag/v2.5.1), 1 week ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (4 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Dmitry Burov](https://github.com/dmitryburov) (1 day ago)
+- [Dmitry Burov](https://github.com/dmitryburov) (2 days ago)
 - [Raphaël](https://github.com/sundowndev) (3 weeks ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (3 months ago)
