@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), today) - A powerful little TUI framework 🏗
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.0), 2 days ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.6), 3 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.0.0), 1 day ago) - Prometheus community Helm charts
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 1 day ago) - A powerful little TUI framework 🏗
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.0), 3 days ago) - New Relic Client for the Go programming language
 - [google/go-github](https://github.com/google/go-github) ([v35.2.0](https://github.com/google/go-github/releases/tag/v35.2.0), 1 week ago) - Go library for accessing the GitHub API
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.3](https://github.com/hashicorp/terraform/releases/tag/v0.15.3), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Dmitry Burov](https://github.com/dmitryburov) (3 days ago)
+- [Dmitry Burov](https://github.com/dmitryburov) (4 days ago)
 - [Raphaël](https://github.com/sundowndev) (3 weeks ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (3 months ago)
