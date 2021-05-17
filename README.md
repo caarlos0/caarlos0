@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), today)
 - [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 1 day ago) - Simple lib to parse environment variables to structs
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 1 day ago) - Semantic Version Util
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.0.0), 2 days ago) - Prometheus community Helm charts
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 2 days ago) - A powerful little TUI framework 🏗
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.0), 4 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
