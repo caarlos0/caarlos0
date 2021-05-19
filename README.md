@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.0), today) - Prometheus community Helm charts
-- [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 1 day ago)
-- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 2 days ago) - Simple lib to parse environment variables to structs
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 2 days ago) - Semantic Version Util
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 3 days ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 2 days ago)
+- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 3 days ago) - Simple lib to parse environment variables to structs
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 3 days ago) - Semantic Version Util
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 4 days ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (5 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (5 months ago)
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (5 months ago)
+- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (6 months ago)
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Sudhir Jonathan](https://github.com/sudhirj) (today)
-- [Dmitry Burov](https://github.com/dmitryburov) (6 days ago)
+- [Sudhir Jonathan](https://github.com/sudhirj) (1 day ago)
+- [Dmitry Burov](https://github.com/dmitryburov) (1 week ago)
 - [Raphaël](https://github.com/sundowndev) (4 weeks ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (3 months ago)
