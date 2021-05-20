@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.12.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.0), 2 days ago) - Prometheus community Helm charts
 - [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 3 days ago)
 - [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 4 days ago) - Simple lib to parse environment variables to structs
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 4 days ago) - Semantic Version Util
