@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.0), 1 day ago) - Prometheus community Helm charts
-- [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 2 days ago)
-- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 3 days ago) - Simple lib to parse environment variables to structs
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 3 days ago) - Semantic Version Util
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 4 days ago) - A powerful little TUI framework 🏗
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.0), 2 days ago) - Prometheus community Helm charts
+- [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 3 days ago)
+- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 4 days ago) - Simple lib to parse environment variables to structs
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 4 days ago) - Semantic Version Util
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
@@ -24,17 +24,17 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Sudhir Jonathan](https://github.com/sudhirj) (1 day ago)
+- [Sudhir Jonathan](https://github.com/sudhirj) (2 days ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (1 week ago)
-- [Raphaël](https://github.com/sundowndev) (4 weeks ago)
+- [Raphaël](https://github.com/sundowndev) (1 month ago)
 - [Miguel Mota](https://github.com/miguelmota) (1 month ago)
 - [Denis Panfilov](https://github.com/flaticols) (3 months ago)
 
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- [As a Man Thinketh](https://www.goodreads.com/book/show/25744249-as-a-man-thinketh) - James Allen
 - [O que o governo fez com o nosso dinheiro?](https://www.goodreads.com/book/show/25266290-o-que-o-governo-fez-com-o-nosso-dinheiro) - Murray N. Rothbard
 - [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know) - Emily Freeman
-- [Unfuck Your Brain: Using Science to Get Over Anxiety, Depression, Anger, Freak-Outs, and Triggers](https://www.goodreads.com/book/show/34885438-unfuck-your-brain) - Faith G. Harper
 - [Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics) - Eric Voskuil
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
