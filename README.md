@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.1.0), today) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), today) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 4 days ago)
 - [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 5 days ago) - Simple lib to parse environment variables to structs
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.0](https://github.com/caarlos0/svu/releases/tag/v1.4.0), 5 days ago) - Semantic Version Util
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
