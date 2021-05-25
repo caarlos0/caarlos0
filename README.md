@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 3 days ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.1), 1 day ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 4 days ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [caarlos0-graveyard/monorepo](https://github.com/caarlos0-graveyard/monorepo) ([foo/v1.3.1](https://github.com/caarlos0-graveyard/monorepo/releases/tag/foo%2Fv1.3.1), 1 week ago)
-- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.0](https://github.com/caarlos0/env/releases/tag/v6.6.0), 1 week ago) - Simple lib to parse environment variables to structs
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (9 months ago)
 
 #### ❤️ Sponsors
-- [Sudhir Jonathan](https://github.com/sudhirj) (6 days ago)
+- [Sudhir Jonathan](https://github.com/sudhirj) (1 week ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (1 week ago)
 - [Raphaël](https://github.com/sundowndev) (1 month ago)
 - [Miguel Mota](https://github.com/miguelmota) (2 months ago)
