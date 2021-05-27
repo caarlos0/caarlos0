@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.13.0), 1 day ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v25.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v25.0.0), 1 day ago)
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.1), 2 days ago) - New Relic Client for the Go programming language
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.4](https://github.com/hashicorp/terraform/releases/tag/v0.15.4), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.166.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.166.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.13.0), 2 days ago) - Prometheus community Helm charts
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v25.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v25.0.0), 2 days ago)
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.1](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.1), 3 days ago) - New Relic Client for the Go programming language
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
