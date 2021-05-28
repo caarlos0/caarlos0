@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), today) - :octocat: GitHub Action for GoReleaser
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.166.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.166.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.13.0), 2 days ago) - Prometheus community Helm charts
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v25.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v25.0.0), 2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.1.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.166.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.166.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v25.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v25.0.0), 3 days ago)
 
 ### 📄 Latest posts
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
