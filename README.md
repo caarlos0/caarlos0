@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-1.8.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-1.8.3), today) - Prometheus community Helm charts
 - [pascalgn/size-label-action](https://github.com/pascalgn/size-label-action) ([v0.4.3](https://github.com/pascalgn/size-label-action/releases/tag/v0.4.3), 1 day ago) - GitHub action to assign labels based on pull request change sizes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.1.1), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.166.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.166.1-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
