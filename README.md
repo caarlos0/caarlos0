@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.1), today) - Prometheus community Helm charts
+- [go-task/task](https://github.com/go-task/task) ([v3.4.3](https://github.com/go-task/task/releases/tag/v3.4.3), today) - A task runner / simpler Make alternative written in Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.167.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.167.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.1](https://github.com/caarlos0/svu/releases/tag/v1.4.1), 1 day ago) - Semantic Version Util
-- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.2](https://github.com/caarlos0/env/releases/tag/v6.6.2), 1 day ago) - Simple lib to parse environment variables to structs
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.1.2), 1 day ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 day ago)
