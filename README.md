@@ -3,32 +3,32 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/.goreleaserfiles](https://github.com/caarlos0/.goreleaserfiles) - my .goreleaser.yml files
 - [caarlos0/flink-async-http-example](https://github.com/caarlos0/flink-async-http-example) - Example usage of Flink&#39;s RichAsyncFunction to do HTTP requests.
-- [caarlos0/dracula-fzf](https://github.com/caarlos0/dracula-fzf) - Dracula Theme for FZF
 - [caarlos0/adguard-filters](https://github.com/caarlos0/adguard-filters) - Personal adguard/pihole blocklist
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.3.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.3.4), today) - Prometheus community Helm charts
-- [pascalgn/size-label-action](https://github.com/pascalgn/size-label-action) ([v0.4.3](https://github.com/pascalgn/size-label-action/releases/tag/v0.4.3), 2 days ago) - GitHub action to assign labels based on pull request change sizes
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.166.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.166.1-pro), 3 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 3 days ago) - :octocat: GitHub Action for GoReleaser
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.167.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.167.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.4.1](https://github.com/caarlos0/svu/releases/tag/v1.4.1), 1 day ago) - Semantic Version Util
+- [caarlos0/env](https://github.com/caarlos0/env) ([v6.6.2](https://github.com/caarlos0/env/releases/tag/v6.6.2), 1 day ago) - Simple lib to parse environment variables to structs
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.1.2), 1 day ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 day ago)
+- [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (4 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (5 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
-- [Making Python respect Docker memory limits](https://carlosbecker.com/posts/python-docker-limits/) (6 months ago)
-- [Kubernetes pod shutdown lifecycle](https://carlosbecker.com/posts/k8s-pod-shutdown-lifecycle/) (10 months ago)
 
 #### ❤️ Sponsors
-- [Nicolas M.](https://github.com/penguwin) (2 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (1 day ago)
+- [Jim Fisk](https://github.com/jimafisk) (1 day ago)
+- [Nicolas M.](https://github.com/penguwin) (3 days ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (1 week ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (2 weeks ago)
-- [Raphaël](https://github.com/sundowndev) (1 month ago)
-- [Miguel Mota](https://github.com/miguelmota) (2 months ago)
 
 Many thanks everyone! 🙏
 
