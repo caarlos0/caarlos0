@@ -10,25 +10,25 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), today) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.2](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.2), today) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.168.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.168.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.1), 1 day ago) - Prometheus community Helm charts
-- [go-task/task](https://github.com/go-task/task) ([v3.4.3](https://github.com/go-task/task/releases/tag/v3.4.3), 1 day ago) - A task runner / simpler Make alternative written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.2](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.2), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.168.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.168.0-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.1), 2 days ago) - Prometheus community Helm charts
+- [go-task/task](https://github.com/go-task/task) ([v3.4.3](https://github.com/go-task/task/releases/tag/v3.4.3), 2 days ago) - A task runner / simpler Make alternative written in Go
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 days ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 days ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (4 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (5 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Francis Lavoie](https://github.com/francislavoie) (2 days ago)
-- [Jim Fisk](https://github.com/jimafisk) (2 days ago)
-- [Nicolas M.](https://github.com/penguwin) (4 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (3 days ago)
+- [Jim Fisk](https://github.com/jimafisk) (3 days ago)
+- [Nicolas M.](https://github.com/penguwin) (5 days ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (2 weeks ago)
-- [Dmitry Burov](https://github.com/dmitryburov) (2 weeks ago)
+- [Dmitry Burov](https://github.com/dmitryburov) (3 weeks ago)
 
 Many thanks everyone! 🙏
 
