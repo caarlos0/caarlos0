@@ -10,23 +10,23 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.11.0), today) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.2](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.2), 1 day ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.168.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.168.0-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [go-task/task](https://github.com/go-task/task) ([v3.4.3](https://github.com/go-task/task/releases/tag/v3.4.3), 2 days ago) - A task runner / simpler Make alternative written in Go
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 1 day ago) - A powerful little TUI framework 🏗
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.5](https://github.com/hashicorp/terraform/releases/tag/v0.15.5), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.11.0), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/twitter-cleaner](https://github.com/caarlos0/twitter-cleaner) ([v0.5.2](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.5.2), 2 days ago) - Automatically delete tweets, retweets, and favorites from your timeline, and, if provided, from your twitter archive as well.
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 days ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (4 days ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (4 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (5 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Francis Lavoie](https://github.com/francislavoie) (3 days ago)
-- [Jim Fisk](https://github.com/jimafisk) (3 days ago)
-- [Nicolas M.](https://github.com/penguwin) (5 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (4 days ago)
+- [Jim Fisk](https://github.com/jimafisk) (4 days ago)
+- [Nicolas M.](https://github.com/penguwin) (6 days ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (2 weeks ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (3 weeks ago)
 
