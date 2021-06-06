@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), today) - Task Timer (tt) is a dead simple TUI task timer
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.169.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.169.0-pro), today) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), today) - Deliver Go binaries as fast and easily as possible
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.1), 2 days ago) - Prometheus community Helm charts
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 3 days ago) - A powerful little TUI framework 🏗
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.2.0), 1 day ago) - Prometheus community Helm charts
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.169.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.169.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 4 days ago) - A powerful little TUI framework 🏗
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (6 days ago)
-- [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (4 months ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 week ago)
+- [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Francis Lavoie](https://github.com/francislavoie) (6 days ago)
-- [Jim Fisk](https://github.com/jimafisk) (6 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (1 week ago)
+- [Jim Fisk](https://github.com/jimafisk) (1 week ago)
 - [Nicolas M.](https://github.com/penguwin) (1 week ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (2 weeks ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (3 weeks ago)
