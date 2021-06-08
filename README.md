@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.2.0), 1 day ago) - Prometheus community Helm charts
-- [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 day ago) - Go library for accessing the GitHub API
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.169.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.169.0-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.14.0), 1 day ago) - Prometheus community Helm charts
+- [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 2 days ago) - Go library for accessing the GitHub API
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), 3 days ago) - Task Timer (tt) is a dead simple TUI task timer
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.169.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.169.0-pro), 3 days ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 week ago)
@@ -27,7 +27,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Francis Lavoie](https://github.com/francislavoie) (1 week ago)
 - [Jim Fisk](https://github.com/jimafisk) (1 week ago)
 - [Nicolas M.](https://github.com/penguwin) (1 week ago)
-- [Sudhir Jonathan](https://github.com/sudhirj) (2 weeks ago)
+- [Sudhir Jonathan](https://github.com/sudhirj) (3 weeks ago)
 - [Dmitry Burov](https://github.com/dmitryburov) (3 weeks ago)
 
 Many thanks everyone! 🙏
