@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.6.3), today) - Prometheus community Helm charts
 - [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.59.4](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.59.4), 1 day ago) - New Relic Client for the Go programming language
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 1 day ago) - Elasticsearch stats exporter for Prometheus
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.6.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 5 days ago) - Go library for accessing the GitHub API
 
