@@ -28,12 +28,12 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Jim Fisk](https://github.com/jimafisk) (1 week ago)
 - [Nicolas M.](https://github.com/penguwin) (2 weeks ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (3 weeks ago)
-- [Dmitry Burov](https://github.com/dmitryburov) (1 month ago)
+- [Raphaël](https://github.com/sundowndev) (1 month ago)
 
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [O que o governo fez com o nosso dinheiro?](https://www.goodreads.com/book/show/25266290-o-que-o-governo-fez-com-o-nosso-dinheiro) - Murray N. Rothbard
+- [Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher) - Milton Friedman
 - [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know) - Emily Freeman
 - [Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics) - Eric Voskuil
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
