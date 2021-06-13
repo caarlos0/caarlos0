@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.60.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.60.0), 1 day ago) - New Relic Client for the Go programming language
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.7.0), 1 day ago) - Prometheus community Helm charts
-- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 2 days ago) - Elasticsearch stats exporter for Prometheus
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 6 days ago) - Go library for accessing the GitHub API
+- [newrelic/newrelic-client-go](https://github.com/newrelic/newrelic-client-go) ([v0.60.0](https://github.com/newrelic/newrelic-client-go/releases/tag/v0.60.0), 2 days ago) - New Relic Client for the Go programming language
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.7.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 3 days ago) - Elasticsearch stats exporter for Prometheus
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 week ago) - Go library for accessing the GitHub API
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 week ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 weeks ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Francis Lavoie](https://github.com/francislavoie) (1 week ago)
-- [Jim Fisk](https://github.com/jimafisk) (1 week ago)
+- [Francis Lavoie](https://github.com/francislavoie) (2 weeks ago)
+- [Jim Fisk](https://github.com/jimafisk) (2 weeks ago)
 - [Nicolas M.](https://github.com/penguwin) (2 weeks ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (3 weeks ago)
 - [Raphaël](https://github.com/sundowndev) (1 month ago)
