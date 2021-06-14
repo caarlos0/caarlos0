@@ -10,16 +10,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.7.0), 2 days ago) - Prometheus community Helm charts
-- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 3 days ago) - Elasticsearch stats exporter for Prometheus
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.7.0), 3 days ago) - Prometheus community Helm charts
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 4 days ago) - Elasticsearch stats exporter for Prometheus
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 week ago) - Go library for accessing the GitHub API
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 weeks ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
-- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (5 months ago)
+- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
