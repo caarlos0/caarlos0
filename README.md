@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.8.0), today) - Prometheus community Helm charts
-- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 5 days ago) - Elasticsearch stats exporter for Prometheus
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.14.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 6 days ago) - Elasticsearch stats exporter for Prometheus
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.0](https://github.com/hashicorp/terraform/releases/tag/v1.0.0), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 week ago) - Go library for accessing the GitHub API
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.7.2](https://github.com/caarlos0/tasktimer/releases/tag/v1.7.2), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
