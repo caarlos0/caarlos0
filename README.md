@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.9.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.10.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210616](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210616), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 1 week ago) - Elasticsearch stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 week ago) - Go library for accessing the GitHub API
@@ -33,8 +33,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- [The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy](https://www.goodreads.com/book/show/3044.The_Vision_of_the_Anointed) - Thomas Sowell
 - [Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher) - Milton Friedman
 - [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know) - Emily Freeman
 - [Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics) - Eric Voskuil
 - [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
-- [A Filosofia Explica as Grandes Questões da Humanidade](https://www.goodreads.com/book/show/24265319-a-filosofia-explica-as-grandes-quest-es-da-humanidade) - Clóvis de Barros Filho
