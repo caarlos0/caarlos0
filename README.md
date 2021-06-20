@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.10.0), 1 day ago) - Prometheus community Helm charts
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.0](https://github.com/gohugoio/hugo/releases/tag/v0.84.0), 1 day ago) - The world’s fastest framework for building websites.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210616](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210616), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.0), 1 week ago) - Elasticsearch stats exporter for Prometheus
-- [google/go-github](https://github.com/google/go-github) ([v35.3.0](https://github.com/google/go-github/releases/tag/v35.3.0), 1 week ago) - Go library for accessing the GitHub API
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.170.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.170.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.2), 1 day ago) - Prometheus community Helm charts
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.0](https://github.com/gohugoio/hugo/releases/tag/v0.84.0), 2 days ago) - The world’s fastest framework for building websites.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210616](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210616), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 weeks ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 weeks ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Francis Lavoie](https://github.com/francislavoie) (2 weeks ago)
-- [Jim Fisk](https://github.com/jimafisk) (2 weeks ago)
+- [Francis Lavoie](https://github.com/francislavoie) (3 weeks ago)
+- [Jim Fisk](https://github.com/jimafisk) (3 weeks ago)
 - [Nicolas M.](https://github.com/penguwin) (3 weeks ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (1 month ago)
 - [Raphaël](https://github.com/sundowndev) (2 months ago)
