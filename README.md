@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.171.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.171.1-pro), today) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), today) - Deliver Go binaries as fast and easily as possible
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.0.0), 1 day ago)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.170.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.170.0-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.2), 2 days ago) - Prometheus community Helm charts
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.0](https://github.com/gohugoio/hugo/releases/tag/v0.84.0), 3 days ago) - The world’s fastest framework for building websites.
 
