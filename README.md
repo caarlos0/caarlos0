@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.171.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.171.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.0.0), 2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.2), 3 days ago) - Prometheus community Helm charts
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.0](https://github.com/gohugoio/hugo/releases/tag/v0.84.0), 4 days ago) - The world’s fastest framework for building websites.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 1 day ago) - A powerful little TUI framework 🏗
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.171.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.171.1-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.0.0), 3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.2), 4 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 weeks ago)
