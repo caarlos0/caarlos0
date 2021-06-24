@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.3.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.11.0), today) - Prometheus community Helm charts
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.12.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.12.0), today) - Exports the expiration time of your domains as prometheus metrics.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 2 days ago) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.171.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.171.1-pro), 3 days ago) - Deliver Go binaries as fast, easily and pro as possible.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.0.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.0.0), 4 days ago)
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 weeks ago)
@@ -24,11 +24,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
+- [Michele Degges](https://github.com/mdeggies) (today)
 - [Francis Lavoie](https://github.com/francislavoie) (3 weeks ago)
 - [Jim Fisk](https://github.com/jimafisk) (3 weeks ago)
 - [Nicolas M.](https://github.com/penguwin) (3 weeks ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (1 month ago)
-- [Raphaël](https://github.com/sundowndev) (2 months ago)
 
 Many thanks everyone! 🙏
 
