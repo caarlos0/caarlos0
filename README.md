@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.12.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.1](https://github.com/hashicorp/terraform/releases/tag/v1.0.1), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.1](https://github.com/gohugoio/hugo/releases/tag/v0.84.1), 1 day ago) - The world’s fastest framework for building websites.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.11.0), 1 day ago) - Prometheus community Helm charts
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.12.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.12.0), 1 day ago) - Exports the expiration time of your domains as prometheus metrics.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 3 days ago) - A powerful little TUI framework 🏗
 
