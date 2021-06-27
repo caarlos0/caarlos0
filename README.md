@@ -10,24 +10,24 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.12.1), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.1](https://github.com/hashicorp/terraform/releases/tag/v1.0.1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.1](https://github.com/gohugoio/hugo/releases/tag/v0.84.1), 2 days ago) - The world’s fastest framework for building websites.
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) ([v1.12.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.12.0), 2 days ago) - Exports the expiration time of your domains as prometheus metrics.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 4 days ago) - A powerful little TUI framework 🏗
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.1.0), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.0), 1 day ago) - Prometheus community Helm charts
+- [google/go-github](https://github.com/google/go-github) ([v36.0.0](https://github.com/google/go-github/releases/tag/v36.0.0), 1 day ago) - Go library for accessing the GitHub API
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.1](https://github.com/hashicorp/terraform/releases/tag/v1.0.1), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.1](https://github.com/gohugoio/hugo/releases/tag/v0.84.1), 3 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (3 weeks ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (4 weeks ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (2 days ago)
-- [Francis Lavoie](https://github.com/francislavoie) (3 weeks ago)
-- [Jim Fisk](https://github.com/jimafisk) (3 weeks ago)
-- [Nicolas M.](https://github.com/penguwin) (4 weeks ago)
+- [Michele Degges](https://github.com/mdeggies) (3 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (4 weeks ago)
+- [Jim Fisk](https://github.com/jimafisk) (4 weeks ago)
+- [Nicolas M.](https://github.com/penguwin) (1 month ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (1 month ago)
 
 Many thanks everyone! 🙏
