@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.0-pro), today) - Deliver Go binaries as fast, easily and pro as possible.
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.1.0), 1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.0), 1 day ago) - Prometheus community Helm charts
 - [google/go-github](https://github.com/google/go-github) ([v36.0.0](https://github.com/google/go-github/releases/tag/v36.0.0), 1 day ago) - Go library for accessing the GitHub API
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.1](https://github.com/hashicorp/terraform/releases/tag/v1.0.1), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.1](https://github.com/gohugoio/hugo/releases/tag/v0.84.1), 3 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (4 weeks ago)
