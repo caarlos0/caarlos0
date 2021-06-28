@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.0), today) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.0-pro), today) - Deliver Go binaries as fast, easily and pro as possible.
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.1.0), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.0), 1 day ago) - Prometheus community Helm charts
-- [google/go-github](https://github.com/google/go-github) ([v36.0.0](https://github.com/google/go-github/releases/tag/v36.0.0), 1 day ago) - Go library for accessing the GitHub API
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.6](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.6), 1 day ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.1.0), 2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.0), 2 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (4 weeks ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
-- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (6 months ago)
+- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (3 days ago)
+- [Michele Degges](https://github.com/mdeggies) (4 days ago)
 - [Francis Lavoie](https://github.com/francislavoie) (4 weeks ago)
 - [Jim Fisk](https://github.com/jimafisk) (4 weeks ago)
 - [Nicolas M.](https://github.com/penguwin) (1 month ago)
