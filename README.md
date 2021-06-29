@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.2.1), today) - Prometheus community Helm charts
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 1 day ago) - The user-friendly command line shell.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.2](https://github.com/gohugoio/hugo/releases/tag/v0.84.2), 1 day ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.6](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.6), 2 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
