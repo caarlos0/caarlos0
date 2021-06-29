@@ -10,23 +10,23 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.2](https://github.com/gohugoio/hugo/releases/tag/v0.84.2), today) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.6](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.6), 1 day ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.1.0), 2 days ago)
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 1 day ago) - The user-friendly command line shell.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.2](https://github.com/gohugoio/hugo/releases/tag/v0.84.2), 1 day ago) - The world’s fastest framework for building websites.
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/goreleaser-docker-manifest-actions-example](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example) ([v1.1.6](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.1.6), 2 days ago) - Example usage of @goreleaser docker_manifests within GitHub Actions
 
 ### 📄 Latest posts
-- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (4 weeks ago)
+- [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (4 days ago)
-- [Francis Lavoie](https://github.com/francislavoie) (4 weeks ago)
-- [Jim Fisk](https://github.com/jimafisk) (4 weeks ago)
+- [Michele Degges](https://github.com/mdeggies) (5 days ago)
+- [Francis Lavoie](https://github.com/francislavoie) (1 month ago)
+- [Jim Fisk](https://github.com/jimafisk) (1 month ago)
 - [Nicolas M.](https://github.com/penguwin) (1 month ago)
 - [Sudhir Jonathan](https://github.com/sudhirj) (1 month ago)
 
