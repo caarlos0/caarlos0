@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.2.1), today) - Prometheus community Helm charts
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 1 day ago) - The user-friendly command line shell.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.2](https://github.com/gohugoio/hugo/releases/tag/v0.84.2), 1 day ago) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.15.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.1](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.1), 1 day ago) - Elasticsearch stats exporter for Prometheus
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.3](https://github.com/gohugoio/hugo/releases/tag/v0.84.3), 1 day ago) - The world’s fastest framework for building websites.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 2 days ago) - The user-friendly command line shell.
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.172.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.172.1-pro), 3 days ago) - Deliver Go binaries as fast, easily and pro as possible.
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (5 days ago)
+- [Michele Degges](https://github.com/mdeggies) (6 days ago)
 - [Francis Lavoie](https://github.com/francislavoie) (1 month ago)
 - [Jim Fisk](https://github.com/jimafisk) (1 month ago)
 - [Nicolas M.](https://github.com/penguwin) (1 month ago)
