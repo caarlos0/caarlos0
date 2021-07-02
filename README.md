@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210630](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210630), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.15.0), 2 days ago) - Prometheus community Helm charts
-- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.1](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.1), 2 days ago) - Elasticsearch stats exporter for Prometheus
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.3](https://github.com/gohugoio/hugo/releases/tag/v0.84.3), 2 days ago) - The world’s fastest framework for building websites.
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 3 days ago) - The user-friendly command line shell.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.1), 1 day ago) - Prometheus community Helm charts
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.4](https://github.com/gohugoio/hugo/releases/tag/v0.84.4), 1 day ago) - The world’s fastest framework for building websites.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210630](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210630), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) ([v1.2.1](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.2.1), 3 days ago) - Elasticsearch stats exporter for Prometheus
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.0](https://github.com/fish-shell/fish-shell/releases/tag/3.3.0), 4 days ago) - The user-friendly command line shell.
 
 ### 📄 Latest posts
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
