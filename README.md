@@ -3,25 +3,25 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- [caarlos0/.goreleaserfiles](https://github.com/caarlos0/.goreleaserfiles) - my .goreleaser.yml files
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles) - my goreleaser.yml files
 - [caarlos0/flink-async-http-example](https://github.com/caarlos0/flink-async-http-example) - Example usage of Flink&#39;s RichAsyncFunction to do HTTP requests.
 - [caarlos0/adguard-filters](https://github.com/caarlos0/adguard-filters) - Personal adguard/pihole blocklist
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.0), today) - Deliver Go binaries as fast and easily as possible
+- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.4.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.4.0), today) - Exports speedtest-cli metrics in the prometheus format
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), today) - Deliver Go binaries as fast and easily as possible
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v26.3.1), today)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.173.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.173.0-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/v26.3.0), 1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.1), 3 days ago) - Prometheus community Helm charts
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.4](https://github.com/gohugoio/hugo/releases/tag/v0.84.4), 3 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 day ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (5 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (6 months ago)
-- [Multi-platform Docker images with GoReleaser and GitHub Actions](https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/) (7 months ago)
 
 #### ❤️ Sponsors
 - [Michele Degges](https://github.com/mdeggies) (1 week ago)
