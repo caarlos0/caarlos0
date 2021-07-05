@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), today) - The world’s fastest framework for building websites.
+- [go-task/task](https://github.com/go-task/task) ([v3.5.0](https://github.com/go-task/task/releases/tag/v3.5.0), today) - A task runner / simpler Make alternative written in Go
 - [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.4.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.4.0), 1 day ago) - Exports speedtest-cli metrics in the prometheus format
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v26.3.1), 1 day ago)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.173.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.173.0-pro), 2 days ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.1), 4 days ago) - Prometheus community Helm charts
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 days ago)
