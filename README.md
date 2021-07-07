@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.3.1), today) - Prometheus community Helm charts
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 1 day ago) - Faster way to switch between clusters and namespaces in kubectl
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 1 day ago) - The user-friendly command line shell.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.173.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.173.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 2 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (4 days ago)
