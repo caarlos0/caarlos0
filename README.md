@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 1 day ago) - The world’s fastest framework for building websites.
-- [go-task/task](https://github.com/go-task/task) ([v3.5.0](https://github.com/go-task/task/releases/tag/v3.5.0), 1 day ago) - A task runner / simpler Make alternative written in Go
-- [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) ([v0.4.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v0.4.0), 2 days ago) - Exports speedtest-cli metrics in the prometheus format
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test) ([v26.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v26.3.1), 2 days ago)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 1 day ago) - Faster way to switch between clusters and namespaces in kubectl
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 1 day ago) - The user-friendly command line shell.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.173.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.173.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 2 days ago) - The world’s fastest framework for building websites.
 
 ### 📄 Latest posts
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 days ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (4 days ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
