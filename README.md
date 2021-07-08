@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.3.1), today) - Prometheus community Helm charts
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 1 day ago) - Faster way to switch between clusters and namespaces in kubectl
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 1 day ago) - The user-friendly command line shell.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) ([v0.173.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.173.1-pro), 1 day ago) - Deliver Go binaries as fast, easily and pro as possible.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.3.1), 1 day ago) - Prometheus community Helm charts
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 2 days ago) - Faster way to switch between clusters and namespaces in kubectl
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 2 days ago) - The user-friendly command line shell.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (4 days ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (5 days ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (1 week ago)
+- [Michele Degges](https://github.com/mdeggies) (2 weeks ago)
 - [Francis Lavoie](https://github.com/francislavoie) (1 month ago)
 - [Jim Fisk](https://github.com/jimafisk) (1 month ago)
 - [Nicolas M.](https://github.com/penguwin) (1 month ago)
