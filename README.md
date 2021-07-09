@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), today) - Go library for accessing the GitHub API
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.4.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 3 days ago) - Faster way to switch between clusters and namespaces in kubectl
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 3 days ago) - The user-friendly command line shell.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (6 days ago)
