@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), today) - Go library for accessing the GitHub API
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.4.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 3 days ago) - Faster way to switch between clusters and namespaces in kubectl
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 3 days ago) - The user-friendly command line shell.
+- [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), 1 day ago) - Go library for accessing the GitHub API
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.4.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 4 days ago) - Faster way to switch between clusters and namespaces in kubectl
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.3.1](https://github.com/fish-shell/fish-shell/releases/tag/3.3.1), 4 days ago) - The user-friendly command line shell.
 
 ### 📄 Latest posts
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (6 days ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 week ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
@@ -33,8 +33,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) - James Clear
 - [The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy](https://www.goodreads.com/book/show/3044.The_Vision_of_the_Anointed) - Thomas Sowell
 - [Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher) - Milton Friedman
 - [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know) - Emily Freeman
 - [Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics) - Eric Voskuil
+- [Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver) - Seneca
