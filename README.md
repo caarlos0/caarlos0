@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), today) - A task runner / simpler Make alternative written in Go
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.15.0), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.6.0](https://github.com/goreleaser/nfpm/releases/tag/v2.6.0), 1 day ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), 2 days ago) - Go library for accessing the GitHub API
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ([v0.9.4](https://github.com/ahmetb/kubectx/releases/tag/v0.9.4), 5 days ago) - Faster way to switch between clusters and namespaces in kubectl
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 week ago)
