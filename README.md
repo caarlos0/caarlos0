@@ -3,18 +3,18 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/duration](https://github.com/caarlos0/duration)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles) - my goreleaser.yml files
 - [caarlos0/flink-async-http-example](https://github.com/caarlos0/flink-async-http-example) - Example usage of Flink&#39;s RichAsyncFunction to do HTTP requests.
-- [caarlos0/adguard-filters](https://github.com/caarlos0/adguard-filters) - Personal adguard/pihole blocklist
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.6.0](https://github.com/caarlos0/org-stats/releases/tag/v1.6.0), today) - Get the contributor stats summary from all repos of any given organization
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.13.0), 1 day ago) - Prometheus community Helm charts
 - [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 2 days ago) - A task runner / simpler Make alternative written in Go
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.6.0](https://github.com/goreleaser/nfpm/releases/tag/v2.6.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), 4 days ago) - Go library for accessing the GitHub API
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.0.2](https://github.com/hashicorp/terraform/releases/tag/v1.0.2), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 week ago)
