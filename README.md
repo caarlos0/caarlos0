@@ -10,17 +10,17 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.6.0](https://github.com/caarlos0/org-stats/releases/tag/v1.6.0), today) - Get the contributor stats summary from all repos of any given organization
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.13.0), 1 day ago) - Prometheus community Helm charts
-- [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 2 days ago) - A task runner / simpler Make alternative written in Go
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.6.0](https://github.com/goreleaser/nfpm/releases/tag/v2.6.0), 3 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), 4 days ago) - Go library for accessing the GitHub API
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.6.0](https://github.com/caarlos0/org-stats/releases/tag/v1.6.0), 1 day ago) - Get the contributor stats summary from all repos of any given organization
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.13.0), 2 days ago) - Prometheus community Helm charts
+- [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 3 days ago) - A task runner / simpler Make alternative written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.6.0](https://github.com/goreleaser/nfpm/releases/tag/v2.6.0), 4 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [google/go-github](https://github.com/google/go-github) ([v37.0.0](https://github.com/google/go-github/releases/tag/v37.0.0), 5 days ago) - Go library for accessing the GitHub API
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 week ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
-- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (6 months ago)
+- [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (7 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (7 months ago)
 
 #### ❤️ Sponsors
@@ -33,7 +33,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- [The Introvert&#39;s Edge: How the Quiet and Shy Can Outsell Anyone](https://www.goodreads.com/book/show/34963434-the-introvert-s-edge) - Matthew Owen Pollard
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/48989175-the-bitcoin-standard) - Saifedean Ammous
 - [The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy](https://www.goodreads.com/book/show/3044.The_Vision_of_the_Anointed) - Thomas Sowell
 - [Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher) - Milton Friedman
 - [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know) - Emily Freeman
