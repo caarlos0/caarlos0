@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.14.0), today) - Prometheus community Helm charts
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0), today) - Get the contributor stats summary from all repos of any given organization
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210714](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210714), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.7.0](https://github.com/caarlos0/org-stats/releases/tag/v1.7.0), 1 day ago) - Get the contributor stats summary from all repos of any given organization
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.13.0), 3 days ago) - Prometheus community Helm charts
 - [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 4 days ago) - A task runner / simpler Make alternative written in Go
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.6.0](https://github.com/goreleaser/nfpm/releases/tag/v2.6.0), 5 days ago) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 
