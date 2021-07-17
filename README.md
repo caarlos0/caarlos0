@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.5.0](https://github.com/caarlos0/svu/releases/tag/v1.5.0), 1 day ago) - Semantic Version Util
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.3), 1 day ago) - Prometheus community Helm charts
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0), 1 day ago) - Get the contributor stats summary from all repos of any given organization
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210714](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210714), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 5 days ago) - A task runner / simpler Make alternative written in Go
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.5.0](https://github.com/caarlos0/svu/releases/tag/v1.5.0), 2 days ago) - Semantic Version Util
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.3), 2 days ago) - Prometheus community Helm charts
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0), 2 days ago) - Get the contributor stats summary from all repos of any given organization
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210714](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210714), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [go-task/task](https://github.com/go-task/task) ([v3.6.0](https://github.com/go-task/task/releases/tag/v3.6.0), 6 days ago) - A task runner / simpler Make alternative written in Go
 
 ### 📄 Latest posts
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 week ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 weeks ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (7 months ago)
@@ -28,7 +28,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Francis Lavoie](https://github.com/francislavoie) (1 month ago)
 - [Jim Fisk](https://github.com/jimafisk) (1 month ago)
 - [Nicolas M.](https://github.com/penguwin) (1 month ago)
-- [Sudhir Jonathan](https://github.com/sudhirj) (1 month ago)
+- [Sudhir Jonathan](https://github.com/sudhirj) (2 months ago)
 
 Many thanks everyone! 🙏
 
