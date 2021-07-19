@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) ([v1.1.0](https://github.com/caarlos0/starcharts/releases/tag/v1.1.0), 1 day ago) - Plot your repository stars over time.
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) ([v1.2.0](https://github.com/caarlos0/starcharts/releases/tag/v1.2.0), today) - Plot your repository stars over time.
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.5.0](https://github.com/caarlos0/svu/releases/tag/v1.5.0), 4 days ago) - Semantic Version Util
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0), 4 days ago) - Get the contributor stats summary from all repos of any given organization
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v1.1.0-alpha20210714](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210714), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
