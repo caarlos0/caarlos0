@@ -2,19 +2,17 @@
 
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
-#### 🗂 Repositories I created recently
+#### 👨‍💻 Repositories I created recently
 - [caarlos0/servers](https://github.com/caarlos0/servers) - ansible playbook for my servers
 - [caarlos0/duration](https://github.com/caarlos0/duration) - Copy of stdlib&#39;s time.Duration, but ParseDuration accepts other bigger units such as days, weeks, months and years
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles) - my goreleaser.yml files
-#### 👨‍💻 Latest open pull requests
-- [feat: use etags to prevent rate limits](https://github.com/caarlos0/starcharts/pull/121) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) ([v1.2.0](https://github.com/caarlos0/starcharts/releases/tag/v1.2.0), 1 day ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v1.5.0](https://github.com/caarlos0/svu/releases/tag/v1.5.0), 5 days ago)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0), 5 days ago)
+- [caarlos0/starcharts v1.2.0](https://github.com/caarlos0/starcharts/releases/tag/v1.2.0) (1 day ago)
+- [caarlos0/svu v1.5.0](https://github.com/caarlos0/svu/releases/tag/v1.5.0) (5 days ago)
+- [caarlos0/org-stats v1.8.0](https://github.com/caarlos0/org-stats/releases/tag/v1.8.0) (5 days ago)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 weeks ago)
