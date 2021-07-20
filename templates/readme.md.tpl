@@ -2,16 +2,22 @@
 
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
-#### 👨‍💻 Repositories I created recently
+#### 🗂 Repositories I created recently
 
 {{- range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
+#### 👨‍💻 Latest pull requests
+
+{{- range recentPullRequests 3 }}
+- [{{ .Title }}]({{ .URL }}) ({{humanize .CreatedAt}})
+{{- end }}
+
 #### 🚀 Latest releases I've contributed to
 
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
+{{ range recentReleases 3 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }} ({{humanize .LastRelease.PublishedAt}})
 {{- end }}
 
 ### 📄 Latest posts
@@ -22,7 +28,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 
-{{- range sponsors 5 }}
+{{- range sponsors 3 }}
 - [{{ .User.Name }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
@@ -30,6 +36,6 @@ Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
 
-{{- range goodReadsCurrentlyReading 5 }}
-- [{{ .Book.Title }}]({{ .Book.Link }}) - {{ range .Book.Authors }}{{ .Name }}{{ end }}
+{{- range goodReadsCurrentlyReading 3 }}
+- [{{ .Book.Title }}]({{ .Book.Link }}) - {{ range .Book.Authors }}{{ .Name }}{{ end }} ({{humanize .DateUpdated}})
 {{- end}}
