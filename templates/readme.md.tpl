@@ -2,18 +2,10 @@
 
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
-#### 🗂 Repositories I created recently
+#### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
-
-{{- with recentPullRequests 3}}
-#### 👨‍💻 Latest open pull requests
-
-{{- range . }}
-- [{{ .Title }}]({{ .URL }}) ({{humanize .CreatedAt}})
-{{- end }}
 {{- end }}
 
 #### 🚀 Latest releases I've contributed to
