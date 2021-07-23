@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (1 day ago)
-- [gohugoio/hugo v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0) (1 day ago)
-- [caarlos0/starcharts v1.4.0](https://github.com/caarlos0/starcharts/releases/tag/v1.4.0) (2 days ago)
+- [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (2 days ago)
+- [gohugoio/hugo v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0) (2 days ago)
+- [caarlos0/starcharts v1.4.0](https://github.com/caarlos0/starcharts/releases/tag/v1.4.0) (3 days ago)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 weeks ago)
