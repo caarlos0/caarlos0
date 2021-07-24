@@ -3,26 +3,26 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/example-golang-sri-lanka2](https://github.com/caarlos0/example-golang-sri-lanka2)
 - [caarlos0/servers](https://github.com/caarlos0/servers) - ansible playbook for my servers
 - [caarlos0/duration](https://github.com/caarlos0/duration) - Copy of stdlib&#39;s time.Duration, but ParseDuration accepts other bigger units such as days, weeks, months and years
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles) - my goreleaser.yml files
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (2 days ago)
-- [gohugoio/hugo v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0) (2 days ago)
-- [caarlos0/starcharts v1.4.0](https://github.com/caarlos0/starcharts/releases/tag/v1.4.0) (3 days ago)
+- [caarlos0/example-golang-sri-lanka2 v1.0.4](https://github.com/caarlos0/example-golang-sri-lanka2/releases/tag/v1.0.4) (1 day ago)
+- [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (3 days ago)
+- [gohugoio/hugo v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0) (3 days ago)
 
 ### 📄 Latest posts
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 weeks ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (1 month ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (7 months ago)
 - [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Michele Degges](https://github.com/mdeggies) (4 weeks ago)
+- [Michele Degges](https://github.com/mdeggies) (1 month ago)
 - [Francis Lavoie](https://github.com/francislavoie) (1 month ago)
 - [Jim Fisk](https://github.com/jimafisk) (1 month ago)
 
