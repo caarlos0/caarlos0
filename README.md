@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/svu v1.6.0](https://github.com/caarlos0/svu/releases/tag/v1.6.0) (today)
 - [caarlos0/example-golang-sri-lanka2 v1.0.4](https://github.com/caarlos0/example-golang-sri-lanka2/releases/tag/v1.0.4) (1 day ago)
 - [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (3 days ago)
-- [gohugoio/hugo v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0) (3 days ago)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
