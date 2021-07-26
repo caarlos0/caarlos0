@@ -3,16 +3,16 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- [caarlos0/example-golang-sri-lanka2](https://github.com/caarlos0/example-golang-sri-lanka2)
 - [caarlos0/servers](https://github.com/caarlos0/servers) - ansible playbook for my servers
 - [caarlos0/duration](https://github.com/caarlos0/duration) - Copy of stdlib&#39;s time.Duration, but ParseDuration accepts other bigger units such as days, weeks, months and years
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles) - my goreleaser.yml files
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/svu v1.6.0](https://github.com/caarlos0/svu/releases/tag/v1.6.0) (2 days ago)
-- [caarlos0/example-golang-sri-lanka2 v1.0.4](https://github.com/caarlos0/example-golang-sri-lanka2/releases/tag/v1.0.4) (3 days ago)
-- [hashicorp/terraform v1.0.3](https://github.com/hashicorp/terraform/releases/tag/v1.0.3) (5 days ago)
+- [goreleaser/goreleaser v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1) (today)
+- [caarlos0/svu v1.6.1](https://github.com/caarlos0/svu/releases/tag/v1.6.1) (today)
+- [goreleaser/goreleaser-pro v0.174.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.0-pro) (today)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
