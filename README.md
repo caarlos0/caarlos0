@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1) (today)
-- [caarlos0/svu v1.6.1](https://github.com/caarlos0/svu/releases/tag/v1.6.1) (today)
-- [goreleaser/goreleaser-pro v0.174.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.0-pro) (today)
+- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (1 day ago)
+- [goreleaser/goreleaser-action v2.7.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.7.0) (1 day ago)
+- [goreleaser/goreleaser v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1) (1 day ago)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
