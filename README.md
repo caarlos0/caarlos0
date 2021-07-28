@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (1 day ago)
-- [goreleaser/goreleaser-action v2.7.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.7.0) (1 day ago)
-- [goreleaser/goreleaser v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1) (1 day ago)
+- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (2 days ago)
+- [goreleaser/goreleaser-action v2.7.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.7.0) (2 days ago)
+- [goreleaser/goreleaser v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1) (2 days ago)
 
 ### 📄 Latest posts
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
@@ -29,6 +29,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- _[The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/48989175-the-bitcoin-standard)_ by Saifedean Ammous
 - _[The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy](https://www.goodreads.com/book/show/3044.The_Vision_of_the_Anointed)_ by Thomas Sowell
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
+- _[97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know)_ by Emily Freeman
