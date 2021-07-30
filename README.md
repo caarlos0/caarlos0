@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo v0.86.1](https://github.com/gohugoio/hugo/releases/tag/v0.86.1) (today)
+- [caarlos0/starcharts v1.5.2](https://github.com/caarlos0/starcharts/releases/tag/v1.5.2) (today)
 - [caarlos0/speedtest-exporter v1.0.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.0.0) (1 day ago)
-- [hashicorp/terraform v1.1.0-alpha20210728](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210728) (2 days ago)
-- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (4 days ago)
 
 ### 📄 Latest posts
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 day ago)
