@@ -10,19 +10,19 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform v1.1.0-alpha20210728](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210728) (1 day ago)
-- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (3 days ago)
-- [goreleaser/goreleaser-action v2.7.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.7.0) (3 days ago)
+- [caarlos0/speedtest-exporter v1.0.0](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.0.0) (1 day ago)
+- [hashicorp/terraform v1.1.0-alpha20210728](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210728) (2 days ago)
+- [goreleaser/goreleaser-pro v0.174.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.1-pro) (4 days ago)
 
 ### 📄 Latest posts
+- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 day ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (3 weeks ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 months ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (7 months ago)
-- [Why I migrated to the Fish Shell](https://carlosbecker.com/posts/fish/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Factly Media &amp; Research](https://github.com/factly) (1 day ago)
+- [Factly Media &amp; Research](https://github.com/factly) (2 days ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
 - [Francis Lavoie](https://github.com/francislavoie) (2 months ago)
 
