@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [go-task/task v3.7.0](https://github.com/go-task/task/releases/tag/v3.7.0) (today)
 - [caarlos0/starcharts v1.6.2](https://github.com/caarlos0/starcharts/releases/tag/v1.6.2) (1 day ago)
 - [caarlos0/fastcom-exporter v1.2.2](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.2.2) (1 day ago)
-- [gohugoio/hugo v0.86.1](https://github.com/gohugoio/hugo/releases/tag/v0.86.1) (2 days ago)
 
 ### 📄 Latest posts
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 days ago)
