@@ -10,19 +10,19 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-task/task v3.7.0](https://github.com/go-task/task/releases/tag/v3.7.0) (today)
-- [caarlos0/starcharts v1.6.2](https://github.com/caarlos0/starcharts/releases/tag/v1.6.2) (1 day ago)
-- [caarlos0/fastcom-exporter v1.2.2](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.2.2) (1 day ago)
+- [goreleaser/goreleaser-pro v0.174.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.174.2-pro) (1 day ago)
+- [go-task/task v3.7.0](https://github.com/go-task/task/releases/tag/v3.7.0) (1 day ago)
+- [caarlos0/starcharts v1.6.2](https://github.com/caarlos0/starcharts/releases/tag/v1.6.2) (2 days ago)
 
 ### 📄 Latest posts
-- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 days ago)
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (4 weeks ago)
+- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (4 days ago)
+- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 month ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 months ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 - [macOS Command Line Tools](https://carlosbecker.com/posts/xcode-select/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Factly Media &amp; Research](https://github.com/factly) (4 days ago)
+- [Factly Media &amp; Research](https://github.com/factly) (5 days ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
 - [Francis Lavoie](https://github.com/francislavoie) (2 months ago)
 
