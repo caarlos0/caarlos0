@@ -10,19 +10,19 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/goreleaser-docker-manifest-actions-example v1.2.1](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.2.1) (today)
-- [caarlos0/goreleaser-podman-actions-example v1.0.0](https://github.com/caarlos0/goreleaser-podman-actions-example/releases/tag/v1.0.0) (today)
-- [goreleaser/goreleaser v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2) (today)
+- [caarlos0/goreleaser-docker-manifest-actions-example v1.2.1](https://github.com/caarlos0/goreleaser-docker-manifest-actions-example/releases/tag/v1.2.1) (1 day ago)
+- [caarlos0/goreleaser-podman-actions-example v1.0.0](https://github.com/caarlos0/goreleaser-podman-actions-example/releases/tag/v1.0.0) (1 day ago)
+- [goreleaser/goreleaser v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2) (1 day ago)
 
 ### 📄 Latest posts
-- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 day ago)
-- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (4 days ago)
+- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (2 days ago)
+- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (5 days ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 month ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 months ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (6 months ago)
 
 #### ❤️ Sponsors
-- [Factly Media &amp; Research](https://github.com/factly) (5 days ago)
+- [Factly Media &amp; Research](https://github.com/factly) (6 days ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
 - [Francis Lavoie](https://github.com/francislavoie) (2 months ago)
 
