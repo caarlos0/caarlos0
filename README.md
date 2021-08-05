@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (today)
 - [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (1 day ago)
-- [caarlos0/starcharts v1.6.3](https://github.com/caarlos0/starcharts/releases/tag/v1.6.3) (1 day ago)
 - [caarlos0/svu v1.7.0](https://github.com/caarlos0/svu/releases/tag/v1.7.0) (1 day ago)
 
 ### 📄 Latest posts
