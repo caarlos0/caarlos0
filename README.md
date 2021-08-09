@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (1 day ago)
-- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (3 days ago)
-- [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (4 days ago)
+- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (2 days ago)
+- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (4 days ago)
+- [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (5 days ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
