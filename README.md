@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/tasktimer v1.8.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.8.0) (today)
 - [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (3 days ago)
 - [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (5 days ago)
-- [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (6 days ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
@@ -22,9 +22,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
+- [Engin Diri](https://github.com/dirien) (today)
 - [Factly Media &amp; Research](https://github.com/factly) (1 week ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
-- [Francis Lavoie](https://github.com/francislavoie) (2 months ago)
 
 Many thanks everyone! 🙏
 
