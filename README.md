@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (2 days ago)
-- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (4 days ago)
-- [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (5 days ago)
+- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (3 days ago)
+- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (5 days ago)
+- [hashicorp/terraform v1.0.4](https://github.com/hashicorp/terraform/releases/tag/v1.0.4) (6 days ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
@@ -30,5 +30,5 @@ Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
 - _[Breves respostas para grandes questões](https://www.goodreads.com/book/show/42396389-breves-respostas-para-grandes-quest-es)_ by Stephen Hawking
-- _[The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy](https://www.goodreads.com/book/show/3044.The_Vision_of_the_Anointed)_ by Thomas Sowell
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
+- _[97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know)_ by Emily Freeman
