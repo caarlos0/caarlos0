@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer v1.8.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.8.0) (today)
-- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (3 days ago)
-- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (5 days ago)
+- [caarlos0/tasktimer v1.8.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.8.0) (1 day ago)
+- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (4 days ago)
+- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (6 days ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
@@ -22,8 +22,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Engin Diri](https://github.com/dirien) (today)
-- [Factly Media &amp; Research](https://github.com/factly) (1 week ago)
+- [Engin Diri](https://github.com/dirien) (1 day ago)
+- [Factly Media &amp; Research](https://github.com/factly) (2 weeks ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
 
 Many thanks everyone! 🙏
