@@ -10,9 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer v1.8.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.8.0) (1 day ago)
-- [caarlos0/jsonfmt v0.3.1](https://github.com/caarlos0/jsonfmt/releases/tag/v0.3.1) (4 days ago)
-- [caarlos0/starcharts v1.6.4](https://github.com/caarlos0/starcharts/releases/tag/v1.6.4) (6 days ago)
+- [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (today)
+- [google/go-github v38.0.0](https://github.com/google/go-github/releases/tag/v38.0.0) (today)
+- [caarlos0/speedtest-exporter v1.1.3](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.3) (today)
+- [caarlos0/fastcom-exporter v1.3.3](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.3.3) (today)
+- [caarlos0/twitter-cleaner v0.6.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.6.0) (today)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
