@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 🚀 Latest releases I've contributed to
 
-{{ range recentReleases 3 }}
+{{ range recentReleases 5 }}
 - [{{ .Name }} {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
