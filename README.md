@@ -3,17 +3,17 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- [caarlos0/.github](https://github.com/caarlos0/.github) - github config
 - [caarlos0/fastcom-exporter](https://github.com/caarlos0/fastcom-exporter) - Prometheus Fast.com exporter
 - [caarlos0/servers](https://github.com/caarlos0/servers) - ansible playbook for my servers
-- [caarlos0/duration](https://github.com/caarlos0/duration) - Copy of stdlib&#39;s time.Duration, but ParseDuration accepts other bigger units such as days, weeks, months and years
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github v38.1.0](https://github.com/google/go-github/releases/tag/v38.1.0) (today)
 - [caarlos0/speedtest-exporter v1.1.4](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.4) (1 day ago)
 - [hashicorp/terraform v1.1.0-alpha20210811](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210811) (1 day ago)
 - [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (1 day ago)
-- [google/go-github v38.0.0](https://github.com/google/go-github/releases/tag/v38.0.0) (1 day ago)
 - [caarlos0/fastcom-exporter v1.3.3](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.3.3) (1 day ago)
 
 ### 📄 Latest posts
@@ -24,9 +24,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
+- [Cid Lopes](https://github.com/supercid) (today)
 - [Engin Diri](https://github.com/dirien) (2 days ago)
 - [Factly Media &amp; Research](https://github.com/factly) (2 weeks ago)
-- [Michele Degges](https://github.com/mdeggies) (1 month ago)
 
 Many thanks everyone! 🙏
 
