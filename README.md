@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (today)
-- [google/go-github v38.0.0](https://github.com/google/go-github/releases/tag/v38.0.0) (today)
-- [caarlos0/speedtest-exporter v1.1.3](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.3) (today)
-- [caarlos0/fastcom-exporter v1.3.3](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.3.3) (today)
-- [caarlos0/twitter-cleaner v0.6.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.6.0) (today)
+- [caarlos0/speedtest-exporter v1.1.4](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.4) (1 day ago)
+- [hashicorp/terraform v1.1.0-alpha20210811](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210811) (1 day ago)
+- [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (1 day ago)
+- [google/go-github v38.0.0](https://github.com/google/go-github/releases/tag/v38.0.0) (1 day ago)
+- [caarlos0/fastcom-exporter v1.3.3](https://github.com/caarlos0/fastcom-exporter/releases/tag/v1.3.3) (1 day ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
-- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 week ago)
+- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 weeks ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 month ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 months ago)
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Engin Diri](https://github.com/dirien) (1 day ago)
+- [Engin Diri](https://github.com/dirien) (2 days ago)
 - [Factly Media &amp; Research](https://github.com/factly) (2 weeks ago)
 - [Michele Degges](https://github.com/mdeggies) (1 month ago)
 
