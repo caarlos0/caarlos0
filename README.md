@@ -31,6 +31,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- _[Breves respostas para grandes questões](https://www.goodreads.com/book/show/42396389-breves-respostas-para-grandes-quest-es)_ by Stephen Hawking
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
 - _[97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/53483754-97-things-every-cloud-engineer-should-know)_ by Emily Freeman
+- _[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)_ by Eric Voskuil
