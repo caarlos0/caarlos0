@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman v3.3.0-rc2](https://github.com/containers/podman/releases/tag/v3.3.0-rc2) (1 day ago)
-- [google/go-github v38.1.0](https://github.com/google/go-github/releases/tag/v38.1.0) (1 day ago)
-- [caarlos0/speedtest-exporter v1.1.4](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.4) (2 days ago)
-- [hashicorp/terraform v1.1.0-alpha20210811](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210811) (2 days ago)
-- [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (2 days ago)
+- [containers/podman v3.3.0-rc2](https://github.com/containers/podman/releases/tag/v3.3.0-rc2) (2 days ago)
+- [google/go-github v38.1.0](https://github.com/google/go-github/releases/tag/v38.1.0) (2 days ago)
+- [caarlos0/speedtest-exporter v1.1.4](https://github.com/caarlos0/speedtest-exporter/releases/tag/v1.1.4) (3 days ago)
+- [hashicorp/terraform v1.1.0-alpha20210811](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210811) (3 days ago)
+- [caarlos0/fork-cleaner v2.2.1](https://github.com/caarlos0/fork-cleaner/releases/tag/v2.2.1) (3 days ago)
 
 ### 📄 Latest posts
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 week ago)
@@ -24,8 +24,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
-- [Cid Lopes](https://github.com/supercid) (1 day ago)
-- [Engin Diri](https://github.com/dirien) (3 days ago)
+- [Cid Lopes](https://github.com/supercid) (2 days ago)
+- [Engin Diri](https://github.com/dirien) (4 days ago)
 - [Factly Media &amp; Research](https://github.com/factly) (2 weeks ago)
 
 Many thanks everyone! 🙏
