@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman v3.3.0](https://github.com/containers/podman/releases/tag/v3.3.0) (3 days ago)
-- [hashicorp/terraform v1.0.5](https://github.com/hashicorp/terraform/releases/tag/v1.0.5) (5 days ago)
-- [goreleaser/goreleaser v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0) (5 days ago)
-- [goreleaser/goreleaser-pro v0.175.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.175.0-pro) (5 days ago)
+- [containers/podman v3.3.0](https://github.com/containers/podman/releases/tag/v3.3.0) (4 days ago)
+- [hashicorp/terraform v1.0.5](https://github.com/hashicorp/terraform/releases/tag/v1.0.5) (6 days ago)
+- [goreleaser/goreleaser v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0) (6 days ago)
+- [goreleaser/goreleaser-pro v0.175.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.175.0-pro) (6 days ago)
 - [caarlos0/timea.go v1.0.2](https://github.com/caarlos0/timea.go/releases/tag/v1.0.2) (1 week ago)
 
 ### 📄 Latest posts
+- [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (1 day ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 weeks ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 weeks ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 month ago)
 - [Announcing GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-pro/) (2 months ago)
-- [GoReleaser: 4 years releasing software](https://carlosbecker.com/posts/goreleaser-4-years/) (7 months ago)
 
 #### ❤️ Sponsors
 - [Cid Lopes](https://github.com/supercid) (1 week ago)
-- [Engin Diri](https://github.com/dirien) (1 week ago)
+- [Engin Diri](https://github.com/dirien) (2 weeks ago)
 - [Factly Media &amp; Research](https://github.com/factly) (3 weeks ago)
 
 Many thanks everyone! 🙏
