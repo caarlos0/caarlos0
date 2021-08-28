@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Cid Lopes](https://github.com/supercid) (2 weeks ago)
 - [Engin Diri](https://github.com/dirien) (2 weeks ago)
-- [Factly Media &amp; Research](https://github.com/factly) (1 month ago)
+- [Michele Degges](https://github.com/mdeggies) (2 months ago)
 
 Many thanks everyone! 🙏
 
