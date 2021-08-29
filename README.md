@@ -10,16 +10,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0) (3 days ago)
-- [goreleaser/goreleaser-pro v0.176.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.176.0-pro) (3 days ago)
-- [caarlos0-graveyard/test v24.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.0) (4 days ago)
+- [goreleaser/goreleaser v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0) (4 days ago)
+- [goreleaser/goreleaser-pro v0.176.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.176.0-pro) (4 days ago)
+- [caarlos0-graveyard/test v24.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.0) (5 days ago)
 - [containers/podman v3.3.0](https://github.com/containers/podman/releases/tag/v3.3.0) (1 week ago)
 - [hashicorp/terraform v1.0.5](https://github.com/hashicorp/terraform/releases/tag/v1.0.5) (1 week ago)
 
 ### 📄 Latest posts
-- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (4 days ago)
-- [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (5 days ago)
-- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 weeks ago)
+- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (5 days ago)
+- [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (6 days ago)
+- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (4 weeks ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 month ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (1 month ago)
 
