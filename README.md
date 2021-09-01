@@ -31,6 +31,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- _[Satoshi](https://www.goodreads.com/book/show/57013583-satoshi)_ by Rafael Boskovic
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
 - _[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)_ by Eric Voskuil
-- _[Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver)_ by Seneca
