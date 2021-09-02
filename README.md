@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo v0.88.0](https://github.com/gohugoio/hugo/releases/tag/v0.88.0) (today)
 - [containers/podman v3.3.1](https://github.com/containers/podman/releases/tag/v3.3.1) (3 days ago)
 - [caarlos0/env v6.7.0](https://github.com/caarlos0/env/releases/tag/v6.7.0) (3 days ago)
 - [goreleaser/goreleaser v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0) (1 week ago)
 - [goreleaser/goreleaser-pro v0.176.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.176.0-pro) (1 week ago)
-- [caarlos0-graveyard/test v24.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.0) (1 week ago)
 
 ### 📄 Latest posts
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 week ago)
@@ -31,6 +31,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- _[Satoshi](https://www.goodreads.com/book/show/57013583-satoshi)_ by Rafael Boskovic
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
 - _[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)_ by Eric Voskuil
+- _[Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver)_ by Seneca
