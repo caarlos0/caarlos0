@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/gitty v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0) (today)
-- [goreleaser/goreleaser v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0) (today)
-- [goreleaser/goreleaser-pro v0.177.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.177.0-pro) (today)
-- [caarlos0/dotfiles.fish v4.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.1.0) (1 day ago)
-- [gohugoio/hugo v0.88.0](https://github.com/gohugoio/hugo/releases/tag/v0.88.0) (1 day ago)
+- [hashicorp/terraform v1.0.6](https://github.com/hashicorp/terraform/releases/tag/v1.0.6) (1 day ago)
+- [muesli/gitty v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0) (1 day ago)
+- [goreleaser/goreleaser v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0) (1 day ago)
+- [goreleaser/goreleaser-pro v0.177.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.177.0-pro) (1 day ago)
+- [caarlos0/dotfiles.fish v4.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.1.0) (2 days ago)
 
 ### 📄 Latest posts
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 week ago)
