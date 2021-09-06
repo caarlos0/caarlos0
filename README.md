@@ -10,15 +10,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-task/task v3.7.3](https://github.com/go-task/task/releases/tag/v3.7.3) (today)
-- [gohugoio/hugo v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1) (1 day ago)
-- [muesli/gitty v0.2.2](https://github.com/muesli/gitty/releases/tag/v0.2.2) (1 day ago)
-- [hashicorp/terraform v1.0.6](https://github.com/hashicorp/terraform/releases/tag/v1.0.6) (2 days ago)
-- [goreleaser/goreleaser v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0) (2 days ago)
+- [go-task/task v3.7.3](https://github.com/go-task/task/releases/tag/v3.7.3) (1 day ago)
+- [gohugoio/hugo v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1) (2 days ago)
+- [muesli/gitty v0.2.2](https://github.com/muesli/gitty/releases/tag/v0.2.2) (2 days ago)
+- [hashicorp/terraform v1.0.6](https://github.com/hashicorp/terraform/releases/tag/v1.0.6) (3 days ago)
+- [goreleaser/goreleaser v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0) (3 days ago)
 
 ### 📄 Latest posts
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 week ago)
-- [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (1 week ago)
+- [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 weeks ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 month ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 month ago)
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 months ago)
