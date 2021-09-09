@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0) (today)
+- [goreleaser/goreleaser-pro v0.178.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.178.0-pro) (today)
 - [hashicorp/terraform v1.1.0-alpha20210908](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210908) (1 day ago)
 - [charmbracelet/bubbletea v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0) (1 day ago)
 - [muesli/gitty v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0) (3 days ago)
-- [caarlos0/env v6.7.1](https://github.com/caarlos0/env/releases/tag/v6.7.1) (3 days ago)
-- [go-task/task v3.7.3](https://github.com/go-task/task/releases/tag/v3.7.3) (4 days ago)
 
 ### 📄 Latest posts
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 weeks ago)
