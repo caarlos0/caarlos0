@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github v39.0.0](https://github.com/google/go-github/releases/tag/v39.0.0) (2 days ago)
-- [goreleaser/goreleaser v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0) (2 days ago)
-- [goreleaser/goreleaser-pro v0.178.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.178.0-pro) (2 days ago)
-- [hashicorp/terraform v1.1.0-alpha20210908](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210908) (3 days ago)
-- [charmbracelet/bubbletea v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0) (3 days ago)
+- [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (1 day ago)
+- [caarlos0/tasktimer v1.9.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.0) (1 day ago)
+- [google/go-github v39.0.0](https://github.com/google/go-github/releases/tag/v39.0.0) (3 days ago)
+- [goreleaser/goreleaser v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0) (3 days ago)
+- [goreleaser/goreleaser-pro v0.178.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.178.0-pro) (3 days ago)
 
 ### 📄 Latest posts
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 weeks ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 months ago)
 
 #### ❤️ Sponsors
-- [CrazyMax](https://github.com/crazy-max) (2 days ago)
+- [CrazyMax](https://github.com/crazy-max) (3 days ago)
 - [Cid Lopes](https://github.com/supercid) (1 month ago)
 - [Michele Degges](https://github.com/mdeggies) (2 months ago)
 
