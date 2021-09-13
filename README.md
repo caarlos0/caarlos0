@@ -10,18 +10,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0) (today)
+- [goreleaser/goreleaser-pro v0.179.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.179.0-pro) (today)
 - [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (2 days ago)
 - [caarlos0/tasktimer v1.9.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.0) (2 days ago)
 - [google/go-github v39.0.0](https://github.com/google/go-github/releases/tag/v39.0.0) (4 days ago)
-- [goreleaser/goreleaser v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0) (4 days ago)
-- [goreleaser/goreleaser-pro v0.178.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.178.0-pro) (4 days ago)
 
 ### 📄 Latest posts
+- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 day ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 weeks ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 weeks ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 month ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 month ago)
-- [Using GoReleaser includes feature](https://carlosbecker.com/posts/goreleaser-includes/) (2 months ago)
 
 #### ❤️ Sponsors
 - [CrazyMax](https://github.com/crazy-max) (4 days ago)
