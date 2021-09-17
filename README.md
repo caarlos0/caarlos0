@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform v1.0.7](https://github.com/hashicorp/terraform/releases/tag/v1.0.7) (1 day ago)
-- [sigstore/cosign v1.2.0](https://github.com/sigstore/cosign/releases/tag/v1.2.0) (2 days ago)
-- [goreleaser/goreleaser v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0) (3 days ago)
-- [goreleaser/goreleaser-pro v0.179.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.179.0-pro) (3 days ago)
-- [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (5 days ago)
+- [caarlos0-graveyard/test v24.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.1) (1 day ago)
+- [containers/podman v3.4.0-rc1](https://github.com/containers/podman/releases/tag/v3.4.0-rc1) (1 day ago)
+- [hashicorp/terraform v1.0.7](https://github.com/hashicorp/terraform/releases/tag/v1.0.7) (2 days ago)
+- [sigstore/cosign v1.2.0](https://github.com/sigstore/cosign/releases/tag/v1.2.0) (3 days ago)
+- [goreleaser/goreleaser v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0) (4 days ago)
 
 ### 📄 Latest posts
-- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (4 days ago)
+- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (5 days ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (3 weeks ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 weeks ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 month ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (1 month ago)
 
 #### ❤️ Sponsors
-- [Jacob Colvin](https://github.com/MacroPower) (1 day ago)
+- [Jacob Colvin](https://github.com/MacroPower) (2 days ago)
 - [CrazyMax](https://github.com/crazy-max) (1 week ago)
 - [Cid Lopes](https://github.com/supercid) (1 month ago)
 
