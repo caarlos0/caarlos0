@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [hashicorp/terraform v1.1.0-alpha20210922](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210922) (1 day ago)
-- [abhimanyu003/sttr v0.1.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.1.3) (2 days ago)
-- [sigstore/cosign v1.2.1](https://github.com/sigstore/cosign/releases/tag/v1.2.1) (3 days ago)
-- [caarlos0-graveyard/test v24.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.1) (1 week ago)
-- [containers/podman v3.4.0-rc1](https://github.com/containers/podman/releases/tag/v3.4.0-rc1) (1 week ago)
+- [google/go-github v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0) (1 day ago)
+- [containers/podman v3.4.0-rc2](https://github.com/containers/podman/releases/tag/v3.4.0-rc2) (1 day ago)
+- [hashicorp/terraform v1.1.0-alpha20210922](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20210922) (2 days ago)
+- [abhimanyu003/sttr v0.1.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.1.3) (3 days ago)
+- [sigstore/cosign v1.2.1](https://github.com/sigstore/cosign/releases/tag/v1.2.1) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 week ago)
