@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0) (today)
-- [goreleaser/goreleaser-pro v0.180.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.0-pro) (1 day ago)
-- [caarlos0-graveyard/test v24.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.2) (1 day ago)
-- [google/go-github v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0) (2 days ago)
-- [containers/podman v3.4.0-rc2](https://github.com/containers/podman/releases/tag/v3.4.0-rc2) (2 days ago)
+- [goreleaser/goreleaser v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0) (1 day ago)
+- [goreleaser/goreleaser-pro v0.180.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.0-pro) (2 days ago)
+- [caarlos0-graveyard/test v24.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.2) (2 days ago)
+- [google/go-github v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0) (3 days ago)
+- [containers/podman v3.4.0-rc2](https://github.com/containers/podman/releases/tag/v3.4.0-rc2) (3 days ago)
 
 ### 📄 Latest posts
-- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 week ago)
+- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 weeks ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 month ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (1 month ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (1 month ago)
