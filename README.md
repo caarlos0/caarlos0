@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [go-task/task v3.8.0](https://github.com/go-task/task/releases/tag/v3.8.0) (today)
 - [goreleaser/goreleaser v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0) (2 days ago)
 - [goreleaser/goreleaser-pro v0.180.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.0-pro) (3 days ago)
 - [caarlos0-graveyard/test v24.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.2) (3 days ago)
 - [google/go-github v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0) (4 days ago)
-- [containers/podman v3.4.0-rc2](https://github.com/containers/podman/releases/tag/v3.4.0-rc2) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 weeks ago)
