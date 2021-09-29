@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.180.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.2) (1 day ago)
-- [goreleaser/goreleaser-pro v0.180.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.2-pro) (1 day ago)
-- [go-task/task v3.8.0](https://github.com/go-task/task/releases/tag/v3.8.0) (1 day ago)
-- [caarlos0-graveyard/test v24.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.2) (4 days ago)
-- [google/go-github v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0) (5 days ago)
+- [charmbracelet/bubbletea v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0) (1 day ago)
+- [goreleaser/goreleaser-pro v0.180.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.3-pro) (1 day ago)
+- [goreleaser/goreleaser v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3) (1 day ago)
+- [go-task/task v3.8.0](https://github.com/go-task/task/releases/tag/v3.8.0) (2 days ago)
+- [caarlos0-graveyard/test v24.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.2) (5 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 weeks ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Jacob Colvin](https://github.com/MacroPower) (1 week ago)
+- [Jacob Colvin](https://github.com/MacroPower) (2 weeks ago)
 - [CrazyMax](https://github.com/crazy-max) (2 weeks ago)
 - [Cid Lopes](https://github.com/supercid) (1 month ago)
 
