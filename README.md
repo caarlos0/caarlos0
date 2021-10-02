@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman v3.4.0](https://github.com/containers/podman/releases/tag/v3.4.0) (1 day ago)
-- [hashicorp/terraform v1.0.8](https://github.com/hashicorp/terraform/releases/tag/v1.0.8) (2 days ago)
-- [charmbracelet/bubbletea v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0) (3 days ago)
-- [goreleaser/goreleaser-pro v0.180.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.3-pro) (3 days ago)
-- [goreleaser/goreleaser v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3) (3 days ago)
+- [abhimanyu003/sttr v0.2.2](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.2) (1 day ago)
+- [containers/podman v3.4.0](https://github.com/containers/podman/releases/tag/v3.4.0) (2 days ago)
+- [hashicorp/terraform v1.0.8](https://github.com/hashicorp/terraform/releases/tag/v1.0.8) (3 days ago)
+- [charmbracelet/bubbletea v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0) (4 days ago)
+- [goreleaser/goreleaser-pro v0.180.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.180.3-pro) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 weeks ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Batuhan Apaydın](https://github.com/developer-guy) (3 days ago)
+- [Batuhan Apaydın](https://github.com/developer-guy) (4 days ago)
 - [Jacob Colvin](https://github.com/MacroPower) (2 weeks ago)
 - [CrazyMax](https://github.com/crazy-max) (3 weeks ago)
 
