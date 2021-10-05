@@ -3,9 +3,9 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- [caarlos0/goreleaser-composite-action](https://github.com/caarlos0/goreleaser-composite-action)
 - [caarlos0/timea.go](https://github.com/caarlos0/timea.go) - timea.go (did you see what I did there?) is a simple library to print given times in &#34;time ago&#34; manner.
 - [caarlos0/.github](https://github.com/caarlos0/.github) - github config
+- [caarlos0/fastcom-exporter](https://github.com/caarlos0/fastcom-exporter) - Prometheus Fast.com exporter
 
 #### 🚀 Latest releases I've contributed to
 
