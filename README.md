@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr v0.2.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.3) (1 day ago)
-- [caarlos0/dotfiles.fish v4.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.2.0) (1 day ago)
-- [caarlos0-graveyard/test v24.3.3](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.3) (2 days ago)
-- [charmbracelet/bubbletea v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0) (2 days ago)
-- [go-task/task v3.9.0](https://github.com/go-task/task/releases/tag/v3.9.0) (3 days ago)
+- [abhimanyu003/sttr v0.2.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.3) (2 days ago)
+- [caarlos0/dotfiles.fish v4.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.2.0) (2 days ago)
+- [caarlos0-graveyard/test v24.3.3](https://github.com/caarlos0-graveyard/test/releases/tag/v24.3.3) (3 days ago)
+- [charmbracelet/bubbletea v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0) (3 days ago)
+- [go-task/task v3.9.0](https://github.com/go-task/task/releases/tag/v3.9.0) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (3 weeks ago)
@@ -25,7 +25,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
-- [Jacob Colvin](https://github.com/MacroPower) (2 weeks ago)
+- [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
 - [CrazyMax](https://github.com/crazy-max) (3 weeks ago)
 
 Many thanks everyone! 🙏
