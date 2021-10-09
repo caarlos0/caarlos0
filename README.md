@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (2 days ago)
-- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (2 days ago)
-- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (2 days ago)
-- [hashicorp/terraform v1.1.0-alpha20211006](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20211006) (2 days ago)
-- [abhimanyu003/sttr v0.2.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.3) (4 days ago)
+- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (3 days ago)
+- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (3 days ago)
+- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (3 days ago)
+- [hashicorp/terraform v1.1.0-alpha20211006](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20211006) (3 days ago)
+- [abhimanyu003/sttr v0.2.3](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.3) (5 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (3 weeks ago)
@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
 - [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
-- [CrazyMax](https://github.com/crazy-max) (4 weeks ago)
+- [CrazyMax](https://github.com/crazy-max) (1 month ago)
 
 Many thanks everyone! 🙏
 
