@@ -24,9 +24,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
+- [Ronald Dehuysser](https://github.com/rdehuyss) (today)
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
 - [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
-- [CrazyMax](https://github.com/crazy-max) (1 month ago)
 
 Many thanks everyone! 🙏
 
