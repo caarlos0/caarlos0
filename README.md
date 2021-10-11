@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (1 day ago)
-- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (4 days ago)
-- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (4 days ago)
-- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (4 days ago)
-- [hashicorp/terraform v1.1.0-alpha20211006](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20211006) (4 days ago)
+- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (2 days ago)
+- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (5 days ago)
+- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (5 days ago)
+- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (5 days ago)
+- [hashicorp/terraform v1.1.0-alpha20211006](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20211006) (5 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (4 weeks ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Ronald Dehuysser](https://github.com/rdehuyss) (today)
+- [Ronald Dehuysser](https://github.com/rdehuyss) (1 day ago)
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
 - [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
 
