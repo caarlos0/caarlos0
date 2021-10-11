@@ -14,7 +14,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (5 days ago)
 - [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (5 days ago)
 - [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (5 days ago)
-- [hashicorp/terraform v1.1.0-alpha20211006](https://github.com/hashicorp/terraform/releases/tag/v1.1.0-alpha20211006) (5 days ago)
+- [caarlos0/dotfiles.fish v4.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.2.0) (1 week ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (4 weeks ago)
@@ -31,6 +31,6 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
-- _[Liderança segundo Margaret Thatcher](https://www.goodreads.com/book/show/58997000-lideran-a-segundo-margaret-thatcher)_ by Nile Gardiner
 - _[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)_ by Milton Friedman
 - _[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)_ by Eric Voskuil
+- _[Aprendendo a Viver](https://www.goodreads.com/book/show/28219486-aprendendo-a-viver)_ by Seneca
