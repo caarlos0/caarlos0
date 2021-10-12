@@ -10,22 +10,22 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (2 days ago)
-- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (5 days ago)
-- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (5 days ago)
-- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (5 days ago)
+- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (3 days ago)
+- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (6 days ago)
+- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (6 days ago)
+- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (6 days ago)
 - [caarlos0/dotfiles.fish v4.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.2.0) (1 week ago)
 
 ### 📄 Latest posts
-- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (4 weeks ago)
+- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 month ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (1 month ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (2 months ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Ronald Dehuysser](https://github.com/rdehuyss) (1 day ago)
-- [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
+- [Ronald Dehuysser](https://github.com/rdehuyss) (2 days ago)
+- [Batuhan Apaydın](https://github.com/developer-guy) (2 weeks ago)
 - [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
 
 Many thanks everyone! 🙏
