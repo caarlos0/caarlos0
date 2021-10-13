@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (3 days ago)
-- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (6 days ago)
-- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (6 days ago)
-- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (6 days ago)
+- [abhimanyu003/sttr v0.2.4](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.4) (4 days ago)
+- [goreleaser/goreleaser v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1) (1 week ago)
+- [goreleaser/goreleaser-pro v0.181.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.181.1-pro) (1 week ago)
+- [caarlos0/svu v1.8.0](https://github.com/caarlos0/svu/releases/tag/v1.8.0) (1 week ago)
 - [caarlos0/dotfiles.fish v4.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.2.0) (1 week ago)
 
 ### 📄 Latest posts
@@ -24,9 +24,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Ronald Dehuysser](https://github.com/rdehuyss) (2 days ago)
+- [Ronald Dehuysser](https://github.com/rdehuyss) (3 days ago)
 - [Batuhan Apaydın](https://github.com/developer-guy) (2 weeks ago)
-- [Jacob Colvin](https://github.com/MacroPower) (3 weeks ago)
+- [Jacob Colvin](https://github.com/MacroPower) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
