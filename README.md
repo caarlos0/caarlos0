@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0-graveyard/test v27.1.0](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.0) (today)
+- [caarlos0/env v6.7.2](https://github.com/caarlos0/env/releases/tag/v6.7.2) (today)
 - [goreleaser/goreleaser-action v2.8.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.0) (2 days ago)
 - [goreleaser/nfpm v2.7.1](https://github.com/goreleaser/nfpm/releases/tag/v2.7.1) (3 days ago)
-- [caarlos0-graveyard/test v27.0.2](https://github.com/caarlos0-graveyard/test/releases/tag/v27.0.2) (3 days ago)
 - [google/go-github v39.2.0](https://github.com/google/go-github/releases/tag/v39.2.0) (4 days ago)
-- [goreleaser/goreleaser v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
