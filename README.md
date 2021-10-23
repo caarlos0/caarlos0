@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (today)
-- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (today)
-- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (1 day ago)
-- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (2 days ago)
-- [caarlos0-graveyard/test v27.1.3](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.3) (5 days ago)
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 day ago)
+- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (1 day ago)
+- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (2 days ago)
+- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (3 days ago)
+- [caarlos0-graveyard/test v27.1.3](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.3) (6 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
-- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (1 month ago)
+- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (2 months ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Carl Tsai](https://github.com/moonape1226) (3 days ago)
+- [Carl Tsai](https://github.com/moonape1226) (4 days ago)
 - [Ivan Santos](https://github.com/pragmaticivan) (1 week ago)
 - [laiso](https://github.com/laiso) (1 week ago)
 
