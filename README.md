@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (3 days ago)
-- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (3 days ago)
-- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (4 days ago)
-- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (5 days ago)
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (4 days ago)
+- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (4 days ago)
+- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (5 days ago)
+- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (6 days ago)
 - [caarlos0-graveyard/test v27.1.3](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.3) (1 week ago)
 
 ### 📄 Latest posts
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
 
 #### ❤️ Sponsors
-- [Carl Tsai](https://github.com/moonape1226) (6 days ago)
+- [Carl Tsai](https://github.com/moonape1226) (1 week ago)
 - [Ivan Santos](https://github.com/pragmaticivan) (1 week ago)
 - [laiso](https://github.com/laiso) (1 week ago)
 
