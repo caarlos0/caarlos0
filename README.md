@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (today)
+- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (today)
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (5 days ago)
 - [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (5 days ago)
 - [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (6 days ago)
-- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (1 week ago)
-- [caarlos0-graveyard/test v27.1.3](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.3) (1 week ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
