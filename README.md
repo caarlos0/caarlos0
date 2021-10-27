@@ -10,10 +10,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (4 days ago)
-- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (4 days ago)
-- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (5 days ago)
-- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (6 days ago)
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (5 days ago)
+- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (5 days ago)
+- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (6 days ago)
+- [containers/podman v3.4.1](https://github.com/containers/podman/releases/tag/v3.4.1) (1 week ago)
 - [caarlos0-graveyard/test v27.1.3](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.3) (1 week ago)
 
 ### 📄 Latest posts
@@ -21,7 +21,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (2 months ago)
-- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (2 months ago)
+- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 months ago)
 
 #### ❤️ Sponsors
 - [Carl Tsai](https://github.com/moonape1226) (1 week ago)
