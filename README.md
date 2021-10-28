@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (today)
-- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (today)
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (5 days ago)
-- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (5 days ago)
-- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (6 days ago)
+- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (1 day ago)
+- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (1 day ago)
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (6 days ago)
+- [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (6 days ago)
+- [prometheus-community/elasticsearch_exporter v1.3.0](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.3.0) (1 week ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
@@ -25,8 +25,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 - [Carl Tsai](https://github.com/moonape1226) (1 week ago)
-- [Ivan Santos](https://github.com/pragmaticivan) (1 week ago)
-- [laiso](https://github.com/laiso) (1 week ago)
+- [Ivan Santos](https://github.com/pragmaticivan) (2 weeks ago)
+- [laiso](https://github.com/laiso) (2 weeks ago)
 
 Many thanks everyone! 🙏
 
