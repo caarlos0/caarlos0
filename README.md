@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea v0.18.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.18.0) (1 day ago)
-- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (2 days ago)
-- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (2 days ago)
+- [charmbracelet/bubbletea v0.18.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.18.0) (2 days ago)
+- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (3 days ago)
+- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (3 days ago)
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 week ago)
 - [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (1 week ago)
 
@@ -20,7 +20,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
-- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (2 months ago)
+- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 months ago)
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 months ago)
 
 #### ❤️ Sponsors
