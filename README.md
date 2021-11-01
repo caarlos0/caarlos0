@@ -10,9 +10,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea v0.19.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.0) (1 day ago)
-- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (4 days ago)
-- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (4 days ago)
+- [charmbracelet/bubbletea v0.19.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.0) (2 days ago)
+- [caarlos0/org-stats v1.9.0](https://github.com/caarlos0/org-stats/releases/tag/v1.9.0) (5 days ago)
+- [caarlos0-graveyard/test v27.1.5](https://github.com/caarlos0-graveyard/test/releases/tag/v27.1.5) (5 days ago)
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 week ago)
 - [goreleaser/goreleaser-pro v0.183.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.183.0-pro) (1 week ago)
 
