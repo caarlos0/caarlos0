@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [sigstore/cosign v1.3.0](https://github.com/sigstore/cosign/releases/tag/v1.3.0) (today)
 - [abhimanyu003/sttr v0.2.5](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.5) (1 day ago)
 - [gohugoio/hugo v0.89.0](https://github.com/gohugoio/hugo/releases/tag/v0.89.0) (1 day ago)
 - [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (2 days ago)
 - [goreleaser/goreleaser-pro v0.184.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v0.184.0-pro) (2 days ago)
-- [charmbracelet/bubbletea v0.19.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.0) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
