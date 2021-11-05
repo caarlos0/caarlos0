@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension v0.1.12](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.12) (1 day ago)
-- [sigstore/cosign v1.3.0](https://github.com/sigstore/cosign/releases/tag/v1.3.0) (1 day ago)
-- [abhimanyu003/sttr v0.2.5](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.5) (2 days ago)
-- [gohugoio/hugo v0.89.0](https://github.com/gohugoio/hugo/releases/tag/v0.89.0) (2 days ago)
-- [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (3 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.12](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.12) (2 days ago)
+- [sigstore/cosign v1.3.0](https://github.com/sigstore/cosign/releases/tag/v1.3.0) (2 days ago)
+- [abhimanyu003/sttr v0.2.5](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.5) (3 days ago)
+- [gohugoio/hugo v0.89.0](https://github.com/gohugoio/hugo/releases/tag/v0.89.0) (3 days ago)
+- [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (4 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
@@ -24,7 +24,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 months ago)
 
 #### ❤️ Sponsors
-- [Ahmed](https://github.com/Clivern) (2 days ago)
+- [Ahmed](https://github.com/Clivern) (3 days ago)
 - [Carl Tsai](https://github.com/moonape1226) (2 weeks ago)
 - [Ivan Santos](https://github.com/pragmaticivan) (3 weeks ago)
 
