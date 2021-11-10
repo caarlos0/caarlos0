@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (1 day ago)
-- [gohugoio/hugo v0.89.2](https://github.com/gohugoio/hugo/releases/tag/v0.89.2) (1 day ago)
-- [google/go-github v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0) (1 day ago)
-- [goreleaser/nfpm v2.8.0](https://github.com/goreleaser/nfpm/releases/tag/v2.8.0) (2 days ago)
-- [charmbracelet/bubbletea v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1) (4 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (2 days ago)
+- [gohugoio/hugo v0.89.2](https://github.com/gohugoio/hugo/releases/tag/v0.89.2) (2 days ago)
+- [google/go-github v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0) (2 days ago)
+- [goreleaser/nfpm v2.8.0](https://github.com/goreleaser/nfpm/releases/tag/v2.8.0) (3 days ago)
+- [charmbracelet/bubbletea v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1) (5 days ago)
 
 ### 📄 Latest posts
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
