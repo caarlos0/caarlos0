@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (2 days ago)
-- [gohugoio/hugo v0.89.2](https://github.com/gohugoio/hugo/releases/tag/v0.89.2) (2 days ago)
-- [google/go-github v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0) (2 days ago)
-- [goreleaser/nfpm v2.8.0](https://github.com/goreleaser/nfpm/releases/tag/v2.8.0) (3 days ago)
-- [charmbracelet/bubbletea v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1) (5 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (3 days ago)
+- [gohugoio/hugo v0.89.2](https://github.com/gohugoio/hugo/releases/tag/v0.89.2) (3 days ago)
+- [google/go-github v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0) (3 days ago)
+- [goreleaser/nfpm v2.8.0](https://github.com/goreleaser/nfpm/releases/tag/v2.8.0) (4 days ago)
+- [charmbracelet/bubbletea v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1) (6 days ago)
 
 ### 📄 Latest posts
-- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (1 month ago)
+- [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 months ago)
@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Ahmed](https://github.com/Clivern) (1 week ago)
 - [Carl Tsai](https://github.com/moonape1226) (3 weeks ago)
-- [Ivan Santos](https://github.com/pragmaticivan) (3 weeks ago)
+- [Ivan Santos](https://github.com/pragmaticivan) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
