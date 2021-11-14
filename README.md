@@ -10,7 +10,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm v2.9.0](https://github.com/goreleaser/nfpm/releases/tag/v2.9.0) (1 day ago)
+- [goreleaser/nfpm v2.9.1](https://github.com/goreleaser/nfpm/releases/tag/v2.9.1) (today)
 - [containers/podman v3.4.2](https://github.com/containers/podman/releases/tag/v3.4.2) (2 days ago)
 - [sigstore/cosign v1.3.1](https://github.com/sigstore/cosign/releases/tag/v1.3.1) (3 days ago)
 - [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (6 days ago)
@@ -26,7 +26,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### ❤️ Sponsors
 - [Ahmed](https://github.com/Clivern) (1 week ago)
 - [Carl Tsai](https://github.com/moonape1226) (3 weeks ago)
-- [Ivan Santos](https://github.com/pragmaticivan) (1 month ago)
+- [Ronald Dehuysser](https://github.com/rdehuyss) (1 month ago)
 
 Many thanks everyone! 🙏
 
