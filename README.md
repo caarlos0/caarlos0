@@ -17,7 +17,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [sigstore/cosign v1.3.1](https://github.com/sigstore/cosign/releases/tag/v1.3.1) (4 days ago)
 
 ### 📄 Latest posts
-- [GoReleaser v1.0.0](https://carlosbecker.com/posts/goreleaser-v1/) (1 day ago)
+- [GoReleaser v1.0.0 is out](https://carlosbecker.com/posts/goreleaser-v1/) (1 day ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
