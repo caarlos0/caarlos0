@@ -10,18 +10,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm v2.9.1](https://github.com/goreleaser/nfpm/releases/tag/v2.9.1) (today)
-- [containers/podman v3.4.2](https://github.com/containers/podman/releases/tag/v3.4.2) (2 days ago)
-- [sigstore/cosign v1.3.1](https://github.com/sigstore/cosign/releases/tag/v1.3.1) (3 days ago)
-- [goreleaser/goreleaser-azure-devops-extension v0.1.19](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.19) (6 days ago)
-- [gohugoio/hugo v0.89.2](https://github.com/gohugoio/hugo/releases/tag/v0.89.2) (6 days ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 day ago)
+- [goreleaser/goreleaser-pro v1.0.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.0.0-pro) (1 day ago)
+- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (1 day ago)
+- [containers/podman v3.4.2](https://github.com/containers/podman/releases/tag/v3.4.2) (3 days ago)
+- [sigstore/cosign v1.3.1](https://github.com/sigstore/cosign/releases/tag/v1.3.1) (4 days ago)
 
 ### 📄 Latest posts
+- [GoReleaser v1.0.0](https://carlosbecker.com/posts/goreleaser-v1/) (1 day ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
 - [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 months ago)
-- [Incrementally measuring my internet speed with Prometheus](https://carlosbecker.com/posts/speedtest-prometheus/) (3 months ago)
 
 #### ❤️ Sponsors
 - [Ahmed](https://github.com/Clivern) (1 week ago)
