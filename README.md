@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (today)
 - [goreleaser/goreleaser-azure-devops-extension v0.1.20](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.20) (1 day ago)
-- [gohugoio/hugo v0.89.3](https://github.com/gohugoio/hugo/releases/tag/v0.89.3) (2 days ago)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (3 days ago)
 - [goreleaser/goreleaser-pro v1.0.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.0.0-pro) (3 days ago)
 - [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (3 days ago)
