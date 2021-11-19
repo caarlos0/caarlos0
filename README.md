@@ -10,14 +10,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr v0.2.6](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.6) (today)
-- [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension v0.1.20](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.20) (2 days ago)
-- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (4 days ago)
-- [goreleaser/goreleaser-pro v1.0.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.0.0-pro) (4 days ago)
+- [abhimanyu003/sttr v0.2.6](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.6) (1 day ago)
+- [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (2 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.20](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.20) (3 days ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (5 days ago)
+- [goreleaser/goreleaser-pro v1.0.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.0.0-pro) (5 days ago)
 
 ### 📄 Latest posts
-- [GoReleaser v1.0.0 is out](https://carlosbecker.com/posts/goreleaser-v1/) (4 days ago)
+- [GoReleaser v1.0.0 is out](https://carlosbecker.com/posts/goreleaser-v1/) (5 days ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (2 months ago)
