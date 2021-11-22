@@ -10,23 +10,23 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension v0.1.21](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.21) (2 days ago)
-- [abhimanyu003/sttr v0.2.6](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.6) (3 days ago)
-- [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (4 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.21](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.21) (3 days ago)
+- [abhimanyu003/sttr v0.2.6](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.6) (4 days ago)
+- [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (5 days ago)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 week ago)
 - [goreleaser/goreleaser-pro v1.0.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.0.0-pro) (1 week ago)
 
 ### 📄 Latest posts
+- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (1 day ago)
 - [GoReleaser v1.0.0 is out](https://carlosbecker.com/posts/goreleaser-v1/) (1 week ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
-- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (2 months ago)
+- [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (3 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 months ago)
-- [Multi-platform Docker images with GoReleaser, Podman and GitHub Actions](https://carlosbecker.com/posts/goreleaser-actions-podman/) (3 months ago)
 
 #### ❤️ Sponsors
-- [Ahmed](https://github.com/Clivern) (2 weeks ago)
-- [Carl Tsai](https://github.com/moonape1226) (1 month ago)
-- [Ronald Dehuysser](https://github.com/rdehuyss) (1 month ago)
+- [Loophole Labs](https://github.com/loopholelabs) (1 day ago)
+- [Suborbital](https://github.com/suborbital) (1 day ago)
+- [Dan POP](https://github.com/danpopnyc) (1 day ago)
 
 Many thanks everyone! 🙏
 
