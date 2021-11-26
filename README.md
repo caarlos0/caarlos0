@@ -10,23 +10,23 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0-graveyard/gorel-keyless v1.0.3](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.0.3) (3 days ago)
-- [goreleaser/goreleaser-azure-devops-extension v0.1.21](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.21) (6 days ago)
+- [caarlos0-graveyard/gorel-keyless v1.0.3](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.0.3) (4 days ago)
+- [goreleaser/goreleaser-azure-devops-extension v0.1.21](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.21) (1 week ago)
 - [abhimanyu003/sttr v0.2.6](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.6) (1 week ago)
 - [gohugoio/hugo v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4) (1 week ago)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 week ago)
 
 ### 📄 Latest posts
-- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (4 days ago)
+- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (5 days ago)
 - [GoReleaser v1.0.0 is out](https://carlosbecker.com/posts/goreleaser-v1/) (1 week ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (3 months ago)
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 months ago)
 
 #### ❤️ Sponsors
-- [Loophole Labs](https://github.com/loopholelabs) (4 days ago)
-- [Suborbital](https://github.com/suborbital) (4 days ago)
-- [Dan POP](https://github.com/danpopnyc) (4 days ago)
+- [Loophole Labs](https://github.com/loopholelabs) (5 days ago)
+- [Suborbital](https://github.com/suborbital) (5 days ago)
+- [Dan POP](https://github.com/danpopnyc) (5 days ago)
 
 Many thanks everyone! 🙏
 
