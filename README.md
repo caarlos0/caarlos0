@@ -24,9 +24,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 months ago)
 
 #### ❤️ Sponsors
+- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (today)
 - [Loophole Labs](https://github.com/loopholelabs) (1 week ago)
 - [Suborbital](https://github.com/suborbital) (1 week ago)
-- [Dan POP](https://github.com/danpopnyc) (1 week ago)
 
 Many thanks everyone! 🙏
 
