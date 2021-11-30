@@ -10,11 +10,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/goreleaserfiles v1.0.0](https://github.com/caarlos0/goreleaserfiles/releases/tag/v1.0.0) (today)
 - [google/go-github v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0) (1 day ago)
 - [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (2 days ago)
 - [goreleaser/goreleaser-pro v1.1.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.1.0-pro) (2 days ago)
 - [go-task/task v3.9.1](https://github.com/go-task/task/releases/tag/v3.9.1) (2 days ago)
-- [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (4 days ago)
 
 ### 📄 Latest posts
 - [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (1 week ago)
@@ -24,9 +24,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [Supply chain integrity with GoReleaser using Go mod proxy](https://carlosbecker.com/posts/supply-chain-goreleaser-go-mod-proxy/) (3 months ago)
 
 #### ❤️ Sponsors
+- [Paul Greenberg](https://github.com/greenpau) (today)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (2 days ago)
 - [Loophole Labs](https://github.com/loopholelabs) (1 week ago)
-- [Suborbital](https://github.com/suborbital) (1 week ago)
 
 Many thanks everyone! 🙏
 
