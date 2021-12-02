@@ -10,8 +10,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [cue-lang/cue v0.4.1-beta.6](https://github.com/cue-lang/cue/releases/tag/v0.4.1-beta.6) (today)
 - [caarlos0/env v6.8.0](https://github.com/caarlos0/env/releases/tag/v6.8.0) (1 day ago)
-- [cue-lang/cue v0.4.1-beta.3](https://github.com/cue-lang/cue/releases/tag/v0.4.1-beta.3) (1 day ago)
 - [caarlos0/goreleaserfiles v1.0.0](https://github.com/caarlos0/goreleaserfiles/releases/tag/v1.0.0) (2 days ago)
 - [google/go-github v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0) (3 days ago)
 - [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (4 days ago)
