@@ -10,21 +10,21 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-task/task v3.9.2](https://github.com/go-task/task/releases/tag/v3.9.2) (3 days ago)
-- [cue-lang/cue v0.4.1-beta.6](https://github.com/cue-lang/cue/releases/tag/v0.4.1-beta.6) (3 days ago)
-- [caarlos0/env v6.8.0](https://github.com/caarlos0/env/releases/tag/v6.8.0) (4 days ago)
-- [caarlos0/goreleaserfiles v1.0.0](https://github.com/caarlos0/goreleaserfiles/releases/tag/v1.0.0) (5 days ago)
-- [google/go-github v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0) (6 days ago)
+- [abhimanyu003/sttr v0.2.7](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.7) (1 day ago)
+- [go-task/task v3.9.2](https://github.com/go-task/task/releases/tag/v3.9.2) (4 days ago)
+- [cue-lang/cue v0.4.1-beta.6](https://github.com/cue-lang/cue/releases/tag/v0.4.1-beta.6) (4 days ago)
+- [caarlos0/env v6.8.0](https://github.com/caarlos0/env/releases/tag/v6.8.0) (5 days ago)
+- [caarlos0/goreleaserfiles v1.0.0](https://github.com/caarlos0/goreleaserfiles/releases/tag/v1.0.0) (6 days ago)
 
 ### 📄 Latest posts
-- [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 days ago)
+- [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (3 days ago)
 - [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (2 weeks ago)
 - [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (3 weeks ago)
 - [Using the new prebuilt builder on GoReleaser](https://carlosbecker.com/posts/goreleaser-prebuilt/) (2 months ago)
 - [Signing releases with cosign and GoReleaser](https://carlosbecker.com/posts/goreleaser-cosign/) (3 months ago)
 
 #### ❤️ Sponsors
-- [Paul Greenberg](https://github.com/greenpau) (5 days ago)
+- [Paul Greenberg](https://github.com/greenpau) (6 days ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 week ago)
 - [Loophole Labs](https://github.com/loopholelabs) (2 weeks ago)
 
