@@ -4,25 +4,19 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 2 }}
-- **[{{ .Name }}]({{ .URL }}){{ with .Description }}** - {{ . }}{{ end }}
+{{- range recentRepos 5 }}
+- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 #### 🚀 Latest releases I've contributed to
 
-{{ range recentReleases 2 }}
-- {{ .Name }} [{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
-
-#### 📄 Latest posts
-
-{{- range rss "https://carlosbecker.com/posts/index.xml" 2 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{ range recentReleases 5 }}
+- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
 #### ❤️ Sponsors
 
-{{- range sponsors 2 }}
+{{- range sponsors 5 }}
 - [{{ .User.Name }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
@@ -36,6 +30,12 @@ Many thanks everyone! 🙏
 
 #### ⭐ Recent Stars
 
-{{ range recentStars 2 }}
-- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }}** - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+{{ range recentStars 5 }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+{{- end }}
+
+#### 📄 Latest posts
+
+{{- range rss "https://carlosbecker.com/posts/index.xml" 3 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
