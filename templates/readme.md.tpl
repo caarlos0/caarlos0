@@ -37,5 +37,5 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 {{ range recentStars 2 }}
-- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Description }}** - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }}** - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
