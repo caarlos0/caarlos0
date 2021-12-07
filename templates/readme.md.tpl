@@ -33,3 +33,9 @@ Many thanks everyone! 🙏
 {{- range goodReadsCurrentlyReading 3 }}
 - _[{{ .Book.Title }}]({{ .Book.Link }})_ by {{ range .Book.Authors }}{{ .Name }}{{ end }}
 {{- end}}
+
+#### ⭐ Recent Stars
+
+{{range recentStars 5}}
+- **[{{.Repo.Name}}]({{.Repo.URL}})** - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
