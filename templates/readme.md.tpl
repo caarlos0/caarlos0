@@ -5,7 +5,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 3 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+- **[{{ .Name }}]({{ .URL }}){{ with .Description }}** - {{ . }}{{ end }}
 {{- end }}
 
 #### 🚀 Latest releases I've contributed to
@@ -31,11 +31,11 @@ Many thanks everyone! 🙏
 #### 📚 Some books I'm reading
 
 {{- range goodReadsCurrentlyReading 3 }}
-- _[{{ .Book.Title }}]({{ .Book.Link }})_ by {{ range .Book.Authors }}{{ .Name }}{{ end }}
+- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end}}
 
 #### ⭐ Recent Stars
 
-{{range recentStars 5}}
+{{range recentStars 3}}
 - **[{{.Repo.Name}}]({{.Repo.URL}})** - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
