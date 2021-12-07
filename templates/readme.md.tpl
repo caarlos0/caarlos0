@@ -14,7 +14,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [{{ .Name }} {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
-### 📄 Latest posts
+#### 📄 Latest posts
 
 {{- range rss "https://carlosbecker.com/posts/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
