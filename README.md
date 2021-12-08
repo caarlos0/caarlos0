@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo @ v0.90.0](https://github.com/gohugoio/hugo/releases/tag/v0.90.0) (today)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.23](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.23) (1 day ago)
 - [containers/podman @ v3.4.3](https://github.com/containers/podman/releases/tag/v3.4.3) (1 day ago)
 - [charmbracelet/soft-serve @ v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0) (1 day ago)
 - [sigstore/cosign @ v1.4.0](https://github.com/sigstore/cosign/releases/tag/v1.4.0) (1 day ago)
-- [charmbracelet/wish @ v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 days ago)
