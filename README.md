@@ -35,7 +35,7 @@ Many thanks everyone! 🙏
 
 
 - **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (1 day ago)
-- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - A tasty, self-hosted Git server for the command line🍦 (1 day ago)
+- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - **[charmbracelet/wish](https://github.com/charmbracelet/wish)** - Make SSH apps, just like that! 💫 (2 days ago)
 - **[github/codeql-action](https://github.com/github/codeql-action)** - Actions for running CodeQL analysis (2 days ago)
 - **[anchore/syft](https://github.com/anchore/syft)** - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (2 days ago)
