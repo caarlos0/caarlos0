@@ -44,3 +44,5 @@ Many thanks everyone! 🙏
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (5 days ago)
 - [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (2 weeks ago)
 - [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (3 weeks ago)
+
+
