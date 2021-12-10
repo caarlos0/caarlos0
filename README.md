@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (today)
 - [gohugoio/hugo @ v0.90.1](https://github.com/gohugoio/hugo/releases/tag/v0.90.1) (today)
 - [charmbracelet/soft-serve @ v0.1.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.1) (1 day ago)
 - [charmbracelet/charm @ v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1) (2 days ago)
 - [containers/podman @ v3.4.4](https://github.com/containers/podman/releases/tag/v3.4.4) (2 days ago)
-- [caarlos0/parttysh @ v0.1.0](https://github.com/caarlos0/parttysh/releases/tag/v0.1.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (4 days ago)
