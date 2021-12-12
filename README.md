@@ -12,7 +12,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0-graveyard/gorel-keyless @ v1.1.1](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.1) (1 day ago)
+- [caarlos0-graveyard/gorel-keyless @ v1.1.2](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.2) (today)
 - [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (2 days ago)
 - [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (2 days ago)
 - [gohugoio/hugo @ v0.90.1](https://github.com/gohugoio/hugo/releases/tag/v0.90.1) (2 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (today)
 - **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (4 days ago)
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (4 days ago)
 - **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (4 days ago)
 - **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (5 days ago)
-- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (1 week ago)
