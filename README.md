@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (1 day ago)
-- [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (1 day ago)
-- [gohugoio/hugo @ v0.90.1](https://github.com/gohugoio/hugo/releases/tag/v0.90.1) (1 day ago)
-- [charmbracelet/charm @ v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1) (3 days ago)
-- [containers/podman @ v3.4.4](https://github.com/containers/podman/releases/tag/v3.4.4) (3 days ago)
+- [caarlos0-graveyard/gorel-keyless @ v1.1.1](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.1) (1 day ago)
+- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (2 days ago)
+- [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (2 days ago)
+- [gohugoio/hugo @ v0.90.1](https://github.com/gohugoio/hugo/releases/tag/v0.90.1) (2 days ago)
+- [charmbracelet/charm @ v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1) (4 days ago)
 
 #### ❤️ Sponsors
-- [Nicolas Gotchac](https://github.com/ngotchac) (5 days ago)
+- [Nicolas Gotchac](https://github.com/ngotchac) (6 days ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 week ago)
-- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 week ago)
-- [Loophole Labs](https://github.com/loopholelabs) (2 weeks ago)
-- [Suborbital](https://github.com/suborbital) (2 weeks ago)
+- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (2 weeks ago)
+- [Loophole Labs](https://github.com/loopholelabs) (3 weeks ago)
+- [Suborbital](https://github.com/suborbital) (3 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (3 days ago)
-- **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (3 days ago)
-- **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (3 days ago)
-- **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (4 days ago)
-- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (4 days ago)
+- **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (4 days ago)
+- **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (4 days ago)
+- **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (5 days ago)
+- **[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)** - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (1 week ago)
-- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (2 weeks ago)
-- [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (3 weeks ago)
+- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (3 weeks ago)
+- [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (4 weeks ago)
