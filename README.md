@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr @ v0.2.8](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.8) (1 day ago)
-- [caarlos0-graveyard/gorel-keyless @ v1.1.2](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.2) (2 days ago)
-- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (4 days ago)
-- [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (4 days ago)
-- [gohugoio/hugo @ v0.90.1](https://github.com/gohugoio/hugo/releases/tag/v0.90.1) (4 days ago)
+- [spf13/cobra @ v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0) (1 day ago)
+- [abhimanyu003/sttr @ v0.2.8](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.8) (2 days ago)
+- [caarlos0-graveyard/gorel-keyless @ v1.1.2](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.2) (3 days ago)
+- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (5 days ago)
+- [sigstore/cosign @ v1.4.1](https://github.com/sigstore/cosign/releases/tag/v1.4.1) (5 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
@@ -34,10 +34,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 days ago)
-- **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (6 days ago)
-- **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (6 days ago)
-- **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (6 days ago)
+- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 days ago)
+- **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
+- **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (1 week ago)
+- **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (1 week ago)
 - **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (1 week ago)
 
 #### 📄 Latest posts
