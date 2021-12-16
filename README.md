@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/gitty @ v0.4.0](https://github.com/muesli/gitty/releases/tag/v0.4.0) (today)
-- [spf13/cobra @ v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0) (1 day ago)
-- [abhimanyu003/sttr @ v0.2.8](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.8) (2 days ago)
-- [caarlos0-graveyard/gorel-keyless @ v1.1.2](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.2) (3 days ago)
-- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (5 days ago)
+- [caarlos0-graveyard/gorel-keyless @ v1.1.3](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.3) (1 day ago)
+- [muesli/gitty @ v0.4.0](https://github.com/muesli/gitty/releases/tag/v0.4.0) (1 day ago)
+- [spf13/cobra @ v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0) (2 days ago)
+- [abhimanyu003/sttr @ v0.2.8](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.8) (3 days ago)
+- [charmbracelet/soft-serve @ v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2) (6 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
@@ -34,7 +34,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 days ago)
+- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (4 days ago)
 - **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (1 week ago)
 - **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (1 week ago)
