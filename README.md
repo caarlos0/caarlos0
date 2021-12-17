@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (today)
 - [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (today)
 - [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (1 day ago)
 - [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (1 day ago)
 - [goreleaser/nfpm @ v2.11.0](https://github.com/goreleaser/nfpm/releases/tag/v2.11.0) (1 day ago)
-- [caarlos0-graveyard/gorel-keyless @ v1.1.3](https://github.com/caarlos0-graveyard/gorel-keyless/releases/tag/v1.1.3) (2 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (today)
+- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (today)
 - **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (5 days ago)
 - **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (1 week ago)
-- **[charmbracelet/promwish](https://github.com/charmbracelet/promwish)** - Prometheus middleware for wish (1 week ago)
-- **[charmbracelet/skate](https://github.com/charmbracelet/skate)** - A personal key value store 🛼 (1 week ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 weeks ago)
