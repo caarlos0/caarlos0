@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (today)
 - [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (1 day ago)
 - [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (1 day ago)
 - [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (2 days ago)
 - [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (2 days ago)
-- [goreleaser/nfpm @ v2.11.0](https://github.com/goreleaser/nfpm/releases/tag/v2.11.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
