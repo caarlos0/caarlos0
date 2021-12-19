@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (today)
-- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (1 day ago)
-- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (1 day ago)
-- [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (2 days ago)
-- [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (2 days ago)
+- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (1 day ago)
+- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (2 days ago)
+- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (2 days ago)
+- [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (3 days ago)
+- [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (3 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
 - [Paul Greenberg](https://github.com/greenpau) (2 weeks ago)
-- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (2 weeks ago)
-- [Loophole Labs](https://github.com/loopholelabs) (3 weeks ago)
-- [Suborbital](https://github.com/suborbital) (3 weeks ago)
+- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (3 weeks ago)
+- [Loophole Labs](https://github.com/loopholelabs) (4 weeks ago)
+- [Suborbital](https://github.com/suborbital) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (1 day ago)
-- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (1 day ago)
-- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (6 days ago)
+- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (2 days ago)
+- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (2 days ago)
+- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
 - **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh (1 week ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 weeks ago)
-- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (3 weeks ago)
+- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (4 weeks ago)
 - [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (1 month ago)
