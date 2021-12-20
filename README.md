@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (today)
 - **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (1 day ago)
 - **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (3 days ago)
 - **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (3 days ago)
 - **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
-- **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 weeks ago)
