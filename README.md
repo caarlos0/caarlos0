@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (1 day ago)
-- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (2 days ago)
-- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (2 days ago)
-- [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (3 days ago)
-- [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (3 days ago)
+- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (2 days ago)
+- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (3 days ago)
+- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (3 days ago)
+- [charmbracelet/charm @ v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2) (4 days ago)
+- [abhimanyu003/sttr @ v0.2.9](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.9) (4 days ago)
 
 #### ❤️ Sponsors
-- [Nicolas Gotchac](https://github.com/ngotchac) (1 week ago)
+- [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
 - [Paul Greenberg](https://github.com/greenpau) (2 weeks ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (3 weeks ago)
 - [Loophole Labs](https://github.com/loopholelabs) (4 weeks ago)
@@ -34,9 +34,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (today)
-- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (2 days ago)
-- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (2 days ago)
+- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (1 day ago)
+- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (3 days ago)
+- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (3 days ago)
 - **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
 - **[aws/karpenter](https://github.com/aws/karpenter)** - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (1 week ago)
 
