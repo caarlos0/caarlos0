@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser @ v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1) (today)
+- [goreleaser/goreleaser-pro @ v1.2.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.1-pro) (today)
 - [abhimanyu003/sttr @ v0.2.10](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.10) (1 day ago)
 - [goreleaser/nfpm @ v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
 - [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (4 days ago)
-- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (5 days ago)
-- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
 - [Paul Greenberg](https://github.com/greenpau) (3 weeks ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (3 weeks ago)
-- [Loophole Labs](https://github.com/loopholelabs) (1 month ago)
-- [Suborbital](https://github.com/suborbital) (1 month ago)
+- [Oleg Kovalov](https://github.com/cristaloleg) (1 month ago)
+- [Carl Tsai](https://github.com/moonape1226) (2 months ago)
 
 Many thanks everyone! 🙏
 
