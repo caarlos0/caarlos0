@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [abhimanyu003/sttr @ v0.2.10](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.10) (today)
-- [goreleaser/nfpm @ v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (today)
-- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (3 days ago)
-- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (4 days ago)
-- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (4 days ago)
+- [abhimanyu003/sttr @ v0.2.10](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.10) (1 day ago)
+- [goreleaser/nfpm @ v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
+- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (4 days ago)
+- [charmbracelet/bubbletea @ v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2) (5 days ago)
+- [gohugoio/hugo @ v0.91.0](https://github.com/gohugoio/hugo/releases/tag/v0.91.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
@@ -34,10 +34,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (1 day ago)
-- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (2 days ago)
-- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (4 days ago)
-- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (4 days ago)
+- **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (2 days ago)
+- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (3 days ago)
+- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (5 days ago)
+- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (5 days ago)
 - **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
 
 #### 📄 Latest posts
