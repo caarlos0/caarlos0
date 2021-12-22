@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-pro @ v1.2.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.2-pro) (today)
+- [gohugoio/hugo @ v0.91.1](https://github.com/gohugoio/hugo/releases/tag/v0.91.1) (today)
 - [goreleaser/goreleaser @ v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1) (today)
-- [goreleaser/goreleaser-pro @ v1.2.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.1-pro) (today)
 - [abhimanyu003/sttr @ v0.2.10](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.10) (1 day ago)
 - [goreleaser/nfpm @ v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
-- [muesli/gitty @ v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1) (4 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
