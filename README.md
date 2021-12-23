@@ -41,6 +41,6 @@ Many thanks everyone! 🙏
 - **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (6 days ago)
 
 #### 📄 Latest posts
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 day ago)
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 weeks ago)
 - [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (1 month ago)
-- [GoReleaser v1.0.0 is out!](https://carlosbecker.com/posts/goreleaser-v1/) (1 month ago)
