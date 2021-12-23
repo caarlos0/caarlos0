@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ v1.2.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.2-pro) (today)
-- [gohugoio/hugo @ v0.91.1](https://github.com/gohugoio/hugo/releases/tag/v0.91.1) (today)
-- [goreleaser/goreleaser @ v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1) (today)
-- [abhimanyu003/sttr @ v0.2.10](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.10) (1 day ago)
-- [goreleaser/nfpm @ v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
+- [goreleaser/nfpm @ v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (1 day ago)
+- [goreleaser/supply-chain-example @ v1.0.1](https://github.com/goreleaser/supply-chain-example/releases/tag/v1.0.1) (1 day ago)
+- [goreleaser/goreleaser @ v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.2.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.2-pro) (1 day ago)
+- [gohugoio/hugo @ v0.91.1](https://github.com/gohugoio/hugo/releases/tag/v0.91.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (2 days ago)
-- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (3 days ago)
-- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (5 days ago)
-- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (5 days ago)
-- **[prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)** - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
+- **[goreleaser/supply-chain-example](https://github.com/goreleaser/supply-chain-example)** - Example goreleaser &#43; github actions config with keyless signing and SBOM generation (1 day ago)
+- **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (3 days ago)
+- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (4 days ago)
+- **[alicebob/miniredis](https://github.com/alicebob/miniredis)** - Pure Go Redis server for Go unittests (6 days ago)
+- **[Eugeny/tabby](https://github.com/Eugeny/tabby)** - A terminal for a more modern age (formerly Terminus) (6 days ago)
 
 #### 📄 Latest posts
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (2 weeks ago)
