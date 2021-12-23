@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/domain_exporter @ v1.15.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.15.0) (today)
+- [gohugoio/hugo @ v0.91.2](https://github.com/gohugoio/hugo/releases/tag/v0.91.2) (today)
+- [goreleaser/supply-chain-example @ v1.2.0](https://github.com/goreleaser/supply-chain-example/releases/tag/v1.2.0) (today)
 - [goreleaser/nfpm @ v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (1 day ago)
-- [goreleaser/supply-chain-example @ v1.0.1](https://github.com/goreleaser/supply-chain-example/releases/tag/v1.0.1) (1 day ago)
 - [goreleaser/goreleaser @ v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.2.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.2-pro) (1 day ago)
-- [gohugoio/hugo @ v0.91.1](https://github.com/gohugoio/hugo/releases/tag/v0.91.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 weeks ago)
