@@ -12,10 +12,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/domain_exporter @ v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (today)
 - [muesli/gitty @ v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0) (1 day ago)
 - [abhimanyu003/sttr @ v0.2.12](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.12) (3 days ago)
 - [caarlos0/dotfiles.fish @ v4.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v4.3.0) (4 days ago)
-- [caarlos0/domain_exporter @ v1.15.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.15.0) (4 days ago)
 - [gohugoio/hugo @ v0.91.2](https://github.com/gohugoio/hugo/releases/tag/v0.91.2) (4 days ago)
 
 #### ❤️ Sponsors
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (today)
 - **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (3 days ago)
 - **[carlmjohnson/requests](https://github.com/carlmjohnson/requests)** - HTTP requests for Gophers (3 days ago)
 - **[goreleaser/supply-chain-example](https://github.com/goreleaser/supply-chain-example)** - Example goreleaser &#43; github actions config with keyless signing and SBOM generation (5 days ago)
 - **[atotto/clipboard](https://github.com/atotto/clipboard)** - clipboard for golang (1 week ago)
-- **[picocss/pico](https://github.com/picocss/pico)** - Minimal CSS Framework for semantic HTML (1 week ago)
 
 #### 📄 Latest posts
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (5 days ago)
