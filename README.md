@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm @ v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (today)
-- [caarlos0/svu @ v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (1 day ago)
-- [caarlos0/domain_exporter @ v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (1 day ago)
-- [muesli/gitty @ v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0) (2 days ago)
-- [abhimanyu003/sttr @ v0.2.12](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.12) (4 days ago)
+- [goreleaser/nfpm @ v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (1 day ago)
+- [caarlos0/svu @ v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 days ago)
+- [caarlos0/domain_exporter @ v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (2 days ago)
+- [muesli/gitty @ v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0) (3 days ago)
+- [abhimanyu003/sttr @ v0.2.12](https://github.com/abhimanyu003/sttr/releases/tag/v0.2.12) (5 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (3 weeks ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (1 day ago)
-- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (1 day ago)
-- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (1 day ago)
-- **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (4 days ago)
-- **[carlmjohnson/requests](https://github.com/carlmjohnson/requests)** - HTTP requests for Gophers (4 days ago)
+- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (2 days ago)
+- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (2 days ago)
+- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (2 days ago)
+- **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (5 days ago)
+- **[carlmjohnson/requests](https://github.com/carlmjohnson/requests)** - HTTP requests for Gophers (5 days ago)
 
 #### 📄 Latest posts
-- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (6 days ago)
+- [./charm.sh](https://carlosbecker.com/posts/charm/) (1 day ago)
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 week ago)
 - [Changelog grouping with GoReleaser v1.1](https://carlosbecker.com/posts/goreleaser-changelog-groups/) (3 weeks ago)
-- [Testing Linux packages on GitHub Actions](https://carlosbecker.com/posts/linux-pkgs-github-actions/) (1 month ago)
