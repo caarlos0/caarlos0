@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/gitty @ v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0) (today)
-- [caarlos0/env @ v6.9.0](https://github.com/caarlos0/env/releases/tag/v6.9.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.2.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.3) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.2.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.3-pro) (1 day ago)
-- [goreleaser/nfpm @ v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (2 days ago)
+- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (today)
+- [goreleaser/goreleaser @ v1.2.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.4) (today)
+- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (today)
+- [goreleaser/goreleaser-pro @ v1.2.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.4-pro) (today)
+- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (today)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (today)
 - **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (3 days ago)
 - **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (3 days ago)
 - **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (3 days ago)
 - **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (6 days ago)
-- **[carlmjohnson/requests](https://github.com/carlmjohnson/requests)** - HTTP requests for Gophers (6 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (2 days ago)
