@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.2.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.4) (1 day ago)
-- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.2.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.4-pro) (1 day ago)
-- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (1 day ago)
+- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (1 day ago)
+- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (2 days ago)
+- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (2 days ago)
+- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (3 weeks ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (1 day ago)
-- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (4 days ago)
-- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (4 days ago)
-- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (4 days ago)
+- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (2 days ago)
+- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (5 days ago)
+- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (5 days ago)
+- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (5 days ago)
 - **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (1 week ago)
 
 #### 📄 Latest posts
-- [./charm.sh](https://carlosbecker.com/posts/charm/) (3 days ago)
+- [./charm.sh](https://carlosbecker.com/posts/charm/) (4 days ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 week ago)
 - [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (1 week ago)
