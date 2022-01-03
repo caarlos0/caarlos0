@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (2 days ago)
-- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (3 days ago)
-- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (3 days ago)
-- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (3 days ago)
+- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (3 days ago)
+- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (3 days ago)
+- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (4 days ago)
+- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (4 days ago)
+- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (4 days ago)
 
 #### ❤️ Sponsors
-- [Nicolas Gotchac](https://github.com/ngotchac) (3 weeks ago)
+- [Nicolas Gotchac](https://github.com/ngotchac) (4 weeks ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
 - [Oleg Kovalov](https://github.com/cristaloleg) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (3 days ago)
-- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (6 days ago)
-- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (6 days ago)
-- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (6 days ago)
+- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (4 days ago)
+- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (1 week ago)
+- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (1 week ago)
+- **[cyphar/paperback](https://github.com/cyphar/paperback)** - Paper backup generator suitable for long-term storage. (1 week ago)
 - **[vercel/turborepo](https://github.com/vercel/turborepo)** - The High-performance Build System for JavaScript &amp; TypeScript Codebases (1 week ago)
 
 #### 📄 Latest posts
-- [./charm.sh](https://carlosbecker.com/posts/charm/) (5 days ago)
+- [./charm.sh](https://carlosbecker.com/posts/charm/) (6 days ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 week ago)
 - [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (1 week ago)
