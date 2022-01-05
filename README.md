@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (4 days ago)
-- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (4 days ago)
-- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (5 days ago)
-- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (5 days ago)
-- [caarlos0/env @ v6.9.1](https://github.com/caarlos0/env/releases/tag/v6.9.1) (5 days ago)
+- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (5 days ago)
+- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (5 days ago)
+- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (6 days ago)
+- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (6 days ago)
 
 #### ❤️ Sponsors
-- [Nicolas Gotchac](https://github.com/ngotchac) (4 weeks ago)
+- [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
 - [Oleg Kovalov](https://github.com/cristaloleg) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (today)
-- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (1 day ago)
-- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (5 days ago)
+- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (1 day ago)
+- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (2 days ago)
+- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (6 days ago)
 - **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (1 week ago)
 - **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
-- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 week ago)
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (2 weeks ago)
 - [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (2 weeks ago)
