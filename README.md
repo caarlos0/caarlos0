@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (today)
 - **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (1 day ago)
 - **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (2 days ago)
 - **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (6 days ago)
 - **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (1 week ago)
-- **[sigstore/rekor](https://github.com/sigstore/rekor)** - Supply Chain Transparency Log (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
