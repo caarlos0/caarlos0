@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (today)
 - [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (2 days ago)
 - [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (6 days ago)
 - [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (6 days ago)
 - [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (1 week ago)
-- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
