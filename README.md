@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (5 days ago)
-- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (5 days ago)
-- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (6 days ago)
-- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (6 days ago)
+- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (6 days ago)
+- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (6 days ago)
+- [caarlos0/twitter-cleaner @ v0.7.0](https://github.com/caarlos0/twitter-cleaner/releases/tag/v0.7.0) (1 week ago)
+- [caarlos0/jsonfmt @ v0.4.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.4.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,10 +34,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (today)
-- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (1 day ago)
-- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (2 days ago)
-- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (6 days ago)
+- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (1 day ago)
+- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (2 days ago)
+- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (3 days ago)
+- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (1 week ago)
 - **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** - OCI Image Format (1 week ago)
 
 #### 📄 Latest posts
