@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (today)
 - **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (1 day ago)
 - **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (3 days ago)
 - **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (4 days ago)
 - **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (5 days ago)
-- **[caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)** -  Like gofmt, but for JSON files. (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
