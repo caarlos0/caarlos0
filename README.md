@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (today)
 - [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (1 day ago)
 - [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (2 days ago)
 - [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (4 days ago)
 - [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (1 week ago)
-- [goreleaser/goreleaser-pro @ v1.2.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.2.5-pro) (1 week ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
