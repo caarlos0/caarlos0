@@ -12,10 +12,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (today)
-- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (1 day ago)
-- [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (2 days ago)
-- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (4 days ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (1 day ago)
+- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (2 days ago)
+- [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (3 days ago)
+- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (5 days ago)
 - [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (1 week ago)
 
 #### ❤️ Sponsors
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (today)
-- **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (1 day ago)
-- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (3 days ago)
-- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (4 days ago)
-- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (5 days ago)
+- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (1 day ago)
+- **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (2 days ago)
+- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (4 days ago)
+- **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (5 days ago)
+- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (6 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
