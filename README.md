@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (today)
 - **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (2 days ago)
 - **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (3 days ago)
 - **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (5 days ago)
 - **[uber-go/goleak](https://github.com/uber-go/goleak)** - Goroutine leak detector (6 days ago)
-- **[moniquelive/gocheat](https://github.com/moniquelive/gocheat)** - Golang terminal client for cht.sh that uses charm.sh&#39;s bubbletea project (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
