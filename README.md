@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (2 days ago)
-- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (3 days ago)
-- [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (4 days ago)
-- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (6 days ago)
-- [goreleaser/goreleaser @ v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (1 week ago)
+- [containers/podman @ v4.0.0-rc1](https://github.com/containers/podman/releases/tag/v4.0.0-rc1) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (3 days ago)
+- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (4 days ago)
+- [cue-lang/cue @ v0.4.1-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.1) (5 days ago)
+- [go-task/task @ v3.10.0](https://github.com/go-task/task/releases/tag/v3.10.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[fxlib/envopts](https://github.com/fxlib/envopts)** - Provides a code generator for turning env structs into functional options (today)
-- **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (today)
-- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (2 days ago)
-- **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (3 days ago)
-- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (5 days ago)
+- **[fxlib/envopts](https://github.com/fxlib/envopts)** - Provides a code generator for turning env structs into functional options (1 day ago)
+- **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (1 day ago)
+- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (3 days ago)
+- **[spiffe/spire](https://github.com/spiffe/spire)** - The SPIFFE Runtime Environment (4 days ago)
+- **[sigstore/friends](https://github.com/sigstore/friends)** - Sigstore user stories (6 days ago)
 
 #### 📄 Latest posts
-- [./charm.sh](https://carlosbecker.com/posts/charm/) (1 week ago)
+- [./charm.sh](https://carlosbecker.com/posts/charm/) (2 weeks ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (2 weeks ago)
-- [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (2 weeks ago)
+- [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (3 weeks ago)
