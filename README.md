@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/wishlist @ v0.1.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.1) (today)
-- [cue-lang/cue @ v0.4.1-rc.2](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.2) (today)
-- [containers/podman @ v4.0.0-rc1](https://github.com/containers/podman/releases/tag/v4.0.0-rc1) (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (3 days ago)
-- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (4 days ago)
+- [charmbracelet/wishlist @ v0.1.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.1) (1 day ago)
+- [cue-lang/cue @ v0.4.1-rc.2](https://github.com/cue-lang/cue/releases/tag/v0.4.1-rc.2) (1 day ago)
+- [containers/podman @ v4.0.0-rc1](https://github.com/containers/podman/releases/tag/v4.0.0-rc1) (2 days ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24) (4 days ago)
+- [charmbracelet/bubbletea @ v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3) (5 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (today)
-- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH app directory ✨ (today)
-- **[fxlib/envopts](https://github.com/fxlib/envopts)** - Provides a code generator for turning env structs into functional options (1 day ago)
-- **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (1 day ago)
-- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (3 days ago)
+- **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (1 day ago)
+- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH app directory ✨ (1 day ago)
+- **[fxlib/envopts](https://github.com/fxlib/envopts)** - Provides a code generator for turning env structs into functional options (2 days ago)
+- **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (2 days ago)
+- **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (4 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (2 weeks ago)
-- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (2 weeks ago)
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (3 weeks ago)
 - [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (3 weeks ago)
