@@ -35,7 +35,7 @@ Many thanks everyone! 🙏
 
 
 - **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (1 day ago)
-- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH app directory ✨ (1 day ago)
+- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH directory ✨ (1 day ago)
 - **[fxlib/envopts](https://github.com/fxlib/envopts)** - Provides a code generator for turning env structs into functional options (2 days ago)
 - **[anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)** - A curated list of OPA related tools, frameworks and articles (2 days ago)
 - **[kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)** - Go parser for ssh_config files (4 days ago)
