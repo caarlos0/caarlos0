@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github @ v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0) (today)
 - [charmbracelet/wish @ v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2) (1 day ago)
 - [charmbracelet/wishlist @ v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3) (1 day ago)
 - [cue-lang/cue @ v0.4.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1) (1 day ago)
 - [gohugoio/hugo @ v0.92.0](https://github.com/gohugoio/hugo/releases/tag/v0.92.0) (1 day ago)
-- [containers/podman @ v4.0.0-rc1](https://github.com/containers/podman/releases/tag/v4.0.0-rc1) (3 days ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
