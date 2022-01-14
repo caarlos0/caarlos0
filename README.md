@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github @ v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0) (today)
-- [charmbracelet/wish @ v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2) (1 day ago)
-- [charmbracelet/wishlist @ v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3) (1 day ago)
-- [cue-lang/cue @ v0.4.1](https://github.com/cue-lang/cue/releases/tag/v0.4.1) (1 day ago)
-- [gohugoio/hugo @ v0.92.0](https://github.com/gohugoio/hugo/releases/tag/v0.92.0) (1 day ago)
+- [charmbracelet/bubbles @ v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.0) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.3.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.3.0-pro) (1 day ago)
+- [charmbracelet/soft-serve @ v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3) (1 day ago)
+- [google/go-github @ v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (1 day ago)
-- **[muesli/mango](https://github.com/muesli/mango)** - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
-- **[rancher/rancher](https://github.com/rancher/rancher)** - Complete container management platform (1 day ago)
-- **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (2 days ago)
-- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH directory ✨ (2 days ago)
+- **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (2 days ago)
+- **[muesli/mango](https://github.com/muesli/mango)** - mango is a man-page generator for the Go flag, pflag, and cobra packages (2 days ago)
+- **[rancher/rancher](https://github.com/rancher/rancher)** - Complete container management platform (2 days ago)
+- **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (3 days ago)
+- **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH directory ✨ (3 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (2 weeks ago)
