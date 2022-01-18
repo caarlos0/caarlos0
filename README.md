@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (today)
 - [caarlos0-graveyard/test @ v0.1.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.4) (1 day ago)
 - [charmbracelet/confettysh @ v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1) (1 day ago)
 - [goreleaser/goreleaser-action @ v2.8.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.1) (4 days ago)
 - [goreleaser/goreleaser @ v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1) (4 days ago)
-- [goreleaser/goreleaser-pro @ v1.3.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.3.1-pro) (4 days ago)
 
 #### ❤️ Sponsors
 - [Ryan Nixon](https://github.com/taiidani) (4 days ago)
