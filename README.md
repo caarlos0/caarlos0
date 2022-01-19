@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (today)
-- [caarlos0-graveyard/test @ v0.1.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.4) (1 day ago)
-- [charmbracelet/confettysh @ v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1) (1 day ago)
-- [goreleaser/goreleaser-action @ v2.8.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.1) (4 days ago)
-- [goreleaser/goreleaser @ v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1) (4 days ago)
+- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (1 day ago)
+- [caarlos0-graveyard/test @ v0.1.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.4) (2 days ago)
+- [charmbracelet/confettysh @ v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1) (2 days ago)
+- [goreleaser/goreleaser-action @ v2.8.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.1) (5 days ago)
+- [goreleaser/goreleaser @ v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1) (5 days ago)
 
 #### ❤️ Sponsors
-- [Ryan Nixon](https://github.com/taiidani) (4 days ago)
+- [Ryan Nixon](https://github.com/taiidani) (5 days ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (6 days ago)
-- **[muesli/mango](https://github.com/muesli/mango)** - mango is a man-page generator for the Go flag, pflag, and cobra packages (6 days ago)
-- **[rancher/rancher](https://github.com/rancher/rancher)** - Complete container management platform (6 days ago)
+- **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (1 week ago)
+- **[muesli/mango](https://github.com/muesli/mango)** - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 week ago)
+- **[rancher/rancher](https://github.com/rancher/rancher)** - Complete container management platform (1 week ago)
 - **[muesli/roff](https://github.com/muesli/roff)** - roff lets you write roff documents in Go (1 week ago)
 - **[charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)** - The SSH directory ✨ (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
-- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (3 weeks ago)
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (4 weeks ago)
 - [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (4 weeks ago)
