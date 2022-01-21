@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[neovim/neovim](https://github.com/neovim/neovim)** - Vim-fork focused on extensibility and usability (today)
+- **[sahilm/fuzzy](https://github.com/sahilm/fuzzy)** - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. (today)
 - **[google/uuid](https://github.com/google/uuid)** - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. (1 day ago)
 - **[Jguer/yay](https://github.com/Jguer/yay)** - Yet another Yogurt - An AUR Helper written in Go (1 day ago)
 - **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (1 week ago)
-- **[muesli/mango](https://github.com/muesli/mango)** - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 week ago)
-- **[rancher/rancher](https://github.com/rancher/rancher)** - Complete container management platform (1 week ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
