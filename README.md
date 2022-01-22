@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)** (today)
+- **[tjdevries/config_manager](https://github.com/tjdevries/config_manager)** - My configuration files and tools (today)
+- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (today)
 - **[nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)** - FZY style sorter that is compiled (today)
 - **[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)** - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (today)
-- **[airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)** - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. (today)
-- **[vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)** - lean &amp; mean status/tabline for vim that&#39;s light as air (today)
-- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (today)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
