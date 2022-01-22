@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (1 day ago)
-- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (2 days ago)
-- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (3 days ago)
-- [charmbracelet/confettysh @ v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1) (4 days ago)
-- [goreleaser/goreleaser-action @ v2.8.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.1) (1 week ago)
+- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (1 day ago)
+- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (2 days ago)
+- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (3 days ago)
+- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (4 days ago)
+- [charmbracelet/confettysh @ v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1) (5 days ago)
 
 #### ❤️ Sponsors
+- [Tom Payne](https://github.com/twpayne) (1 day ago)
 - [Ryan Nixon](https://github.com/taiidani) (1 week ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
 - [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
-- [Oleg Kovalov](https://github.com/cristaloleg) (2 months ago)
 
 Many thanks everyone! 🙏
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[neovim/neovim](https://github.com/neovim/neovim)** - Vim-fork focused on extensibility and usability (today)
-- **[sahilm/fuzzy](https://github.com/sahilm/fuzzy)** - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. (today)
-- **[google/uuid](https://github.com/google/uuid)** - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. (1 day ago)
-- **[Jguer/yay](https://github.com/Jguer/yay)** - Yet another Yogurt - An AUR Helper written in Go (1 day ago)
-- **[bashbunni/dotfiles](https://github.com/bashbunni/dotfiles)** - My config/dotfiles for tmux, nvim, i3, bla bla bla, nerd things.  (1 week ago)
+- **[neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)** - Quickstart configurations for the Nvim LSP client (1 day ago)
+- **[hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)** - A completion plugin for neovim coded in Lua. (1 day ago)
+- **[neovim/neovim](https://github.com/neovim/neovim)** - Vim-fork focused on extensibility and usability (1 day ago)
+- **[sahilm/fuzzy](https://github.com/sahilm/fuzzy)** - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. (1 day ago)
+- **[google/uuid](https://github.com/google/uuid)** - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. (2 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
