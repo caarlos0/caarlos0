@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (today)
+- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (today)
+- **[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)** - My personal dotfiles (today)
 - **[nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)** - FZF sorter for telescope written in c (1 day ago)
 - **[editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)** - EditorConfig plugin for Vim (1 day ago)
-- **[tpope/vim-sensible](https://github.com/tpope/vim-sensible)** - sensible.vim: Defaults everyone can agree on (1 day ago)
-- **[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)** (1 day ago)
-- **[tjdevries/config_manager](https://github.com/tjdevries/config_manager)** - My configuration files and tools (1 day ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
