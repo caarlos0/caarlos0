@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (today)
-- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (1 day ago)
-- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (2 days ago)
-- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (3 days ago)
-- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (4 days ago)
+- [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (1 day ago)
+- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (2 days ago)
+- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (3 days ago)
+- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (4 days ago)
+- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (5 days ago)
 
 #### ❤️ Sponsors
-- [Tom Payne](https://github.com/twpayne) (1 day ago)
+- [Tom Payne](https://github.com/twpayne) (2 days ago)
 - [Ryan Nixon](https://github.com/taiidani) (1 week ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)** (today)
-- **[tjdevries/config_manager](https://github.com/tjdevries/config_manager)** - My configuration files and tools (today)
-- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (today)
-- **[nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)** - FZY style sorter that is compiled (today)
-- **[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)** - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (today)
+- **[nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)** - FZF sorter for telescope written in c (1 day ago)
+- **[editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)** - EditorConfig plugin for Vim (1 day ago)
+- **[tpope/vim-sensible](https://github.com/tpope/vim-sensible)** - sensible.vim: Defaults everyone can agree on (1 day ago)
+- **[ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)** (1 day ago)
+- **[tjdevries/config_manager](https://github.com/tjdevries/config_manager)** - My configuration files and tools (1 day ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
