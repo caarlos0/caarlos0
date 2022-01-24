@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim)** - A highly configurable neovim startup screen (today)
 - **[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)** - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (1 day ago)
 - **[tpope/vim-commentary](https://github.com/tpope/vim-commentary)** - commentary.vim: comment stuff out (1 day ago)
 - **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (1 day ago)
 - **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (1 day ago)
-- **[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)** - My personal dotfiles (1 day ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
