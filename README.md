@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (1 day ago)
-- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (2 days ago)
-- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (3 days ago)
-- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (4 days ago)
-- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (5 days ago)
+- [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (2 days ago)
+- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (3 days ago)
+- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (4 days ago)
+- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (5 days ago)
+- [caarlos0/tasktimer @ v1.9.1](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.1) (6 days ago)
 
 #### ❤️ Sponsors
-- [Tom Payne](https://github.com/twpayne) (2 days ago)
+- [Tom Payne](https://github.com/twpayne) (3 days ago)
 - [Ryan Nixon](https://github.com/taiidani) (1 week ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (today)
-- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (today)
-- **[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)** - My personal dotfiles (today)
-- **[nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)** - FZF sorter for telescope written in c (1 day ago)
-- **[editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)** - EditorConfig plugin for Vim (1 day ago)
+- **[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)** - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (1 day ago)
+- **[tpope/vim-commentary](https://github.com/tpope/vim-commentary)** - commentary.vim: comment stuff out (1 day ago)
+- **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (1 day ago)
+- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (1 day ago)
+- **[craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)** - My personal dotfiles (1 day ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 weeks ago)
