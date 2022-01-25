@@ -34,7 +34,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim)** - A highly configurable neovim startup screen (1 day ago)
+- **[windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)** - autopairs for neovim written by lua (today)
 - **[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)** - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (2 days ago)
 - **[tpope/vim-commentary](https://github.com/tpope/vim-commentary)** - commentary.vim: comment stuff out (2 days ago)
 - **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (2 days ago)
