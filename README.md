@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[jethrokuan/z](https://github.com/jethrokuan/z)** - Pure-fish z directory jumping (today)
+- **[rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)** - Set of preconfigured snippets for different languages.  (today)
+- **[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)** - Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format. (today)
 - **[windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)** - autopairs for neovim written by lua (1 day ago)
 - **[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)** - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (3 days ago)
-- **[tpope/vim-commentary](https://github.com/tpope/vim-commentary)** - commentary.vim: comment stuff out (3 days ago)
-- **[onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim)** - vscode-like pictograms for neovim lsp completion items (3 days ago)
-- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (3 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (4 weeks ago)
