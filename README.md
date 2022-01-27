@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (today)
+- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (today)
+- [goreleaser/goreleaser-pro @ v1.4.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.4.1-pro) (today)
 - [sigstore/cosign @ v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0) (3 days ago)
 - [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (5 days ago)
-- [containers/podman @ v4.0.0-rc2](https://github.com/containers/podman/releases/tag/v4.0.0-rc2) (6 days ago)
-- [charmbracelet/bubbles @ v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2) (1 week ago)
-- [caarlos0-graveyard/test @ v0.1.10](https://github.com/caarlos0-graveyard/test/releases/tag/v0.1.10) (1 week ago)
 
 #### ❤️ Sponsors
 - [Tom Payne](https://github.com/twpayne) (6 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[vim-test/vim-test](https://github.com/vim-test/vim-test)** - Run your tests at the speed of thought (today)
+- **[rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)** - Collections of awesome neovim plugins. (today)
+- **[ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)** (today)
+- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (today)
 - **[jethrokuan/z](https://github.com/jethrokuan/z)** - Pure-fish z directory jumping (1 day ago)
-- **[rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)** - Set of preconfigured snippets for different languages.  (1 day ago)
-- **[hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)** - Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format. (1 day ago)
-- **[windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)** - autopairs for neovim written by lua (2 days ago)
-- **[nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)** - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (4 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
