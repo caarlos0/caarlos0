@@ -19,11 +19,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (5 days ago)
 
 #### ❤️ Sponsors
+- [Babiel GmbH](https://github.com/babiel) (today)
 - [Tom Payne](https://github.com/twpayne) (6 days ago)
 - [Ryan Nixon](https://github.com/taiidani) (1 week ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
-- [Jan De Dobbeleer](https://github.com/JanDeDobbeleer) (2 months ago)
 
 Many thanks everyone! 🙏
 
