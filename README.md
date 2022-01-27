@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (today)
 - [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (today)
 - [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (today)
 - [goreleaser/goreleaser-pro @ v1.4.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.4.1-pro) (today)
 - [sigstore/cosign @ v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0) (3 days ago)
-- [caarlos0/org-stats @ v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Babiel GmbH](https://github.com/babiel) (today)
