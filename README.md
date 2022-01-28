@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)** - magit for neovim (today)
+- **[sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)** - Lua Language Server coded by Lua (today)
 - **[vim-test/vim-test](https://github.com/vim-test/vim-test)** - Run your tests at the speed of thought (1 day ago)
 - **[rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)** - Collections of awesome neovim plugins. (1 day ago)
 - **[ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)** (1 day ago)
-- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 day ago)
-- **[jethrokuan/z](https://github.com/jethrokuan/z)** - Pure-fish z directory jumping (2 days ago)
 
 #### 📄 Latest posts
+- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (1 day ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 month ago)
-- [Announcing GoReleaser v1.2 - Santa/5 year anniversary edition](https://carlosbecker.com/posts/goreleaser-v1.2/) (1 month ago)
