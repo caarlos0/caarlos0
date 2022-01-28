@@ -12,16 +12,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (today)
-- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (today)
-- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (today)
-- [goreleaser/goreleaser-pro @ v1.4.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.4.1-pro) (today)
-- [sigstore/cosign @ v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0) (3 days ago)
+- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (1 day ago)
+- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (1 day ago)
+- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.4.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.4.1-pro) (1 day ago)
+- [sigstore/cosign @ v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Babiel GmbH](https://github.com/babiel) (today)
-- [Tom Payne](https://github.com/twpayne) (6 days ago)
-- [Ryan Nixon](https://github.com/taiidani) (1 week ago)
+- [Babiel GmbH](https://github.com/babiel) (1 day ago)
+- [Tom Payne](https://github.com/twpayne) (1 week ago)
+- [Ryan Nixon](https://github.com/taiidani) (2 weeks ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
 - [Paul Greenberg](https://github.com/greenpau) (1 month ago)
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[vim-test/vim-test](https://github.com/vim-test/vim-test)** - Run your tests at the speed of thought (today)
-- **[rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)** - Collections of awesome neovim plugins. (today)
-- **[ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)** (today)
-- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (today)
-- **[jethrokuan/z](https://github.com/jethrokuan/z)** - Pure-fish z directory jumping (1 day ago)
+- **[vim-test/vim-test](https://github.com/vim-test/vim-test)** - Run your tests at the speed of thought (1 day ago)
+- **[rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)** - Collections of awesome neovim plugins. (1 day ago)
+- **[ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)** (1 day ago)
+- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 day ago)
+- **[jethrokuan/z](https://github.com/jethrokuan/z)** - Pure-fish z directory jumping (2 days ago)
 
 #### 📄 Latest posts
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
