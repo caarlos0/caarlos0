@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)** - 🔍 Go binary size SVG treemap (today)
 - **[cilium/ebpf](https://github.com/cilium/ebpf)** - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 day ago)
 - **[FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent)** - yubikey-agent is a seamless ssh-agent for YubiKeys. (1 day ago)
 - **[go-piv/piv-go](https://github.com/go-piv/piv-go)** - Keys and certificates for YubiKeys, written in Go (1 day ago)
 - **[TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)** - magit for neovim (1 day ago)
-- **[sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)** - Lua Language Server coded by Lua (1 day ago)
 
 #### 📄 Latest posts
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (2 days ago)
