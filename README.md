@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)** - A neovim lua plugin to help easily manage multiple terminal windows (1 day ago)
-- **[numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)** - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more (1 day ago)
-- **[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)** - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config (1 day ago)
-- **[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)** - 🔍 Go binary size SVG treemap (1 day ago)
-- **[cilium/ebpf](https://github.com/cilium/ebpf)** - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (2 days ago)
+- **[simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim)** - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. (today)
+- **[jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)** - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua. (today)
+- **[akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)** - A snazzy bufferline for Neovim (today)
+- **[norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim)** (today)
+- **[LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)** - A Neovim config designed from scratch to be understandable (today)
 
 #### 📄 Latest posts
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (3 days ago)
