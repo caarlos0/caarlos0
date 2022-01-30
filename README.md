@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (1 day ago)
-- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (1 day ago)
-- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (2 days ago)
-- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (2 days ago)
-- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (2 days ago)
+- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (2 days ago)
+- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (2 days ago)
+- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (3 days ago)
+- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (3 days ago)
+- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (3 days ago)
 
 #### ❤️ Sponsors
-- [Babiel GmbH](https://github.com/babiel) (2 days ago)
+- [Babiel GmbH](https://github.com/babiel) (3 days ago)
 - [Tom Payne](https://github.com/twpayne) (1 week ago)
 - [Ryan Nixon](https://github.com/taiidani) (2 weeks ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)** - 🔍 Go binary size SVG treemap (today)
-- **[cilium/ebpf](https://github.com/cilium/ebpf)** - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 day ago)
-- **[FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent)** - yubikey-agent is a seamless ssh-agent for YubiKeys. (1 day ago)
-- **[go-piv/piv-go](https://github.com/go-piv/piv-go)** - Keys and certificates for YubiKeys, written in Go (1 day ago)
-- **[TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)** - magit for neovim (1 day ago)
+- **[akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)** - A neovim lua plugin to help easily manage multiple terminal windows (1 day ago)
+- **[numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)** - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more (1 day ago)
+- **[wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)** - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config (1 day ago)
+- **[nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap)** - 🔍 Go binary size SVG treemap (1 day ago)
+- **[cilium/ebpf](https://github.com/cilium/ebpf)** - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (2 days ago)
 
 #### 📄 Latest posts
-- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (2 days ago)
+- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (3 days ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 month ago)
