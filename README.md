@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (2 days ago)
-- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (2 days ago)
-- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (3 days ago)
-- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (3 days ago)
-- [goreleaser/goreleaser @ v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1) (3 days ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25) (1 day ago)
+- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (3 days ago)
+- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (3 days ago)
+- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (4 days ago)
+- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (4 days ago)
 
 #### ❤️ Sponsors
-- [Babiel GmbH](https://github.com/babiel) (3 days ago)
+- [Babiel GmbH](https://github.com/babiel) (4 days ago)
 - [Tom Payne](https://github.com/twpayne) (1 week ago)
 - [Ryan Nixon](https://github.com/taiidani) (2 weeks ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (today)
-- **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (today)
-- **[andweeb/presence.nvim](https://github.com/andweeb/presence.nvim)** - Discord Rich Presence for Neovim (today)
-- **[karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim)** - Smooth scrolling neovim plugin written in lua (today)
-- **[simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim)** - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. (today)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line (1 day ago)
+- **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 day ago)
+- **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (1 day ago)
+- **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (1 day ago)
+- **[andweeb/presence.nvim](https://github.com/andweeb/presence.nvim)** - Discord Rich Presence for Neovim (1 day ago)
 
 #### 📄 Latest posts
-- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (3 days ago)
+- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (4 days ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 month ago)
