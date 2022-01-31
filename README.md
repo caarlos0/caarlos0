@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/keygen @ v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0) (today)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25) (1 day ago)
 - [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (3 days ago)
 - [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (3 days ago)
 - [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (4 days ago)
-- [caarlos0/tasktimer @ v1.9.4](https://github.com/caarlos0/tasktimer/releases/tag/v1.9.4) (4 days ago)
 
 #### ❤️ Sponsors
 - [Babiel GmbH](https://github.com/babiel) (4 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line (1 day ago)
+- **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (today)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (1 day ago)
 - **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 day ago)
 - **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (1 day ago)
 - **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (1 day ago)
-- **[andweeb/presence.nvim](https://github.com/andweeb/presence.nvim)** - Discord Rich Presence for Neovim (1 day ago)
 
 #### 📄 Latest posts
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (4 days ago)
