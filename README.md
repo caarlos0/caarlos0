@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)** - Indent guides  for Neovim (today)
 - **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (1 day ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
 - **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (2 days ago)
 - **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (2 days ago)
-- **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (2 days ago)
 
 #### 📄 Latest posts
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (5 days ago)
