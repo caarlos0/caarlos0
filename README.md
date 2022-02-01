@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [cue-lang/cue @ v0.4.2-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.2-rc.1) (today)
 - [muesli/gitty @ v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0) (today)
 - [sigstore/cosign @ v1.5.1](https://github.com/sigstore/cosign/releases/tag/v1.5.1) (1 day ago)
 - [charmbracelet/keygen @ v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0) (1 day ago)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25) (2 days ago)
-- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (4 days ago)
 
 #### ❤️ Sponsors
 - [Babiel GmbH](https://github.com/babiel) (5 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[khuedoan/homelab](https://github.com/khuedoan/homelab)** - My self-hosting infrastructure, fully automated from empty disk to operating services (today)
 - **[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)** - Indent guides  for Neovim (today)
 - **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (1 day ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
 - **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (2 days ago)
-- **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (2 days ago)
 
 #### 📄 Latest posts
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (5 days ago)
