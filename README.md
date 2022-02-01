@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/keygen @ v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0) (today)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25) (1 day ago)
-- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (3 days ago)
-- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (3 days ago)
-- [gohugoio/hugo @ v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1) (4 days ago)
+- [sigstore/cosign @ v1.5.1](https://github.com/sigstore/cosign/releases/tag/v1.5.1) (1 day ago)
+- [charmbracelet/keygen @ v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25) (2 days ago)
+- [containers/podman @ v4.0.0-rc3](https://github.com/containers/podman/releases/tag/v4.0.0-rc3) (4 days ago)
+- [charmbracelet/wish @ v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Babiel GmbH](https://github.com/babiel) (4 days ago)
+- [Babiel GmbH](https://github.com/babiel) (5 days ago)
 - [Tom Payne](https://github.com/twpayne) (1 week ago)
 - [Ryan Nixon](https://github.com/taiidani) (2 weeks ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (today)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (1 day ago)
-- **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 day ago)
-- **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (1 day ago)
-- **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (1 day ago)
+- **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (1 day ago)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
+- **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (2 days ago)
+- **[famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)** - Delete Neovim buffers without losing window layout (2 days ago)
+- **[lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim)** - Improve startup time for Neovim (2 days ago)
 
 #### 📄 Latest posts
-- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (4 days ago)
+- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (5 days ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
 - [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 month ago)
