@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[muesli/mango-cobra](https://github.com/muesli/mango-cobra)** - cobra adapter for mango (today)
+- **[televator-apps/vimari](https://github.com/televator-apps/vimari)** - Safari port of vimium (today)
 - **[khuedoan/homelab](https://github.com/khuedoan/homelab)** - My self-hosting infrastructure, fully automated from empty disk to operating services (1 day ago)
 - **[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)** - Indent guides  for Neovim (1 day ago)
 - **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (2 days ago)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (3 days ago)
-- **[containerd/nerdctl](https://github.com/containerd/nerdctl)** - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (3 days ago)
 
 #### 📄 Latest posts
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (today)
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (6 days ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
-- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (1 month ago)
