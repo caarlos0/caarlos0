@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (today)
+- **[muesli/coral](https://github.com/muesli/coral)** - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (today)
 - **[muesli/mango-cobra](https://github.com/muesli/mango-cobra)** - cobra adapter for mango (today)
 - **[televator-apps/vimari](https://github.com/televator-apps/vimari)** - Safari port of vimium (today)
 - **[khuedoan/homelab](https://github.com/khuedoan/homelab)** - My self-hosting infrastructure, fully automated from empty disk to operating services (1 day ago)
-- **[lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)** - Indent guides  for Neovim (1 day ago)
-- **[ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)** - The Refactoring library based off the Refactoring book by Martin Fowler (2 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (today)
