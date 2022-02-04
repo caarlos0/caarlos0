@@ -12,17 +12,17 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/wishlist @ v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0) (today)
-- [muesli/mango-coral @ v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0) (today)
-- [orlangure/gocovsh @ v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0) (2 days ago)
-- [cue-lang/cue @ v0.4.2-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.2-rc.1) (2 days ago)
-- [muesli/gitty @ v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0) (2 days ago)
+- [charmbracelet/wishlist @ v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0) (1 day ago)
+- [muesli/mango-coral @ v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0) (1 day ago)
+- [orlangure/gocovsh @ v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0) (3 days ago)
+- [cue-lang/cue @ v0.4.2-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.2-rc.1) (3 days ago)
+- [muesli/gitty @ v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Babiel GmbH](https://github.com/babiel) (1 week ago)
-- [Tom Payne](https://github.com/twpayne) (1 week ago)
-- [Ryan Nixon](https://github.com/taiidani) (2 weeks ago)
-- [Nicolas Gotchac](https://github.com/ngotchac) (1 month ago)
+- [Tom Payne](https://github.com/twpayne) (2 weeks ago)
+- [Ryan Nixon](https://github.com/taiidani) (3 weeks ago)
+- [Nicolas Gotchac](https://github.com/ngotchac) (2 months ago)
 - [Paul Greenberg](https://github.com/greenpau) (2 months ago)
 
 Many thanks everyone! 🙏
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (1 day ago)
-- **[muesli/coral](https://github.com/muesli/coral)** - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (1 day ago)
-- **[muesli/mango-cobra](https://github.com/muesli/mango-cobra)** - cobra adapter for mango (1 day ago)
-- **[televator-apps/vimari](https://github.com/televator-apps/vimari)** - Safari port of vimium (1 day ago)
-- **[khuedoan/homelab](https://github.com/khuedoan/homelab)** - My self-hosting infrastructure, fully automated from empty disk to operating services (2 days ago)
+- **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (2 days ago)
+- **[muesli/coral](https://github.com/muesli/coral)** - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 days ago)
+- **[muesli/mango-cobra](https://github.com/muesli/mango-cobra)** - cobra adapter for mango (2 days ago)
+- **[televator-apps/vimari](https://github.com/televator-apps/vimari)** - Safari port of vimium (2 days ago)
+- **[khuedoan/homelab](https://github.com/khuedoan/homelab)** - My self-hosting infrastructure, fully automated from empty disk to operating services (3 days ago)
 
 #### 📄 Latest posts
-- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 day ago)
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 days ago)
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (1 week ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
