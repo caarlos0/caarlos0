@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/wishlist @ v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0) (1 day ago)
+- [charmbracelet/wishlist @ v0.2.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.1) (today)
+- [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (today)
+- [containers/podman @ v4.0.0-rc4](https://github.com/containers/podman/releases/tag/v4.0.0-rc4) (today)
 - [muesli/mango-coral @ v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0) (1 day ago)
 - [orlangure/gocovsh @ v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0) (3 days ago)
-- [cue-lang/cue @ v0.4.2-rc.1](https://github.com/cue-lang/cue/releases/tag/v0.4.2-rc.1) (3 days ago)
-- [muesli/gitty @ v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0) (3 days ago)
 
 #### ❤️ Sponsors
+- [Joseph Sirianni](https://github.com/jsirianni) (today)
 - [Babiel GmbH](https://github.com/babiel) (1 week ago)
 - [Tom Payne](https://github.com/twpayne) (2 weeks ago)
 - [Ryan Nixon](https://github.com/taiidani) (3 weeks ago)
 - [Nicolas Gotchac](https://github.com/ngotchac) (2 months ago)
-- [Paul Greenberg](https://github.com/greenpau) (2 months ago)
 
 Many thanks everyone! 🙏
 
