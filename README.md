@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (today)
 - [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (1 day ago)
 - [goreleaser/nfpm @ v2.12.0](https://github.com/goreleaser/nfpm/releases/tag/v2.12.0) (1 day ago)
 - [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (1 day ago)
 - [containers/podman @ v4.0.0-rc4](https://github.com/containers/podman/releases/tag/v4.0.0-rc4) (1 day ago)
-- [muesli/mango-coral @ v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Joseph Sirianni](https://github.com/jsirianni) (1 day ago)
