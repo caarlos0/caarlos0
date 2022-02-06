@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (today)
+- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (today)
 - **[alecthomas/mango-kong](https://github.com/alecthomas/mango-kong)** - Mango (man page generator) integration for Kong (1 day ago)
 - **[davidcroda/sshwordle](https://github.com/davidcroda/sshwordle)** - Terminal based wordle clone - ssh sshwordle.daveroda.com (2 days ago)
 - **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (4 days ago)
-- **[muesli/coral](https://github.com/muesli/coral)** - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (4 days ago)
-- **[muesli/mango-cobra](https://github.com/muesli/mango-cobra)** - cobra adapter for mango (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (4 days ago)
