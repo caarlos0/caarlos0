@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (1 day ago)
-- [goreleaser/nfpm @ v2.12.1](https://github.com/goreleaser/nfpm/releases/tag/v2.12.1) (1 day ago)
-- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (1 day ago)
-- [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (2 days ago)
-- [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (2 days ago)
+- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (2 days ago)
+- [goreleaser/nfpm @ v2.12.1](https://github.com/goreleaser/nfpm/releases/tag/v2.12.1) (2 days ago)
+- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (2 days ago)
+- [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (3 days ago)
+- [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (3 days ago)
 
 #### ❤️ Sponsors
-- [Joseph Sirianni](https://github.com/jsirianni) (2 days ago)
+- [Joseph Sirianni](https://github.com/jsirianni) (3 days ago)
 - [Babiel GmbH](https://github.com/babiel) (1 week ago)
 - [Tom Payne](https://github.com/twpayne) (2 weeks ago)
 - [Ryan Nixon](https://github.com/taiidani) (3 weeks ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (today)
-- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (today)
-- **[alecthomas/mango-kong](https://github.com/alecthomas/mango-kong)** - Mango (man page generator) integration for Kong (1 day ago)
-- **[davidcroda/sshwordle](https://github.com/davidcroda/sshwordle)** - Terminal based wordle clone - ssh sshwordle.daveroda.com (2 days ago)
-- **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (4 days ago)
+- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (1 day ago)
+- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (1 day ago)
+- **[alecthomas/mango-kong](https://github.com/alecthomas/mango-kong)** - Mango (man page generator) integration for Kong (2 days ago)
+- **[davidcroda/sshwordle](https://github.com/davidcroda/sshwordle)** - Terminal based wordle clone - ssh sshwordle.daveroda.com (3 days ago)
+- **[muesli/mango-coral](https://github.com/muesli/mango-coral)** - coral adapter for mango (5 days ago)
 
 #### 📄 Latest posts
-- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (4 days ago)
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (5 days ago)
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (1 week ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
