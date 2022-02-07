@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (today)
 - **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (today)
 - **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (today)
 - **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (1 day ago)
 - **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (1 day ago)
-- **[alecthomas/mango-kong](https://github.com/alecthomas/mango-kong)** - Mango (man page generator) integration for Kong (2 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (5 days ago)
