@@ -19,11 +19,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (4 days ago)
 
 #### ❤️ Sponsors
+- [Avelino](https://github.com/avelino) (today)
 - [Joseph Sirianni](https://github.com/jsirianni) (4 days ago)
 - [Babiel GmbH](https://github.com/babiel) (1 week ago)
 - [Tom Payne](https://github.com/twpayne) (2 weeks ago)
 - [Ryan Nixon](https://github.com/taiidani) (3 weeks ago)
-- [Nicolas Gotchac](https://github.com/ngotchac) (2 months ago)
 
 Many thanks everyone! 🙏
 
