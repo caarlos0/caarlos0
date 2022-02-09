@@ -12,8 +12,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.12.2](https://github.com/goreleaser/nfpm/releases/tag/v2.12.2) (today)
 - [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (4 days ago)
-- [goreleaser/nfpm @ v2.12.1](https://github.com/goreleaser/nfpm/releases/tag/v2.12.1) (4 days ago)
 - [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (4 days ago)
 - [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (5 days ago)
 - [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (5 days ago)
