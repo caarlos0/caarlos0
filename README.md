@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (3 days ago)
-- [goreleaser/nfpm @ v2.12.1](https://github.com/goreleaser/nfpm/releases/tag/v2.12.1) (3 days ago)
-- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (3 days ago)
-- [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (4 days ago)
-- [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (4 days ago)
+- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (4 days ago)
+- [goreleaser/nfpm @ v2.12.1](https://github.com/goreleaser/nfpm/releases/tag/v2.12.1) (4 days ago)
+- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (4 days ago)
+- [charmbracelet/wishlist @ v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2) (5 days ago)
+- [cue-lang/cue @ v0.4.2](https://github.com/cue-lang/cue/releases/tag/v0.4.2) (5 days ago)
 
 #### ❤️ Sponsors
-- [Avelino](https://github.com/avelino) (today)
-- [Joseph Sirianni](https://github.com/jsirianni) (4 days ago)
+- [Avelino](https://github.com/avelino) (1 day ago)
+- [Joseph Sirianni](https://github.com/jsirianni) (5 days ago)
 - [Babiel GmbH](https://github.com/babiel) (1 week ago)
 - [Tom Payne](https://github.com/twpayne) (2 weeks ago)
 - [Ryan Nixon](https://github.com/taiidani) (3 weeks ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (1 day ago)
-- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (1 day ago)
-- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (1 day ago)
-- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (2 days ago)
-- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (2 days ago)
+- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (2 days ago)
+- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (2 days ago)
+- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (2 days ago)
+- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (3 days ago)
+- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (3 days ago)
 
 #### 📄 Latest posts
-- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (6 days ago)
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (1 week ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
