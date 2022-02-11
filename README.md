@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (today)
 - **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (4 days ago)
 - **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (4 days ago)
 - **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (4 days ago)
 - **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (5 days ago)
-- **[workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience)** - 🤘 A curated list of DX (Developer Experience) resources (5 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
