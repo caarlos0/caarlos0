@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (today)
-- [goreleaser/fileglob @ v1.3.0](https://github.com/goreleaser/fileglob/releases/tag/v1.3.0) (1 day ago)
-- [goreleaser/nfpm @ v2.12.2](https://github.com/goreleaser/nfpm/releases/tag/v2.12.2) (2 days ago)
-- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (6 days ago)
-- [kubernetes-sigs/krew @ v0.4.3](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.3) (6 days ago)
+- [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (1 day ago)
+- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (1 day ago)
+- [goreleaser/fileglob @ v1.3.0](https://github.com/goreleaser/fileglob/releases/tag/v1.3.0) (2 days ago)
+- [goreleaser/nfpm @ v2.12.2](https://github.com/goreleaser/nfpm/releases/tag/v2.12.2) (3 days ago)
+- [IGLOU-EU/go-wildcard @ v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3) (1 week ago)
 
 #### ❤️ Sponsors
-- [Avelino](https://github.com/avelino) (3 days ago)
+- [Avelino](https://github.com/avelino) (4 days ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (1 week ago)
 - [Babiel GmbH](https://github.com/babiel) (2 weeks ago)
 - [Tom Payne](https://github.com/twpayne) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (today)
-- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (4 days ago)
-- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (4 days ago)
-- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (4 days ago)
-- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (5 days ago)
+- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (1 day ago)
+- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (5 days ago)
+- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (5 days ago)
+- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (5 days ago)
+- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
