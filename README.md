@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (today)
 - **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (1 day ago)
 - **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (5 days ago)
 - **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (5 days ago)
 - **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (5 days ago)
-- **[muesli/cancelreader](https://github.com/muesli/cancelreader)** - A cancelable reader for Go (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
