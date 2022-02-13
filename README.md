@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (today)
-- [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (today)
-- [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (1 day ago)
-- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (1 day ago)
-- [goreleaser/fileglob @ v1.3.0](https://github.com/goreleaser/fileglob/releases/tag/v1.3.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (1 day ago)
+- [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (1 day ago)
+- [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (2 days ago)
+- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (2 days ago)
 
 #### ❤️ Sponsors
-- [Avelino](https://github.com/avelino) (4 days ago)
+- [Avelino](https://github.com/avelino) (5 days ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (1 week ago)
 - [Babiel GmbH](https://github.com/babiel) (2 weeks ago)
 - [Tom Payne](https://github.com/twpayne) (3 weeks ago)
-- [Ryan Nixon](https://github.com/taiidani) (4 weeks ago)
+- [Ryan Nixon](https://github.com/taiidani) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (today)
-- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (1 day ago)
-- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (5 days ago)
-- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (5 days ago)
-- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (5 days ago)
+- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (1 day ago)
+- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (2 days ago)
+- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (6 days ago)
+- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (6 days ago)
+- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
