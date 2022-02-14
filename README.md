@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (1 day ago)
-- [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (1 day ago)
-- [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (2 days ago)
-- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (2 days ago)
+- [goreleaser/goreleaser @ v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (2 days ago)
+- [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (2 days ago)
+- [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (2 days ago)
+- [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (3 days ago)
+- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (3 days ago)
 
 #### ❤️ Sponsors
-- [Avelino](https://github.com/avelino) (5 days ago)
+- [Avelino](https://github.com/avelino) (6 days ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (1 week ago)
 - [Babiel GmbH](https://github.com/babiel) (2 weeks ago)
 - [Tom Payne](https://github.com/twpayne) (3 weeks ago)
@@ -28,17 +28,17 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- **[Rust in Action](https://www.goodreads.com/book/show/45731908-rust-in-action)** by _T.S. McNamara_
 - **[Quando Tudo se Desfaz: Orientação para Tempos Difíceis](https://www.goodreads.com/book/show/60206797-quando-tudo-se-desfaz)** by _Pema Chödrön_
-- **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
 
 #### ⭐ Recent Stars
 
 
-- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (1 day ago)
-- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (2 days ago)
-- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (6 days ago)
-- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (6 days ago)
-- **[99designs/keyring](https://github.com/99designs/keyring)** - Go library providing a uniform interface across a range of secure credential stores (6 days ago)
+- **[rust-in-action/code](https://github.com/rust-in-action/code)** - Source code for the book Rust in Action (1 day ago)
+- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (2 days ago)
+- **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (3 days ago)
+- **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (1 week ago)
+- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (1 week ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 week ago)
