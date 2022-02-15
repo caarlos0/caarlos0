@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/bubbletea @ v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0) (today)
 - [goreleaser/goreleaser @ v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (3 days ago)
 - [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (3 days ago)
 - [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (3 days ago)
 - [containers/podman @ v4.0.0-rc5](https://github.com/containers/podman/releases/tag/v4.0.0-rc5) (4 days ago)
-- [gohugoio/hugo @ v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) (4 days ago)
 
 #### ❤️ Sponsors
 - [Avelino](https://github.com/avelino) (1 week ago)
