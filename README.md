@@ -28,8 +28,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
+- **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 - **[Rust in Action](https://www.goodreads.com/book/show/45731908-rust-in-action)** by _T.S. McNamara_
-- **[Quando Tudo se Desfaz: Orientação para Tempos Difíceis](https://www.goodreads.com/book/show/60206797-quando-tudo-se-desfaz)** by _Pema Chödrön_
 
 #### ⭐ Recent Stars
 
