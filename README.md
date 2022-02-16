@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/soft-serve @ v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1) (today)
+- [charmbracelet/bubbles @ v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3) (today)
 - [charmbracelet/keygen @ v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1) (1 day ago)
 - [charmbracelet/bubbletea @ v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (4 days ago)
-- [goreleaser/goreleaser-pro @ v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) (4 days ago)
-- [goreleaser/nfpm @ v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [Avelino](https://github.com/avelino) (1 week ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5) (today)
 - **[rust-in-action/code](https://github.com/rust-in-action/code)** - Source code for the book Rust in Action (3 days ago)
 - **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (4 days ago)
 - **[gliderlabs/ssh](https://github.com/gliderlabs/ssh)** - Easy SSH servers in Golang (5 days ago)
 - **[muesli/toktok](https://github.com/muesli/toktok)** - Typo/error resilient, human-readable token generator (1 week ago)
-- **[corkami/mitra](https://github.com/corkami/mitra)** - A generator of weird files (binary polyglots, near polyglots...) (1 week ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
