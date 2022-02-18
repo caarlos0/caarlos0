@@ -19,11 +19,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [charmbracelet/soft-serve @ v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1) (2 days ago)
 
 #### ❤️ Sponsors
+- [Ivan Golubnichiy](https://github.com/h1kkan) (today)
 - [Avelino](https://github.com/avelino) (1 week ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 weeks ago)
 - [Babiel GmbH](https://github.com/babiel) (3 weeks ago)
 - [Tom Payne](https://github.com/twpayne) (4 weeks ago)
-- [Ryan Nixon](https://github.com/taiidani) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[jon4hz/wishbox](https://github.com/jon4hz/wishbox)** - wishlist using netbox as inventory source (today)
+- **[caarlos0/httperr](https://github.com/caarlos0/httperr)** - func(w http.ResponseWriter, r *http.Request) error (today)
 - **[braver/programmingfonts](https://github.com/braver/programmingfonts)** - Test drive programming fonts online (1 day ago)
 - **[MonoLisaFont/feedback](https://github.com/MonoLisaFont/feedback)** - Send us your feedback regarding the MonoLisa font (1 day ago)
 - **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5) (2 days ago)
-- **[rust-in-action/code](https://github.com/rust-in-action/code)** - Source code for the book Rust in Action (5 days ago)
-- **[ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)** - LSP signature hint as you type (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
