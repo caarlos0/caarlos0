@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/skate @ v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4) (today)
+- [charmbracelet/charm @ v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0) (today)
 - [containers/podman @ v4.0.0](https://github.com/containers/podman/releases/tag/v4.0.0) (1 day ago)
 - [google/ko @ v0.10.0](https://github.com/google/ko/releases/tag/v0.10.0) (1 day ago)
 - [charmbracelet/soft-serve @ v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1) (2 days ago)
-- [charmbracelet/bubbles @ v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3) (2 days ago)
-- [charmbracelet/keygen @ v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1) (3 days ago)
 
 #### ❤️ Sponsors
 - [Avelino](https://github.com/avelino) (1 week ago)
