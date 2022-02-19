@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/skate @ v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4) (today)
-- [charmbracelet/charm @ v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0) (today)
-- [containers/podman @ v4.0.0](https://github.com/containers/podman/releases/tag/v4.0.0) (1 day ago)
-- [google/ko @ v0.10.0](https://github.com/google/ko/releases/tag/v0.10.0) (1 day ago)
-- [charmbracelet/soft-serve @ v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1) (2 days ago)
+- [charmbracelet/soft-serve @ v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2) (today)
+- [charmbracelet/charm @ v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1) (1 day ago)
+- [sigstore/cosign @ v1.5.2](https://github.com/sigstore/cosign/releases/tag/v1.5.2) (1 day ago)
+- [charmbracelet/skate @ v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4) (1 day ago)
+- [containers/podman @ v4.0.0](https://github.com/containers/podman/releases/tag/v4.0.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Ivan Golubnichiy](https://github.com/h1kkan) (today)
+- [Ivan Golubnichiy](https://github.com/h1kkan) (1 day ago)
 - [Avelino](https://github.com/avelino) (1 week ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 weeks ago)
 - [Babiel GmbH](https://github.com/babiel) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[jon4hz/wishbox](https://github.com/jon4hz/wishbox)** - wishlist using netbox as inventory source (today)
-- **[caarlos0/httperr](https://github.com/caarlos0/httperr)** - func(w http.ResponseWriter, r *http.Request) error (today)
-- **[braver/programmingfonts](https://github.com/braver/programmingfonts)** - Test drive programming fonts online (1 day ago)
-- **[MonoLisaFont/feedback](https://github.com/MonoLisaFont/feedback)** - Send us your feedback regarding the MonoLisa font (1 day ago)
-- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5) (2 days ago)
+- **[jon4hz/wishbox](https://github.com/jon4hz/wishbox)** - wishlist using netbox as inventory source (1 day ago)
+- **[caarlos0/httperr](https://github.com/caarlos0/httperr)** - func(w http.ResponseWriter, r *http.Request) error (1 day ago)
+- **[braver/programmingfonts](https://github.com/braver/programmingfonts)** - Test drive programming fonts online (2 days ago)
+- **[MonoLisaFont/feedback](https://github.com/MonoLisaFont/feedback)** - Send us your feedback regarding the MonoLisa font (2 days ago)
+- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5) (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
