@@ -3,11 +3,11 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/timer](https://github.com/caarlos0/timer)**
 - **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh
 - **[caarlos0/timea.go](https://github.com/caarlos0/timea.go)** - timea.go (did you see what I did there?) is a simple library to print given times in &#34;time ago&#34; manner.
 - **[caarlos0/.github](https://github.com/caarlos0/.github)** - github config
-- **[caarlos0/fastcom-exporter](https://github.com/caarlos0/fastcom-exporter)** - Prometheus Fast.com exporter
 
 #### 🚀 Latest releases I've contributed to
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)** - golangci-lint language server (today)
 - **[jon4hz/wishbox](https://github.com/jon4hz/wishbox)** - wishlist using netbox as inventory source (1 day ago)
 - **[caarlos0/httperr](https://github.com/caarlos0/httperr)** - func(w http.ResponseWriter, r *http.Request) error (1 day ago)
 - **[braver/programmingfonts](https://github.com/braver/programmingfonts)** - Test drive programming fonts online (2 days ago)
 - **[MonoLisaFont/feedback](https://github.com/MonoLisaFont/feedback)** - Send us your feedback regarding the MonoLisa font (2 days ago)
-- **[mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)** - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5) (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
