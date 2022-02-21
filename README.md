@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/httperr @ v1.2.0](https://github.com/caarlos0/httperr/releases/tag/v1.2.0) (today)
 - [go-task/task @ v3.11.0](https://github.com/go-task/task/releases/tag/v3.11.0) (2 days ago)
 - [caarlos0/timer @ v1.1.0](https://github.com/caarlos0/timer/releases/tag/v1.1.0) (2 days ago)
 - [orlangure/gocovsh @ v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0) (2 days ago)
 - [charmbracelet/soft-serve @ v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2) (2 days ago)
-- [charmbracelet/charm @ v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1) (3 days ago)
 
 #### ❤️ Sponsors
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)** - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim&#39;s LSP client for intelligent highlighting. (today)
+- **[folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)** - ✅  Highlight, list and search todo comments in your projects (today)
+- **[nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)** - File Browser extension for telescope.nvim (today)
 - **[caarlos0/timer](https://github.com/caarlos0/timer)** - A `sleep` with progress (2 days ago)
 - **[nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)** - golangci-lint language server (2 days ago)
-- **[jon4hz/wishbox](https://github.com/jon4hz/wishbox)** - wishlist using netbox as inventory source (3 days ago)
-- **[caarlos0/httperr](https://github.com/caarlos0/httperr)** - func(w http.ResponseWriter, r *http.Request) error (3 days ago)
-- **[braver/programmingfonts](https://github.com/braver/programmingfonts)** - Test drive programming fonts online (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
