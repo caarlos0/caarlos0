@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (today)
 - **[RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)** - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim&#39;s LSP client for intelligent highlighting. (1 day ago)
 - **[folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)** - ✅  Highlight, list and search todo comments in your projects (1 day ago)
 - **[nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)** - File Browser extension for telescope.nvim (1 day ago)
 - **[caarlos0/timer](https://github.com/caarlos0/timer)** - A `sleep` with progress (3 days ago)
-- **[nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver)** - golangci-lint language server (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
