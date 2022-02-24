@@ -19,11 +19,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.26](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.26) (2 days ago)
 
 #### ❤️ Sponsors
+- [Runzhi He](https://github.com/12f23eddde) (today)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (6 days ago)
 - [Avelino](https://github.com/avelino) (2 weeks ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 weeks ago)
 - [Babiel GmbH](https://github.com/babiel) (4 weeks ago)
-- [Tom Payne](https://github.com/twpayne) (1 month ago)
 
 Many thanks everyone! 🙏
 
