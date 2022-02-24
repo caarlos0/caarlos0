@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[chainguard-dev/apko](https://github.com/chainguard-dev/apko)** - Build OCI images using APK directly without Dockerfile (today)
+- **[planetscale/beam](https://github.com/planetscale/beam)** - A simple message board for your organization or project (today)
+- **[krallin/tini](https://github.com/krallin/tini)** - A tiny but valid `init` for containers (today)
 - **[oz/tz](https://github.com/oz/tz)** - 🌐 A time zone helper (1 day ago)
 - **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 days ago)
-- **[goreleaser/goreleaser-cross-example](https://github.com/goreleaser/goreleaser-cross-example)** (2 days ago)
-- **[RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)** - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim&#39;s LSP client for intelligent highlighting. (3 days ago)
-- **[folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)** - ✅  Highlight, list and search todo comments in your projects (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 weeks ago)
