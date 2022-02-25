@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)** - Snippet Engine for Neovim written in Lua. (today)
 - **[chainguard-dev/apko](https://github.com/chainguard-dev/apko)** - Build OCI images using APK directly without Dockerfile (1 day ago)
 - **[planetscale/beam](https://github.com/planetscale/beam)** - A simple message board for your organization or project (1 day ago)
 - **[krallin/tini](https://github.com/krallin/tini)** - A tiny but valid `init` for containers (1 day ago)
 - **[oz/tz](https://github.com/oz/tz)** - 🌐 A time zone helper (2 days ago)
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 weeks ago)
