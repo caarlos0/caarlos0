@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (today)
 - [charmbracelet/charm @ v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2) (3 days ago)
 - [containers/podman @ v4.0.1](https://github.com/containers/podman/releases/tag/v4.0.1) (3 days ago)
 - [charmbracelet/soft-serve @ v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3) (3 days ago)
 - [charmbracelet/wish @ v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0) (4 days ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.26](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.26) (4 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (2 days ago)
