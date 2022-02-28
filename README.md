@@ -12,8 +12,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-action @ v2.9.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.1) (today)
 - [gohugoio/hugo @ v0.93.0](https://github.com/gohugoio/hugo/releases/tag/v0.93.0) (today)
-- [goreleaser/goreleaser-action @ v2.9.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.0) (1 day ago)
 - [goreleaser/nfpm @ v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (2 days ago)
 - [charmbracelet/charm @ v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2) (5 days ago)
 - [containers/podman @ v4.0.1](https://github.com/containers/podman/releases/tag/v4.0.1) (5 days ago)
