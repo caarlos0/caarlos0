@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm @ v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (1 day ago)
-- [charmbracelet/charm @ v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2) (4 days ago)
-- [containers/podman @ v4.0.1](https://github.com/containers/podman/releases/tag/v4.0.1) (4 days ago)
-- [charmbracelet/soft-serve @ v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3) (4 days ago)
-- [charmbracelet/wish @ v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0) (5 days ago)
+- [goreleaser/goreleaser-action @ v2.9.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.0) (1 day ago)
+- [goreleaser/nfpm @ v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (2 days ago)
+- [charmbracelet/charm @ v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2) (5 days ago)
+- [containers/podman @ v4.0.1](https://github.com/containers/podman/releases/tag/v4.0.1) (5 days ago)
+- [charmbracelet/soft-serve @ v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3) (5 days ago)
 
 #### ❤️ Sponsors
-- [Runzhi He](https://github.com/12f23eddde) (3 days ago)
+- [Runzhi He](https://github.com/12f23eddde) (4 days ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 week ago)
 - [Avelino](https://github.com/avelino) (2 weeks ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)** - Snippet Engine for Neovim written in Lua. (2 days ago)
-- **[chainguard-dev/apko](https://github.com/chainguard-dev/apko)** - Build OCI images using APK directly without Dockerfile (3 days ago)
-- **[planetscale/beam](https://github.com/planetscale/beam)** - A simple message board for your organization or project (3 days ago)
-- **[krallin/tini](https://github.com/krallin/tini)** - A tiny but valid `init` for containers (3 days ago)
-- **[oz/tz](https://github.com/oz/tz)** - 🌐 A time zone helper (4 days ago)
+- **[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)** - Snippet Engine for Neovim written in Lua. (3 days ago)
+- **[chainguard-dev/apko](https://github.com/chainguard-dev/apko)** - Build OCI images using APK directly without Dockerfile (4 days ago)
+- **[planetscale/beam](https://github.com/planetscale/beam)** - A simple message board for your organization or project (4 days ago)
+- **[krallin/tini](https://github.com/krallin/tini)** - A tiny but valid `init` for containers (4 days ago)
+- **[oz/tz](https://github.com/oz/tz)** - 🌐 A time zone helper (5 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 weeks ago)
