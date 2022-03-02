@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim)** - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline (today)
 - **[JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)** - An opinionated Lua code formatter (today)
 - **[L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)** - Snippet Engine for Neovim written in Lua. (5 days ago)
 - **[chainguard-dev/apko](https://github.com/chainguard-dev/apko)** - Build OCI images using APK directly without Dockerfile (6 days ago)
 - **[planetscale/beam](https://github.com/planetscale/beam)** - A simple message board for your organization or project (6 days ago)
-- **[krallin/tini](https://github.com/krallin/tini)** - A tiny but valid `init` for containers (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (4 weeks ago)
