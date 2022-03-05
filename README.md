@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo @ v0.93.2](https://github.com/gohugoio/hugo/releases/tag/v0.93.2) (today)
-- [sigstore/cosign @ v1.6.0](https://github.com/sigstore/cosign/releases/tag/v1.6.0) (today)
-- [containers/podman @ v4.0.2](https://github.com/containers/podman/releases/tag/v4.0.2) (2 days ago)
-- [google/go-github @ v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0) (2 days ago)
-- [charmbracelet/confettysh @ v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2) (3 days ago)
+- [gohugoio/hugo @ v0.93.2](https://github.com/gohugoio/hugo/releases/tag/v0.93.2) (1 day ago)
+- [sigstore/cosign @ v1.6.0](https://github.com/sigstore/cosign/releases/tag/v1.6.0) (1 day ago)
+- [containers/podman @ v4.0.2](https://github.com/containers/podman/releases/tag/v4.0.2) (3 days ago)
+- [google/go-github @ v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0) (3 days ago)
+- [charmbracelet/confettysh @ v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2) (4 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (1 week ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[bradenaw/juniper](https://github.com/bradenaw/juniper)** - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams. (today)
-- **[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)** - Neovim plugin to improve the default vim.ui interfaces (today)
-- **[neovide/neovide](https://github.com/neovide/neovide)** - No Nonsense Neovim Client in Rust (today)
-- **[nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim)** - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline (2 days ago)
-- **[JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)** - An opinionated Lua code formatter (2 days ago)
+- **[bradenaw/juniper](https://github.com/bradenaw/juniper)** - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams. (1 day ago)
+- **[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)** - Neovim plugin to improve the default vim.ui interfaces (1 day ago)
+- **[neovide/neovide](https://github.com/neovide/neovide)** - No Nonsense Neovim Client in Rust (1 day ago)
+- **[nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim)** - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline (3 days ago)
+- **[JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)** - An opinionated Lua code formatter (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
