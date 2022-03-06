@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-pro @ v1.6.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.0-pro) (today)
 - [gohugoio/hugo @ v0.93.2](https://github.com/gohugoio/hugo/releases/tag/v0.93.2) (2 days ago)
 - [sigstore/cosign @ v1.6.0](https://github.com/sigstore/cosign/releases/tag/v1.6.0) (2 days ago)
 - [containers/podman @ v4.0.2](https://github.com/containers/podman/releases/tag/v4.0.2) (4 days ago)
 - [google/go-github @ v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0) (4 days ago)
-- [charmbracelet/confettysh @ v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2) (5 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (1 week ago)
