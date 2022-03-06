@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)** - Standalone UI for nvim-lsp progress (today)
+- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
 - **[bradenaw/juniper](https://github.com/bradenaw/juniper)** - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams. (2 days ago)
 - **[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)** - Neovim plugin to improve the default vim.ui interfaces (2 days ago)
 - **[neovide/neovide](https://github.com/neovide/neovide)** - No Nonsense Neovim Client in Rust (2 days ago)
-- **[nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim)** - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline (4 days ago)
-- **[JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)** - An opinionated Lua code formatter (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
