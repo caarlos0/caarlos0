@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[bitcoin/bips](https://github.com/bitcoin/bips)** - Bitcoin Improvement Proposals (today)
+- **[tyler-smith/go-bip39](https://github.com/tyler-smith/go-bip39)** - The BIP39 library for Go. (today)
 - **[j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)** - Standalone UI for nvim-lsp progress (2 days ago)
 - **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 days ago)
 - **[bradenaw/juniper](https://github.com/bradenaw/juniper)** - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams. (4 days ago)
-- **[stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)** - Neovim plugin to improve the default vim.ui interfaces (4 days ago)
-- **[neovide/neovide](https://github.com/neovide/neovide)** - No Nonsense Neovim Client in Rust (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
