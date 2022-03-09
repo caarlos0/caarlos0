@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[Pocco81/AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim)** - 🦴 A NeoVim plugin for saving your work before the world collapses or you type :qa! (today)
 - **[caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)** - Code copied from x/crypto and golang/go#37132 (1 day ago)
 - **[bitcoin/bips](https://github.com/bitcoin/bips)** - Bitcoin Improvement Proposals (1 day ago)
 - **[tyler-smith/go-bip39](https://github.com/tyler-smith/go-bip39)** - The BIP39 library for Go. (1 day ago)
 - **[j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)** - Standalone UI for nvim-lsp progress (3 days ago)
-- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
