@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/palette](https://github.com/catppuccin/palette)** - 🎨 Soothing pastel theme to use within your projects! (today)
 - **[f3fora/cmp-spell](https://github.com/f3fora/cmp-spell)** - spell source for nvim-cmp based on vim&#39;s spellsuggest. (1 day ago)
 - **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (1 day ago)
 - **[qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)** - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 day ago)
 - **[zsa/wally](https://github.com/zsa/wally)** - The Flash(ing tool) (1 day ago)
-- **[rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)** - A UI for nvim-dap (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
