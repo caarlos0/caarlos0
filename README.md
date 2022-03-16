@@ -12,7 +12,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/melt @ v0.1.0](https://github.com/charmbracelet/melt/releases/tag/v0.1.0) (2 days ago)
+- [charmbracelet/melt @ v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0) (today)
 - [gohugoio/hugo @ v0.94.2](https://github.com/gohugoio/hugo/releases/tag/v0.94.2) (4 days ago)
 - [goreleaser/goreleaser @ v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (4 days ago)
 - [goreleaser/goreleaser-pro @ v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) (4 days ago)
