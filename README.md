@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/melt @ v0.1.0](https://github.com/charmbracelet/melt/releases/tag/v0.1.0) (1 day ago)
-- [gohugoio/hugo @ v0.94.2](https://github.com/gohugoio/hugo/releases/tag/v0.94.2) (3 days ago)
-- [goreleaser/goreleaser @ v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (3 days ago)
-- [goreleaser/goreleaser-pro @ v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) (3 days ago)
-- [spf13/cobra @ v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0) (5 days ago)
+- [charmbracelet/melt @ v0.1.0](https://github.com/charmbracelet/melt/releases/tag/v0.1.0) (2 days ago)
+- [gohugoio/hugo @ v0.94.2](https://github.com/gohugoio/hugo/releases/tag/v0.94.2) (4 days ago)
+- [goreleaser/goreleaser @ v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (4 days ago)
+- [goreleaser/goreleaser-pro @ v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) (4 days ago)
+- [spf13/cobra @ v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (2 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/melt](https://github.com/charmbracelet/melt)** - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
-- **[ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank)** - A Vim plugin to copy text through SSH with OSC52 (1 day ago)
-- **[catppuccin/palette](https://github.com/catppuccin/palette)** - 🎨 Soothing pastel theme to use within your projects! (2 days ago)
-- **[f3fora/cmp-spell](https://github.com/f3fora/cmp-spell)** - spell source for nvim-cmp based on vim&#39;s spellsuggest. (3 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (3 days ago)
+- **[charmbracelet/melt](https://github.com/charmbracelet/melt)** - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 days ago)
+- **[ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank)** - A Vim plugin to copy text through SSH with OSC52 (2 days ago)
+- **[catppuccin/palette](https://github.com/catppuccin/palette)** - 🎨 Soothing pastel theme to use within your projects! (3 days ago)
+- **[f3fora/cmp-spell](https://github.com/f3fora/cmp-spell)** - spell source for nvim-cmp based on vim&#39;s spellsuggest. (4 days ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
