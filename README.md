@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[folke/trouble.nvim](https://github.com/folke/trouble.nvim)** - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. (today)
 - **[charmbracelet/melt](https://github.com/charmbracelet/melt)** - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 days ago)
 - **[ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank)** - A Vim plugin to copy text through SSH with OSC52 (3 days ago)
 - **[catppuccin/palette](https://github.com/catppuccin/palette)** - 🎨 Soothing pastel theme to use within your projects! (4 days ago)
 - **[f3fora/cmp-spell](https://github.com/f3fora/cmp-spell)** - spell source for nvim-cmp based on vim&#39;s spellsuggest. (5 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (5 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
