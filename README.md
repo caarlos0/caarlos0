@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/ko @ v0.11.0](https://github.com/google/ko/releases/tag/v0.11.0) (today)
 - [cue-lang/cue @ v0.4.3-beta.1](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.1) (1 day ago)
 - [gohugoio/hugo @ v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0) (2 days ago)
 - [charmbracelet/melt @ v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0) (2 days ago)
 - [goreleaser/goreleaser @ v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (6 days ago)
-- [goreleaser/goreleaser-pro @ v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) (6 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)** - A markdown preview directly in your neovim. (today)
 - **[folke/trouble.nvim](https://github.com/folke/trouble.nvim)** - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. (1 day ago)
 - **[charmbracelet/melt](https://github.com/charmbracelet/melt)** - 🧊 Backup and restore Ed25519 SSH keys with seed words. (4 days ago)
 - **[ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank)** - A Vim plugin to copy text through SSH with OSC52 (4 days ago)
 - **[catppuccin/palette](https://github.com/catppuccin/palette)** - 🎨 Soothing pastel theme to use within your projects! (5 days ago)
-- **[f3fora/cmp-spell](https://github.com/f3fora/cmp-spell)** - spell source for nvim-cmp based on vim&#39;s spellsuggest. (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
