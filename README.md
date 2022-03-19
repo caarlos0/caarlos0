@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/wishlist @ v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0) (today)
 - [goreleaser/nfpm @ v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (today)
 - [google/ko @ v0.11.0](https://github.com/google/ko/releases/tag/v0.11.0) (1 day ago)
 - [cue-lang/cue @ v0.4.3-beta.1](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.1) (2 days ago)
 - [gohugoio/hugo @ v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0) (3 days ago)
-- [charmbracelet/melt @ v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (3 weeks ago)
