@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/ko @ v0.11.1](https://github.com/google/ko/releases/tag/v0.11.1) (1 day ago)
-- [charmbracelet/wishlist @ v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0) (1 day ago)
-- [goreleaser/nfpm @ v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (1 day ago)
-- [cue-lang/cue @ v0.4.3-beta.1](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.1) (3 days ago)
-- [gohugoio/hugo @ v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0) (4 days ago)
+- [google/ko @ v0.11.1](https://github.com/google/ko/releases/tag/v0.11.1) (2 days ago)
+- [charmbracelet/wishlist @ v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0) (2 days ago)
+- [goreleaser/nfpm @ v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (2 days ago)
+- [cue-lang/cue @ v0.4.3-beta.1](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.1) (4 days ago)
+- [gohugoio/hugo @ v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Runzhi He](https://github.com/12f23eddde) (3 weeks ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (1 day ago)
-- **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (1 day ago)
-- **[ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)** - A markdown preview directly in your neovim. (2 days ago)
-- **[folke/trouble.nvim](https://github.com/folke/trouble.nvim)** - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. (3 days ago)
-- **[charmbracelet/melt](https://github.com/charmbracelet/melt)** - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
+- **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** - List of projects that provide terminal user interfaces (1 day ago)
+- **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (2 days ago)
+- **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (2 days ago)
+- **[ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)** - A markdown preview directly in your neovim. (3 days ago)
+- **[folke/trouble.nvim](https://github.com/folke/trouble.nvim)** - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. (4 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
