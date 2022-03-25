@@ -19,11 +19,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 - [charmbracelet/wishlist @ v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0) (6 days ago)
 
 #### ❤️ Sponsors
+- [Luca Steeb](https://github.com/steebchen) (today)
 - [Runzhi He](https://github.com/12f23eddde) (4 weeks ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (1 month ago)
-- [Babiel GmbH](https://github.com/babiel) (1 month ago)
 
 Many thanks everyone! 🙏
 
