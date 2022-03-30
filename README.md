@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/dotfiles.fish @ v5.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.0.0) (1 day ago)
-- [goreleaser/nfpm @ v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (1 day ago)
-- [gohugoio/hugo @ v0.96.0](https://github.com/gohugoio/hugo/releases/tag/v0.96.0) (3 days ago)
-- [caarlos0/org-stats @ v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2) (6 days ago)
-- [google/ko @ v0.11.2](https://github.com/google/ko/releases/tag/v0.11.2) (1 week ago)
+- [charmbracelet/skate @ v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5) (1 day ago)
+- [charmbracelet/charm @ v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.0.0) (2 days ago)
+- [goreleaser/nfpm @ v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 days ago)
+- [gohugoio/hugo @ v0.96.0](https://github.com/gohugoio/hugo/releases/tag/v0.96.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Luca Steeb](https://github.com/steebchen) (4 days ago)
+- [Luca Steeb](https://github.com/steebchen) (5 days ago)
 - [Runzhi He](https://github.com/12f23eddde) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
@@ -34,7 +34,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (6 days ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** - List of projects that provide terminal user interfaces (1 week ago)
 - **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (1 week ago)
 - **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (1 week ago)
