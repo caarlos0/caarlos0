@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[philc/vimium](https://github.com/philc/vimium)** - The hacker&#39;s browser. (today)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** - List of projects that provide terminal user interfaces (1 week ago)
 - **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (1 week ago)
 - **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (1 week ago)
-- **[ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)** - A markdown preview directly in your neovim. (1 week ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
