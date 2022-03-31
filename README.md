@@ -20,10 +20,10 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### ❤️ Sponsors
 - [Luca Steeb](https://github.com/steebchen) (6 days ago)
-- [Runzhi He](https://github.com/12f23eddde) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (1 month ago)
+- [Babiel GmbH](https://github.com/babiel) (2 months ago)
 
 Many thanks everyone! 🙏
 
