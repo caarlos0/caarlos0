@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (today)
 - [go-task/task @ v3.12.0](https://github.com/go-task/task/releases/tag/v3.12.0) (today)
 - [charmbracelet/skate @ v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5) (3 days ago)
 - [charmbracelet/charm @ v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0) (3 days ago)
 - [caarlos0/dotfiles.fish @ v5.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.0.0) (4 days ago)
-- [goreleaser/nfpm @ v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (4 days ago)
 
 #### ❤️ Sponsors
 - [Luca Steeb](https://github.com/steebchen) (1 week ago)
