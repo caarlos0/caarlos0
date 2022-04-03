@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (1 day ago)
-- [go-task/task @ v3.12.0](https://github.com/go-task/task/releases/tag/v3.12.0) (1 day ago)
-- [charmbracelet/skate @ v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5) (4 days ago)
-- [charmbracelet/charm @ v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0) (4 days ago)
-- [caarlos0/dotfiles.fish @ v5.0.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.0.0) (5 days ago)
+- [orlangure/gocovsh @ v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0) (1 day ago)
+- [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (2 days ago)
+- [go-task/task @ v3.12.0](https://github.com/go-task/task/releases/tag/v3.12.0) (2 days ago)
+- [charmbracelet/skate @ v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5) (5 days ago)
+- [charmbracelet/charm @ v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0) (5 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (1 day ago)
+- [October Swimmer](https://github.com/octoberswimmer) (2 days ago)
 - [Luca Steeb](https://github.com/steebchen) (1 week ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
@@ -34,13 +34,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (2 days ago)
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (2 days ago)
+- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (3 days ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (3 days ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (2 weeks ago)
 - **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (2 weeks ago)
 
 #### 📄 Latest posts
-- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (1 month ago)
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
 - [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (2 months ago)
 - [./charm.sh](https://carlosbecker.com/posts/charm/) (3 months ago)
