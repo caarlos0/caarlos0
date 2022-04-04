@@ -3,11 +3,11 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)**
 - **[caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)** - Code copied from x/crypto and golang/go#37132
 - **[caarlos0/timer](https://github.com/caarlos0/timer)** - A `sleep` with progress
 - **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities
 - **[caarlos0/parttysh](https://github.com/caarlos0/parttysh)** - something really useful: a party parrot over ssh
-- **[caarlos0/timea.go](https://github.com/caarlos0/timea.go)** - timea.go (did you see what I did there?) is a simple library to print given times in &#34;time ago&#34; manner.
 
 #### 🚀 Latest releases I've contributed to
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (today)
 - **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (4 days ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (4 days ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (2 weeks ago)
-- **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
