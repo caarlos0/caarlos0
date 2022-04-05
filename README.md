@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (today)
+- [cue-lang/cue @ v0.4.3-beta.2](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.2) (today)
 - [orlangure/gocovsh @ v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0) (3 days ago)
 - [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (4 days ago)
 - [go-task/task @ v3.12.0](https://github.com/go-task/task/releases/tag/v3.12.0) (4 days ago)
-- [charmbracelet/skate @ v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5) (1 week ago)
-- [charmbracelet/charm @ v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (4 days ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (today)
 - **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (1 day ago)
 - **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (5 days ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (5 days ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
-- **[tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** - Persists tmux environment across system restarts. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
