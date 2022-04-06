@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (today)
-- [cue-lang/cue @ v0.4.3-beta.2](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.2) (today)
-- [orlangure/gocovsh @ v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0) (3 days ago)
-- [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (4 days ago)
-- [go-task/task @ v3.12.0](https://github.com/go-task/task/releases/tag/v3.12.0) (4 days ago)
+- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (1 day ago)
+- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (1 day ago)
+- [cue-lang/cue @ v0.4.3-beta.2](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.2) (1 day ago)
+- [orlangure/gocovsh @ v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0) (4 days ago)
+- [containers/podman @ v4.0.3](https://github.com/containers/podman/releases/tag/v4.0.3) (5 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (4 days ago)
+- [October Swimmer](https://github.com/octoberswimmer) (5 days ago)
 - [Luca Steeb](https://github.com/steebchen) (1 week ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (today)
-- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (1 day ago)
-- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (5 days ago)
-- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (5 days ago)
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 day ago)
+- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (2 days ago)
+- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (6 days ago)
+- **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (6 days ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
