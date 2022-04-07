@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (today)
 - [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (today)
 - [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (1 day ago)
 - [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (2 days ago)
 - [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (2 days ago)
-- [cue-lang/cue @ v0.4.3-beta.2](https://github.com/cue-lang/cue/releases/tag/v0.4.3-beta.2) (2 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (6 days ago)
