@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (today)
-- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (today)
-- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (1 day ago)
-- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (2 days ago)
-- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (2 days ago)
+- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (1 day ago)
+- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (1 day ago)
+- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (2 days ago)
+- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (3 days ago)
+- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (3 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (6 days ago)
-- [Luca Steeb](https://github.com/steebchen) (1 week ago)
+- [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
+- [Luca Steeb](https://github.com/steebchen) (2 weeks ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (1 month ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 months ago)
@@ -34,9 +34,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (today)
-- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (2 days ago)
-- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (3 days ago)
+- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (1 day ago)
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (3 days ago)
+- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (4 days ago)
 - **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (1 week ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 week ago)
 
