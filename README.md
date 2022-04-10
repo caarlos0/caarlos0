@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (2 days ago)
-- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (2 days ago)
-- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (3 days ago)
-- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (4 days ago)
-- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (4 days ago)
+- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (3 days ago)
+- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (3 days ago)
+- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (4 days ago)
+- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (5 days ago)
+- [charmbracelet/keygen @ v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
@@ -34,9 +34,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (2 days ago)
-- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (4 days ago)
-- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (5 days ago)
+- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (3 days ago)
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (5 days ago)
+- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (6 days ago)
 - **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (1 week ago)
 - **[goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)** - Deliver Go binaries as fast and easily as possible (1 week ago)
 
