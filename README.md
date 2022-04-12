@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/soft-serve @ v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0) (today)
-- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (4 days ago)
-- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (4 days ago)
-- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (5 days ago)
-- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (6 days ago)
+- [charmbracelet/soft-serve @ v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0) (1 day ago)
+- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (5 days ago)
+- [caarlos0/go-gumroad @ v0.1.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.1.0) (5 days ago)
+- [charmbracelet/wish @ v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1) (6 days ago)
+- [sigstore/cosign @ v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1) (1 week ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
@@ -34,9 +34,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (4 days ago)
-- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (6 days ago)
+- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
+- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (5 days ago)
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 week ago)
 - **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (1 week ago)
 - **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (1 week ago)
 
