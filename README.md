@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/skate @ v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0) (today)
+- [containers/podman @ v3.4.6](https://github.com/containers/podman/releases/tag/v3.4.6) (today)
 - [golang/tools @ gopls/v0.8.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.3) (1 day ago)
 - [sigstore/cosign @ v1.7.2](https://github.com/sigstore/cosign/releases/tag/v1.7.2) (1 day ago)
 - [caarlos0/go-gumroad @ v0.2.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.0) (1 day ago)
-- [charmbracelet/soft-serve @ v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0) (2 days ago)
-- [charmbracelet/melt @ v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
