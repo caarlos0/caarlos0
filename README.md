@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (today)
 - [gohugoio/hugo @ v0.97.0](https://github.com/gohugoio/hugo/releases/tag/v0.97.0) (today)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) (1 day ago)
 - [muesli/mango-cobra @ v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0) (1 day ago)
 - [charmbracelet/skate @ v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0) (1 day ago)
-- [containers/podman @ v3.4.6](https://github.com/containers/podman/releases/tag/v3.4.6) (1 day ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
