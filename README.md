@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (today)
+- **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (today)
 - **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
 - **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (1 week ago)
 - **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 week ago)
-- **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (1 week ago)
-- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
