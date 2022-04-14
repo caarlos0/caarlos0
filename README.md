@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/skate @ v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0) (today)
-- [containers/podman @ v3.4.6](https://github.com/containers/podman/releases/tag/v3.4.6) (today)
-- [golang/tools @ gopls/v0.8.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.3) (1 day ago)
-- [sigstore/cosign @ v1.7.2](https://github.com/sigstore/cosign/releases/tag/v1.7.2) (1 day ago)
-- [caarlos0/go-gumroad @ v0.2.0](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.0) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) (1 day ago)
+- [muesli/mango-cobra @ v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0) (1 day ago)
+- [charmbracelet/skate @ v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0) (1 day ago)
+- [containers/podman @ v3.4.6](https://github.com/containers/podman/releases/tag/v3.4.6) (1 day ago)
+- [golang/tools @ gopls/v0.8.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.3) (2 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (2 days ago)
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (6 days ago)
+- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
+- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (1 week ago)
 - **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 week ago)
 - **[charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)** - TUI components for Bubble Tea 🍡 (1 week ago)
-- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (1 week ago)
+- **[rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)** - A list of awesome resources for tmux (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
