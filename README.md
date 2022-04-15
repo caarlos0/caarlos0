@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (today)
-- [gohugoio/hugo @ v0.97.0](https://github.com/gohugoio/hugo/releases/tag/v0.97.0) (today)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) (1 day ago)
-- [muesli/mango-cobra @ v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0) (1 day ago)
-- [charmbracelet/skate @ v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0) (1 day ago)
+- [caarlos0/jsonfmt @ v0.5.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.5.0) (1 day ago)
+- [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (1 day ago)
+- [gohugoio/hugo @ v0.97.0](https://github.com/gohugoio/hugo/releases/tag/v0.97.0) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) (2 days ago)
+- [muesli/mango-cobra @ v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (1 week ago)
-- [Luca Steeb](https://github.com/steebchen) (2 weeks ago)
+- [October Swimmer](https://github.com/octoberswimmer) (2 weeks ago)
+- [Luca Steeb](https://github.com/steebchen) (3 weeks ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
 - [Avelino](https://github.com/avelino) (2 months ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 months ago)
@@ -34,9 +34,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (today)
-- **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (today)
-- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
+- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (1 day ago)
+- **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (1 day ago)
+- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (4 days ago)
 - **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (1 week ago)
 - **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 week ago)
 
