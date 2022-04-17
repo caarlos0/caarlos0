@@ -12,9 +12,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [gohugoio/hugo @ v0.97.2](https://github.com/gohugoio/hugo/releases/tag/v0.97.2) (today)
 - [goreleaser/goreleaser @ v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.8.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.2-pro) (1 day ago)
-- [gohugoio/hugo @ v0.97.1](https://github.com/gohugoio/hugo/releases/tag/v0.97.1) (1 day ago)
 - [caarlos0/jsonfmt @ v0.5.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.5.0) (3 days ago)
 - [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (3 days ago)
 
