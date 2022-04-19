@@ -12,16 +12,16 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gohugoio/hugo @ v0.97.2](https://github.com/gohugoio/hugo/releases/tag/v0.97.2) (1 day ago)
-- [goreleaser/goreleaser @ v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.8.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.2-pro) (2 days ago)
-- [caarlos0/jsonfmt @ v0.5.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.5.0) (4 days ago)
-- [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (4 days ago)
+- [gohugoio/hugo @ v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3) (1 day ago)
+- [goreleaser/goreleaser @ v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2) (3 days ago)
+- [goreleaser/goreleaser-pro @ v1.8.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.2-pro) (3 days ago)
+- [caarlos0/jsonfmt @ v0.5.0](https://github.com/caarlos0/jsonfmt/releases/tag/v0.5.0) (5 days ago)
+- [charmbracelet/wishlist @ v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (2 weeks ago)
 - [Luca Steeb](https://github.com/steebchen) (3 weeks ago)
-- [Ivan Golubnichiy](https://github.com/h1kkan) (1 month ago)
+- [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
 - [Avelino](https://github.com/avelino) (2 months ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 months ago)
 
@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (4 days ago)
-- **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (4 days ago)
+- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (5 days ago)
+- **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (5 days ago)
 - **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 week ago)
 - **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (1 week ago)
-- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (1 week ago)
+- **[charmbracelet/runway](https://github.com/charmbracelet/runway)** - Models 📸 (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
