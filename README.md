@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [cue-lang/cue @ v0.4.3](https://github.com/cue-lang/cue/releases/tag/v0.4.3) (today)
-- [containers/podman @ v3.4.7](https://github.com/containers/podman/releases/tag/v3.4.7) (1 day ago)
-- [goreleaser/goreleaser @ v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.8.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.3-pro) (1 day ago)
-- [gohugoio/hugo @ v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3) (3 days ago)
+- [cue-lang/cue @ v0.4.3](https://github.com/cue-lang/cue/releases/tag/v0.4.3) (1 day ago)
+- [containers/podman @ v3.4.7](https://github.com/containers/podman/releases/tag/v3.4.7) (2 days ago)
+- [goreleaser/goreleaser @ v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (2 days ago)
+- [goreleaser/goreleaser-pro @ v1.8.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.3-pro) (2 days ago)
+- [gohugoio/hugo @ v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3) (4 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (2 weeks ago)
-- [Luca Steeb](https://github.com/steebchen) (3 weeks ago)
+- [October Swimmer](https://github.com/octoberswimmer) (3 weeks ago)
+- [Luca Steeb](https://github.com/steebchen) (4 weeks ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
 - [Avelino](https://github.com/avelino) (2 months ago)
 - [Joseph Sirianni](https://github.com/jsirianni) (2 months ago)
@@ -34,7 +34,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-abolish](https://github.com/tpope/vim-abolish)** - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word (2 days ago)
+- **[tpope/vim-abolish](https://github.com/tpope/vim-abolish)** - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word (3 days ago)
 - **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (1 week ago)
 - **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (1 week ago)
 - **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 week ago)
