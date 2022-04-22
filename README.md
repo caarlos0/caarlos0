@@ -34,11 +34,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (today)
+- **[maaslalani/typer](https://github.com/maaslalani/typer)** - Typing test in your terminal (today)
 - **[tpope/vim-abolish](https://github.com/tpope/vim-abolish)** - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word (3 days ago)
 - **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (1 week ago)
 - **[mhinz/vim-signify](https://github.com/mhinz/vim-signify)** - :heavy_plus_sign: Show a diff using Vim its sign column. (1 week ago)
-- **[Miodec/monkeytype](https://github.com/Miodec/monkeytype)** - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 week ago)
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
