@@ -30,6 +30,9 @@ Many thanks everyone! 🙏
 #### 📚 Some books I'm reading
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
+- **[Rust in Action](https://www.goodreads.com/book/show/45731908-rust-in-action)** by _T.S. McNamara_
+- **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
+- **[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)** by _Eric Voskuil_
 
 #### ⭐ Recent Stars
 
