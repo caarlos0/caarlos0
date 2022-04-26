@@ -24,7 +24,7 @@ Many thanks everyone! 🙏
 
 #### 📚 Some books I'm reading
 
-{{- range goodReadsCurrentlyReading 2 }}
+{{- range goodReadsCurrentlyReading 5 }}
 - **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end }}
 
