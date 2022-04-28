@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (today)
 - [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (1 day ago)
 - [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (1 day ago)
 - [caarlos0/sync @ v0.0.1](https://github.com/caarlos0/sync/releases/tag/v0.0.1) (1 day ago)
 - [cue-lang/cue @ v0.4.3](https://github.com/cue-lang/cue/releases/tag/v0.4.3) (1 week ago)
-- [containers/podman @ v3.4.7](https://github.com/containers/podman/releases/tag/v3.4.7) (1 week ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (3 weeks ago)
