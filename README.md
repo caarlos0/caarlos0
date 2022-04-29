@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (today)
-- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (1 day ago)
-- [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (1 day ago)
-- [caarlos0/sync @ v0.0.1](https://github.com/caarlos0/sync/releases/tag/v0.0.1) (1 day ago)
+- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (1 day ago)
+- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (2 days ago)
+- [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (2 days ago)
+- [caarlos0/sync @ v0.0.1](https://github.com/caarlos0/sync/releases/tag/v0.0.1) (2 days ago)
 - [cue-lang/cue @ v0.4.3](https://github.com/cue-lang/cue/releases/tag/v0.4.3) (1 week ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (3 weeks ago)
+- [October Swimmer](https://github.com/octoberswimmer) (4 weeks ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
 - [Avelino](https://github.com/avelino) (2 months ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (1 day ago)
-- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (6 days ago)
-- **[maaslalani/typer](https://github.com/maaslalani/typer)** - Typing test in your terminal (6 days ago)
+- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 day ago)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
+- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 week ago)
+- **[maaslalani/typer](https://github.com/maaslalani/typer)** - Typing test in your terminal (1 week ago)
 - **[tpope/vim-abolish](https://github.com/tpope/vim-abolish)** - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word (1 week ago)
-- **[maaslalani/draw](https://github.com/maaslalani/draw)** - Draw in your terminal (2 weeks ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
