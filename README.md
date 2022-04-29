@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (today)
+- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (today)
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 day ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 days ago)
 - **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 week ago)
-- **[maaslalani/typer](https://github.com/maaslalani/typer)** - Typing test in your terminal (1 week ago)
-- **[tpope/vim-abolish](https://github.com/tpope/vim-abolish)** - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word (1 week ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 months ago)
