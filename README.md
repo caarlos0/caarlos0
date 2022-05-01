@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (today)
-- [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (1 day ago)
-- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (2 days ago)
-- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (3 days ago)
-- [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (3 days ago)
+- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (1 day ago)
+- [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (2 days ago)
+- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (3 days ago)
+- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (4 days ago)
+- [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [October Swimmer](https://github.com/octoberswimmer) (4 weeks ago)
+- [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
 - [Avelino](https://github.com/avelino) (2 months ago)
@@ -37,10 +37,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 day ago)
-- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (1 day ago)
-- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (2 days ago)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (3 days ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (2 days ago)
+- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (2 days ago)
+- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (3 days ago)
+- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (4 days ago)
 - **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 week ago)
 
 #### 📄 Latest posts
