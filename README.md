@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (today)
 - [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (3 days ago)
 - [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (4 days ago)
 - [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (5 days ago)
 - [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (6 days ago)
-- [sigstore/cosign @ v1.8.0](https://github.com/sigstore/cosign/releases/tag/v1.8.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (4 days ago)
 - **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (4 days ago)
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (5 days ago)
 - **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (6 days ago)
-- **[goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)** - Docker image for Golang cross-compiling with CGO (1 week ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 months ago)
