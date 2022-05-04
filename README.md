@@ -3,11 +3,11 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
 - **[caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)** - A simple SSH Agent implementation, written in Go, mainly to be used within tests.
 - **[caarlos0/sync](https://github.com/caarlos0/sync)** - Simple sync primitives I use here and there, extracted so I can reuse them
 - **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API.
 - **[caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)** - Code copied from x/crypto and golang/go#37132
-- **[caarlos0/timer](https://github.com/caarlos0/timer)** - A `sleep` with progress
 
 #### 🚀 Latest releases I've contributed to
 
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (today)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 day ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (5 days ago)
 - **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (5 days ago)
-- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 months ago)
