@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (today)
-- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (3 days ago)
-- [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (4 days ago)
-- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (5 days ago)
-- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (6 days ago)
+- [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (1 day ago)
+- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (4 days ago)
+- [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (5 days ago)
+- [containers/podman @ v4.1.0-rc1](https://github.com/containers/podman/releases/tag/v4.1.0-rc1) (6 days ago)
+- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (1 week ago)
 
 #### ❤️ Sponsors
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (4 days ago)
-- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (4 days ago)
-- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (5 days ago)
-- **[orlangure/gocovsh](https://github.com/orlangure/gocovsh)** - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (6 days ago)
+- **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 day ago)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (5 days ago)
+- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (5 days ago)
+- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 📄 Latest posts
 - [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 months ago)
