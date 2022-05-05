@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (6 days ago)
 
 #### 📄 Latest posts
-- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (3 months ago)
-- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (3 months ago)
-- [./charm.sh](https://carlosbecker.com/posts/charm/) (4 months ago)
+- [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (1 week ago)
+- [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (2 weeks ago)
+- [Announcing GoReleaser v1.7 - The Go 1.18 release](https://carlosbecker.com/posts/goreleaser-v1.7/) (1 month ago)
