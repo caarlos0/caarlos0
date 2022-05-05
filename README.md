@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/sshmarshal @ v0.1.0](https://github.com/caarlos0/sshmarshal/releases/tag/v0.1.0) (today)
 - [containers/podman @ v4.1.0-rc2](https://github.com/containers/podman/releases/tag/v4.1.0-rc2) (1 day ago)
 - [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (2 days ago)
 - [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (5 days ago)
 - [charmbracelet/charm @ v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0) (6 days ago)
-- [caarlos0/go-sshagent @ v0.0.1](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.1) (1 week ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 day ago)
