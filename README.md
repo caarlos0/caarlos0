@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/charm @ v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1) (today)
-- [containers/podman @ v4.1.0](https://github.com/containers/podman/releases/tag/v4.1.0) (today)
-- [caarlos0/sshmarshal @ v0.1.0](https://github.com/caarlos0/sshmarshal/releases/tag/v0.1.0) (1 day ago)
-- [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (3 days ago)
-- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (6 days ago)
+- [charmbracelet/charm @ v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1) (1 day ago)
+- [containers/podman @ v4.1.0](https://github.com/containers/podman/releases/tag/v4.1.0) (1 day ago)
+- [caarlos0/sshmarshal @ v0.1.0](https://github.com/caarlos0/sshmarshal/releases/tag/v0.1.0) (2 days ago)
+- [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (4 days ago)
+- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (1 week ago)
 
 #### ❤️ Sponsors
-- [Daiki Watanabe](https://github.com/daikw) (2 days ago)
+- [Daiki Watanabe](https://github.com/daikw) (3 days ago)
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
@@ -37,9 +37,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (2 days ago)
-- **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (3 days ago)
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 days ago)
+- **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (3 days ago)
+- **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (4 days ago)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (4 days ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 week ago)
 - **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (1 week ago)
 
