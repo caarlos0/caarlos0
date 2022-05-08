@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (1 week ago)
 
 #### 📄 Latest posts
+- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 day ago)
 - [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (1 week ago)
 - [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (3 weeks ago)
-- [Announcing GoReleaser v1.7 - The Go 1.18 release](https://carlosbecker.com/posts/goreleaser-v1.7/) (1 month ago)
