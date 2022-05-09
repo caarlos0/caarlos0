@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/melt @ v0.4.0](https://github.com/charmbracelet/melt/releases/tag/v0.4.0) (today)
 - [charmbracelet/charm @ v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1) (3 days ago)
 - [containers/podman @ v4.1.0](https://github.com/containers/podman/releases/tag/v4.1.0) (3 days ago)
 - [caarlos0/sshmarshal @ v0.1.0](https://github.com/caarlos0/sshmarshal/releases/tag/v0.1.0) (4 days ago)
 - [caarlos0/go-gumroad @ v0.2.1](https://github.com/caarlos0/go-gumroad/releases/tag/v0.2.1) (6 days ago)
-- [google/go-github @ v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (5 days ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (today)
 - **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (5 days ago)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (6 days ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (6 days ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 week ago)
-- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (1 week ago)
 
 #### 📄 Latest posts
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (2 days ago)
