@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.0) (today)
+- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (today)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-1.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.18.0) (today)
+- [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (today)
+- [charmbracelet/wish @ v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0) (today)
 - [go-task/task @ v3.12.1](https://github.com/go-task/task/releases/tag/v3.12.1) (1 day ago)
-- [charmbracelet/promwish @ v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0) (1 day ago)
-- [charmbracelet/melt @ v0.4.0](https://github.com/charmbracelet/melt/releases/tag/v0.4.0) (2 days ago)
-- [charmbracelet/charm @ v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1) (5 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
