@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (today)
 - [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (1 day ago)
 - [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (1 day ago)
 - [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (1 day ago)
 - [charmbracelet/wish @ v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0) (1 day ago)
-- [go-task/task @ v3.12.1](https://github.com/go-task/task/releases/tag/v3.12.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
