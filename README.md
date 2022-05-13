@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (today)
-- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (1 day ago)
-- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (1 day ago)
-- [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (1 day ago)
-- [charmbracelet/wish @ v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0) (1 day ago)
+- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (2 days ago)
+- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (2 days ago)
+- [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (2 days ago)
+- [charmbracelet/wish @ v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (3 days ago)
+- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (4 days ago)
 - **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (1 week ago)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 week ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 week ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 week ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (2 weeks ago)
 
 #### 📄 Latest posts
-- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (5 days ago)
+- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (6 days ago)
 - [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (2 weeks ago)
-- [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (3 weeks ago)
+- [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (4 weeks ago)
