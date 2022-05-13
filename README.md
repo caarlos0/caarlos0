@@ -3,20 +3,20 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 - **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
 - **[caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)** - A simple SSH Agent implementation, written in Go, mainly to be used within tests.
 - **[caarlos0/sync](https://github.com/caarlos0/sync)** - Simple sync primitives I use here and there, extracted so I can reuse them
 - **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API.
-- **[caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)** - Code copied from x/crypto and golang/go#37132
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (today)
 - [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (2 days ago)
 - [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (2 days ago)
 - [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (2 days ago)
-- [charmbracelet/wish @ v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (today)
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (4 days ago)
 - **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (1 week ago)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 week ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 week ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (2 weeks ago)
 
 #### 📄 Latest posts
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (6 days ago)
