@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (today)
 - **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (2 days ago)
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (6 days ago)
 - **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (1 week ago)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 week ago)
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 week ago)
 
 #### 📄 Latest posts
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 week ago)
