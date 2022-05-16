@@ -12,7 +12,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/uhr @ v0.1.0](https://github.com/caarlos0/uhr/releases/tag/v0.1.0) (1 day ago)
+- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (today)
 - [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (3 days ago)
 - [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (4 days ago)
 - [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (5 days ago)
