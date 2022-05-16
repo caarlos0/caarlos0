@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (today)
 - [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (today)
 - [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (3 days ago)
 - [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (4 days ago)
 - [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (5 days ago)
-- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (5 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (today)
+- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (today)
 - **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 day ago)
 - **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (3 days ago)
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
-- **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (1 week ago)
-- **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 week ago)
 
 #### 📄 Latest posts
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 week ago)
