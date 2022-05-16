@@ -3,20 +3,20 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 - **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 - **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
 - **[caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)** - A simple SSH Agent implementation, written in Go, mainly to be used within tests.
 - **[caarlos0/sync](https://github.com/caarlos0/sync)** - Simple sync primitives I use here and there, extracted so I can reuse them
-- **[caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)** - Easily check licenses against Gumroad&#39;s API.
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (2 days ago)
-- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (3 days ago)
-- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (4 days ago)
-- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (4 days ago)
-- [charmbracelet/wishlist @ v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0) (4 days ago)
+- [caarlos0/uhr @ v0.1.0](https://github.com/caarlos0/uhr/releases/tag/v0.1.0) (1 day ago)
+- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (3 days ago)
+- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (4 days ago)
+- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (5 days ago)
+- [charmbracelet/melt @ v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1) (5 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
@@ -37,9 +37,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (today)
-- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (2 days ago)
-- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (6 days ago)
+- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 day ago)
+- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (3 days ago)
+- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
 - **[RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)** - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (1 week ago)
 - **[mastodon/mastodon](https://github.com/mastodon/mastodon)** - Your self-hosted, globally interconnected microblogging community (1 week ago)
 
