@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (today)
-- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (today)
-- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (3 days ago)
-- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (4 days ago)
-- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (5 days ago)
+- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (1 day ago)
+- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (1 day ago)
+- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (4 days ago)
+- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (5 days ago)
+- [prometheus-community/helm-charts @ prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7) (6 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (1 week ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (today)
-- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (today)
-- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (1 day ago)
-- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (3 days ago)
+- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (1 day ago)
+- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (1 day ago)
+- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 days ago)
+- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (4 days ago)
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
 
 #### 📄 Latest posts
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 week ago)
-- [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (2 weeks ago)
+- [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (3 weeks ago)
 - [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (1 month ago)
