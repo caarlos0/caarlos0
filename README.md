@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
 
 #### 📄 Latest posts
+- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 day ago)
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 week ago)
 - [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (3 weeks ago)
-- [Announcing GoReleaser v1.8 - the GOAMD64 release](https://carlosbecker.com/posts/goreleaser-v1.8/) (1 month ago)
