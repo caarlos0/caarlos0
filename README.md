@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[gohugoio/hugo](https://github.com/gohugoio/hugo)** - The world’s fastest framework for building websites. (today)
+- **[yewstack/yew](https://github.com/yewstack/yew)** - Rust / Wasm framework for building client web apps (today)
 - **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (today)
 - **[zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)** - Scan git repos (or files) for secrets using regex and entropy 🔑 (today)
 - **[zricethezav/gitleaks-action](https://github.com/zricethezav/gitleaks-action)** - run gitleaks in a gitleaks action (today)
-- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (2 days ago)
-- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (2 days ago)
 
 #### 📄 Latest posts
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (2 days ago)
