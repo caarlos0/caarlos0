@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1) (today)
-- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (1 day ago)
-- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (1 day ago)
-- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (4 days ago)
-- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (5 days ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1) (1 day ago)
+- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (2 days ago)
+- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (2 days ago)
+- [google/go-github @ v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0) (5 days ago)
+- [caarlos0/env @ v6.9.2](https://github.com/caarlos0/env/releases/tag/v6.9.2) (6 days ago)
 
 #### ❤️ Sponsors
-- [Daiki Watanabe](https://github.com/daikw) (1 week ago)
+- [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (2 months ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (1 day ago)
-- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (1 day ago)
-- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (2 days ago)
-- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (4 days ago)
+- **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (2 days ago)
+- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (2 days ago)
+- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (3 days ago)
+- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (5 days ago)
 - **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
 
 #### 📄 Latest posts
-- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 day ago)
+- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (2 days ago)
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 week ago)
 - [Reproducible builds with GoReleaser](https://carlosbecker.com/posts/goreleaser-reproducible-buids/) (3 weeks ago)
