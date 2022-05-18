@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (today)
+- **[zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)** - Scan git repos (or files) for secrets using regex and entropy 🔑 (today)
+- **[zricethezav/gitleaks-action](https://github.com/zricethezav/gitleaks-action)** - run gitleaks in a gitleaks action (today)
 - **[tpope/vim-surround](https://github.com/tpope/vim-surround)** - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease (2 days ago)
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr (2 days ago)
-- **[livebud/bud](https://github.com/livebud/bud)** - The Full-Stack Web Framework for Go (3 days ago)
-- **[tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)** - eunuch.vim: Helpers for UNIX (5 days ago)
-- **[ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)** (1 week ago)
 
 #### 📄 Latest posts
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (2 days ago)
