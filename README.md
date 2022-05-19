@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [golang/tools @ gopls/v0.8.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.4) (today)
 - [prometheus-community/helm-charts @ prometheus-adapter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.3.0) (today)
 - [goreleaser/goreleaser-cross @ v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) (today)
 - [goreleaser/goreleaser @ v1.9.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.0) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.9.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.0-pro) (1 day ago)
-- [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (3 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (today)
 - **[gohugoio/hugo](https://github.com/gohugoio/hugo)** - The world’s fastest framework for building websites. (1 day ago)
 - **[yewstack/yew](https://github.com/yewstack/yew)** - Rust / Wasm framework for building client web apps (1 day ago)
 - **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (1 day ago)
 - **[zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)** - Scan git repos (or files) for secrets using regex and entropy 🔑 (1 day ago)
-- **[zricethezav/gitleaks-action](https://github.com/zricethezav/gitleaks-action)** - run gitleaks in a gitleaks action (1 day ago)
 
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 day ago)
