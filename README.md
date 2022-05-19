@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-cross @ v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) (today)
 - [goreleaser/goreleaser @ v1.9.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.0) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.9.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.0-pro) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1) (2 days ago)
 - [containers/podman @ v3.0.2](https://github.com/containers/podman/releases/tag/v3.0.2) (3 days ago)
-- [caarlos0/uhr @ v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2) (3 days ago)
 
 #### ❤️ Sponsors
 - [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
