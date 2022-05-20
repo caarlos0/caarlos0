@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (today)
+- [goreleaser/goreleaser-pro @ v1.9.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.1-pro) (today)
+- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.9.2) (today)
 - [golang/tools @ gopls/v0.8.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.4) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-adapter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.3.0) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) (1 day ago)
-- [goreleaser/goreleaser @ v1.9.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.0) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.9.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.0-pro) (2 days ago)
 
 #### ❤️ Sponsors
+- [Sidartha Karna](https://github.com/sidarthakarna) (today)
 - [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 months ago)
-- [Avelino](https://github.com/avelino) (3 months ago)
 
 Many thanks everyone! 🙏
 
