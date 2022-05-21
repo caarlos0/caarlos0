@@ -12,9 +12,9 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-15.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.0) (today)
 - [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.9.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.1-pro) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.9.2) (1 day ago)
 - [golang/tools @ gopls/v0.8.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.8.4) (2 days ago)
 - [goreleaser/goreleaser-cross @ v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) (2 days ago)
 
