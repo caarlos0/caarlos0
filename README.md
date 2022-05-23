@@ -12,14 +12,14 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (today)
-- [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (today)
-- [goreleaser/goreleaser-action @ v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-35.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-35.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.1) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (1 day ago)
+- [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (1 day ago)
+- [goreleaser/goreleaser-action @ v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (3 days ago)
 
 #### ❤️ Sponsors
-- [Sidartha Karna](https://github.com/sidarthakarna) (2 days ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (3 days ago)
 - [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (1 month ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (today)
-- **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (3 days ago)
-- **[gohugoio/hugo](https://github.com/gohugoio/hugo)** - The world’s fastest framework for building websites. (4 days ago)
-- **[yewstack/yew](https://github.com/yewstack/yew)** - Rust / Wasm framework for building client web apps (4 days ago)
-- **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (4 days ago)
+- **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (1 day ago)
+- **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (4 days ago)
+- **[gohugoio/hugo](https://github.com/gohugoio/hugo)** - The world’s fastest framework for building websites. (5 days ago)
+- **[yewstack/yew](https://github.com/yewstack/yew)** - Rust / Wasm framework for building client web apps (5 days ago)
+- **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (5 days ago)
 
 #### 📄 Latest posts
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (4 days ago)
-- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (6 days ago)
+- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (5 days ago)
+- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 week ago)
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (2 weeks ago)
