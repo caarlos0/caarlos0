@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (today)
+- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
 - **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (1 day ago)
 - **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (4 days ago)
 - **[gohugoio/hugo](https://github.com/gohugoio/hugo)** - The world’s fastest framework for building websites. (5 days ago)
-- **[yewstack/yew](https://github.com/yewstack/yew)** - Rust / Wasm framework for building client web apps (5 days ago)
-- **[sigstore/gitsign](https://github.com/sigstore/gitsign)** - Keyless Git signing using Sigstore (5 days ago)
 
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (5 days ago)
