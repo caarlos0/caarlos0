@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (today)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (today)
 - **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 day ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 day ago)
 - **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (2 days ago)
-- **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (5 days ago)
 
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (6 days ago)
