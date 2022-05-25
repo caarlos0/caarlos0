@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-35.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.1) (2 days ago)
-- [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (2 days ago)
-- [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (2 days ago)
-- [goreleaser/goreleaser-action @ v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0) (2 days ago)
-- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (4 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-35.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.1) (3 days ago)
+- [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (3 days ago)
+- [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (3 days ago)
+- [goreleaser/goreleaser-action @ v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0) (3 days ago)
+- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (5 days ago)
 
 #### ❤️ Sponsors
-- [Sidartha Karna](https://github.com/sidarthakarna) (4 days ago)
-- [Daiki Watanabe](https://github.com/daikw) (2 weeks ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (5 days ago)
+- [Daiki Watanabe](https://github.com/daikw) (3 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (1 month ago)
 - [Luca Steeb](https://github.com/steebchen) (2 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 months ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (today)
-- **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (today)
-- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 day ago)
-- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 day ago)
-- **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (2 days ago)
+- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (1 day ago)
+- **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (1 day ago)
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (2 days ago)
+- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 days ago)
+- **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (3 days ago)
 
 #### 📄 Latest posts
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (6 days ago)
+- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 week ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 week ago)
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (2 weeks ago)
