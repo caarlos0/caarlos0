@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github @ v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-35.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.1) (3 days ago)
 - [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (3 days ago)
 - [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (3 days ago)
 - [goreleaser/goreleaser-action @ v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0) (3 days ago)
-- [goreleaser/goreleaser @ v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) (5 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (5 days ago)
