@@ -12,8 +12,8 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-35.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.4.2) (today)
 - [caarlos0-graveyard/test @ example-v1.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.3.0) (today)
-- [prometheus-community/helm-charts @ alertmanager-0.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.1) (1 day ago)
 - [google/go-github @ v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0) (2 days ago)
 - [caarlos0/dotfiles.fish @ v5.1.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.1.0) (5 days ago)
 - [caarlos0/uhr @ v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0) (5 days ago)
