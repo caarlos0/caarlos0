@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (2 days ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.28](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.28) (2 days ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-35.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.4.2) (2 days ago)
-- [caarlos0-graveyard/test @ example-v1.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.3.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 days ago)
+- [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (3 days ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.28](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.28) (3 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-35.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.4.2) (3 days ago)
+- [caarlos0-graveyard/test @ example-v1.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.3.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 week ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
-- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (5 days ago)
-- **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (5 days ago)
-- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (6 days ago)
-- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (6 days ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
+- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (6 days ago)
+- **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (6 days ago)
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 week ago)
+- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 week ago)
-- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 week ago)
+- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (2 weeks ago)
 - [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (3 weeks ago)
