@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-pushgateway-1.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.18.1) (today)
+- [caarlos0/env @ v6.9.3](https://github.com/caarlos0/env/releases/tag/v6.9.3) (today)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.19.0) (today)
 - [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 days ago)
 - [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (3 days ago)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.28](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.28) (3 days ago)
-- [caarlos0-graveyard/test @ example-v1.3.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.3.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 week ago)
