@@ -12,7 +12,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-35.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.0) (today)
 - [caarlos0/env @ v6.9.3](https://github.com/caarlos0/env/releases/tag/v6.9.3) (1 day ago)
 - [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (4 days ago)
 - [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (4 days ago)
