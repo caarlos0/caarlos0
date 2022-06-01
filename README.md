@@ -3,16 +3,16 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/log](https://github.com/caarlos0/log)**
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 - **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 - **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
 - **[caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)** - A simple SSH Agent implementation, written in Go, mainly to be used within tests.
-- **[caarlos0/sync](https://github.com/caarlos0/sync)** - Simple sync primitives I use here and there, extracted so I can reuse them
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-35.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.1) (today)
 - [caarlos0/env @ v6.9.3](https://github.com/caarlos0/env/releases/tag/v6.9.3) (2 days ago)
 - [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (5 days ago)
 - [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (5 days ago)
