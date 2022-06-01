@@ -3,7 +3,7 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/log](https://github.com/caarlos0/log)**
+- **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 - **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 - **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/soft-serve @ v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-35.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.1) (today)
 - [caarlos0/env @ v6.9.3](https://github.com/caarlos0/env/releases/tag/v6.9.3) (2 days ago)
 - [goreleaser/goreleaser @ v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (5 days ago)
 - [goreleaser/goreleaser-pro @ v1.9.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.2-pro) (5 days ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.28](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.28) (5 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 week ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (today)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 - **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (1 week ago)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (1 week ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
-- **[tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired)** - unimpaired.vim: Pairs of handy bracket mappings (1 week ago)
 
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (2 weeks ago)
