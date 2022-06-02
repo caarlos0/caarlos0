@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
+- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (today)
+- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0) (today)
 - [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (today)
 - [charmbracelet/bubbletea @ v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0) (today)
 - [charmbracelet/soft-serve @ v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-35.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.1) (1 day ago)
-- [caarlos0/env @ v6.9.3](https://github.com/caarlos0/env/releases/tag/v6.9.3) (3 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 week ago)
