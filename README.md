@@ -12,15 +12,15 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (today)
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0) (today)
-- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (today)
-- [charmbracelet/bubbletea @ v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0) (today)
-- [charmbracelet/soft-serve @ v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1) (1 day ago)
+- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0) (1 day ago)
+- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (1 day ago)
+- [charmbracelet/bubbletea @ v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0) (1 day ago)
+- [charmbracelet/soft-serve @ v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1) (2 days ago)
 
 #### ❤️ Sponsors
-- [Sidartha Karna](https://github.com/sidarthakarna) (1 week ago)
-- [Daiki Watanabe](https://github.com/daikw) (4 weeks ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (2 weeks ago)
+- [Daiki Watanabe](https://github.com/daikw) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (2 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 months ago)
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 day ago)
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
+- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 days ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (1 week ago)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (1 week ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
