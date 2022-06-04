@@ -12,11 +12,11 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1) (today)
-- [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (today)
-- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (1 day ago)
-- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (1 day ago)
-- [charmbracelet/bubbletea @ v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1) (1 day ago)
+- [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (1 day ago)
+- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (2 days ago)
+- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (2 days ago)
+- [charmbracelet/bubbletea @ v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 weeks ago)
@@ -37,7 +37,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 days ago)
+- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (3 days ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (1 week ago)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (1 week ago)
@@ -46,4 +46,4 @@ Many thanks everyone! 🙏
 #### 📄 Latest posts
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (2 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (2 weeks ago)
-- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (3 weeks ago)
+- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (4 weeks ago)
