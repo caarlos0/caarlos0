@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 weeks ago)
 
 #### 📄 Latest posts
+- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 day ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (2 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (3 weeks ago)
-- [Joining the split keyboards club: a Moonlander story](https://carlosbecker.com/posts/split-keyboard-moonlander/) (1 month ago)
