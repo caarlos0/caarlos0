@@ -12,18 +12,18 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.8.1) (today)
-- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (today)
-- [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (4 days ago)
-- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (5 days ago)
-- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (5 days ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.8.1) (1 day ago)
+- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (1 day ago)
+- [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (5 days ago)
+- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (6 days ago)
+- [charmbracelet/bubbles @ v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (2 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 months ago)
-- [Avelino](https://github.com/avelino) (3 months ago)
+- [Avelino](https://github.com/avelino) (4 months ago)
 
 Many thanks everyone! 🙏
 
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (today)
-- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (today)
-- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (6 days ago)
+- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 day ago)
+- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 day ago)
+- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (2 weeks ago)
 
 #### 📄 Latest posts
-- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 day ago)
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (2 weeks ago)
+- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (2 days ago)
+- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (3 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (3 weeks ago)
