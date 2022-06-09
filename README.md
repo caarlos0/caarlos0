@@ -3,11 +3,11 @@
 I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 - **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 - **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
-- **[caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)** - A simple SSH Agent implementation, written in Go, mainly to be used within tests.
 
 #### 🚀 Latest releases I've contributed to
 
@@ -41,7 +41,7 @@ Many thanks everyone! 🙏
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (2 days ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
-- **[arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)** - Source code for privacytests.org. Includes browser testing code and site rendering. (2 weeks ago)
+- **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (2 weeks ago)
 
 #### 📄 Latest posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (3 days ago)
