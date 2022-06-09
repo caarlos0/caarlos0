@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
+I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
@@ -27,7 +27,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 Many thanks everyone! 🙏
 
-#### 📚 Some books I'm reading
+#### 📚 Books I'm reading
 - **[Can&#39;t Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/43160250-can-t-hurt-me)** by _David Goggins_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
@@ -43,7 +43,7 @@ Many thanks everyone! 🙏
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (2 weeks ago)
 
-#### 📄 Latest posts
+#### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (3 days ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (3 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (3 weeks ago)
