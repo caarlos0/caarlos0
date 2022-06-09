@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
+I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 
@@ -22,7 +22,7 @@ I'm Carlos! I'm a Site Reliability Engineer based in Cascavel - 🇧🇷.
 
 Many thanks everyone! 🙏
 
-#### 📚 Some books I'm reading
+#### 📚 Books I'm reading
 
 {{- range goodReadsCurrentlyReading 5 }}
 - **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
@@ -34,7 +34,7 @@ Many thanks everyone! 🙏
 - **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
 
-#### 📄 Latest posts
+#### 📄 Latest blog posts
 
 {{- range rss "https://carlosbecker.com/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
