@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-stackdriver-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-3.0.0) (today)
 - [orlangure/gocovsh @ v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0) (2 days ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.8.1) (3 days ago)
 - [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (3 days ago)
 - [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (1 week ago)
 - [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (1 week ago)
