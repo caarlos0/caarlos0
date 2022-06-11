@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.0.0) (today)
-- [orlangure/gocovsh @ v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0) (2 days ago)
-- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (3 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (1 day ago)
+- [orlangure/gocovsh @ v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0) (3 days ago)
+- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (4 days ago)
 - [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (1 week ago)
-- [muesli/termenv @ v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (3 weeks ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (3 days ago)
-- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (3 days ago)
+- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (4 days ago)
+- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (4 days ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 - **[gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)** - Retro groove color scheme for Vim - community maintained edition (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (4 days ago)
+- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (5 days ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (3 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (3 weeks ago)
