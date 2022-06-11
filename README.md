@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (today)
 - [prometheus-community/helm-charts @ prometheus-15.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.0) (today)
 - [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (1 day ago)
-- [orlangure/gocovsh @ v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0) (3 days ago)
 - [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (4 days ago)
 - [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (1 week ago)
 
