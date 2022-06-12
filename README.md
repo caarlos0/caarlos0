@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (today)
-- [prometheus-community/helm-charts @ prometheus-15.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.0) (today)
-- [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (1 day ago)
-- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (4 days ago)
+- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (2 days ago)
+- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (5 days ago)
 - [sigstore/cosign @ v1.9.0](https://github.com/sigstore/cosign/releases/tag/v1.9.0) (1 week ago)
 
 #### ❤️ Sponsors
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (today)
-- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (4 days ago)
-- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (4 days ago)
+- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (1 day ago)
+- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (5 days ago)
+- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (5 days ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (5 days ago)
+- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (6 days ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (3 weeks ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (3 weeks ago)
