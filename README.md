@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.13.0) (today)
-- [goreleaser/nfpm @ v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (today)
-- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (2 days ago)
-- [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (3 days ago)
-- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (6 days ago)
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.13.0) (1 day ago)
+- [goreleaser/nfpm @ v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 day ago)
+- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (3 days ago)
+- [goreleaser/goreleaser-cross @ v1.18.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.3) (4 days ago)
+- [google/go-github @ v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (3 weeks ago)
@@ -37,9 +37,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (2 days ago)
-- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (6 days ago)
-- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (6 days ago)
+- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (3 days ago)
+- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 week ago)
+- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 week ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
