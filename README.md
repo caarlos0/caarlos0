@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/log @ v0.1.0](https://github.com/caarlos0/log/releases/tag/v0.1.0) (today)
-- [go-task/task @ v3.13.0](https://github.com/go-task/task/releases/tag/v3.13.0) (today)
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.13.0) (1 day ago)
-- [goreleaser/nfpm @ v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 day ago)
-- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.8.0) (1 day ago)
+- [caarlos0/log @ v0.1.0](https://github.com/caarlos0/log/releases/tag/v0.1.0) (1 day ago)
+- [go-task/task @ v3.13.0](https://github.com/go-task/task/releases/tag/v3.13.0) (1 day ago)
+- [goreleaser/nfpm @ v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (2 days ago)
+- [orlangure/gocovsh @ v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1) (4 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (3 weeks ago)
@@ -29,21 +29,21 @@ Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
 - **[Rust in Action](https://www.goodreads.com/book/show/48496405-rust-in-action)** by _T.S. McNamara_
-- **[Can&#39;t Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/43160250-can-t-hurt-me)** by _David Goggins_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
+- **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
 
 #### ⭐ Recent Stars
 
 
-- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (3 days ago)
+- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (4 days ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 week ago)
-- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
+- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 weeks ago)
 - **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 week ago)
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (3 weeks ago)
-- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (4 weeks ago)
+- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (4 weeks ago)
+- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 month ago)
