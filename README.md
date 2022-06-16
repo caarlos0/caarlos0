@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (today)
-- [charmbracelet/wish @ v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0) (today)
-- [containers/podman @ v4.1.1](https://github.com/containers/podman/releases/tag/v4.1.1) (today)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.8.0) (1 day ago)
-- [caarlos0/log @ v0.1.0](https://github.com/caarlos0/log/releases/tag/v0.1.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2) (1 day ago)
+- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (1 day ago)
+- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (1 day ago)
+- [charmbracelet/wish @ v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0) (1 day ago)
+- [containers/podman @ v4.1.1](https://github.com/containers/podman/releases/tag/v4.1.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (3 weeks ago)
@@ -37,7 +37,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (4 days ago)
+- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (5 days ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 week ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 weeks ago)
