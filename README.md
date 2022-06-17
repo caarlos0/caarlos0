@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ alertmanager-0.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.2) (today)
 - [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2) (2 days ago)
 - [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (2 days ago)
 - [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (2 days ago)
 - [charmbracelet/wish @ v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0) (2 days ago)
