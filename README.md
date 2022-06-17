@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2) (1 day ago)
-- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (1 day ago)
-- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (1 day ago)
-- [charmbracelet/wish @ v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0) (1 day ago)
-- [containers/podman @ v4.1.1](https://github.com/containers/podman/releases/tag/v4.1.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2) (2 days ago)
+- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (2 days ago)
+- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (2 days ago)
+- [charmbracelet/wish @ v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0) (2 days ago)
+- [containers/podman @ v4.1.1](https://github.com/containers/podman/releases/tag/v4.1.1) (2 days ago)
 
 #### ❤️ Sponsors
-- [Sidartha Karna](https://github.com/sidarthakarna) (3 weeks ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (4 weeks ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (2 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (3 months ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (5 days ago)
+- **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (6 days ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 week ago)
 - **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 weeks ago)
-- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
+- **[charmbracelet/glow](https://github.com/charmbracelet/glow)** - Render markdown on the CLI, with pizzazz! 💅🏻 (3 weeks ago)
 
 #### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 week ago)
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (4 weeks ago)
+- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 month ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 month ago)
