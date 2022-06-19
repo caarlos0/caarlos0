@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.9.2) (1 day ago)
-- [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (1 day ago)
-- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (3 days ago)
-- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.0) (1 day ago)
+- [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (2 days ago)
+- [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (2 days ago)
+- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (4 days ago)
+- [caarlos0/ctrlc @ v1.1.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.1.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Sidartha Karna](https://github.com/sidarthakarna) (4 weeks ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (2 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (4 months ago)
@@ -37,7 +37,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (1 day ago)
+- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (2 days ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (1 week ago)
