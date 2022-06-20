@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.0) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3) (today)
 - [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (3 days ago)
 - [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (3 days ago)
 - [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (5 days ago)
