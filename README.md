@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (today)
 - [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3) (1 day ago)
 - [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (4 days ago)
 - [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (4 days ago)
-- [charmbracelet/soft-serve @ v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2) (6 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
