@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (today)
-- [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3) (1 day ago)
-- [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (4 days ago)
-- [charmbracelet/wishlist @ v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0) (4 days ago)
+- [muesli/cancelreader @ v0.2.1](https://github.com/muesli/cancelreader/releases/tag/v0.2.1) (1 day ago)
+- [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (1 day ago)
+- [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3) (2 days ago)
+- [charmbracelet/bubbletea-app-template @ v0.1.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.1.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (4 days ago)
+- **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 day ago)
+- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (5 days ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (2 weeks ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (2 weeks ago)
-- **[folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (2 weeks ago)
