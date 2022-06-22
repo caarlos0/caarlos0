@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (today)
 - [muesli/mango-cobra @ v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0) (today)
 - [caarlos0-graveyard/test @ example-v1.4.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.0) (today)
-- [muesli/cancelreader @ v0.2.1](https://github.com/muesli/cancelreader/releases/tag/v0.2.1) (1 day ago)
 - [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (1 day ago)
 - [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (1 day ago)
 
