@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (today)
-- [muesli/mango-cobra @ v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0) (today)
-- [caarlos0-graveyard/test @ example-v1.4.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.0) (today)
-- [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (1 day ago)
-- [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (1 day ago)
+- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (1 day ago)
+- [muesli/mango-cobra @ v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0) (1 day ago)
+- [caarlos0-graveyard/test @ example-v1.4.0](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.0) (1 day ago)
+- [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (2 days ago)
+- [spf13/cobra @ v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
-- [Luca Steeb](https://github.com/steebchen) (2 months ago)
+- [Luca Steeb](https://github.com/steebchen) (3 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (4 months ago)
 - [Avelino](https://github.com/avelino) (4 months ago)
 
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 day ago)
-- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (5 days ago)
+- **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (2 days ago)
+- **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (6 days ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (2 weeks ago)
 - **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (2 weeks ago)
