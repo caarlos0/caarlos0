@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.0.2) (today)
 - [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-36.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.2.0) (1 day ago)
 - [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (2 days ago)
 - [muesli/mango-cobra @ v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0) (2 days ago)
 - [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (3 days ago)
 
 #### ❤️ Sponsors
+- [GitHub](https://github.com/github) (today)
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (3 months ago)
 - [Ivan Golubnichiy](https://github.com/h1kkan) (4 months ago)
-- [Avelino](https://github.com/avelino) (4 months ago)
 
 Many thanks everyone! 🙏
 
