@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-36.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.2.0) (1 day ago)
-- [caarlos0-graveyard/test @ example-v1.4.3](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.3) (1 day ago)
 - [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (2 days ago)
 - [muesli/mango-cobra @ v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0) (2 days ago)
 - [google/go-github @ v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0) (3 days ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (today)
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (3 days ago)
 - **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (1 week ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (1 week ago)
 - **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (2 weeks ago)
-- **[nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)** (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (2 weeks ago)
