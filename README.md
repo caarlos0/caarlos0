@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (today)
 - **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (3 days ago)
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (6 days ago)
 - **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (1 week ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (2 weeks ago)
-- **[nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)** - Show code context (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (3 weeks ago)
