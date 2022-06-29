@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.19.1) (1 day ago)
-- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (1 day ago)
-- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (1 day ago)
-- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (4 days ago)
-- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (6 days ago)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.19.1) (2 days ago)
+- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (2 days ago)
+- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (2 days ago)
+- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (5 days ago)
+- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (1 week ago)
 
 #### ❤️ Sponsors
-- [GitHub](https://github.com/github) (4 days ago)
+- [GitHub](https://github.com/github) (5 days ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (2 months ago)
 - [Luca Steeb](https://github.com/steebchen) (3 months ago)
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (1 day ago)
-- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (4 days ago)
+- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (2 days ago)
+- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (5 days ago)
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 week ago)
 - **[charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)** - A template repository to create Bubbletea apps. (1 week ago)
 - **[Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)** - gruvbox theme for fish (2 weeks ago)
