@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/domain_exporter @ v1.17.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.0) (today)
 - [prometheus-community/helm-charts @ prometheus-redis-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.0.0) (1 day ago)
 - [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (3 days ago)
 - [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (3 days ago)
 - [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (6 days ago)
-- [muesli/cancelreader @ v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2) (1 week ago)
 
 #### ❤️ Sponsors
 - [GitHub](https://github.com/github) (6 days ago)
