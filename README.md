@@ -28,11 +28,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
-- **[Rust in Action](https://www.goodreads.com/book/show/48496405-rust-in-action)** by _T.S. McNamara_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 - **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
+- **[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)** by _Eric Voskuil_
 
 #### ⭐ Recent Stars
 
