@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.2.1) (today)
 - [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.0.0) (2 days ago)
 - [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (4 days ago)
 - [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (4 days ago)
 - [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (1 week ago)
