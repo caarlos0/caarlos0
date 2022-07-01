@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (today)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.0.0) (1 day ago)
-- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (3 days ago)
-- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (3 days ago)
-- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (6 days ago)
+- [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.0.0) (2 days ago)
+- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (4 days ago)
+- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (4 days ago)
+- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (1 week ago)
 
 #### ❤️ Sponsors
-- [GitHub](https://github.com/github) (6 days ago)
+- [GitHub](https://github.com/github) (1 week ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (3 months ago)
 - [Luca Steeb](https://github.com/steebchen) (3 months ago)
@@ -37,10 +37,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (1 day ago)
-- **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
-- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (3 days ago)
-- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (6 days ago)
+- **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (2 days ago)
+- **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
+- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (4 days ago)
+- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (1 week ago)
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 week ago)
 
 #### 📄 Latest blog posts
