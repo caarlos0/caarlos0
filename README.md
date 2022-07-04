@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/log @ v0.1.1](https://github.com/caarlos0/log/releases/tag/v0.1.1) (today)
+- [goreleaser/goreleaser @ v1.10.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.0) (today)
+- [goreleaser/goreleaser-pro @ v1.10.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.0-pro) (today)
 - [prometheus-community/helm-charts @ kube-state-metrics-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.11.0) (today)
 - [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (4 days ago)
-- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (1 week ago)
-- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (1 week ago)
-- [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (1 week ago)
 
 #### ❤️ Sponsors
 - [GitHub](https://github.com/github) (1 week ago)
@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 week ago)
 
 #### 📄 Latest blog posts
+- [GoReleaser v1.10 - the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (today)
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (4 weeks ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 month ago)
-- [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 month ago)
