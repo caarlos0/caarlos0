@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-15.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.2) (2 days ago)
-- [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (3 days ago)
-- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (6 days ago)
-- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (6 days ago)
+- [prometheus-community/helm-charts @ prometheus-15.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.2) (3 days ago)
+- [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (4 days ago)
+- [charmbracelet/bubbletea @ v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0) (1 week ago)
+- [charmbracelet/bubbles @ v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0) (1 week ago)
 - [caarlos0-graveyard/test @ example-v1.4.4](https://github.com/caarlos0-graveyard/test/releases/tag/example-v1.4.4) (1 week ago)
 
 #### ❤️ Sponsors
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (4 days ago)
-- **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (4 days ago)
-- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (6 days ago)
+- **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (5 days ago)
+- **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 days ago)
+- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (1 week ago)
 - **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (1 week ago)
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (1 week ago)
 
 #### 📄 Latest blog posts
-- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (3 weeks ago)
+- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (4 weeks ago)
 - [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 month ago)
 - [Using SSH Certificates with Go’s SSH Client](https://carlosbecker.com/posts/golang-ssh-client-certificates/) (1 month ago)
