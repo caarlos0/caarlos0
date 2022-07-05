@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-15.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.3) (today)
 - [goreleaser/goreleaser @ v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (today)
 - [goreleaser/goreleaser-pro @ v1.10.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.1-pro) (today)
 - [caarlos0/log @ v0.1.1](https://github.com/caarlos0/log/releases/tag/v0.1.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.11.0) (1 day ago)
 - [caarlos0/domain_exporter @ v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (5 days ago)
 
 #### ❤️ Sponsors
