@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [golang/tools @ gopls/v0.9.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.0) (today)
 - [prometheus-community/helm-charts @ alertmanager-0.18.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.3) (1 day ago)
 - [charmbracelet/bubbles @ v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.10.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.1-pro) (1 day ago)
-- [caarlos0/log @ v0.1.1](https://github.com/caarlos0/log/releases/tag/v0.1.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [GitHub](https://github.com/github) (1 week ago)
