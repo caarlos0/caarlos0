@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (today)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (1 week ago)
 - **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (1 week ago)
 - **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (1 week ago)
-- **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [GoReleaser v1.10 - the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (2 days ago)
+- [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (2 days ago)
+- [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (3 weeks ago)
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 month ago)
-- [Announcing GoReleaser v1.9 - the 10k stars release](https://carlosbecker.com/posts/goreleaser-v1.9/) (1 month ago)
