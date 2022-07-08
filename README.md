@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [golang/tools @ gopls/v0.9.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.0) (1 day ago)
-- [prometheus-community/helm-charts @ alertmanager-0.18.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.3) (2 days ago)
-- [charmbracelet/bubbles @ v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0) (2 days ago)
-- [goreleaser/goreleaser @ v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.10.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.1-pro) (2 days ago)
+- [golang/tools @ gopls/v0.9.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.0) (2 days ago)
+- [prometheus-community/helm-charts @ alertmanager-0.18.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.18.3) (3 days ago)
+- [charmbracelet/bubbles @ v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0) (3 days ago)
+- [goreleaser/goreleaser @ v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (3 days ago)
+- [goreleaser/goreleaser-pro @ v1.10.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.1-pro) (3 days ago)
 
 #### ❤️ Sponsors
-- [João Cerqueira](https://github.com/crqra) (1 day ago)
-- [GitHub](https://github.com/github) (1 week ago)
+- [João Cerqueira](https://github.com/crqra) (2 days ago)
+- [GitHub](https://github.com/github) (2 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
 - [October Swimmer](https://github.com/octoberswimmer) (3 months ago)
 - [Luca Steeb](https://github.com/steebchen) (3 months ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (1 day ago)
+- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (2 days ago)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (1 week ago)
 - **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (1 week ago)
-- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (1 week ago)
+- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** - A launch point for your personal nvim configuration (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (3 days ago)
+- [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (4 days ago)
 - [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (3 weeks ago)
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 month ago)
