@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/dotfiles.fish @ v5.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.2.0) (today)
 - [go-task/task @ v3.14.0](https://github.com/go-task/task/releases/tag/v3.14.0) (1 day ago)
 - [prometheus-community/helm-charts @ kube-state-metrics-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.13.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.10.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.2-pro) (1 day ago)
-- [golang/tools @ gopls/v0.9.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.0) (3 days ago)
 
 #### ❤️ Sponsors
+- [Alex Viscreanu](https://github.com/aexvir) (today)
+- [Pacholo Amit](https://github.com/pacholoamit) (today)
 - [Talha Altınel](https://github.com/MrWormHole) (1 day ago)
 - [João Cerqueira](https://github.com/crqra) (3 days ago)
 - [GitHub](https://github.com/github) (2 weeks ago)
-- [Sidartha Karna](https://github.com/sidarthakarna) (1 month ago)
-- [October Swimmer](https://github.com/octoberswimmer) (3 months ago)
 
 Many thanks everyone! 🙏
 
