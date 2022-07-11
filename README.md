@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.6.2) (today)
 - [orlangure/gocovsh @ v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-15.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.4) (2 days ago)
 - [caarlos0/dotfiles.fish @ v5.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.2.0) (2 days ago)
 - [go-task/task @ v3.14.0](https://github.com/go-task/task/releases/tag/v3.14.0) (3 days ago)
 - [goreleaser/goreleaser @ v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2) (3 days ago)
