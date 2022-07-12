@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-36.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.6.2) (today)
-- [orlangure/gocovsh @ v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1) (2 days ago)
-- [caarlos0/dotfiles.fish @ v5.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.2.0) (2 days ago)
-- [go-task/task @ v3.14.0](https://github.com/go-task/task/releases/tag/v3.14.0) (3 days ago)
+- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-36.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.6.2) (1 day ago)
+- [orlangure/gocovsh @ v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1) (3 days ago)
+- [caarlos0/dotfiles.fish @ v5.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.2.0) (3 days ago)
+- [go-task/task @ v3.14.0](https://github.com/go-task/task/releases/tag/v3.14.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Alex Viscreanu](https://github.com/aexvir) (2 days ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (2 days ago)
-- [Talha Altınel](https://github.com/MrWormHole) (3 days ago)
-- [João Cerqueira](https://github.com/crqra) (5 days ago)
+- [Alex Viscreanu](https://github.com/aexvir) (3 days ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (3 days ago)
+- [Talha Altınel](https://github.com/MrWormHole) (4 days ago)
+- [João Cerqueira](https://github.com/crqra) (6 days ago)
 - [GitHub](https://github.com/github) (2 weeks ago)
 
 Many thanks everyone! 🙏
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (today)
-- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (5 days ago)
+- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (1 day ago)
+- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (6 days ago)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (1 week ago)
 - **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (2 weeks ago)
