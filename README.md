@@ -12,36 +12,36 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-37.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-37.2.0) (today)
-- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (2 days ago)
-- [orlangure/gocovsh @ v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1) (4 days ago)
-- [caarlos0/dotfiles.fish @ v5.2.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.2.0) (4 days ago)
+- [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (1 day ago)
+- [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-37.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-37.2.0) (1 day ago)
+- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (3 days ago)
+- [orlangure/gocovsh @ v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1) (5 days ago)
 
 #### ❤️ Sponsors
-- [Alex Viscreanu](https://github.com/aexvir) (4 days ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (4 days ago)
-- [Talha Altınel](https://github.com/MrWormHole) (5 days ago)
+- [Alex Viscreanu](https://github.com/aexvir) (5 days ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (5 days ago)
+- [Talha Altınel](https://github.com/MrWormHole) (6 days ago)
 - [João Cerqueira](https://github.com/crqra) (1 week ago)
 - [GitHub](https://github.com/github) (2 weeks ago)
 
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
+- **[Learning Modern Linux: A Handbook for the Cloud Native Practitioner](https://www.goodreads.com/book/show/59891130-learning-modern-linux)** by _Michael Hausenblas_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 - **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
-- **[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)** by _Eric Voskuil_
 
 #### ⭐ Recent Stars
 
 
-- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (2 days ago)
+- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (today)
+- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (today)
+- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (3 days ago)
 - **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (1 week ago)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (2 weeks ago)
-- **[starship/starship](https://github.com/starship/starship)** - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 weeks ago)
-- **[ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)** - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 week ago)
