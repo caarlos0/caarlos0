@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.5.0) (1 day ago)
-- [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (1 day ago)
-- [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (2 days ago)
-- [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (2 days ago)
-- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (4 days ago)
+- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.5.0) (2 days ago)
+- [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (2 days ago)
+- [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (3 days ago)
+- [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (3 days ago)
+- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (5 days ago)
 
 #### ❤️ Sponsors
-- [Alex Viscreanu](https://github.com/aexvir) (6 days ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (6 days ago)
+- [Alex Viscreanu](https://github.com/aexvir) (1 week ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (1 week ago)
 - [Talha Altınel](https://github.com/MrWormHole) (1 week ago)
 - [João Cerqueira](https://github.com/crqra) (1 week ago)
 - [GitHub](https://github.com/github) (3 weeks ago)
@@ -37,9 +37,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (1 day ago)
-- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (1 day ago)
-- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (4 days ago)
+- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (2 days ago)
+- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (2 days ago)
+- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (5 days ago)
 - **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (1 week ago)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (2 weeks ago)
 
