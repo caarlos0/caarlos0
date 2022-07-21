@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-15.10.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.10.5) (today)
-- [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (6 days ago)
+- [prometheus-community/helm-charts @ alertmanager-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.19.0) (1 day ago)
+- [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (1 day ago)
+- [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (1 week ago)
 - [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (1 week ago)
 - [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (1 week ago)
-- [caarlos0/httperr @ v1.3.0](https://github.com/caarlos0/httperr/releases/tag/v1.3.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (1 week ago)
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (6 days ago)
-- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (6 days ago)
+- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (1 week ago)
+- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (1 week ago)
 - **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (1 week ago)
 - **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (2 weeks ago)
 - **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (3 weeks ago)
