@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (1 week ago)
-- **[jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)** - 👀 Move faster with unique f/F indicators. (1 week ago)
-- **[rmagatti/auto-session](https://github.com/rmagatti/auto-session)** - A small automated session manager for Neovim (1 week ago)
-- **[kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based terminal (2 weeks ago)
-- **[declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)** - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua! (3 weeks ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (today)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (today)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (today)
+- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (today)
+- **[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)** - nvim-cmp source for neovim builtin LSP client (today)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (2 weeks ago)
