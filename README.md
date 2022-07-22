@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.19.0) (2 days ago)
+- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-38.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-38.0.0) (today)
 - [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (2 days ago)
 - [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (1 week ago)
 - [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (1 week ago)
-- [golang/tools @ gopls/v0.9.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.1) (1 week ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (1 week ago)
