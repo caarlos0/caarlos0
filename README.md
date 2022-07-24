@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (1 day ago)
-- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-38.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-38.0.0) (1 day ago)
-- [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (3 days ago)
+- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (2 days ago)
+- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-38.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-38.0.0) (2 days ago)
+- [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (4 days ago)
 - [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (1 week ago)
 
 #### ❤️ Sponsors
@@ -23,7 +23,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Pacholo Amit](https://github.com/pacholoamit) (2 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (2 weeks ago)
 - [João Cerqueira](https://github.com/crqra) (2 weeks ago)
-- [GitHub](https://github.com/github) (4 weeks ago)
+- [GitHub](https://github.com/github) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (2 days ago)
-- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (2 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (2 days ago)
-- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (2 days ago)
-- **[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)** - nvim-cmp source for neovim builtin LSP client (2 days ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (3 days ago)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (3 days ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (3 days ago)
+- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (3 days ago)
+- **[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)** - nvim-cmp source for neovim builtin LSP client (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (2 weeks ago)
