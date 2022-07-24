@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-node-exporter-3.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.3.1) (today)
 - [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (2 days ago)
 - [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (2 days ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-38.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-38.0.0) (2 days ago)
 - [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (4 days ago)
 - [containers/podman @ v4.2.0-rc1](https://github.com/containers/podman/releases/tag/v4.2.0-rc1) (1 week ago)
 
