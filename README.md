@@ -23,7 +23,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Pacholo Amit](https://github.com/pacholoamit) (2 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (2 weeks ago)
 - [João Cerqueira](https://github.com/crqra) (2 weeks ago)
-- [GitHub](https://github.com/github) (1 month ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
 
 Many thanks everyone! 🙏
 
