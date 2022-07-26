@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (today)
-- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (3 days ago)
-- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (3 days ago)
-- [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (5 days ago)
-- [charmbracelet/wishlist @ v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0) (1 week ago)
+- [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (1 day ago)
+- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (4 days ago)
+- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (4 days ago)
+- [bensadeh/despell @ 0.7](https://github.com/bensadeh/despell/releases/tag/0.7) (6 days ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (2 weeks ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (4 days ago)
-- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (4 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (4 days ago)
-- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (4 days ago)
-- **[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)** - nvim-cmp source for neovim builtin LSP client (4 days ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (5 days ago)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (5 days ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (5 days ago)
+- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (5 days ago)
+- **[hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)** - nvim-cmp source for neovim builtin LSP client (5 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (3 weeks ago)
