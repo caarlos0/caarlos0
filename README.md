@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/dotfiles.fish @ v5.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.3.0) (today)
-- [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (1 day ago)
-- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (4 days ago)
-- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (4 days ago)
+- [caarlos0/dotfiles.fish @ v5.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.3.0) (1 day ago)
+- [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (2 days ago)
+- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (5 days ago)
+- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (2 weeks ago)
 - [Pacholo Amit](https://github.com/pacholoamit) (2 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (2 weeks ago)
-- [João Cerqueira](https://github.com/crqra) (2 weeks ago)
+- [João Cerqueira](https://github.com/crqra) (3 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
 
 Many thanks everyone! 🙏
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (today)
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (5 days ago)
-- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (5 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (5 days ago)
-- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (5 days ago)
+- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 day ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (6 days ago)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (6 days ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (6 days ago)
+- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (6 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (3 weeks ago)
