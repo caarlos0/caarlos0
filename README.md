@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (today)
+- [goreleaser/goreleaser-pro @ v1.10.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.3-pro) (today)
 - [caarlos0/dotfiles.fish @ v5.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.3.0) (1 day ago)
 - [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (2 days ago)
 - [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (2 days ago)
-- [muesli/kmeans @ v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1) (5 days ago)
-- [sigstore/cosign @ v1.10.0](https://github.com/sigstore/cosign/releases/tag/v1.10.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (2 weeks ago)
