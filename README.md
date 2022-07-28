@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (today)
-- [goreleaser/goreleaser-pro @ v1.10.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.3-pro) (today)
-- [caarlos0/dotfiles.fish @ v5.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.3.0) (1 day ago)
-- [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.10.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.10.3-pro) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.3.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.3.0) (2 days ago)
+- [charmbracelet/confettysh @ v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (2 weeks ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 day ago)
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (6 days ago)
-- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (6 days ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (6 days ago)
-- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (6 days ago)
+- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (2 days ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (1 week ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (1 week ago)
+- **[hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer)** - nvim-cmp source for buffer words (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (3 weeks ago)
