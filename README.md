@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/tablewriter](https://github.com/caarlos0/tablewriter)** - A very simple table using lipgloss and text/tabwriter.
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 - **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
-- **[caarlos0/goreleaser-pro-prebuilt-example](https://github.com/caarlos0/goreleaser-pro-prebuilt-example)** - Quick example on how to use GoReleaser Pro&#39;s prebuilt builder
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.0.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0) (today)
 - [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 day ago)
 - [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (1 day ago)
 - [charmbracelet/gum @ v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0) (1 day ago)
