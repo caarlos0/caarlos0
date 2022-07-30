@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0) (today)
-- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 day ago)
-- [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (1 day ago)
-- [charmbracelet/gum @ v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0) (1 day ago)
+- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (2 days ago)
+- [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (2 days ago)
+- [charmbracelet/gum @ v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (3 days ago)
 
 #### ❤️ Sponsors
-- [Alex Viscreanu](https://github.com/aexvir) (2 weeks ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (2 weeks ago)
+- [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (3 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (3 weeks ago)
 - [João Cerqueira](https://github.com/crqra) (3 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (1 day ago)
-- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (3 days ago)
+- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (2 days ago)
+- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (4 days ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (1 week ago)
 - **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (1 week ago)
