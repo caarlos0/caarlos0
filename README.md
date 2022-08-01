@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.2.1) (today)
+- [prometheus-community/helm-charts @ prometheus-stackdriver-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.0.0) (today)
 - [charmbracelet/gum @ v0.2.0](https://github.com/charmbracelet/gum/releases/tag/v0.2.0) (1 day ago)
 - [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (4 days ago)
 - [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (4 days ago)
@@ -22,8 +22,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
 - [Pacholo Amit](https://github.com/pacholoamit) (3 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (3 weeks ago)
-- [João Cerqueira](https://github.com/crqra) (3 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
+- [October Swimmer](https://github.com/octoberswimmer) (4 months ago)
 
 Many thanks everyone! 🙏
 
