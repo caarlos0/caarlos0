@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.15.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.0) (today)
 - [charmbracelet/gum @ v0.2.0](https://github.com/charmbracelet/gum/releases/tag/v0.2.0) (2 days ago)
 - [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (5 days ago)
 - [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (5 days ago)
