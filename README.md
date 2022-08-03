@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.2.1) (today)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29) (today)
 - [charmbracelet/gum @ v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.0) (1 day ago)
 - [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (6 days ago)
 - [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (6 days ago)
 
