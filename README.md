@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.0) (today)
-- [charmbracelet/gum @ v0.2.0](https://github.com/charmbracelet/gum/releases/tag/v0.2.0) (2 days ago)
-- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (5 days ago)
-- [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (5 days ago)
-- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (6 days ago)
+- [charmbracelet/gum @ v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.0) (1 day ago)
+- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (6 days ago)
+- [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (6 days ago)
+- [goreleaser/goreleaser @ v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 week ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
@@ -37,13 +37,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (5 days ago)
+- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (6 days ago)
 - **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 week ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
 - **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (1 week ago)
 - **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (4 weeks ago)
+- [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
 - [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (1 month ago)
 - [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (1 month ago)
