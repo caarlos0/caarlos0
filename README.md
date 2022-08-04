@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.2.1) (today)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29) (today)
-- [charmbracelet/gum @ v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0) (1 day ago)
-- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (6 days ago)
-- [karlmutch/duat @ 0.17.0-rc.6](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.6) (6 days ago)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.0) (1 day ago)
+- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29) (1 day ago)
+- [charmbracelet/gum @ v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0) (2 days ago)
+- [goreleaser/nfpm @ v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (6 days ago)
+- **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (1 week ago)
 - **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 week ago)
-- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (1 week ago)
-- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (1 week ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (1 week ago)
+- **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (2 weeks ago)
+- **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (2 weeks ago)
+- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
