@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (today)
+- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (today)
 - [prometheus-community/helm-charts @ prometheus-15.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.12.0) (today)
 - [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (today)
 - [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29) (1 day ago)
-- [charmbracelet/gum @ v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0) (2 days ago)
 
 #### ❤️ Sponsors
+- [andig](https://github.com/andig) (today)
 - [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
 - [Pacholo Amit](https://github.com/pacholoamit) (3 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (3 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
-- [October Swimmer](https://github.com/octoberswimmer) (4 months ago)
 
 Many thanks everyone! 🙏
 
