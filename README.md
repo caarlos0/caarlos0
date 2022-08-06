@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.0) (today)
 - [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (2 days ago)
 - [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (2 days ago)
 - [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (2 days ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (today)
 - **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (1 week ago)
 - **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 week ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (2 weeks ago)
 - **[hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)** - nvim-cmp source for math calculation (2 weeks ago)
-- **[hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji)** - nvim-cmp source for emoji (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
