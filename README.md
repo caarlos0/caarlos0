@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.1) (today)
-- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (1 day ago)
-- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (1 day ago)
-- [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (1 day ago)
-- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.1) (1 day ago)
+- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (2 days ago)
+- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (2 days ago)
+- [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (2 days ago)
+- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (3 days ago)
 
 #### ❤️ Sponsors
-- [andig](https://github.com/andig) (1 day ago)
-- [Alex Viscreanu](https://github.com/aexvir) (3 weeks ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (3 weeks ago)
+- [andig](https://github.com/andig) (2 days ago)
+- [Alex Viscreanu](https://github.com/aexvir) (4 weeks ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (4 weeks ago)
 - [Talha Altınel](https://github.com/MrWormHole) (4 weeks ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
 
