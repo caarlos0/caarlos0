@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-json-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.3.0) (today)
+- [prometheus-community/helm-charts @ prometheus-fastly-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.0) (today)
+- [caarlos0/log @ v0.1.2](https://github.com/caarlos0/log/releases/tag/v0.1.2) (today)
 - [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (4 days ago)
 - [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (4 days ago)
 - [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (4 days ago)
-- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (5 days ago)
 
 #### ❤️ Sponsors
 - [andig](https://github.com/andig) (4 days ago)
