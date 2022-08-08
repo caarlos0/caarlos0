@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.5.0) (today)
-- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (3 days ago)
-- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (3 days ago)
-- [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (3 days ago)
-- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (4 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.5.0) (1 day ago)
+- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (4 days ago)
+- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (4 days ago)
+- [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (4 days ago)
+- [charmbracelet/soft-serve @ v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3) (5 days ago)
 
 #### ❤️ Sponsors
-- [andig](https://github.com/andig) (3 days ago)
-- [Alex Viscreanu](https://github.com/aexvir) (4 weeks ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (4 weeks ago)
+- [andig](https://github.com/andig) (4 days ago)
+- [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
+- [Pacholo Amit](https://github.com/pacholoamit) (1 month ago)
 - [Talha Altınel](https://github.com/MrWormHole) (1 month ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
 
@@ -37,8 +37,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (today)
-- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (1 day ago)
+- **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (1 day ago)
+- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (2 days ago)
 - **[charmbracelet/gum](https://github.com/charmbracelet/gum)** - A tool for glamorous shell scripts 🎀 (1 week ago)
 - **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 week ago)
 - **[hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)** - cmp-nvim-lsp-signature-help (2 weeks ago)
