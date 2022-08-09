@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-fastly-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.0) (today)
-- [caarlos0/log @ v0.1.2](https://github.com/caarlos0/log/releases/tag/v0.1.2) (today)
-- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (4 days ago)
-- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (4 days ago)
-- [go-task/task @ v3.14.1](https://github.com/go-task/task/releases/tag/v3.14.1) (4 days ago)
+- [charmbracelet/soft-serve @ v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-fastly-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.0) (1 day ago)
+- [caarlos0/log @ v0.1.2](https://github.com/caarlos0/log/releases/tag/v0.1.2) (1 day ago)
+- [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (5 days ago)
+- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (5 days ago)
 
 #### ❤️ Sponsors
-- [andig](https://github.com/andig) (4 days ago)
+- [andig](https://github.com/andig) (5 days ago)
 - [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
 - [Pacholo Amit](https://github.com/pacholoamit) (1 month ago)
 - [Talha Altınel](https://github.com/MrWormHole) (1 month ago)
@@ -37,11 +37,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (today)
-- **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (today)
-- **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🦆 Put icons in `tmux`&#39;s status line (today)
-- **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (1 day ago)
-- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (2 days ago)
+- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (1 day ago)
+- **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (1 day ago)
+- **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🦆 Put icons in `tmux`&#39;s status line (1 day ago)
+- **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (2 days ago)
+- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
