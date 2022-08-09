@@ -3,36 +3,36 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/icons](https://github.com/caarlos0/icons)** - icons for tmux
 - **[caarlos0/tablewriter](https://github.com/caarlos0/tablewriter)** - A very simple table using lipgloss and text/tabwriter.
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
 - **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
-- **[caarlos0/transactional](https://github.com/caarlos0/transactional)** - a sqlx transaction wrapper for http.Handler
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-cross @ v1.19](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19) (today)
 - [charmbracelet/soft-serve @ v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-fastly-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.0) (1 day ago)
 - [caarlos0/log @ v0.1.2](https://github.com/caarlos0/log/releases/tag/v0.1.2) (1 day ago)
 - [sigstore/cosign @ v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1) (5 days ago)
-- [charmbracelet/gum @ v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [andig](https://github.com/andig) (5 days ago)
 - [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
-- [Pacholo Amit](https://github.com/pacholoamit) (1 month ago)
 - [Talha Altınel](https://github.com/MrWormHole) (1 month ago)
 - [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
+- [October Swimmer](https://github.com/octoberswimmer) (4 months ago)
 
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
+- **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 - **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
-- **[Cryptoeconomics: Fundamental Principles of Bitcoin](https://www.goodreads.com/book/show/56919322-cryptoeconomics)** by _Eric Voskuil_
 
 #### ⭐ Recent Stars
 
