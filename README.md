@@ -28,11 +28,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
+- **[Beyond Order: 12 More Rules For Life](https://www.goodreads.com/book/show/57422874-beyond-order)** by _Jordan B. Peterson_
 - **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
-- **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
 
 #### ⭐ Recent Stars
 
@@ -44,6 +44,6 @@ Many thanks everyone! 🙏
 - **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (4 days ago)
 
 #### 📄 Latest blog posts
+- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (1 day ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
 - [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (1 month ago)
-- [My tmux workflow](https://carlosbecker.com/posts/tmux-sessionizer/) (2 months ago)
