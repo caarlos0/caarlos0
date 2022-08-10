@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.6.0) (today)
+- [golang/tools @ gopls/v0.9.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.2) (today)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0) (today)
 - [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (1 day ago)
 - [charmbracelet/charm @ v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.0) (1 day ago)
-- [bensadeh/despell @ 0.8](https://github.com/bensadeh/despell/releases/tag/0.8) (1 day ago)
 
 #### ❤️ Sponsors
 - [Baptiste Canton](https://github.com/batmac) (1 day ago)
