@@ -28,6 +28,8 @@ Many thanks everyone! 🙏
 - **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end }}
 
+[Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
+
 #### ⭐ Recent Stars
 
 {{ range recentStars 5 }}
