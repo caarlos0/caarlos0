@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [golang/tools @ gopls/v0.9.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.2) (1 day ago)
+- [golang/tools @ gopls/v0.9.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.3) (today)
 - [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0) (1 day ago)
 - [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (2 days ago)
 - [charmbracelet/charm @ v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3) (2 days ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (today)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (today)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (3 days ago)
 - **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (3 days ago)
 - **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🎩 Put icons in `tmux`&#39;s status line (3 days ago)
-- **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (4 days ago)
 
 #### 📄 Latest blog posts
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 days ago)
