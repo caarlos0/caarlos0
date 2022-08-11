@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (today)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (3 days ago)
 - **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (3 days ago)
 - **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🎩 Put icons in `tmux`&#39;s status line (3 days ago)
 - **[williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)** - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim (4 days ago)
-- **[luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)** - Gruvbox theme for neovim with full 🎄TreeSitter support.  (5 days ago)
 
 #### 📄 Latest blog posts
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 days ago)
