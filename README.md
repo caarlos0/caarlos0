@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [golang/tools @ gopls/v0.9.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.3) (today)
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0) (1 day ago)
-- [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (2 days ago)
-- [charmbracelet/charm @ v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3) (2 days ago)
-- [goreleaser/goreleaser-cross @ v1.19.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.0) (2 days ago)
+- [golang/tools @ gopls/v0.9.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0) (2 days ago)
+- [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (3 days ago)
+- [charmbracelet/charm @ v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3) (3 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.0) (3 days ago)
 
 #### ❤️ Sponsors
-- [Baptiste Canton](https://github.com/batmac) (2 days ago)
+- [Baptiste Canton](https://github.com/batmac) (3 days ago)
 - [andig](https://github.com/andig) (1 week ago)
 - [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
 - [Talha Altınel](https://github.com/MrWormHole) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (today)
-- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (today)
-- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (3 days ago)
-- **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (3 days ago)
-- **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🎩 Put icons in `tmux`&#39;s status line (3 days ago)
+- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (1 day ago)
+- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 day ago)
+- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (4 days ago)
+- **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (4 days ago)
+- **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🎩 Put icons in `tmux`&#39;s status line (4 days ago)
 
 #### 📄 Latest blog posts
-- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 days ago)
+- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (3 days ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
 - [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (1 month ago)
