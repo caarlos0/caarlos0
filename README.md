@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-adapter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.0) (today)
 - [caarlos0/dotfiles.fish @ v5.4.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.4.0) (today)
-- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.1.0) (1 day ago)
 - [golang/tools @ gopls/v0.9.3](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.3) (2 days ago)
 - [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (4 days ago)
 - [charmbracelet/charm @ v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3) (4 days ago)
