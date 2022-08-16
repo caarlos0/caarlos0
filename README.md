@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (today)
+- [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (today)
 - [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (1 day ago)
 - [charmbracelet/charm @ v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-adapter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.0) (3 days ago)
-- [caarlos0/dotfiles.fish @ v5.4.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.4.0) (3 days ago)
-- [charmbracelet/skate @ v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1) (1 week ago)
 
 #### ❤️ Sponsors
+- [Leonardo Lima](https://github.com/leozz37) (today)
+- [Esteban Campos](https://github.com/stvmachine) (today)
 - [Baptiste Canton](https://github.com/batmac) (1 week ago)
 - [andig](https://github.com/andig) (1 week ago)
 - [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
-- [Talha Altınel](https://github.com/MrWormHole) (1 month ago)
-- [Sidartha Karna](https://github.com/sidarthakarna) (2 months ago)
 
 Many thanks everyone! 🙏
 
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (today)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (5 days ago)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (5 days ago)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (1 week ago)
 - **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (1 week ago)
-- **[bensadeh/despell](https://github.com/bensadeh/despell)** - 🎩 Put icons in `tmux`&#39;s status line (1 week ago)
 
 #### 📄 Latest blog posts
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (1 week ago)
