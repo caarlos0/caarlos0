@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/ctrlc @ v1.2.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.2.0) (today)
 - [prometheus-community/helm-charts @ kube-state-metrics-4.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.16.0) (today)
 - [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (today)
 - [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (today)
 - [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (1 day ago)
-- [charmbracelet/charm @ v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4) (1 day ago)
 
 #### ❤️ Sponsors
 - [Leonardo Lima](https://github.com/leozz37) (today)
