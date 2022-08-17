@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (today)
 - **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 day ago)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (6 days ago)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (6 days ago)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (1 week ago)
-- **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (1 week ago)
 
 #### 📄 Latest blog posts
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (1 week ago)
