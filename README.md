@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.1.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.4.0) (today)
 - [caarlos0/ctrlc @ v1.2.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.2.0) (1 day ago)
 - [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (1 day ago)
 - [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (1 day ago)
 - [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (2 days ago)
 
 #### ❤️ Sponsors
+- [David Dymko](https://github.com/ddymko) (today)
 - [Leonardo Lima](https://github.com/leozz37) (1 day ago)
 - [Esteban Campos](https://github.com/stvmachine) (1 day ago)
 - [Baptiste Canton](https://github.com/batmac) (1 week ago)
 - [andig](https://github.com/andig) (1 week ago)
-- [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
 
 Many thanks everyone! 🙏
 
