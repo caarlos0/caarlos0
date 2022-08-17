@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/ctrlc @ v1.2.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.2.0) (today)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.16.0) (today)
-- [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (today)
-- [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (today)
-- [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.1.1) (1 day ago)
+- [caarlos0/ctrlc @ v1.2.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.2.0) (1 day ago)
+- [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (1 day ago)
+- [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (1 day ago)
+- [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (2 days ago)
 
 #### ❤️ Sponsors
-- [Leonardo Lima](https://github.com/leozz37) (today)
-- [Esteban Campos](https://github.com/stvmachine) (today)
+- [Leonardo Lima](https://github.com/leozz37) (1 day ago)
+- [Esteban Campos](https://github.com/stvmachine) (1 day ago)
 - [Baptiste Canton](https://github.com/batmac) (1 week ago)
 - [andig](https://github.com/andig) (1 week ago)
 - [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
@@ -39,9 +39,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (today)
-- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (5 days ago)
-- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (5 days ago)
+- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 day ago)
+- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (6 days ago)
+- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (6 days ago)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (1 week ago)
 - **[rsaihe/gruvbox-material-kitty](https://github.com/rsaihe/gruvbox-material-kitty)** - A port of @sainnhe&#39;s Gruvbox Material theme for Kitty. (1 week ago)
 
