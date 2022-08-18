@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-39.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.8.0) (1 day ago)
 - [caarlos0/ctrlc @ v1.2.0](https://github.com/caarlos0/ctrlc/releases/tag/v1.2.0) (2 days ago)
-- [goreleaser/nfpm @ v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (2 days ago)
 - [goreleaser/chglog @ v0.2.2](https://github.com/goreleaser/chglog/releases/tag/v0.2.2) (2 days ago)
 - [golang/tools @ gopls/v0.9.4](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.4) (3 days ago)
 
