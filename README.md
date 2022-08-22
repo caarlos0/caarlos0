@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.10.0) (today)
+- [caarlos0/env @ v6.10.0](https://github.com/caarlos0/env/releases/tag/v6.10.0) (today)
 - [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.9.0) (1 day ago)
 - [charmbracelet/bubbletea @ v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1) (3 days ago)
 - [google/go-github @ v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0) (3 days ago)
-- [sigstore/cosign @ v1.11.0](https://github.com/sigstore/cosign/releases/tag/v1.11.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (5 days ago)
