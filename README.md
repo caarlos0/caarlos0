@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.9.0) (today)
-- [charmbracelet/bubbletea @ v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1) (2 days ago)
-- [google/go-github @ v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0) (2 days ago)
-- [sigstore/cosign @ v1.11.0](https://github.com/sigstore/cosign/releases/tag/v1.11.0) (3 days ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.9.0) (1 day ago)
+- [charmbracelet/bubbletea @ v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1) (3 days ago)
+- [google/go-github @ v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0) (3 days ago)
+- [sigstore/cosign @ v1.11.0](https://github.com/sigstore/cosign/releases/tag/v1.11.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [David Dymko](https://github.com/ddymko) (4 days ago)
-- [Leonardo Lima](https://github.com/leozz37) (5 days ago)
-- [Esteban Campos](https://github.com/stvmachine) (5 days ago)
+- [David Dymko](https://github.com/ddymko) (5 days ago)
+- [Leonardo Lima](https://github.com/leozz37) (6 days ago)
+- [Esteban Campos](https://github.com/stvmachine) (6 days ago)
 - [Baptiste Canton](https://github.com/batmac) (1 week ago)
 - [andig](https://github.com/andig) (2 weeks ago)
 
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (4 days ago)
-- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (5 days ago)
+- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (5 days ago)
+- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (6 days ago)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (1 week ago)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 week ago)
-- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (1 week ago)
+- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (1 week ago)
