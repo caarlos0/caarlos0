@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.10.0) (today)
-- [caarlos0/env @ v6.10.0](https://github.com/caarlos0/env/releases/tag/v6.10.0) (today)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
-- [charmbracelet/bubbletea @ v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1) (3 days ago)
-- [google/go-github @ v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0) (3 days ago)
+- [google/go-github @ v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.0.0) (1 day ago)
+- [caarlos0/env @ v6.10.0](https://github.com/caarlos0/env/releases/tag/v6.10.0) (1 day ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (2 days ago)
+- [charmbracelet/bubbletea @ v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1) (4 days ago)
 
 #### ❤️ Sponsors
-- [David Dymko](https://github.com/ddymko) (5 days ago)
-- [Leonardo Lima](https://github.com/leozz37) (6 days ago)
-- [Esteban Campos](https://github.com/stvmachine) (6 days ago)
-- [Baptiste Canton](https://github.com/batmac) (1 week ago)
+- [David Dymko](https://github.com/ddymko) (6 days ago)
+- [Leonardo Lima](https://github.com/leozz37) (1 week ago)
+- [Esteban Campos](https://github.com/stvmachine) (1 week ago)
+- [Baptiste Canton](https://github.com/batmac) (2 weeks ago)
 - [andig](https://github.com/andig) (2 weeks ago)
 
 Many thanks everyone! 🙏
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (5 days ago)
-- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (6 days ago)
+- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (6 days ago)
+- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (1 week ago)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 week ago)
 - **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (1 week ago)
+- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (1 day ago)
+- [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 weeks ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
-- [The Maintainers of OSS @ Equinix](https://carlosbecker.com/posts/equinix-maintainers-oss/) (2 months ago)
