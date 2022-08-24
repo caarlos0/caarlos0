@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.2) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-snmp-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.0) (today)
 - [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 - [google/go-github @ v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0) (2 days ago)
