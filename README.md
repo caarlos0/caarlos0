@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.2) (today)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [google/go-github @ v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0) (1 day ago)
-- [caarlos0/env @ v6.10.0](https://github.com/caarlos0/env/releases/tag/v6.10.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.2) (1 day ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [google/go-github @ v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0) (2 days ago)
+- [caarlos0/env @ v6.10.0](https://github.com/caarlos0/env/releases/tag/v6.10.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [David Dymko](https://github.com/ddymko) (6 days ago)
+- [David Dymko](https://github.com/ddymko) (1 week ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 week ago)
 - [Esteban Campos](https://github.com/stvmachine) (1 week ago)
 - [Baptiste Canton](https://github.com/batmac) (2 weeks ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (6 days ago)
+- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (1 day ago)
+- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (1 week ago)
 - **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (1 week ago)
 - **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 week ago)
-- **[sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)** - Gruvbox with Material Palette (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (1 day ago)
+- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (2 days ago)
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 weeks ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
