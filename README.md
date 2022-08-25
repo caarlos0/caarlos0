@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [google/ko @ v0.12.0](https://github.com/google/ko/releases/tag/v0.12.0) (today)
-- [sigstore/cosign @ v1.11.1](https://github.com/sigstore/cosign/releases/tag/v1.11.1) (today)
-- [prometheus-community/helm-charts @ prometheus-snmp-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.0) (today)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [google/ko @ v0.12.0](https://github.com/google/ko/releases/tag/v0.12.0) (1 day ago)
+- [sigstore/cosign @ v1.11.1](https://github.com/sigstore/cosign/releases/tag/v1.11.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-snmp-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.0) (1 day ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 week ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 week ago)
 - [Esteban Campos](https://github.com/stvmachine) (1 week ago)
 - [Baptiste Canton](https://github.com/batmac) (2 weeks ago)
-- [andig](https://github.com/andig) (2 weeks ago)
+- [andig](https://github.com/andig) (3 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (1 day ago)
+- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (2 days ago)
 - **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (1 week ago)
 - **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
-- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (1 week ago)
-- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 week ago)
+- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (2 weeks ago)
+- **[readysettech/readyset](https://github.com/readysettech/readyset)** - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (2 days ago)
+- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (3 days ago)
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 weeks ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
