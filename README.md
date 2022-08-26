@@ -28,11 +28,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
+- **[Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/58733670-build)** by _Tony Fadell_
 - **[Beyond Order: 12 More Rules For Life](https://www.goodreads.com/book/show/57422874-beyond-order)** by _Jordan B. Peterson_
 - **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
-- **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 
 [Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
 
