@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) (today)
 - [goreleaser/goreleaser-action @ v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1) (1 day ago)
 - [caarlos0-graveyard/test @ v0.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.1) (2 days ago)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
-- [google/ko @ v0.12.0](https://github.com/google/ko/releases/tag/v0.12.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 week ago)
