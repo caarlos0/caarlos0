@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) (today)
-- [goreleaser/goreleaser-action @ v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1) (1 day ago)
-- [caarlos0-graveyard/test @ v0.3.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.1) (2 days ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) (1 day ago)
+- [goreleaser/goreleaser-action @ v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 week ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (1 day ago)
-- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (4 days ago)
+- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (2 days ago)
+- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (5 days ago)
 - **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (1 week ago)
 - **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** - Open Source realtime backend in 1 file (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (5 days ago)
+- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (6 days ago)
 - [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) (2 weeks ago)
 - [Announcing GoReleaser v1.10 — the summer release](https://carlosbecker.com/posts/goreleaser-v1.10/) (1 month ago)
