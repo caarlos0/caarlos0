@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.11.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.0-pro) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.1.0) (1 day ago)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (2 days ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [charmbracelet/gum @ v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.1.0) (2 days ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 week ago)
-- [Leonardo Lima](https://github.com/leozz37) (1 week ago)
-- [Esteban Campos](https://github.com/stvmachine) (1 week ago)
-- [Baptiste Canton](https://github.com/batmac) (2 weeks ago)
+- [Leonardo Lima](https://github.com/leozz37) (2 weeks ago)
+- [Esteban Campos](https://github.com/stvmachine) (2 weeks ago)
+- [Baptiste Canton](https://github.com/batmac) (3 weeks ago)
 - [andig](https://github.com/andig) (3 weeks ago)
 
 Many thanks everyone! 🙏
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (1 day ago)
-- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (3 days ago)
-- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (6 days ago)
+- **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (2 days ago)
+- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (4 days ago)
+- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (1 week ago)
 - **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (1 week ago)
-- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
+- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 day ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 day ago)
+- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 days ago)
+- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (2 days ago)
 - [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (1 week ago)
