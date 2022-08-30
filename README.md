@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (today)
+- [goreleaser/goreleaser @ v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1) (today)
+- [goreleaser/goreleaser-pro @ v1.11.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.1-pro) (today)
 - [charmbracelet/gum @ v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0) (2 days ago)
 - [prometheus-community/helm-charts @ prometheus-redis-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.1.0) (2 days ago)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 week ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/fish](https://github.com/catppuccin/fish)** - 🐟 Soothing pastel theme for the Fish Shell (today)
+- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (today)
 - **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (2 days ago)
 - **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (4 days ago)
 - **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (1 week ago)
-- **[tpope/vim-repeat](https://github.com/tpope/vim-repeat)** - repeat.vim: enable repeating supported plugin maps with &#34;.&#34; (1 week ago)
-- **[ianyh/Amethyst](https://github.com/ianyh/Amethyst)** - Automatic tiling window manager for macOS à la xmonad. (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 days ago)
