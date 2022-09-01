@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/dotfiles.fish @ v5.5.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.5.0) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-39.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.11.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (1 day ago)
 - [goreleaser/goreleaser-pro @ v1.11.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.2-pro) (1 day ago)
 - [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (2 days ago)
-- [charmbracelet/gum @ v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (2 weeks ago)
@@ -28,11 +28,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
+- **[Thinking, Fast and Slow](https://www.goodreads.com/book/show/13135899-thinking-fast-and-slow)** by _Daniel Kahneman_
 - **[Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/58733670-build)** by _Tony Fadell_
 - **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
-- **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 
 [Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
 
