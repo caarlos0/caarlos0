@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.17.0) (today)
-- [caarlos0/dotfiles.fish @ v5.5.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.5.0) (today)
-- [goreleaser/goreleaser @ v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.11.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.2-pro) (1 day ago)
-- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (2 days ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.17.0) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.5.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.5.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (2 days ago)
+- [goreleaser/goreleaser-pro @ v1.11.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.2-pro) (2 days ago)
+- [caarlos0-graveyard/test @ nightly](https://github.com/caarlos0-graveyard/test/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (2 weeks ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/fish](https://github.com/catppuccin/fish)** - 🐟 Soothing pastel theme for the Fish Shell (2 days ago)
-- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (2 days ago)
-- **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (4 days ago)
-- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (6 days ago)
+- **[catppuccin/fish](https://github.com/catppuccin/fish)** - 🐟 Soothing pastel theme for the Fish Shell (3 days ago)
+- **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (3 days ago)
+- **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (5 days ago)
+- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (1 week ago)
 - **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (4 days ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (4 days ago)
+- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (5 days ago)
+- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (5 days ago)
 - [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (1 week ago)
