@@ -23,16 +23,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Leonardo Lima](https://github.com/leozz37) (2 weeks ago)
 - [Esteban Campos](https://github.com/stvmachine) (2 weeks ago)
 - [Baptiste Canton](https://github.com/batmac) (3 weeks ago)
-- [andig](https://github.com/andig) (1 month ago)
+- [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
 
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
 - **[Thinking, Fast and Slow](https://www.goodreads.com/book/show/13135899-thinking-fast-and-slow)** by _Daniel Kahneman_
-- **[Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/58733670-build)** by _Tony Fadell_
 - **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
 - **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
+- **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
 
 [Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
 
