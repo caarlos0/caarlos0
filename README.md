@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (today)
-- [charmbracelet/gum @ v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0) (1 day ago)
-- [caarlos0-graveyard/test @ v0.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.2) (2 days ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.18.0) (2 days ago)
-- [go-task/task @ v3.15.0](https://github.com/go-task/task/releases/tag/v3.15.0) (3 days ago)
+- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (1 day ago)
+- [charmbracelet/gum @ v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0) (2 days ago)
+- [caarlos0-graveyard/test @ v0.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.2) (3 days ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.18.0) (3 days ago)
+- [go-task/task @ v3.15.0](https://github.com/go-task/task/releases/tag/v3.15.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [David Dymko](https://github.com/ddymko) (2 weeks ago)
+- [David Dymko](https://github.com/ddymko) (3 weeks ago)
 - [Leonardo Lima](https://github.com/leozz37) (3 weeks ago)
 - [Esteban Campos](https://github.com/stvmachine) (3 weeks ago)
 - [Baptiste Canton](https://github.com/batmac) (4 weeks ago)
-- [Alex Viscreanu](https://github.com/aexvir) (1 month ago)
+- [Alex Viscreanu](https://github.com/aexvir) (2 months ago)
 
 Many thanks everyone! 🙏
 
