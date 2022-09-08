@@ -30,20 +30,20 @@ Many thanks everyone! 🙏
 #### 📚 Books I'm reading
 - **[Thinking, Fast and Slow](https://www.goodreads.com/book/show/13135899-thinking-fast-and-slow)** by _Daniel Kahneman_
 - **[The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.goodreads.com/book/show/29093292-the-daily-stoic)** by _Ryan Holiday_
-- **[Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.goodreads.com/book/show/36265193-serious-cryptography)** by _Jean-Philippe Aumasson_
 - **[O Otimista Racional](https://www.goodreads.com/book/show/32706964-o-otimista-racional)** by _Matt Ridley_
 - **[Studio 21: Deutschbuch A1 MIT DVD-Rom](https://www.goodreads.com/book/show/25495148-studio-21)** by _Kuhn Christina, Nielsen Laura Funk Hermann_
+- **[Liberdade Para Escolher](https://www.goodreads.com/book/show/17238591-liberdade-para-escolher)** by _Milton Friedman_
 
 [Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
 
 #### ⭐ Recent Stars
 
 
+- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (today)
+- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (today)
+- **[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)** - Single tabpage interface for easily cycling through diffs for all modified files for any git rev. (today)
 - **[catppuccin/fish](https://github.com/catppuccin/fish)** - 🐟 Soothing pastel theme for the Fish Shell (1 week ago)
 - **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (1 week ago)
-- **[calmonr/cicd](https://github.com/calmonr/cicd)** - Go CI/CD Playground (1 week ago)
-- **[klen/nvim-test](https://github.com/klen/nvim-test)** - A Neovim wrapper for running tests (1 week ago)
-- **[onetrueawk/awk](https://github.com/onetrueawk/awk)** - One true awk (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 week ago)
