@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
-- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (2 days ago)
-- [charmbracelet/gum @ v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0) (3 days ago)
-- [caarlos0-graveyard/test @ v0.3.2](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.2) (4 days ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.18.0) (4 days ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.3) (1 day ago)
+- [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (3 days ago)
+- [charmbracelet/gum @ v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (3 weeks ago)
@@ -39,9 +39,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (today)
-- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (today)
-- **[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)** - Single tabpage interface for easily cycling through diffs for all modified files for any git rev. (today)
+- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (1 day ago)
+- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (1 day ago)
+- **[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)** - Single tabpage interface for easily cycling through diffs for all modified files for any git rev. (1 day ago)
 - **[catppuccin/fish](https://github.com/catppuccin/fish)** - 🐟 Soothing pastel theme for the Fish Shell (1 week ago)
 - **[catppuccin/kitty](https://github.com/catppuccin/kitty)** - 😽 Soothing pastel theme for Kitty (1 week ago)
 
