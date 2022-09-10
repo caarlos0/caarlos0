@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (today)
 - **[muesli/busybee](https://github.com/muesli/busybee)** - Busy Bees! (1 day ago)
 - **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (1 day ago)
 - **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (2 days ago)
 - **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (2 days ago)
-- **[sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)** - Single tabpage interface for easily cycling through diffs for all modified files for any git rev. (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 week ago)
