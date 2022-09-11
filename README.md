@@ -3,20 +3,20 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 - **[caarlos0/icons](https://github.com/caarlos0/icons)** - icons for tmux
 - **[caarlos0/tablewriter](https://github.com/caarlos0/tablewriter)** - A very simple table using lipgloss and text/tabwriter.
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
-- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0) (1 day ago)
+- [caarlos0/log @ v0.1.3](https://github.com/caarlos0/log/releases/tag/v0.1.3) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.1) (today)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
 - [go-task/task @ v3.15.2](https://github.com/go-task/task/releases/tag/v3.15.2) (2 days ago)
 - [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (3 days ago)
-- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (3 weeks ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (today)
+- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (today)
+- **[dgryski/semgrep-go](https://github.com/dgryski/semgrep-go)** - Go rules for semgrep and go-ruleguard (today)
 - **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (1 day ago)
 - **[muesli/busybee](https://github.com/muesli/busybee)** - Busy Bees! (2 days ago)
-- **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (2 days ago)
-- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (3 days ago)
-- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
