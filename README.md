@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
-- [go-task/task @ v3.15.2](https://github.com/go-task/task/releases/tag/v3.15.2) (1 day ago)
-- [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (2 days ago)
-- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (4 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [go-task/task @ v3.15.2](https://github.com/go-task/task/releases/tag/v3.15.2) (2 days ago)
+- [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (3 days ago)
+- [charmbracelet/bubbles @ v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0) (5 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (3 weeks ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (today)
-- **[muesli/busybee](https://github.com/muesli/busybee)** - Busy Bees! (1 day ago)
-- **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (1 day ago)
-- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (2 days ago)
-- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (2 days ago)
+- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (1 day ago)
+- **[muesli/busybee](https://github.com/muesli/busybee)** - Busy Bees! (2 days ago)
+- **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (2 days ago)
+- **[caarlos0/home](https://github.com/caarlos0/home)** - my home k3s cluster (3 days ago)
+- **[wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops)** - GitOps principles to define kubernetes cluster state via code (3 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 week ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 week ago)
+- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
+- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (2 weeks ago)
 - [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (2 weeks ago)
