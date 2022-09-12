@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/log @ v0.1.3](https://github.com/caarlos0/log/releases/tag/v0.1.3) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.1) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
-- [go-task/task @ v3.15.2](https://github.com/go-task/task/releases/tag/v3.15.2) (2 days ago)
-- [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (3 days ago)
+- [caarlos0/log @ v0.1.5](https://github.com/caarlos0/log/releases/tag/v0.1.5) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-39.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.1) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
+- [go-task/task @ v3.15.2](https://github.com/go-task/task/releases/tag/v3.15.2) (3 days ago)
+- [golang/tools @ gopls/v0.9.5](https://github.com/golang/tools/releases/tag/gopls%2Fv0.9.5) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (3 weeks ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (today)
-- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (today)
-- **[dgryski/semgrep-go](https://github.com/dgryski/semgrep-go)** - Go rules for semgrep and go-ruleguard (today)
-- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (1 day ago)
-- **[muesli/busybee](https://github.com/muesli/busybee)** - Busy Bees! (2 days ago)
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (1 day ago)
+- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (1 day ago)
+- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (1 day ago)
+- **[dgryski/semgrep-go](https://github.com/dgryski/semgrep-go)** - Go rules for semgrep and go-ruleguard (1 day ago)
+- **[catppuccin/tmux](https://github.com/catppuccin/tmux)** - 💽 Soothing pastel theme for Tmux! (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (2 weeks ago)
-- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (2 weeks ago)
+- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (3 weeks ago)
