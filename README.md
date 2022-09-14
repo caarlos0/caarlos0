@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.2.0) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
-- [caarlos0/env @ v6.10.1](https://github.com/caarlos0/env/releases/tag/v6.10.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
-- [caarlos0/log @ v0.1.6](https://github.com/caarlos0/log/releases/tag/v0.1.6) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.2.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [caarlos0/env @ v6.10.1](https://github.com/caarlos0/env/releases/tag/v6.10.1) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [caarlos0/log @ v0.1.6](https://github.com/caarlos0/log/releases/tag/v0.1.6) (2 days ago)
 
 #### ❤️ Sponsors
-- [David Dymko](https://github.com/ddymko) (3 weeks ago)
+- [David Dymko](https://github.com/ddymko) (4 weeks ago)
 - [Leonardo Lima](https://github.com/leozz37) (4 weeks ago)
 - [Esteban Campos](https://github.com/stvmachine) (4 weeks ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (1 day ago)
-- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (1 day ago)
-- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (2 days ago)
-- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (2 days ago)
-- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (2 days ago)
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (2 days ago)
+- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (2 days ago)
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (3 days ago)
+- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (3 days ago)
+- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
