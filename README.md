@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (today)
 - [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (1 day ago)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-40.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.0) (1 day ago)
 - [goreleaser/example @ v1.2.0](https://github.com/goreleaser/example/releases/tag/v1.2.0) (1 day ago)
-- [caarlos0-graveyard/test @ v0.3.3](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.3) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
 
 #### ❤️ Sponsors
@@ -46,6 +46,6 @@ Many thanks everyone! 🙏
 - **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (4 days ago)
 
 #### 📄 Latest blog posts
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 day ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (2 weeks ago)
-- [Shipping completions for Go CLIs using GoReleaser and Cobra](https://carlosbecker.com/posts/golang-completions-cobra/) (3 weeks ago)
