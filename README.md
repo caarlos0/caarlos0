@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.20.1) (today)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.20.0) (today)
 - [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (today)
 - [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (1 day ago)
 - [goreleaser/example @ v1.2.0](https://github.com/goreleaser/example/releases/tag/v1.2.0) (1 day ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (today)
+- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (today)
 - **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (3 days ago)
 - **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (3 days ago)
 - **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (4 days ago)
-- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (4 days ago)
-- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (4 days ago)
 
 #### 📄 Latest blog posts
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 day ago)
