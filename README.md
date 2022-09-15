@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-40.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.0) (today)
-- [goreleaser/example @ v1.2.0](https://github.com/goreleaser/example/releases/tag/v1.2.0) (today)
-- [caarlos0-graveyard/test @ v0.3.3](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.3) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-40.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.0) (1 day ago)
+- [goreleaser/example @ v1.2.0](https://github.com/goreleaser/example/releases/tag/v1.2.0) (1 day ago)
+- [caarlos0-graveyard/test @ v0.3.3](https://github.com/caarlos0-graveyard/test/releases/tag/v0.3.3) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (4 weeks ago)
-- [Leonardo Lima](https://github.com/leozz37) (4 weeks ago)
-- [Esteban Campos](https://github.com/stvmachine) (4 weeks ago)
+- [Leonardo Lima](https://github.com/leozz37) (1 month ago)
+- [Esteban Campos](https://github.com/stvmachine) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
 - [Alex Viscreanu](https://github.com/aexvir) (2 months ago)
 
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (2 days ago)
-- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (2 days ago)
-- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (3 days ago)
-- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (3 days ago)
-- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (3 days ago)
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (3 days ago)
+- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (3 days ago)
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (4 days ago)
+- **[quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)** - Define and run pattern-based custom linting rules. (4 days ago)
+- **[returntocorp/semgrep](https://github.com/returntocorp/semgrep)** - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
