@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.20.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.12.2) (today)
+- [goreleaser/goreleaser @ v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3) (today)
+- [goreleaser/goreleaser-pro @ v1.11.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.3-pro) (today)
 - [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (1 day ago)
 - [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (2 days ago)
-- [goreleaser/example @ v1.2.0](https://github.com/goreleaser/example/releases/tag/v1.2.0) (2 days ago)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
-- [Esteban Campos](https://github.com/stvmachine) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
 - [Alex Viscreanu](https://github.com/aexvir) (2 months ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (3 months ago)
 
 Many thanks everyone! 🙏
 
