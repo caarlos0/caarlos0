@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-state-metrics-4.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.19.0) (today)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.3.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3) (1 day ago)
 - [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (2 days ago)
 - [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (3 days ago)
