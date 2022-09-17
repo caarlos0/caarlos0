@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.3.0) (today)
-- [goreleaser/goreleaser @ v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3) (today)
-- [goreleaser/goreleaser-pro @ v1.11.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.3-pro) (today)
-- [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (1 day ago)
-- [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.3.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.11.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.3-pro) (1 day ago)
+- [caarlos0-graveyard/test @ v0.5.1](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.1) (2 days ago)
+- [sigstore/cosign @ v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
 - [Alex Viscreanu](https://github.com/aexvir) (2 months ago)
-- [Sidartha Karna](https://github.com/sidarthakarna) (3 months ago)
+- [Sidartha Karna](https://github.com/sidarthakarna) (4 months ago)
 
 Many thanks everyone! 🙏
 
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (1 day ago)
-- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (1 day ago)
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (4 days ago)
-- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (4 days ago)
-- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (5 days ago)
+- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (2 days ago)
+- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (2 days ago)
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (5 days ago)
+- **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (5 days ago)
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥 (6 days ago)
 
 #### 📄 Latest blog posts
-- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (2 days ago)
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (3 days ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 weeks ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (2 weeks ago)
