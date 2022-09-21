@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
-- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.11.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.4-pro) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (2 days ago)
+- [goreleaser/goreleaser-pro @ v1.11.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.4-pro) (2 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (1 day ago)
-- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (5 days ago)
-- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (5 days ago)
+- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (2 days ago)
+- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (6 days ago)
+- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (6 days ago)
 - **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (1 week ago)
 - **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (1 week ago)
 
 #### 📄 Latest blog posts
-- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (6 days ago)
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 week ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (3 weeks ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (3 weeks ago)
