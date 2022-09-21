@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (today)
 - [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0) (today)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
 - [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (2 days ago)
 - [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.11.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.4-pro) (2 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
