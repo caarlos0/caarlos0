@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (today)
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0) (today)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
-- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (2 days ago)
-- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (2 days ago)
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
+- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (3 days ago)
+- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,9 +39,9 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (2 days ago)
-- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (6 days ago)
-- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (6 days ago)
+- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (3 days ago)
+- **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (1 week ago)
+- **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (1 week ago)
 - **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (1 week ago)
 - **[catppuccin/fzf](https://github.com/catppuccin/fzf)** - 🧨 Soothing pastel theme for fzf (1 week ago)
 
