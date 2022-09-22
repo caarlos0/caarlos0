@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.0) (today)
 - [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
 - [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (3 days ago)
 - [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (3 days ago)
