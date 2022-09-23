@@ -4,19 +4,19 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 - **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
-- **[caarlos0/icons](https://github.com/caarlos0/icons)** - icons for tmux
 - **[caarlos0/tablewriter](https://github.com/caarlos0/tablewriter)** - A very simple table using lipgloss and text/tabwriter.
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
+- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.0) (today)
-- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
-- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (3 days ago)
-- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.0) (1 day ago)
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (4 days ago)
+- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (4 days ago)
+- [goreleaser/goreleaser @ v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,8 +39,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (today)
-- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (3 days ago)
+- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (1 day ago)
+- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (4 days ago)
 - **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (1 week ago)
 - **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (1 week ago)
 - **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (1 week ago)
