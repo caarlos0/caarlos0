@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-40.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.2) (1 day ago)
-- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (1 day ago)
-- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (3 days ago)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (5 days ago)
-- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (5 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-40.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.2) (2 days ago)
+- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (2 days ago)
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (4 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (6 days ago)
+- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (1 day ago)
-- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (2 days ago)
-- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (5 days ago)
+- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (2 days ago)
+- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (3 days ago)
+- **[drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)** - Guide to using YubiKey for GPG and SSH (6 days ago)
 - **[efficientgo/core](https://github.com/efficientgo/core)** - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies. (1 week ago)
 - **[caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities)** - A list of awesome twitter communities (1 week ago)
 
 #### 📄 Latest blog posts
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 week ago)
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (3 weeks ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (3 weeks ago)
+- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (4 weeks ago)
+- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (4 weeks ago)
