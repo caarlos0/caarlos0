@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (today)
 - **[golang/go](https://github.com/golang/go)** - The Go programming language (1 day ago)
 - **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 day ago)
 - **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (1 day ago)
 - **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (4 days ago)
-- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (5 days ago)
 
 #### 📄 Latest blog posts
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 week ago)
