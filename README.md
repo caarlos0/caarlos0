@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.0) (today)
 - [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (4 days ago)
 - [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (6 days ago)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 week ago)
