@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.2.0) (today)
-- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (3 days ago)
-- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (5 days ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.2.0) (1 day ago)
+- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (4 days ago)
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (6 days ago)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 week ago)
 - [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (1 week ago)
 
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[golang/go](https://github.com/golang/go)** - The Go programming language (today)
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (today)
-- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (today)
-- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (3 days ago)
-- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (4 days ago)
+- **[golang/go](https://github.com/golang/go)** - The Go programming language (1 day ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 day ago)
+- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (1 day ago)
+- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (4 days ago)
+- **[homebridge/homebridge](https://github.com/homebridge/homebridge)** - HomeKit support for the impatient. (5 days ago)
 
 #### 📄 Latest blog posts
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 week ago)
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (4 weeks ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (4 weeks ago)
+- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
+- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 month ago)
