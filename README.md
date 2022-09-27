@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.19.1](https://github.com/goreleaser/nfpm/releases/tag/v2.19.1) (today)
 - [prometheus-community/helm-charts @ prometheus-pushgateway-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.0) (today)
 - [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (4 days ago)
 - [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (6 days ago)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 week ago)
-- [google/go-github @ v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0) (1 week ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
