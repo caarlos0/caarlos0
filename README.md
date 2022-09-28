@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0-graveyard/test @ v0.5.2](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.2) (today)
+- [caarlos0-graveyard/test @ v0.5.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.4) (today)
 - [prometheus-community/helm-charts @ kube-state-metrics-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.20.1) (1 day ago)
 - [goreleaser/nfpm @ v2.19.1](https://github.com/goreleaser/nfpm/releases/tag/v2.19.1) (1 day ago)
 - [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (5 days ago)
