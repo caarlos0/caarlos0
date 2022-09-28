@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm @ v2.19.1](https://github.com/goreleaser/nfpm/releases/tag/v2.19.1) (today)
-- [prometheus-community/helm-charts @ prometheus-pushgateway-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.0) (today)
-- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (4 days ago)
-- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (6 days ago)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 week ago)
+- [caarlos0-graveyard/test @ v0.5.2](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.2) (today)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.20.1) (1 day ago)
+- [goreleaser/nfpm @ v2.19.1](https://github.com/goreleaser/nfpm/releases/tag/v2.19.1) (1 day ago)
+- [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (5 days ago)
+- [sigstore/cosign @ v1.12.1](https://github.com/sigstore/cosign/releases/tag/v1.12.1) (1 week ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (today)
-- **[golang/go](https://github.com/golang/go)** - The Go programming language (1 day ago)
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 day ago)
-- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (1 day ago)
-- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (4 days ago)
+- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (1 day ago)
+- **[golang/go](https://github.com/golang/go)** - The Go programming language (2 days ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (2 days ago)
+- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (2 days ago)
+- **[chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os)** - Main package repository for production Wolfi images (5 days ago)
 
 #### 📄 Latest blog posts
-- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 week ago)
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (2 weeks ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 month ago)
