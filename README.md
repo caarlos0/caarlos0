@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.20.2) (today)
-- [go-task/task @ v3.16.0](https://github.com/go-task/task/releases/tag/v3.16.0) (today)
-- [goreleaser/nfpm @ v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (1 day ago)
-- [caarlos0-graveyard/test @ v0.5.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.4) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-40.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.3.1) (1 day ago)
+- [go-task/task @ v3.16.0](https://github.com/go-task/task/releases/tag/v3.16.0) (1 day ago)
+- [goreleaser/nfpm @ v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (2 days ago)
+- [caarlos0-graveyard/test @ v0.5.4](https://github.com/caarlos0-graveyard/test/releases/tag/v0.5.4) (3 days ago)
 - [muesli/termenv @ v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0) (1 week ago)
 
 #### ❤️ Sponsors
@@ -39,10 +39,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (3 days ago)
-- **[golang/go](https://github.com/golang/go)** - The Go programming language (4 days ago)
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (4 days ago)
-- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (4 days ago)
+- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (4 days ago)
+- **[golang/go](https://github.com/golang/go)** - The Go programming language (5 days ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (5 days ago)
+- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (5 days ago)
 - **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (1 week ago)
 
 #### 📄 Latest blog posts
