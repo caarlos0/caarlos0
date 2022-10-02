@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (today)
 - [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (1 day ago)
 - [bensadeh/despell @ 0.8.1](https://github.com/bensadeh/despell/releases/tag/0.8.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-40.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.3.1) (2 days ago)
 - [go-task/task @ v3.16.0](https://github.com/go-task/task/releases/tag/v3.16.0) (2 days ago)
 - [goreleaser/nfpm @ v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (3 days ago)
 
