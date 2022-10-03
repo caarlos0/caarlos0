@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (today)
-- [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (1 day ago)
-- [bensadeh/despell @ 0.8.1](https://github.com/bensadeh/despell/releases/tag/0.8.1) (1 day ago)
-- [go-task/task @ v3.16.0](https://github.com/go-task/task/releases/tag/v3.16.0) (2 days ago)
-- [goreleaser/nfpm @ v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (2 days ago)
+- [bensadeh/despell @ 0.8.1](https://github.com/bensadeh/despell/releases/tag/0.8.1) (2 days ago)
+- [go-task/task @ v3.16.0](https://github.com/go-task/task/releases/tag/v3.16.0) (3 days ago)
+- [goreleaser/nfpm @ v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,10 +39,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (5 days ago)
-- **[golang/go](https://github.com/golang/go)** - The Go programming language (6 days ago)
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (6 days ago)
-- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (6 days ago)
+- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (6 days ago)
+- **[golang/go](https://github.com/golang/go)** - The Go programming language (1 week ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 week ago)
+- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (1 week ago)
 - **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (1 week ago)
 
 #### 📄 Latest blog posts
