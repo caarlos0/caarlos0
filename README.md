@@ -19,11 +19,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (3 days ago)
 
 #### ❤️ Sponsors
+- [Johan Hernandez](https://github.com/bithavoc) (today)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (1 day ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
-- [Alex Viscreanu](https://github.com/aexvir) (2 months ago)
 
 Many thanks everyone! 🙏
 
