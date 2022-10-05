@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.959.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.959.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-40.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.4.0) (today)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
 - [goreleaser/goreleaser @ v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (2 days ago)
-- [goreleaser/goreleaser-pro @ v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) (2 days ago)
 - [charmbracelet/gum @ v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (3 days ago)
-- [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [Johan Hernandez](https://github.com/bithavoc) (1 day ago)
