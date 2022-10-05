@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) (1 day ago)
-- [charmbracelet/gum @ v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (2 days ago)
-- [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (3 days ago)
+- [goreleaser/goreleaser @ v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (2 days ago)
+- [goreleaser/goreleaser-pro @ v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) (2 days ago)
+- [charmbracelet/gum @ v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0) (3 days ago)
+- [caarlos0/dotfiles.fish @ v5.6.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.6.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Johan Hernandez](https://github.com/bithavoc) (today)
-- [Toby O&#39;Sullivan](https://github.com/tobywan) (1 day ago)
+- [Johan Hernandez](https://github.com/bithavoc) (1 day ago)
+- [Toby O&#39;Sullivan](https://github.com/tobywan) (2 days ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
@@ -46,6 +46,6 @@ Many thanks everyone! 🙏
 - **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (1 week ago)
 
 #### 📄 Latest blog posts
-- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (2 weeks ago)
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (3 weeks ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 month ago)
