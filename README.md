@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (today)
 - [goreleaser/goreleaser-azure-devops-extension @ v0.1.31](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.31) (today)
 - [withfig/autocomplete @ spec-build-number-0.963.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.963.0) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-40.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.5.0) (today)
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
 - [Johan Hernandez](https://github.com/bithavoc) (3 days ago)
