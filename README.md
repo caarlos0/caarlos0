@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.960.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.960.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-40.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.4.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser @ v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (3 days ago)
-- [charmbracelet/gum @ v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0) (3 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.960.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.960.0) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-40.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.4.0) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [goreleaser/goreleaser @ v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (4 days ago)
 
 #### ❤️ Sponsors
-- [Johan Hernandez](https://github.com/bithavoc) (2 days ago)
-- [Toby O&#39;Sullivan](https://github.com/tobywan) (3 days ago)
+- [Johan Hernandez](https://github.com/bithavoc) (3 days ago)
+- [Toby O&#39;Sullivan](https://github.com/tobywan) (4 days ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
@@ -43,7 +43,7 @@ Many thanks everyone! 🙏
 - **[golang/go](https://github.com/golang/go)** - The Go programming language (1 week ago)
 - **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 week ago)
 - **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (1 week ago)
-- **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (1 week ago)
+- **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (3 weeks ago)
