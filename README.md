@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.967.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.967.0) (today)
-- [prometheus-community/helm-charts @ prometheus-15.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.15.0) (today)
-- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.31](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.31) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.967.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.967.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.15.0) (1 day ago)
+- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (2 days ago)
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.31](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.31) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
 
 #### ❤️ Sponsors
-- [Johan Hernandez](https://github.com/bithavoc) (4 days ago)
-- [Toby O&#39;Sullivan](https://github.com/tobywan) (5 days ago)
+- [Johan Hernandez](https://github.com/bithavoc) (5 days ago)
+- [Toby O&#39;Sullivan](https://github.com/tobywan) (6 days ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
 - [Baptiste Canton](https://github.com/batmac) (2 months ago)
