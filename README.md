@@ -19,11 +19,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [goreleaser/goreleaser-cross @ v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) (3 days ago)
 
 #### ❤️ Sponsors
+- [Serhii Syrota](https://github.com/ssyrota) (today)
 - [Johan Hernandez](https://github.com/bithavoc) (5 days ago)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (6 days ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
-- [Baptiste Canton](https://github.com/batmac) (2 months ago)
 
 Many thanks everyone! 🙏
 
