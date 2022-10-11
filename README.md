@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.0.0) (today)
+- [spf13/cobra @ v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0) (today)
+- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.2.0) (today)
+- [caarlos0/log @ v0.1.8](https://github.com/caarlos0/log/releases/tag/v0.1.8) (today)
+- [zricethezav/gitleaks @ v8.14.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.1) (today)
 - [withfig/autocomplete @ spec-build-number-0.985.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.985.0) (today)
-- [zricethezav/gitleaks @ v8.14.0](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.2) (1 day ago)
-- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (2 days ago)
