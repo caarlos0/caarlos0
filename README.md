@@ -12,7 +12,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.983.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.983.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.984.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.984.0) (today)
 - [zricethezav/gitleaks @ v8.14.0](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.0) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.2) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.6.2) (2 days ago)
