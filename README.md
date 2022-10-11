@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-cross @ v1.19.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.2) (today)
-- [withfig/autocomplete @ spec-build-number-0.979.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.979.0) (today)
-- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.6.2) (1 day ago)
-- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (3 days ago)
-- [goreleaser/goreleaser-azure-devops-extension @ v0.1.31](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.31) (3 days ago)
+- [withfig/autocomplete @ spec-build-number-0.983.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.983.0) (today)
+- [zricethezav/gitleaks @ v8.14.0](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.2) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.6.2) (2 days ago)
+- [sigstore/cosign @ v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0) (4 days ago)
 
 #### ❤️ Sponsors
-- [Serhii Syrota](https://github.com/ssyrota) (1 day ago)
-- [Johan Hernandez](https://github.com/bithavoc) (6 days ago)
+- [Serhii Syrota](https://github.com/ssyrota) (2 days ago)
+- [Johan Hernandez](https://github.com/bithavoc) (1 week ago)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (1 week ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
 - [Leonardo Lima](https://github.com/leozz37) (1 month ago)
@@ -39,7 +39,7 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (1 week ago)
+- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (2 weeks ago)
 - **[golang/go](https://github.com/golang/go)** - The Go programming language (2 weeks ago)
 - **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (2 weeks ago)
 - **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (2 weeks ago)
