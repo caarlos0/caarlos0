@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [spf13/cobra @ v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0) (today)
-- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.2.0) (today)
-- [caarlos0/log @ v0.1.8](https://github.com/caarlos0/log/releases/tag/v0.1.8) (today)
-- [zricethezav/gitleaks @ v8.14.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.1) (today)
-- [withfig/autocomplete @ spec-build-number-0.985.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.985.0) (today)
+- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.3.1) (1 day ago)
+- [charmbracelet/gum @ v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0) (1 day ago)
+- [spf13/cobra @ v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0) (1 day ago)
+- [caarlos0/log @ v0.1.8](https://github.com/caarlos0/log/releases/tag/v0.1.8) (1 day ago)
+- [zricethezav/gitleaks @ v8.14.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.1) (1 day ago)
 
 #### ❤️ Sponsors
-- [Serhii Syrota](https://github.com/ssyrota) (2 days ago)
+- [Serhii Syrota](https://github.com/ssyrota) (3 days ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 week ago)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (1 week ago)
 - [David Dymko](https://github.com/ddymko) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[bep/buildpkg](https://github.com/bep/buildpkg)** - Builds, signs, notarizes and staples a MacOS pkg file. (today)
+- **[bep/macosnotarylib](https://github.com/bep/macosnotarylib)** - Notarize files using Apple&#39;s Notary API. (today)
 - **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (2 weeks ago)
 - **[golang/go](https://github.com/golang/go)** - The Go programming language (2 weeks ago)
 - **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (2 weeks ago)
-- **[mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara)** - :japanese_goblin: Sane buffer/window deletion. (2 weeks ago)
-- **[wolfi-dev/os](https://github.com/wolfi-dev/os)** - Main package repository for production Wolfi images (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (3 weeks ago)
+- [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (4 weeks ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
 - [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 month ago)
