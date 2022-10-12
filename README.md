@@ -3,20 +3,20 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)**
 - **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 - **[caarlos0/tablewriter](https://github.com/caarlos0/tablewriter)** - A very simple table using lipgloss and text/tabwriter.
 - **[caarlos0/linktree](https://github.com/caarlos0/linktree)** - static linktree with tailwindcss and html
 - **[caarlos0/log](https://github.com/caarlos0/log)** - Colorful CLI logger
-- **[caarlos0/uhr](https://github.com/caarlos0/uhr)** - Zeichenorientierte Benutzerschnittstelle Uhr
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.988.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.988.0) (today)
 - [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.3.1) (1 day ago)
 - [charmbracelet/gum @ v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0) (1 day ago)
 - [spf13/cobra @ v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0) (1 day ago)
-- [caarlos0/log @ v0.1.8](https://github.com/caarlos0/log/releases/tag/v0.1.8) (1 day ago)
-- [zricethezav/gitleaks @ v8.14.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.14.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (3 days ago)
