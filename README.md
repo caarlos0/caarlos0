@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.2) (today)
+- [withfig/autocomplete @ spec-build-number-0.989.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.989.0) (today)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.4.0) (today)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.988.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.988.0) (today)
 - [charmbracelet/gum @ v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0) (1 day ago)
 - [spf13/cobra @ v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0) (1 day ago)
 
