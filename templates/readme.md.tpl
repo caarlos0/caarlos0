@@ -24,8 +24,8 @@ Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
 
-{{- range goodReadsCurrentlyReading 5 }}
-- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
+{{- range literalClubCurrentlyReading 5 }}
+- **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/caarlos0/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
 [Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
