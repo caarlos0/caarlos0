@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.22.0) (today)
 - [withfig/autocomplete @ spec-build-number-0.994.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.994.0) (today)
 - [zricethezav/gitleaks @ v8.15.0](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 - [charmbracelet/gum @ v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0) (3 days ago)
 
 #### ❤️ Sponsors
