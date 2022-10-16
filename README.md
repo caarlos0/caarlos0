@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.998.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.998.0) (today)
+- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.6.1) (today)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.2) (1 day ago)
 - [caarlos0/goreleaser-pro-split-merge-example @ v0.2.0](https://github.com/caarlos0/goreleaser-pro-split-merge-example/releases/tag/v0.2.0) (1 day ago)
 - [goreleaser/nfpm @ v2.20.0](https://github.com/goreleaser/nfpm/releases/tag/v2.20.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.995.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.995.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (1 week ago)
