@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.5.0) (today)
 - [withfig/autocomplete @ spec-build-number-0.999.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.999.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.6.1) (1 day ago)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 - [caarlos0/goreleaser-pro-split-merge-example @ v0.2.0](https://github.com/caarlos0/goreleaser-pro-split-merge-example/releases/tag/v0.2.0) (2 days ago)
 - [goreleaser/nfpm @ v2.20.0](https://github.com/goreleaser/nfpm/releases/tag/v2.20.0) (2 days ago)
