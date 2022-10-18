@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1000.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1000.0) (today)
+- [goreleaser/goreleaser @ v1.12.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.1) (today)
+- [goreleaser/goreleaser-pro @ v1.12.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.1-pro) (today)
 - [goreleaser/goreleaser-action @ v3.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.2.0) (1 day ago)
 - [sigstore/cosign @ v1.13.1](https://github.com/sigstore/cosign/releases/tag/v1.13.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.5.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.999.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.999.0) (2 days ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (1 week ago)
@@ -46,6 +46,6 @@ Many thanks everyone! 🙏
 - **[golang/go](https://github.com/golang/go)** - The Go programming language (3 weeks ago)
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 day ago)
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 month ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
-- [Enabling Nightly releases using GoReleaser Pro](https://carlosbecker.com/posts/goreleaser-nightly/) (1 month ago)
