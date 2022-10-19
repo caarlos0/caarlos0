@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.5.1) (today)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1) (today)
+- [goreleaser/goreleaser @ v1.12.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.2) (today)
+- [goreleaser/goreleaser-pro @ v1.12.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.2-pro) (today)
+- [caarlos0/log @ v0.1.10](https://github.com/caarlos0/log/releases/tag/v0.1.10) (today)
 - [withfig/autocomplete @ spec-build-number-0.1001.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1001.0) (today)
-- [goreleaser/goreleaser @ v1.12.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.12.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.1-pro) (1 day ago)
-- [goreleaser/goreleaser-action @ v3.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.2.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (1 week ago)
