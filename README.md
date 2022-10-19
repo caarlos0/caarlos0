@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (today)
 - **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)** - Example repository using the upcoming split/merge feature of @goreleaser pro (1 week ago)
 - **[bep/buildpkg](https://github.com/bep/buildpkg)** - Builds, signs, notarizes and staples a MacOS pkg file. (1 week ago)
 - **[bep/macosnotarylib](https://github.com/bep/macosnotarylib)** - Notarize files using Apple&#39;s Notary API. (1 week ago)
 - **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (3 weeks ago)
-- **[golang/go](https://github.com/golang/go)** - The Go programming language (3 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (2 days ago)
