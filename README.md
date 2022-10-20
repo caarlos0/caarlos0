@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (today)
 - **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (1 day ago)
 - **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (1 day ago)
 - **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)** - Example repository using the upcoming split/merge feature of @goreleaser pro (1 week ago)
 - **[bep/buildpkg](https://github.com/bep/buildpkg)** - Builds, signs, notarizes and staples a MacOS pkg file. (1 week ago)
-- **[bep/macosnotarylib](https://github.com/bep/macosnotarylib)** - Notarize files using Apple&#39;s Notary API. (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 days ago)
