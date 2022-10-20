@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1) (today)
-- [goreleaser/goreleaser @ v1.12.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.2) (today)
-- [goreleaser/goreleaser-pro @ v1.12.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.2-pro) (today)
-- [caarlos0/log @ v0.1.10](https://github.com/caarlos0/log/releases/tag/v0.1.10) (today)
-- [withfig/autocomplete @ spec-build-number-0.1001.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1001.0) (today)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1) (1 day ago)
+- [goreleaser/goreleaser @ v1.12.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.2) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.12.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.2-pro) (1 day ago)
+- [caarlos0/log @ v0.1.10](https://github.com/caarlos0/log/releases/tag/v0.1.10) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1001.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1001.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Serhii Syrota](https://github.com/ssyrota) (1 week ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (today)
+- **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (1 day ago)
+- **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (1 day ago)
 - **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)** - Example repository using the upcoming split/merge feature of @goreleaser pro (1 week ago)
 - **[bep/buildpkg](https://github.com/bep/buildpkg)** - Builds, signs, notarizes and staples a MacOS pkg file. (1 week ago)
 - **[bep/macosnotarylib](https://github.com/bep/macosnotarylib)** - Notarize files using Apple&#39;s Notary API. (1 week ago)
-- **[catppuccin/cli](https://github.com/catppuccin/cli)** - 🪄 Soothing pastel theme manager (WIP) (3 weeks ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (2 days ago)
+- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 days ago)
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 month ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
