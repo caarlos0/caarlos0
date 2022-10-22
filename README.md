@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1004.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1004.0) (today)
 - [golang/tools @ gopls/v0.10.0-pre.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0-pre.2) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1002.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1002.0) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5) (2 days ago)
 - [goreleaser/goreleaser @ v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (2 days ago)
 - [goreleaser/goreleaser-pro @ v1.12.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.3-pro) (2 days ago)
