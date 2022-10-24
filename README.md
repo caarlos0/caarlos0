@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1010.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1010.0) (today)
-- [golang/tools @ gopls/v0.10.0-pre.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0-pre.2) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5) (3 days ago)
-- [goreleaser/goreleaser @ v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (3 days ago)
-- [goreleaser/goreleaser-pro @ v1.12.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.3-pro) (3 days ago)
+- [caarlos0/goreleaser-pro-split-merge-example @ v0.3.0](https://github.com/caarlos0/goreleaser-pro-split-merge-example/releases/tag/v0.3.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1010.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1010.0) (1 day ago)
+- [golang/tools @ gopls/v0.10.0-pre.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0-pre.2) (3 days ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5) (4 days ago)
+- [goreleaser/goreleaser @ v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (4 days ago)
 
 #### ❤️ Sponsors
-- [winston](https://github.com/nekowinston) (3 days ago)
+- [winston](https://github.com/nekowinston) (4 days ago)
 - [Serhii Syrota](https://github.com/ssyrota) (2 weeks ago)
 - [Johan Hernandez](https://github.com/bithavoc) (2 weeks ago)
-- [Toby O&#39;Sullivan](https://github.com/tobywan) (2 weeks ago)
+- [Toby O&#39;Sullivan](https://github.com/tobywan) (3 weeks ago)
 - [David Dymko](https://github.com/ddymko) (2 months ago)
 
 Many thanks everyone! 🙏
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (today)
-- **[jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids)** - book for parents and kids. (2 days ago)
-- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (3 days ago)
-- **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (4 days ago)
-- **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (4 days ago)
+- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (1 day ago)
+- **[jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids)** - book for parents and kids. (3 days ago)
+- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (4 days ago)
+- **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (5 days ago)
+- **[charmbracelet/inspo](https://github.com/charmbracelet/inspo)** - Share and explore projects you can build with Charm libraries (5 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (6 days ago)
+- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 month ago)
 - [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (1 month ago)
