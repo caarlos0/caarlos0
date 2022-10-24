@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/wish @ v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1013.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1013.0) (today)
 - [caarlos0/goreleaser-pro-split-merge-example @ v0.3.0](https://github.com/caarlos0/goreleaser-pro-split-merge-example/releases/tag/v0.3.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1010.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1010.0) (1 day ago)
 - [golang/tools @ gopls/v0.10.0-pre.2](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0-pre.2) (3 days ago)
 - [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5) (4 days ago)
-- [goreleaser/goreleaser @ v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (4 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (4 days ago)
