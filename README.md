@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.6.1) (today)
 - [caarlos0/discord-applemusic-rich-presence @ v0.1.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.1.2) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.6.0) (today)
 - [spf13/cobra @ v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1) (1 day ago)
 - [charmbracelet/wishlist @ v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0) (1 day ago)
 - [charmbracelet/promwish @ v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0) (1 day ago)
