@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.6.1) (today)
-- [caarlos0/discord-applemusic-rich-presence @ v0.1.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.1.2) (today)
-- [spf13/cobra @ v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1) (1 day ago)
-- [charmbracelet/wishlist @ v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0) (1 day ago)
-- [charmbracelet/promwish @ v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.6.1) (1 day ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.1.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.1.2) (1 day ago)
+- [spf13/cobra @ v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1) (2 days ago)
+- [charmbracelet/wishlist @ v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0) (2 days ago)
+- [charmbracelet/promwish @ v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [winston](https://github.com/nekowinston) (5 days ago)
+- [winston](https://github.com/nekowinston) (6 days ago)
 - [Serhii Syrota](https://github.com/ssyrota) (2 weeks ago)
 - [Johan Hernandez](https://github.com/bithavoc) (3 weeks ago)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (3 weeks ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music (today)
-- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (2 days ago)
-- **[jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids)** - book for parents and kids. (4 days ago)
-- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (5 days ago)
-- **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (6 days ago)
+- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music (1 day ago)
+- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (3 days ago)
+- **[jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids)** - book for parents and kids. (5 days ago)
+- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (6 days ago)
+- **[dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)** - A modern replacement for Redis and Memcached (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
