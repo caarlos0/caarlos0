@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1014.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1014.0) (today)
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.3) (today)
-- [caarlos0/discord-applemusic-rich-presence @ v0.3.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.0) (today)
+- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0) (today)
+- [caarlos0/discord-applemusic-rich-presence @ v0.3.1](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.1) (today)
+- [withfig/autocomplete @ spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0) (today)
 - [spf13/cobra @ v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1) (2 days ago)
 - [charmbracelet/wishlist @ v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0) (2 days ago)
 
