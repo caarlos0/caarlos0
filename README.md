@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (today)
+- [goreleaser/example @ v1.3.0](https://github.com/goreleaser/example/releases/tag/v1.3.0) (today)
 - [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0) (1 day ago)
 - [caarlos0/discord-applemusic-rich-presence @ v0.3.1](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.1) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0) (1 day ago)
-- [spf13/cobra @ v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1) (3 days ago)
-- [charmbracelet/wishlist @ v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (1 week ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (today)
+- **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (today)
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (today)
+- **[charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)** - Tree-sitter grammar for VHS (today)
 - **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** - A collection of JSON schema files including full API (1 day ago)
-- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music (2 days ago)
-- **[ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)** - 🦘 Neovim&#39;s answer to the mouse: a &#34;clairvoyant&#34; interface that makes on-screen jumps quicker and more natural than ever (4 days ago)
-- **[jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids)** - book for parents and kids. (6 days ago)
-- **[rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)** - A fancy, configurable, notification manager for NeoVim (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
