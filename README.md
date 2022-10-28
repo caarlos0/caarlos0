@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (today)
-- [goreleaser/example @ v1.3.0](https://github.com/goreleaser/example/releases/tag/v1.3.0) (today)
-- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0) (1 day ago)
-- [caarlos0/discord-applemusic-rich-presence @ v0.3.1](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.1) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0) (1 day ago)
+- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (1 day ago)
+- [goreleaser/example @ v1.3.0](https://github.com/goreleaser/example/releases/tag/v1.3.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0) (2 days ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.3.1](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.1) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (1 week ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (today)
-- **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (today)
-- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (today)
-- **[charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)** - Tree-sitter grammar for VHS (today)
-- **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** - A collection of JSON schema files including full API (1 day ago)
+- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (1 day ago)
+- **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (1 day ago)
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (1 day ago)
+- **[charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)** - Tree-sitter grammar for VHS (1 day ago)
+- **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** - A collection of JSON schema files including full API (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
