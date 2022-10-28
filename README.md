@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0) (today)
 - [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (1 day ago)
 - [goreleaser/example @ v1.3.0](https://github.com/goreleaser/example/releases/tag/v1.3.0) (1 day ago)
 - [charmbracelet/vhs @ v0.1.0](https://github.com/charmbracelet/vhs/releases/tag/v0.1.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0) (2 days ago)
 - [caarlos0/discord-applemusic-rich-presence @ v0.3.1](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.1) (2 days ago)
 
 #### ❤️ Sponsors
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (today)
 - **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (today)
 - **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (1 day ago)
 - **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (1 day ago)
 - **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (1 day ago)
-- **[charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)** - Tree-sitter grammar for VHS (1 day ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
