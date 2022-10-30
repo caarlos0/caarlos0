@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1016.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1016.0) (today)
-- [charmbracelet/vhs @ v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0) (1 day ago)
-- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (2 days ago)
-- [goreleaser/example @ v1.3.0](https://github.com/goreleaser/example/releases/tag/v1.3.0) (2 days ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.3.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.2) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1016.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1016.0) (1 day ago)
+- [charmbracelet/vhs @ v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0) (2 days ago)
+- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (1 week ago)
-- [Serhii Syrota](https://github.com/ssyrota) (2 weeks ago)
+- [Serhii Syrota](https://github.com/ssyrota) (3 weeks ago)
 - [Johan Hernandez](https://github.com/bithavoc) (3 weeks ago)
 - [Toby O&#39;Sullivan](https://github.com/tobywan) (3 weeks ago)
 - [David Dymko](https://github.com/ddymko) (2 months ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (1 day ago)
-- **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (1 day ago)
-- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (2 days ago)
-- **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (2 days ago)
-- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (2 days ago)
+- **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (2 days ago)
+- **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (2 days ago)
+- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (3 days ago)
+- **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (3 days ago)
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (1 week ago)
