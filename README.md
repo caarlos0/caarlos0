@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (today)
 - **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (3 days ago)
 - **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (3 days ago)
 - **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (4 days ago)
 - **[charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)** - VHS Github Action (4 days ago)
-- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** - Your CLI home video recorder 📼 (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (2 weeks ago)
