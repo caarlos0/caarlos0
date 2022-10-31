@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ jiralert-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-0.1.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1017.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1017.0) (today)
+- [golang/tools @ gopls/v0.10.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.1) (today)
 - [caarlos0/discord-applemusic-rich-presence @ v0.3.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.2) (2 days ago)
-- [withfig/autocomplete @ spec-build-number-0.1016.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1016.0) (2 days ago)
 - [charmbracelet/vhs @ v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1) (3 days ago)
-- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (1 week ago)
