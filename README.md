@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser-azure-devops-extension @ v0.1.32](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.32) (today)
 - [caarlos0/dotfiles.fish @ v5.7.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.7.0) (today)
 - [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.2) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1017.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1017.0) (1 day ago)
 - [golang/tools @ gopls/v0.10.0](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.0) (1 day ago)
-- [caarlos0/discord-applemusic-rich-presence @ v0.3.2](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.2) (3 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (1 week ago)
