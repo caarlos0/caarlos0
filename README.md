@@ -12,9 +12,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.3) (today)
+- [withfig/autocomplete @ spec-build-number-0.1018.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1018.0) (today)
 - [goreleaser/goreleaser-cross @ v1.19.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3) (today)
-- [withfig/autocomplete @ spec-build-number-0.1017.2](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1017.2) (today)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.1) (today)
 - [caarlos0/discord-applemusic-rich-presence @ v0.3.3](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.3.3) (today)
 - [golang/tools @ gopls/v0.10.1](https://github.com/golang/tools/releases/tag/gopls%2Fv0.10.1) (1 day ago)
 
