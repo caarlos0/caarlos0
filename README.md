@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1) (today)
+- [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (today)
 - [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (1 day ago)
 - [charmbracelet/melt @ v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.7.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.3) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1018.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1018.0) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3) (1 day ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (3 weeks ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
-- [Toby O&#39;Sullivan](https://github.com/tobywan) (1 month ago)
 - [David Dymko](https://github.com/ddymko) (2 months ago)
+- [Leonardo Lima](https://github.com/leozz37) (2 months ago)
 
 Many thanks everyone! 🙏
 
