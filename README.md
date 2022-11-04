@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/discord-applemusic-rich-presence @ v0.4.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.4.0) (today)
 - [prometheus-community/helm-charts @ prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (1 day ago)
 - [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (2 days ago)
 - [charmbracelet/melt @ v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0) (2 days ago)
-- [goreleaser/goreleaser-cross @ v1.19.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3) (2 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
