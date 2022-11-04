@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1) (today)
-- [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (today)
-- [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (1 day ago)
-- [charmbracelet/melt @ v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (1 day ago)
+- [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (2 days ago)
+- [charmbracelet/melt @ v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.19.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3) (2 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
@@ -39,10 +39,10 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (2 days ago)
-- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (3 days ago)
-- **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (6 days ago)
-- **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (6 days ago)
+- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (3 days ago)
+- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (4 days ago)
+- **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (1 week ago)
+- **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Soft-Serve Github Action (1 week ago)
 - **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (1 week ago)
 
 #### 📄 Latest blog posts
