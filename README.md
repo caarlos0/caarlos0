@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/soft-serve @ v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1) (today)
-- [prometheus-community/helm-charts @ prometheus-15.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.18.0) (today)
-- [caarlos0/discord-applemusic-rich-presence @ v0.4.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.4.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (1 day ago)
-- [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (2 days ago)
+- [charmbracelet/soft-serve @ v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-15.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.18.0) (1 day ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.4.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.4.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0) (2 days ago)
+- [goreleaser/nfpm @ v2.21.0](https://github.com/goreleaser/nfpm/releases/tag/v2.21.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
@@ -39,8 +39,8 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (3 days ago)
-- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (4 days ago)
+- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (4 days ago)
+- **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (5 days ago)
 - **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (1 week ago)
 - **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 week ago)
 - **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (1 week ago)
