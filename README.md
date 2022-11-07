@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (today)
 - **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (6 days ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (1 week ago)
 - **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (1 week ago)
 - **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 week ago)
-- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** - Share your terminal over the web (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 weeks ago)
