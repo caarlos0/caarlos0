@@ -12,15 +12,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1021.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1021.0) (today)
-- [catppuccin/go @ v0.1.0](https://github.com/catppuccin/go/releases/tag/v0.1.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.3) (2 days ago)
-- [charmbracelet/soft-serve @ v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1) (3 days ago)
-- [caarlos0/discord-applemusic-rich-presence @ v0.4.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.4.0) (3 days ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.2) (1 day ago)
+- [orlangure/gocovsh @ v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1021.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1021.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [catppuccin/go @ v0.1.0](https://github.com/catppuccin/go/releases/tag/v0.1.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
-- [Serhii Syrota](https://github.com/ssyrota) (4 weeks ago)
+- [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
 - [David Dymko](https://github.com/ddymko) (2 months ago)
 - [Leonardo Lima](https://github.com/leozz37) (2 months ago)
@@ -39,11 +39,11 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (today)
-- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (6 days ago)
+- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (1 day ago)
+- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (1 day ago)
+- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (1 week ago)
 - **[catppuccin/go](https://github.com/catppuccin/go)** - 🦫 Soothing pastel library for Go (1 week ago)
 - **[anchore/quill](https://github.com/anchore/quill)** - Simple mac binary signing from any platform (1 week ago)
-- **[charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action)** - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 weeks ago)
