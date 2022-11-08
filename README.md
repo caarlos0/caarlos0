@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-adapter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.2) (today)
+- [catppuccin/go @ v0.2.0](https://github.com/catppuccin/go/releases/tag/v0.2.0) (today)
+- [caarlos0/domain_exporter @ v1.18.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.18.0) (today)
+- [caarlos0/tasktimer @ v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.2) (1 day ago)
-- [orlangure/gocovsh @ v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1021.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1021.0) (1 day ago)
-- [catppuccin/go @ v0.1.0](https://github.com/catppuccin/go/releases/tag/v0.1.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
