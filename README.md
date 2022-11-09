@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (today)
+- [charmbracelet/glamour @ v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1022.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1022.1) (1 day ago)
-- [catppuccin/go @ v0.2.0](https://github.com/catppuccin/go/releases/tag/v0.2.0) (1 day ago)
-- [caarlos0/domain_exporter @ v1.18.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.18.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [winston](https://github.com/nekowinston) (2 weeks ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
+- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (today)
 - **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (today)
 - **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 day ago)
 - **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (2 days ago)
 - **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (2 days ago)
-- **[kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)** - A neovim plugin that jump to previous and next buffer of the jumplist. (1 week ago)
 
 #### 📄 Latest blog posts
+- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (today)
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 weeks ago)
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 month ago)
-- [Announcing GoReleaser v1.11 — the hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.11/) (2 months ago)
