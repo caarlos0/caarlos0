@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/bubbletea-app-template @ v0.2.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.2.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [withfig/autocomplete @ spec-build-number-0.1025.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1025.0) (today)
 - [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (1 day ago)
 - [charmbracelet/glamour @ v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [John Olheiser](https://github.com/jolheiser) (1 day ago)
