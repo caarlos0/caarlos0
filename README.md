@@ -12,18 +12,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (today)
-- [charmbracelet/glamour @ v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1022.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1022.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1024.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1024.0) (1 day ago)
+- [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (1 day ago)
+- [charmbracelet/glamour @ v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [winston](https://github.com/nekowinston) (2 weeks ago)
+- [John Olheiser](https://github.com/jolheiser) (1 day ago)
+- [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
 - [David Dymko](https://github.com/ddymko) (2 months ago)
-- [Leonardo Lima](https://github.com/leozz37) (2 months ago)
 
 Many thanks everyone! 🙏
 
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (today)
-- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (today)
-- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 day ago)
-- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (2 days ago)
-- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (2 days ago)
+- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (1 day ago)
+- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (1 day ago)
+- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (2 days ago)
+- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (3 days ago)
+- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (3 days ago)
 
 #### 📄 Latest blog posts
-- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (today)
+- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (1 day ago)
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://carlosbecker.com/posts/goreleaser-v1.12/) (3 weeks ago)
 - [Creating a tag and releasing from a GitHub Action, with GoReleaser](https://carlosbecker.com/posts/goreleaser-create-tag-action/) (1 month ago)
