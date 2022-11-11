@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/bubbletea-app-template @ v0.2.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.2.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1025.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1025.0) (today)
-- [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (1 day ago)
-- [charmbracelet/glamour @ v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1027.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1027.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.23.0) (1 day ago)
+- [charmbracelet/bubbletea-app-template @ v0.2.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.2.0) (1 day ago)
+- [charmbracelet/bubbletea @ v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [John Olheiser](https://github.com/jolheiser) (1 day ago)
+- [John Olheiser](https://github.com/jolheiser) (2 days ago)
 - [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (1 day ago)
-- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (1 day ago)
-- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (2 days ago)
-- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (3 days ago)
-- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (3 days ago)
+- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (2 days ago)
+- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (2 days ago)
+- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (3 days ago)
+- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (4 days ago)
+- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (4 days ago)
 
 #### 📄 Latest blog posts
-- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (1 day ago)
-- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (1 day ago)
+- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (2 days ago)
+- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (2 days ago)
 - [Sustainability in Open Source - Github and Charm](https://carlosbecker.com/posts/sustainability-oss-github-charm/) (3 weeks ago)
