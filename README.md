@@ -12,11 +12,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1027.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1027.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (today)
 - [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (1 day ago)
 - [goreleaser/goreleaser-cross @ v1.19.3-rc3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3-rc3) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/bubbletea-app-template @ v0.2.0](https://github.com/charmbracelet/bubbletea-app-template/releases/tag/v0.2.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [John Olheiser](https://github.com/jolheiser) (3 days ago)
