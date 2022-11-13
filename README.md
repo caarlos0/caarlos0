@@ -19,11 +19,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (2 days ago)
 
 #### ❤️ Sponsors
+- [](https://github.com/rsteube) (today)
 - [John Olheiser](https://github.com/jolheiser) (4 days ago)
 - [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
-- [David Dymko](https://github.com/ddymko) (2 months ago)
 
 Many thanks everyone! 🙏
 
