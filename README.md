@@ -12,14 +12,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (today)
-- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.3-rc3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.3-rc3) (1 day ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.5.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.5.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (2 days ago)
 
 #### ❤️ Sponsors
-- [John Olheiser](https://github.com/jolheiser) (3 days ago)
+- [John Olheiser](https://github.com/jolheiser) (4 days ago)
 - [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 - [Johan Hernandez](https://github.com/bithavoc) (1 month ago)
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (3 days ago)
-- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (3 days ago)
-- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (4 days ago)
-- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (5 days ago)
-- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (5 days ago)
+- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (4 days ago)
+- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (4 days ago)
+- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (5 days ago)
+- **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (6 days ago)
+- **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (6 days ago)
 
 #### 📄 Latest blog posts
-- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (3 days ago)
-- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (3 days ago)
+- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (4 days ago)
+- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (4 days ago)
 - [Sustainability in Open Source - Github and Charm](https://carlosbecker.com/posts/sustainability-oss-github-charm/) (3 weeks ago)
