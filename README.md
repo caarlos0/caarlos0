@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [caarlos0/discord-applemusic-rich-presence @ v0.5.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.5.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 - [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (2 days ago)
@@ -46,6 +46,6 @@ Many thanks everyone! 🙏
 - **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (6 days ago)
 
 #### 📄 Latest blog posts
+- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 day ago)
 - [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (4 days ago)
 - [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (4 days ago)
-- [Sustainability in Open Source - Github and Charm](https://carlosbecker.com/posts/sustainability-oss-github-charm/) (3 weeks ago)
