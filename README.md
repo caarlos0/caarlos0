@@ -12,8 +12,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [caarlos0/tablewriter @ v0.1.0](https://github.com/caarlos0/tablewriter/releases/tag/v0.1.0) (1 day ago)
-- [neovim/neovim @ v0.8.1](https://github.com/neovim/neovim/releases/tag/v0.8.1) (1 day ago)
 - [caarlos0/discord-applemusic-rich-presence @ v0.5.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.5.0) (3 days ago)
 - [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (3 days ago)
 - [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (3 days ago)
