@@ -12,16 +12,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ v0.8.1](https://github.com/neovim/neovim/releases/tag/v0.8.1) (today)
-- [caarlos0/discord-applemusic-rich-presence @ v0.5.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.5.0) (2 days ago)
-- [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (2 days ago)
-- [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2) (3 days ago)
+- [caarlos0/tablewriter @ v0.1.0](https://github.com/caarlos0/tablewriter/releases/tag/v0.1.0) (1 day ago)
+- [neovim/neovim @ v0.8.1](https://github.com/neovim/neovim/releases/tag/v0.8.1) (1 day ago)
+- [caarlos0/discord-applemusic-rich-presence @ v0.5.0](https://github.com/caarlos0/discord-applemusic-rich-presence/releases/tag/v0.5.0) (3 days ago)
+- [goreleaser/nfpm @ v2.22.0](https://github.com/goreleaser/nfpm/releases/tag/v2.22.0) (3 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0) (3 days ago)
 
 #### ❤️ Sponsors
-- [Kazuma Watanabe](https://github.com/wata727) (today)
-- [](https://github.com/rsteube) (1 day ago)
-- [John Olheiser](https://github.com/jolheiser) (5 days ago)
+- [Kazuma Watanabe](https://github.com/wata727) (1 day ago)
+- [](https://github.com/rsteube) (2 days ago)
+- [John Olheiser](https://github.com/jolheiser) (6 days ago)
 - [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
 
@@ -39,13 +39,13 @@ Many thanks everyone! 🙏
 #### ⭐ Recent Stars
 
 
-- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (5 days ago)
-- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (5 days ago)
-- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (6 days ago)
+- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (6 days ago)
+- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (6 days ago)
+- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 week ago)
 - **[superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)** - Fast, fun, ActivityPub server, powered by Go. (1 week ago)
 - **[joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon)** - An increasingly less-brief guide to Mastodon (1 week ago)
 
 #### 📄 Latest blog posts
-- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (2 days ago)
-- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (5 days ago)
-- [Issuing and using SSH Certificates](https://carlosbecker.com/posts/ssh-certificates/) (5 days ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 day ago)
+- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (3 days ago)
+- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (6 days ago)
