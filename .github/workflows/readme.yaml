@@ -16,7 +16,7 @@ jobs:
         with:
           go-version: '^1'
       - run: |
-          go install github.com/caarlos0/markscribe@fork
+          go install github.com/muesli/markscribe@master
           markscribe ./templates/readme.md.tpl > README.md
         shell: bash
         env:
