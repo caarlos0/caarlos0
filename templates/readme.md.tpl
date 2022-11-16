@@ -28,7 +28,9 @@ Many thanks everyone! 🙏
 - **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/caarlos0/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
-[Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
+You might want to check out my [books
+wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
+[literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
 
