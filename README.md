@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [withfig/autocomplete @ spec-build-number-0.1029.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1029.0) (1 day ago)
 - [prometheus-community/helm-charts @ prometheus-nginx-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.1.0) (1 day ago)
-- [charmbracelet/bubbletea @ v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Kazuma Watanabe](https://github.com/wata727) (2 days ago)
