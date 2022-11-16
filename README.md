@@ -20,7 +20,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Sponsors
 - [Kazuma Watanabe](https://github.com/wata727) (2 days ago)
-- [](https://github.com/rsteube) (3 days ago)
+- [rsteube](https://github.com/rsteube) (3 days ago)
 - [John Olheiser](https://github.com/jolheiser) (1 week ago)
 - [winston](https://github.com/nekowinston) (3 weeks ago)
 - [Serhii Syrota](https://github.com/ssyrota) (1 month ago)
@@ -33,7 +33,9 @@ Many thanks everyone! 🙏
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
 
-[Books I'm planning to read soon](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV).
+You might want to check out my [books
+wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
+[literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
 
