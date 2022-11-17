@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/wish @ v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1030.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1030.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.8.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-41.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.9.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1033.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1033.0) (1 day ago)
+- [charmbracelet/wish @ v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Kazuma Watanabe](https://github.com/wata727) (2 days ago)
-- [rsteube](https://github.com/rsteube) (3 days ago)
-- [John Olheiser](https://github.com/jolheiser) (1 week ago)
+- [Gitea](https://github.com/go-gitea) (1 day ago)
+- [Kazuma Watanabe](https://github.com/wata727) (3 days ago)
+- [rsteube](https://github.com/rsteube) (4 days ago)
 
 Many thanks everyone! 🙏
 
@@ -37,8 +37,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 week ago)
 
 #### 📄 Latest blog posts
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (2 days ago)
-- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (4 days ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (3 days ago)
+- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (5 days ago)
 - [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (1 week ago)
 
 #### 🎭 Socials
