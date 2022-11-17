@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.10.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.9.0) (today)
 - [withfig/autocomplete @ spec-build-number-0.1033.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1033.0) (1 day ago)
 
 #### ❤️ Sponsors
+- [Rodrigo Baron](https://github.com/rodrigobaron) (today)
 - [Gitea](https://github.com/go-gitea) (1 day ago)
 - [Kazuma Watanabe](https://github.com/wata727) (3 days ago)
-- [rsteube](https://github.com/rsteube) (4 days ago)
 
 Many thanks everyone! 🙏
 
