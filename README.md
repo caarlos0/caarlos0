@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.6.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.6.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (1 day ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (1 day ago)
-- [Gitea](https://github.com/go-gitea) (2 days ago)
+- [Hamothy](https://github.com/sgoudham) (2 days ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (2 days ago)
+- [Gitea](https://github.com/go-gitea) (3 days ago)
 
 Many thanks everyone! 🙏
 
@@ -37,8 +37,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 week ago)
 
 #### 📄 Latest blog posts
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (4 days ago)
-- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (6 days ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (5 days ago)
+- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 week ago)
 - [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (1 week ago)
 
 #### 🎭 Socials
