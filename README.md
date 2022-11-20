@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-41.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.9.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (today)
+- [goreleaser/goreleaser-pro @ v1.13.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.13.0-pro) (today)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-1.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.0) (today)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 days ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (today)
+- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (today)
 - **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (1 week ago)
-- **[ldodds/scifi-terminals](https://github.com/ldodds/scifi-terminals)** - Recreating terminal windows from scifi movies (1 week ago)
-- **[nolanlawson/pinafore](https://github.com/nolanlawson/pinafore)** - Alternative web client for Mastodon (1 week ago)
 
 #### 📄 Latest blog posts
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (6 days ago)
