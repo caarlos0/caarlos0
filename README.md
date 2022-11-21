@@ -26,15 +26,16 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
+- **[Métodos de Treinamento Para Força e Hipertrofia - Da Prática à Teoria](https://literal.club/caarlos0/book/belmiro-freitas-de-salles-metodos-de-treinamento-para-forca-e-hipertrofia-i4nb7)** by _Belmiro Freitas de Salles_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (today)
 - **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (1 day ago)
 - **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (1 day ago)
-- **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 days ago)
