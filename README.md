@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (today)
-- [goreleaser/goreleaser-pro @ v1.13.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.13.0-pro) (today)
-- [prometheus-community/helm-charts @ prometheus-pushgateway-1.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.0) (today)
+- [zricethezav/gitleaks @ v8.15.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1) (1 day ago)
+- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.13.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.13.0-pro) (1 day ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (3 days ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (3 days ago)
-- [Gitea](https://github.com/go-gitea) (4 days ago)
+- [Hamothy](https://github.com/sgoudham) (4 days ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (4 days ago)
+- [Gitea](https://github.com/go-gitea) (5 days ago)
 
 Many thanks everyone! 🙏
 
@@ -32,14 +32,14 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (today)
-- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (today)
+- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (1 day ago)
+- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (1 day ago)
 - **[simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)** - almost not wip (1 week ago)
 
 #### 📄 Latest blog posts
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (6 days ago)
+- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 days ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 week ago)
 - [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 week ago)
-- [Expanding GitHub Sponsors globally - GitHub Universe](https://carlosbecker.com/posts/github-universe-2022/) (1 week ago)
 
 #### 🎭 Socials
 
