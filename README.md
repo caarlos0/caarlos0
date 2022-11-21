@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [zricethezav/gitleaks @ v8.15.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1) (1 day ago)
 - [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.13.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.13.0-pro) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (4 days ago)
