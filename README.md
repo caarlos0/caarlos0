@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1033.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1033.1) (today)
 - [zricethezav/gitleaks @ v8.15.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1) (2 days ago)
-- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (5 days ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (today)
 - **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (1 day ago)
 - **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (2 days ago)
-- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (4 days ago)
