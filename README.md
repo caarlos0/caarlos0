@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [zricethezav/gitleaks @ v8.15.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1) (1 day ago)
-- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [zricethezav/gitleaks @ v8.15.1](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1) (2 days ago)
+- [goreleaser/goreleaser @ v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (4 days ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (4 days ago)
-- [Gitea](https://github.com/go-gitea) (5 days ago)
+- [Hamothy](https://github.com/sgoudham) (5 days ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (5 days ago)
+- [Gitea](https://github.com/go-gitea) (6 days ago)
 
 Many thanks everyone! 🙏
 
@@ -33,12 +33,12 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (today)
-- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (1 day ago)
-- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (1 day ago)
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (1 day ago)
+- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (2 days ago)
+- **[o2sh/onefetch](https://github.com/o2sh/onefetch)** - Command-line Git information tool (2 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 days ago)
+- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (4 days ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 week ago)
 - [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 week ago)
 
