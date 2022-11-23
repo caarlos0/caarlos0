@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/vhs @ v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-42.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.0.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.3.0) (1 day ago)
+- [charmbracelet/vhs @ v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (5 days ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (5 days ago)
-- [Gitea](https://github.com/go-gitea) (6 days ago)
+- [Hamothy](https://github.com/sgoudham) (6 days ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (6 days ago)
+- [Gitea](https://github.com/go-gitea) (1 week ago)
 
 Many thanks everyone! 🙏
 
@@ -33,12 +33,12 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (today)
-- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (1 day ago)
-- **[zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)** - Lua plugin to turn github copilot into a cmp source (2 days ago)
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Stable Diffusion web UI (1 day ago)
+- **[nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)** - Integration with github cli (1 day ago)
+- **[maaslalani/nap](https://github.com/maaslalani/nap)** - Code snippets in your terminal 🛌 (2 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (4 days ago)
+- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (5 days ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 week ago)
 - [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 week ago)
 
