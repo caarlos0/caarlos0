@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.24.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1039.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1039.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-42.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.0.3) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1039.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1039.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 week ago)
@@ -26,21 +26,21 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
-- **[Métodos de Treinamento Para Força e Hipertrofia - Da Prática à Teoria](https://literal.club/caarlos0/book/belmiro-freitas-de-salles-metodos-de-treinamento-para-forca-e-hipertrofia-i4nb7)** by _Belmiro Freitas de Salles_
+- **[Programming in Lua](https://literal.club/caarlos0/book/programming-in-lua-97zkb)** by _Roberto Ierusalimschy_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (today)
-- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Stable Diffusion web UI (3 days ago)
+- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 day ago)
+- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 days ago)
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Stable Diffusion web UI (4 days ago)
 
 #### 📄 Latest blog posts
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 day ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 week ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 week ago)
-- [GoReleaser Split and Merge](https://carlosbecker.com/posts/goreleaser-split-merge/) (1 week ago)
 
 #### 🎭 Socials
 
