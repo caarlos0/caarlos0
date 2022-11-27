@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-18.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.0.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1039.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1039.0) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-42.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.1.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1039.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1039.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 week ago)
@@ -33,12 +33,12 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 day ago)
-- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 days ago)
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Stable Diffusion web UI (4 days ago)
+- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (2 days ago)
+- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 days ago)
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Stable Diffusion web UI (5 days ago)
 
 #### 📄 Latest blog posts
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 day ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 days ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 week ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 week ago)
 
