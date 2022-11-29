@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [zricethezav/gitleaks @ v8.15.1-test3](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1-test3) (today)
-- [prometheus-community/helm-charts @ prometheus-18.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1040.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1040.0) (1 day ago)
+- [zricethezav/gitleaks @ v8.15.1-test3](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.1-test3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-18.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 week ago)
@@ -33,12 +33,12 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (today)
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (3 days ago)
-- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 days ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 day ago)
+- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (4 days ago)
+- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (5 days ago)
 
 #### 📄 Latest blog posts
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 days ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (4 days ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 week ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (2 weeks ago)
 
