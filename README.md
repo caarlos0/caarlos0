@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-18.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser @ v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (today)
+- [withfig/autocomplete @ spec-build-number-0.1040.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1040.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-18.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 week ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (1 week ago)
-- [Gitea](https://github.com/go-gitea) (1 week ago)
+- [Gitea](https://github.com/go-gitea) (2 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,12 +33,12 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 day ago)
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (4 days ago)
-- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (5 days ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (2 days ago)
+- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (5 days ago)
+- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (6 days ago)
 
 #### 📄 Latest blog posts
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (4 days ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (5 days ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 week ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (2 weeks ago)
 
