@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.0.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [caarlos0/dotfiles.fish @ v5.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.8.0) (today)
-- [caarlos0/goreleaser-pro-split-merge-example-real @ v0.0.1](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/v0.0.1) (today)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
