@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images
 - **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music
 - **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)** - Example repository using the upcoming split/merge feature of @goreleaser pro
-- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-pushgateway-1.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.1) (1 day ago)
-- [goreleaser/nfpm @ v2.22.2](https://github.com/goreleaser/nfpm/releases/tag/v2.22.2) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [caarlos0/dotfiles.fish @ v5.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.8.0) (today)
+- [caarlos0/goreleaser-pro-split-merge-example-real @ v0.0.1](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/v0.0.1) (today)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -26,16 +26,15 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
-- **[Programming in Lua](https://literal.club/caarlos0/book/programming-in-lua-97zkb)** by _Roberto Ierusalimschy_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (today)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (3 days ago)
 - **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (6 days ago)
-- **[benphelps/homepage](https://github.com/benphelps/homepage)** - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (6 days ago)
