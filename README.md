@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.0.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [caarlos0/dotfiles.fish @ v5.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.8.0) (today)
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.0.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.8.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.8.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -32,13 +32,13 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (today)
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (3 days ago)
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (6 days ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 day ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (4 days ago)
+- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 week ago)
 
 #### 📄 Latest blog posts
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (6 days ago)
-- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 week ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 week ago)
+- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (2 weeks ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (2 weeks ago)
 
 #### 🎭 Socials
