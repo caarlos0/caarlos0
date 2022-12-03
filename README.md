@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-pushgateway-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.0) (today)
-- [go-git/go-git @ v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.0) (1 day ago)
+- [go-git/go-git @ v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -32,8 +32,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 day ago)
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (4 days ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (2 days ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (5 days ago)
 - **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 week ago)
 
 #### 📄 Latest blog posts
