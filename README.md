@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 - **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images
 - **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music
-- **[caarlos0/goreleaser-pro-split-merge-example](https://github.com/caarlos0/goreleaser-pro-split-merge-example)** - Example repository using the upcoming split/merge feature of @goreleaser pro
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1041.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1041.0) (today)
 - [prometheus-community/helm-charts @ prometheus-pushgateway-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.0) (1 day ago)
-- [go-git/go-git @ v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
