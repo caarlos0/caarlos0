@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [bensadeh/despell @ 0.8.2](https://github.com/bensadeh/despell/releases/tag/0.8.2) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-42.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.2.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1042.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1042.0) (1 day ago)
+- [bensadeh/despell @ 0.8.2](https://github.com/bensadeh/despell/releases/tag/0.8.2) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -32,14 +32,14 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (3 days ago)
-- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (6 days ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (4 days ago)
+- **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
 - **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 week ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 week ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (2 weeks ago)
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (2 weeks ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (3 weeks ago)
 
 #### 🎭 Socials
 
