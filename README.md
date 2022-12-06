@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-42.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.2.1) (today)
 - [withfig/autocomplete @ spec-build-number-0.1044.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1044.0) (1 day ago)
-- [prometheus-community/helm-charts @ alertmanager-0.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
+- **[Never Split the Difference - Negotiating as if Your Life Depended on It](https://literal.club/caarlos0/book/chris-voss-tahl-raz-never-split-the-difference-wqbcu)** by _Chris Voss, Tahl Raz_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
