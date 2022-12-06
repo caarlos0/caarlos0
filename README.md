@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.1) (today)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1044.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1044.0) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.1) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (4 days ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (1 day ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (5 days ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
-- **[nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)** - Treesitter playground integrated into Neovim (1 week ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 week ago)
