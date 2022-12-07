@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-42.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.2.1) (today)
-- [withfig/autocomplete @ spec-build-number-0.1044.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1044.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1045.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1045.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-42.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.2.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 weeks ago)
-- [Gitea](https://github.com/go-gitea) (2 weeks ago)
+- [Gitea](https://github.com/go-gitea) (3 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (1 day ago)
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (5 days ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (2 days ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (6 days ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
 
 #### 📄 Latest blog posts
