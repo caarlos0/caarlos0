@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1046.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1046.0) (today)
+- [prometheus-community/helm-charts @ alertmanager-0.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.2) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1045.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1045.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-42.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.2.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (2 weeks ago)
