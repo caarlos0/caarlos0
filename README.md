@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1046.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1046.0) (today)
-- [prometheus-community/helm-charts @ alertmanager-0.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.2) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1046.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1046.1) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.2) (1 day ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (2 weeks ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (2 weeks ago)
+- [Hamothy](https://github.com/sgoudham) (3 weeks ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (3 weeks ago)
 - [Gitea](https://github.com/go-gitea) (3 weeks ago)
 
 Many thanks everyone! 🙏
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (2 days ago)
-- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (6 days ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (3 days ago)
+- **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 week ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
 
 #### 📄 Latest blog posts
