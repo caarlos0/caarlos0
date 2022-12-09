@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1047.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1047.0) (today)
-- [caarlos0/log @ v0.2.0](https://github.com/caarlos0/log/releases/tag/v0.2.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1050.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1050.0) (1 day ago)
+- [caarlos0/log @ v0.2.0](https://github.com/caarlos0/log/releases/tag/v0.2.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
@@ -33,13 +33,13 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (3 days ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (4 days ago)
 - **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 week ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
 
 #### 📄 Latest blog posts
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 week ago)
-- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (2 weeks ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
+- [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 weeks ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (3 weeks ago)
 
 #### 🎭 Socials
