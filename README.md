@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1056.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1056.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1057.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1057.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (5 days ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (6 days ago)
 - **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 week ago)
 - **[beringresearch/macpine](https://github.com/beringresearch/macpine)** - Lightweight Linux VMs on MacOS (1 week ago)
 
