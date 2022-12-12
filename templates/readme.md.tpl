@@ -43,8 +43,3 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 {{- range rss "https://carlosbecker.com/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
-
-#### 🎭 Socials
-
-- <a href="https://mastodon.social/@caarlos0" rel="me">Mastodon</a>
-- <a href="https://twitter.com/caarlos0" rel="me">Twitter</a>
