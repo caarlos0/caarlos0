@@ -41,8 +41,3 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 weeks ago)
 - [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (4 weeks ago)
-
-#### 🎭 Socials
-
-- <a href="https://mastodon.social/@caarlos0" rel="me">Mastodon</a>
-- <a href="https://twitter.com/caarlos0" rel="me">Twitter</a>
