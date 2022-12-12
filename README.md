@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1060.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1060.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [go-git/go-git @ v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1057.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1057.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
