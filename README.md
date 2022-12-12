@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-git/go-git @ v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1057.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1057.0) (1 day ago)
+- [go-git/go-git @ v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1057.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1057.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
@@ -33,14 +33,14 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (today)
-- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (6 days ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (1 day ago)
+- **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (1 week ago)
 - **[tailscale/golink](https://github.com/tailscale/golink)** - A private shortlink service for tailnets (1 week ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 weeks ago)
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (3 weeks ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (4 weeks ago)
 
 #### 🎭 Socials
 
