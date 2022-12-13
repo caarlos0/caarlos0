@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1060.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1060.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [go-git/go-git @ v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1060.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1060.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [go-git/go-git @ v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (today)
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (1 day ago)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (1 day ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (2 days ago)
 - **[m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)** - Run your own GPTChat Telegram bot, with a single command! (1 week ago)
 
 #### 📄 Latest blog posts
