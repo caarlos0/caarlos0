@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0) (today)
-- [caarlos0/goreleaser-pro-split-merge-example-real @ nightly](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-action @ v4.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.1.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1064.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1064.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0) (1 day ago)
+- [caarlos0/goreleaser-pro-split-merge-example-real @ nightly](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (3 weeks ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (3 weeks ago)
-- [Gitea](https://github.com/go-gitea) (3 weeks ago)
+- [Gitea](https://github.com/go-gitea) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (today)
-- **[akasuv/neoland](https://github.com/akasuv/neoland)** (today)
-- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (1 day ago)
+- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (1 day ago)
+- **[akasuv/neoland](https://github.com/akasuv/neoland)** (1 day ago)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (2 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (3 weeks ago)
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (4 weeks ago)
+- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 month ago)
