@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [golang/tools @ gopls/v0.11.0](https://github.com/golang/tools/releases/tag/gopls/v0.11.0) (1 day ago)
 - [caarlos0/log @ v0.2.1](https://github.com/caarlos0/log/releases/tag/v0.2.1) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (4 weeks ago)
