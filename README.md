@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [golang/tools @ gopls/v0.11.0](https://github.com/golang/tools/releases/tag/gopls/v0.11.0) (today)
-- [caarlos0/log @ v0.2.1](https://github.com/caarlos0/log/releases/tag/v0.2.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [golang/tools @ gopls/v0.11.0](https://github.com/golang/tools/releases/tag/gopls/v0.11.0) (1 day ago)
+- [caarlos0/log @ v0.2.1](https://github.com/caarlos0/log/releases/tag/v0.2.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (3 weeks ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (3 weeks ago)
+- [Hamothy](https://github.com/sgoudham) (4 weeks ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (4 weeks ago)
 - [Gitea](https://github.com/go-gitea) (4 weeks ago)
 
 Many thanks everyone! 🙏
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (today)
-- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (1 day ago)
-- **[akasuv/neoland](https://github.com/akasuv/neoland)** (1 day ago)
+- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (1 day ago)
+- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (2 days ago)
+- **[akasuv/neoland](https://github.com/akasuv/neoland)** (2 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
