@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (today)
 - **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (1 day ago)
 - **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (2 days ago)
-- **[akasuv/neoland](https://github.com/akasuv/neoland)** (2 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (2 weeks ago)
