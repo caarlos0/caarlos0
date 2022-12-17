@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1065.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1065.0) (today)
-- [prometheus-community/helm-charts @ alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1065.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1065.0) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Hamothy](https://github.com/sgoudham) (4 weeks ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (4 weeks ago)
+- [Hamothy](https://github.com/sgoudham) (1 month ago)
+- [Rodrigo Baron](https://github.com/rodrigobaron) (1 month ago)
 - [Gitea](https://github.com/go-gitea) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (1 day ago)
-- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (2 days ago)
-- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (3 days ago)
+- **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (2 days ago)
+- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (3 days ago)
+- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (4 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
