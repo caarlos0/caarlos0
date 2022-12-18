@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)** - Unifi Docker files (today)
 - **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (3 days ago)
 - **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (4 days ago)
-- **[tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)** - fugitive.vim: A Git wrapper so awesome, it should be illegal (5 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
