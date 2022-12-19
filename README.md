@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1066.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1066.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1066.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1066.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)** - Unifi Docker files (today)
-- **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (3 days ago)
-- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (4 days ago)
+- **[jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)** - Unifi Docker files (1 day ago)
+- **[golang/vuln](https://github.com/golang/vuln)** - [mirror] the database client and tools for the Go vulnerability database (4 days ago)
+- **[ory/dockertest](https://github.com/ory/dockertest)** - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (5 days ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
