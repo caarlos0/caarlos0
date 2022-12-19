@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [withfig/autocomplete @ spec-build-number-0.1066.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1066.1) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 - [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (3 days ago)
 
 #### ❤️ Sponsors
