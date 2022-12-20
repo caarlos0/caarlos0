@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1068.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1068.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (3 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1068.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1068.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [sigstore/cosign @ v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (today)
-- **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (today)
-- **[folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim)** - 🧘  Distraction-free coding for Neovim (today)
+- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (1 day ago)
+- **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (1 day ago)
 
 #### 📄 Latest blog posts
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
