@@ -37,6 +37,6 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (1 day ago)
 
 #### 📄 Latest blog posts
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (today)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 month ago)
-- [GoReleaser v1 — one year later](https://carlosbecker.com/posts/goreleaser-v1-1year/) (1 month ago)
