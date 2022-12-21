@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.25.0) (today)
-- [charmbracelet/promwish @ v0.4.0](https://github.com/charmbracelet/promwish/releases/tag/v0.4.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-operator-crds-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-0.1.0) (1 day ago)
+- [charmbracelet/promwish @ v0.4.0](https://github.com/charmbracelet/promwish/releases/tag/v0.4.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
-- **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (1 day ago)
-- **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (1 day ago)
+- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
+- **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (2 days ago)
+- **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (2 days ago)
 
 #### 📄 Latest blog posts
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (today)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 day ago)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 month ago)
