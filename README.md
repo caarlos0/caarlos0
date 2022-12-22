@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-node-exporter-4.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.8.1) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1) (2 days ago)
 
 #### ❤️ Sponsors
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (today)
 - **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
 - **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (3 days ago)
-- **[ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)** (3 days ago)
 
 #### 📄 Latest blog posts
 - [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (2 days ago)
