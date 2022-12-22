@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-json-exporter-0.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.6.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-druid-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.0.0) (today)
+- [charmbracelet/promwish @ v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0) (today)
+- [charmbracelet/wish @ v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0) (today)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (today)
 - **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (today)
 - **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
-- **[shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim)** - Dead simple plugin to center the currently focused buffer to the middle of the screen. (3 days ago)
 
 #### 📄 Latest blog posts
 - [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (2 days ago)
