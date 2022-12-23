@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.24.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-43.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.1.4) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [charmbracelet/promwish @ v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0) (1 day ago)
 
