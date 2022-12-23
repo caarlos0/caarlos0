@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-druid-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.0.0) (today)
-- [charmbracelet/promwish @ v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0) (today)
-- [charmbracelet/wish @ v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0) (today)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.1.0) (1 day ago)
+- [charmbracelet/promwish @ v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0) (1 day ago)
+- [charmbracelet/wish @ v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (today)
-- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (today)
-- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
+- **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (1 day ago)
+- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (1 day ago)
+- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (4 days ago)
 
 #### 📄 Latest blog posts
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (2 days ago)
-- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (3 weeks ago)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (3 days ago)
+- [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (4 weeks ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 month ago)
