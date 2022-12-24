@@ -15,9 +15,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [charmbracelet/promwish @ v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0) (2 days ago)
 
 #### ❤️ Sponsors
+- [Fabiano Conrado](https://github.com/fabianohkd) (today)
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (1 month ago)
-- [Gitea](https://github.com/go-gitea) (1 month ago)
 
 Many thanks everyone! 🙏
 
