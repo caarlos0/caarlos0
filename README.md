@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1072.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1072.0) (today)
-- [prometheus-community/helm-charts @ prometheus-19.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1072.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1072.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-19.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Fabiano Conrado](https://github.com/fabianohkd) (2 days ago)
+- [Fabiano Conrado](https://github.com/fabianohkd) (3 days ago)
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (1 month ago)
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (4 days ago)
-- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (4 days ago)
+- **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (5 days ago)
+- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (5 days ago)
 - **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 
 #### 📄 Latest blog posts
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (6 days ago)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 week ago)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 month ago)
 - [Announcing GoReleaser v1.13 — the November release](https://carlosbecker.com/posts/goreleaser-v1.13/) (1 month ago)
