@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-19.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.2) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1) (today)
+- [neovim/neovim @ v0.8.2](https://github.com/neovim/neovim/releases/tag/v0.8.2) (today)
 - [goreleaser/goreleaser @ v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) (2 days ago)
 
 #### ❤️ Sponsors
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[teal-language/tl](https://github.com/teal-language/tl)** - The compiler for Teal, a typed dialect of Lua (today)
 - **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (1 week ago)
 - **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (1 week ago)
-- **[charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer)** - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 days ago)
