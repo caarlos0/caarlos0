@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1) (today)
-- [neovim/neovim @ v0.8.2](https://github.com/neovim/neovim/releases/tag/v0.8.2) (today)
-- [goreleaser/goreleaser @ v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) (2 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1) (1 day ago)
+- [neovim/neovim @ v0.8.2](https://github.com/neovim/neovim/releases/tag/v0.8.2) (1 day ago)
+- [goreleaser/goreleaser @ v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) (3 days ago)
 
 #### ❤️ Sponsors
-- [Fabiano Conrado](https://github.com/fabianohkd) (5 days ago)
+- [Fabiano Conrado](https://github.com/fabianohkd) (6 days ago)
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (1 month ago)
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[teal-language/tl](https://github.com/teal-language/tl)** - The compiler for Teal, a typed dialect of Lua (today)
+- **[squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)** - Documentation that simply works (1 day ago)
+- **[teal-language/tl](https://github.com/teal-language/tl)** - The compiler for Teal, a typed dialect of Lua (1 day ago)
 - **[danymat/neogen](https://github.com/danymat/neogen)** - A better annotation generator. Supports multiple languages and annotation conventions. (1 week ago)
-- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** - 💤 A modern plugin manager for Neovim (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 days ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (3 days ago)
 - [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 week ago)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 month ago)
