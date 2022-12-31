@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [caarlos0/dotfiles.fish @ v5.9.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.9.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [goreleaser/nfpm @ v2.23.0](https://github.com/goreleaser/nfpm/releases/tag/v2.23.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
