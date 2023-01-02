@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (today)
+- [goreleaser/goreleaser-pro @ v1.14.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.1-pro) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [caarlos0/goreleaser-action-v4-auto-snapshot-example @ v0.1.0](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example/releases/tag/v0.1.0) (today)
-- [caarlos0/dotfiles.fish @ v5.9.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.9.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
