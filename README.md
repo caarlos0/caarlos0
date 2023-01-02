@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/goreleaser-action-v4-auto-snapshot-example](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example)**
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 - **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images
-- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [caarlos0/goreleaser-action-v4-auto-snapshot-example @ v0.1.0](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example/releases/tag/v0.1.0) (today)
 - [caarlos0/dotfiles.fish @ v5.9.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.9.0) (2 days ago)
-- [goreleaser/nfpm @ v2.23.0](https://github.com/goreleaser/nfpm/releases/tag/v2.23.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (today)
 - **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (2 days ago)
 - **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (2 days ago)
-- **[nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)** - lua `fork` of vim-web-devicons for neovim (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (6 days ago)
