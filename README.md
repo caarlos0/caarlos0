@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (1 day ago)
 - [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.14.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.1-pro) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -25,6 +25,7 @@ Many thanks everyone! 🙏
 - **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
+- **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
