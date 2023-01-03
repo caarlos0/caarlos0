@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (today)
-- [goreleaser/goreleaser-pro @ v1.14.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.1-pro) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.14.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.1-pro) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -25,18 +25,17 @@ Many thanks everyone! 🙏
 - **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
-- **[Thinking in Systems - A Primer](https://literal.club/caarlos0/book/thinking-in-systems-0q34a)** by _Donella H. Meadows, Diana Wright_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (today)
-- **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (2 days ago)
-- **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (2 days ago)
+- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (1 day ago)
+- **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (3 days ago)
+- **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (3 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (6 days ago)
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 week ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (2 weeks ago)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 month ago)
