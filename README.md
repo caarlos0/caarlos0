@@ -3,7 +3,7 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/goreleaser-action-v4-auto-snapshot-example](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example)**
+- **[caarlos0/goreleaser-action-v4-auto-snapshot-example](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example)** - auto-snapshot example with goreleaser-action v4
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 - **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images
 
