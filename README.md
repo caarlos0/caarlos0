@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal and colorful Go logging library. 📝 (today)
+- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (today)
 - **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (2 days ago)
-- **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (4 days ago)
-- **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
