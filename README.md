@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (1 day ago)
-- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (2 days ago)
+- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (1 day ago)
-- **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (3 days ago)
-- **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (3 days ago)
+- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (2 days ago)
+- **[MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)** - UI Component Library for Neovim. (4 days ago)
+- **[nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)** - Neovim plugin to manage the file system and other tree like structures. (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
