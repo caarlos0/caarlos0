@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (2 days ago)
-- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (2 days ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0) (3 days ago)
+- [goreleaser/goreleaser @ v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (3 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal and colorful Go logging library. 📝 (today)
-- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (today)
-- **[folke/LazyVim](https://github.com/folke/LazyVim)** - Starter template for lazy Neovim users (2 days ago)
+- **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (1 day ago)
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal and colorful Go logging library. 📝 (1 day ago)
+- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (1 day ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
