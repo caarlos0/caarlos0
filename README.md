@@ -34,7 +34,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 #### ⭐ Recent Stars
 - **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (today)
 - **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (2 days ago)
-- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 days ago)
+- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
