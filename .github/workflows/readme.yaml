@@ -2,6 +2,7 @@ name: Update README
 
 on:
   push:
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
 
