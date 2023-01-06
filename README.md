@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1077.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [go-git/go-git @ v5.5.2](https://github.com/go-git/go-git/releases/tag/v5.5.2) (today)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.2.0) (today)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (today)
 - **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (2 days ago)
 - **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 days ago)
-- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
