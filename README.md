@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1076.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.1) (today)
-- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (today)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1077.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (1 day ago)
-- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (1 day ago)
-- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (1 day ago)
+- **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (2 days ago)
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 days ago)
+- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
