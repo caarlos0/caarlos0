@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.26.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [go-git/go-git @ v5.5.2](https://github.com/go-git/go-git/releases/tag/v5.5.2) (today)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.26.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [go-git/go-git @ v5.5.2](https://github.com/go-git/go-git/releases/tag/v5.5.2) (1 day ago)
 
 #### ❤️ Sponsors
-- [Fabiano Conrado](https://github.com/fconhkd) (1 week ago)
+- [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
 - [Hamothy](https://github.com/sgoudham) (1 month ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (1 month ago)
 
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (today)
-- **[catppuccin/wezterm](https://github.com/catppuccin/wezterm)** - :shell: Soothing pastel theme for WezTerm (2 days ago)
-- **[sourcegraph/conc](https://github.com/sourcegraph/conc)** - Better structured concurrency for go (2 days ago)
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 day ago)
+- **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (1 day ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
