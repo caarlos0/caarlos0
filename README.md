@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.9.0) (today)
-- [go-git/go-git @ v5.5.2](https://github.com/go-git/go-git/releases/tag/v5.5.2) (1 day ago)
+- [caarlos0/timer @ v1.2.0](https://github.com/caarlos0/timer/releases/tag/v1.2.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.9.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (1 day ago)
-- **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (1 day ago)
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (2 days ago)
+- **[ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52)** - A Neovim plugin to copy text through SSH with OSC52 (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
