@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [caarlos0/timer @ v1.2.0](https://github.com/caarlos0/timer/releases/tag/v1.2.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.9.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [caarlos0/timer @ v1.2.0](https://github.com/caarlos0/timer/releases/tag/v1.2.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (today)
-- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (2 days ago)
+- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (1 day ago)
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
