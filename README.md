@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1077.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.1) (today)
+- [prometheus-community/helm-charts @ prometheus-19.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-cross @ v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) (1 day ago)
-- [caarlos0/timer @ v1.2.0](https://github.com/caarlos0/timer/releases/tag/v1.2.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
