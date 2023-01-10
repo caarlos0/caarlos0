@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1077.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.1) (today)
-- [prometheus-community/helm-charts @ prometheus-19.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ prometheus-kafka-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.8.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1078.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1078.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (1 day ago)
-- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (3 days ago)
+- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (2 days ago)
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (4 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 week ago)
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (2 weeks ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 weeks ago)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (3 weeks ago)
 - [🎧 Replay: 2022](https://carlosbecker.com/posts/replay-2022/) (1 month ago)
