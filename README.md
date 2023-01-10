@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (today)
 - **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (2 days ago)
 - **[caddyserver/caddy](https://github.com/caddyserver/caddy)** - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** - A terminal workspace with batteries included (4 days ago)
 
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 day ago)
