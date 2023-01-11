@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-43.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.3.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [goreleaser/goreleaser-cross @ v1.19.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.5) (today)
-- [caarlos0/goreleaser-pro-split-merge-example-real @ nightly](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/nightly) (today)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
+- **[Never Finished: Unshackle Your Mind and Win the War Within](https://literal.club/caarlos0/book/david-goggins-never-finished-unshackle-your-mind-and-win-the-war-within-ca204)** by _David Goggins_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
