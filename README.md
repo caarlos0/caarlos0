@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/gum @ v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1084.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1084.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-43.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.3.1) (1 day ago)
+- [charmbracelet/gum @ v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1084.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1084.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (2 weeks ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (2 days ago)
-- **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (2 days ago)
-- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (4 days ago)
+- **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (3 days ago)
+- **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (3 days ago)
+- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (5 days ago)
 
 #### 📄 Latest blog posts
-- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 days ago)
+- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (4 days ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 weeks ago)
 - [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (3 weeks ago)
