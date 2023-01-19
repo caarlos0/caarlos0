@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1092.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1092.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1094.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1094.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (3 weeks ago)
@@ -40,4 +40,4 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 week ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (3 weeks ago)
-- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (4 weeks ago)
+- [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 month ago)
