@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.29.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1094.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1094.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.29.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1094.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1094.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (3 weeks ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (1 day ago)
 - **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (1 week ago)
 - **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (1 week ago)
-- **[asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim)** - Automatically manage hlsearch setting (1 week ago)
 
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 week ago)
