@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [zricethezav/gitleaks @ v8.15.3](https://github.com/zricethezav/gitleaks/releases/tag/v8.15.3) (1 day ago)
-- [goreleaser/chglog @ v0.3.0](https://github.com/goreleaser/chglog/releases/tag/v0.3.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Fabiano Conrado](https://github.com/fconhkd) (1 month ago)
