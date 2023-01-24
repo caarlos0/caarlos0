@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/glow @ v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [goreleaser/nfpm @ v2.24.0](https://github.com/goreleaser/nfpm/releases/tag/v2.24.0) (today)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.1.4) (today)
 
 #### ❤️ Sponsors
-- [Fabiano Conrado](https://github.com/fconhkd) (1 month ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
+- [Gitea](https://github.com/go-gitea) (2 months ago)
 
 Many thanks everyone! 🙏
 
