@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-44.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.3.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [charmbracelet/wishlist @ v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-44.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.3.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (today)
+- [Pavel Boldyrev](https://github.com/bpg) (1 day ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
 
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (5 days ago)
+- **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (6 days ago)
 - **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (2 weeks ago)
 - **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (2 weeks ago)
 
