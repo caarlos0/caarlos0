@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-19.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.3) (today)
-- [charmbracelet/wishlist @ v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-19.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.3) (1 day ago)
+- [charmbracelet/wishlist @ v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (1 day ago)
+- [Pavel Boldyrev](https://github.com/bpg) (2 days ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (6 days ago)
+- **[slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)** - Language-agnostic SLSA provenance generation for Github Actions (1 day ago)
+- **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (1 week ago)
 - **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (2 weeks ago)
-- **[kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)** - Not UFO in the sky, but an ultra fold in Neovim. (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (2 weeks ago)
-- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (4 weeks ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 month ago)
 - [Marshaling SSH Private Keys - Why there&#39;s always a different block?](https://carlosbecker.com/posts/ssh-marshal-private-key/) (1 month ago)
