@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.2.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ prometheus-19.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.3) (1 day ago)
 - [charmbracelet/wishlist @ v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0) (2 days ago)
 
 #### ❤️ Sponsors
