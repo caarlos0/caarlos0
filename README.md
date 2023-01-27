@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-adapter-4.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.1.0) (today)
-- [caarlos0/domain_exporter @ v1.19.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.19.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ prometheus-adapter-4.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.1.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1095.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1095.0) (1 day ago)
+- [caarlos0/domain_exporter @ v1.19.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.19.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (2 days ago)
+- [Pavel Boldyrev](https://github.com/bpg) (3 days ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)** - Language-agnostic SLSA provenance generation for Github Actions (1 day ago)
+- **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (1 day ago)
+- **[slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)** - Language-agnostic SLSA provenance generation for Github Actions (2 days ago)
 - **[luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)** - Status column plugin that provides a configurable &#39;statuscolumn&#39; and click handlers. (1 week ago)
-- **[nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - A file explorer tree for neovim written in lua (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (2 weeks ago)
