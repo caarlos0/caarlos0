@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 - [caarlos0/goreleaser-pro-monorepo-example @ b/v1.0.0](https://github.com/caarlos0/goreleaser-pro-monorepo-example/releases/tag/b/v1.0.0) (2 days ago)
 
@@ -24,9 +24,9 @@ Many thanks everyone! 🙏
 #### 📚 Books I'm reading
 - **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
-- **[Digital Minimalism - Choosing a Focused Life in a Noisy World](https://literal.club/caarlos0/book/digital-minimalism-vumlu)** by _Cal Newport_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
+- **[Never Finished: Unshackle Your Mind and Win the War Within](https://literal.club/caarlos0/book/david-goggins-never-finished-unshackle-your-mind-and-win-the-war-within-ca204)** by _David Goggins_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
