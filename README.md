@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-action @ v4.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.2.0) (today)
-- [prometheus-community/helm-charts @ prometheus-pushgateway-2.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.4) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [goreleaser/goreleaser-action @ v4.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-2.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.4) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (6 days ago)
+- [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (2 days ago)
-- **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (4 days ago)
-- **[slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)** - Language-agnostic SLSA provenance generation for Github Actions (5 days ago)
+- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (3 days ago)
+- **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (5 days ago)
+- **[slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)** - Language-agnostic SLSA provenance generation for Github Actions (6 days ago)
 
 #### 📄 Latest blog posts
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 weeks ago)
