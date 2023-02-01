@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [caarlos0/goreleaser-pro-split-merge-example-real @ v0.0.3](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/v0.0.3) (1 day ago)
 - [caarlos0/dotfiles.fish @ v5.10.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.10.0) (1 day ago)
 
