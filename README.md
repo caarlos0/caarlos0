@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [caarlos0/goreleaser-pro-split-merge-example-real @ v0.0.3](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/v0.0.3) (today)
-- [caarlos0/dotfiles.fish @ v5.10.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.10.0) (today)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [caarlos0/goreleaser-pro-split-merge-example-real @ v0.0.3](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real/releases/tag/v0.0.3) (1 day ago)
+- [caarlos0/dotfiles.fish @ v5.10.0](https://github.com/caarlos0/dotfiles.fish/releases/tag/v5.10.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (today)
-- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (3 days ago)
-- **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (5 days ago)
+- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 day ago)
+- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (4 days ago)
+- **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (6 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 day ago)
+- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (2 days ago)
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 weeks ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 month ago)
