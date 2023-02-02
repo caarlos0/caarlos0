@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm @ v2.25.0](https://github.com/goreleaser/nfpm/releases/tag/v2.25.0) (1 day ago)
-- [prometheus-community/helm-charts @ alertmanager-snmp-notifier-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1096.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1096.0) (today)
+- [goreleaser/goreleaser @ v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1) (today)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
