@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ v0.8.3](https://github.com/neovim/neovim/releases/tag/v0.8.3) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0) (1 day ago)
 - [withfig/autocomplete @ spec-build-number-0.1096.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1096.0) (1 day ago)
 
@@ -25,7 +25,7 @@ Many thanks everyone! 🙏
 - **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
-- **[The Basic Laws of Human Stupidity](https://literal.club/caarlos0/book/carlo-m-cipolla-the-basic-laws-of-human-stupidity-6l825)** by _Carlo M. Cipolla_
+- **[Notes from Underground](https://literal.club/caarlos0/book/notes-from-underground-2jluj)** by _Fyodor Dostoyevsky_
 - **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
 
 You might want to check out my [books
