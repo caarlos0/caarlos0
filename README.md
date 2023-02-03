@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.5.0) (today)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [withfig/autocomplete @ spec-build-number-0.1096.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1096.0) (1 day ago)
 
