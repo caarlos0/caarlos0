@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ v0.8.3](https://github.com/neovim/neovim/releases/tag/v0.8.3) (today)
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1096.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1096.0) (today)
+- [neovim/neovim @ v0.8.3](https://github.com/neovim/neovim/releases/tag/v0.8.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1096.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1096.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
@@ -25,19 +25,19 @@ Many thanks everyone! 🙏
 - **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
+- **[The Basic Laws of Human Stupidity](https://literal.club/caarlos0/book/carlo-m-cipolla-the-basic-laws-of-human-stupidity-6l825)** by _Carlo M. Cipolla_
 - **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
-- **[Never Finished: Unshackle Your Mind and Win the War Within](https://literal.club/caarlos0/book/david-goggins-never-finished-unshackle-your-mind-and-win-the-war-within-ca204)** by _David Goggins_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (2 days ago)
-- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (5 days ago)
+- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (3 days ago)
+- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (6 days ago)
 - **[RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)** - Wisely add &#34;end&#34; in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope&#39;s vim-endwise (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (3 days ago)
+- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (4 days ago)
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 weeks ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 month ago)
