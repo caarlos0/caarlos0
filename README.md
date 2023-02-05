@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/chglog @ v0.4.1](https://github.com/goreleaser/chglog/releases/tag/v0.4.1) (today)
 - [bensadeh/despell @ 0.9](https://github.com/bensadeh/despell/releases/tag/0.9) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-cross @ v1.19.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.5) (today)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
