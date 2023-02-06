@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/chglog @ v0.4.1](https://github.com/goreleaser/chglog/releases/tag/v0.4.1) (today)
-- [bensadeh/despell @ 0.9](https://github.com/bensadeh/despell/releases/tag/0.9) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [goreleaser/goreleaser-cross @ v1.19.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.5) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1100.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1100.0) (1 day ago)
+- [goreleaser/chglog @ v0.4.1](https://github.com/goreleaser/chglog/releases/tag/v0.4.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 week ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (2 days ago)
-- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (5 days ago)
+- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (3 days ago)
+- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (6 days ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (6 days ago)
-- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 weeks ago)
+- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 week ago)
+- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (4 weeks ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 month ago)
