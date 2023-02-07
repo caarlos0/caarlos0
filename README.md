@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.11.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1105.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1105.0) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-44.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.4.0) (today)
 - [goreleaser/goreleaser-cross @ v1.19.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.5) (today)
 
 #### ❤️ Sponsors
