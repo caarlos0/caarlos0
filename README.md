@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1105.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1105.0) (today)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-44.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.4.0) (today)
-- [goreleaser/goreleaser-cross @ v1.19.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.5) (today)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.20.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 weeks ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (4 days ago)
+- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (5 days ago)
 - **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 week ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 week ago)
-- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (4 weeks ago)
+- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 month ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (1 month ago)
