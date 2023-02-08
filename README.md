@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-44.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.4.1) (today)
+- [charmbracelet/bubbletea @ v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2) (today)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.23.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-cross @ v1.20.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 weeks ago)
