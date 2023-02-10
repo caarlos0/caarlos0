@@ -3,14 +3,14 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/goreleaser-pro-monorepo-example](https://github.com/caarlos0/goreleaser-pro-monorepo-example)** - GoReleaser Pro Monorepo example with GitHub Actions
-- **[caarlos0/goreleaser-action-v4-auto-snapshot-example](https://github.com/caarlos0/goreleaser-action-v4-auto-snapshot-example)** - auto-snapshot example with goreleaser-action v4
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
+- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music
+- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ jiralert-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.1.0) (today)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.24.0) (today)
 - [withfig/autocomplete @ spec-build-number-0.1115.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1115.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 
@@ -34,7 +34,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 
 #### ⭐ Recent Stars
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (1 week ago)
-- **[caarlos0/goreleaser-pro-split-merge-example-real](https://github.com/caarlos0/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 week ago)
+- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 week ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (1 week ago)
 
 #### 📄 Latest blog posts
