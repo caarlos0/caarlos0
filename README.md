@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.24.0) (today)
-- [withfig/autocomplete @ spec-build-number-0.1115.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1115.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ prometheus-pushgateway-2.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.2) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1115.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1115.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 weeks ago)
@@ -35,7 +35,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 #### ⭐ Recent Stars
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (1 week ago)
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 week ago)
-- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (1 week ago)
+- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 week ago)
