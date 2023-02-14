@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-state-metrics-4.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.30.0) (today)
+- [prometheus-community/helm-charts @ prometheus-snmp-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.3.0) (today)
 - [withfig/autocomplete @ spec-build-number-0.1125.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1125.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 
