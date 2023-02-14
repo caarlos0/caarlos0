@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/nfpm @ v2.26.0](https://github.com/goreleaser/nfpm/releases/tag/v2.26.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-19.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.4.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1120.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1120.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/nfpm @ v2.26.0](https://github.com/goreleaser/nfpm/releases/tag/v2.26.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (2 weeks ago)
+- [Pavel Boldyrev](https://github.com/bpg) (3 weeks ago)
 - [Hamothy](https://github.com/sgoudham) (2 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (2 months ago)
 
@@ -34,7 +34,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 
 #### ⭐ Recent Stars
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (1 week ago)
-- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 week ago)
+- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (2 weeks ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (2 weeks ago)
 
 #### 📄 Latest blog posts
