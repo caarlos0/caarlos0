@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.1.1) (today)
-- [caarlos0/version_exporter @ v1.2.0](https://github.com/caarlos0/version_exporter/releases/tag/v1.2.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.1.1) (1 day ago)
+- [caarlos0/version_exporter @ v1.2.0](https://github.com/caarlos0/version_exporter/releases/tag/v1.2.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 weeks ago)
@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Notes from Underground](https://literal.club/caarlos0/book/notes-from-underground-2jluj)** by _Fyodor Dostoyevsky_
-- **[Linux Observability with BPF - Advanced Programming for Performance Analysis and Networking](https://literal.club/caarlos0/book/david-calavera-lorenzo-fontana-linux-observability-with-bpf-561av)** by _David Calavera, Lorenzo Fontana_
+- **[Homo Deus - A Brief History of Tomorrow](https://literal.club/caarlos0/book/yuval-noah-harari-homo-deus-ea6af)** by _Yuval Noah Harari_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (1 week ago)
+- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (2 weeks ago)
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (2 weeks ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (2 weeks ago)
 
