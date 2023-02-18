@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-19.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.6.1) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 - [caarlos0/version_exporter @ v1.2.0](https://github.com/caarlos0/version_exporter/releases/tag/v1.2.0) (2 days ago)
 
 #### ❤️ Sponsors
