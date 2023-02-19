@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1127.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1127.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1128.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1128.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [prometheus-community/helm-charts @ prometheus-19.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.6.1) (2 days ago)
 
