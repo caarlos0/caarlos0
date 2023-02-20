@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.2.0) (today)
+- [withfig/autocomplete @ spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1) (today)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1128.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1128.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 weeks ago)
