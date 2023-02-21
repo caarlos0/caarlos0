@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [charmbracelet/skate @ v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2) (today)
+- [charmbracelet/log @ v0.1.0](https://github.com/charmbracelet/log/releases/tag/v0.1.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1) (1 day ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 weeks ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (today)
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (2 weeks ago)
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (3 weeks ago)
-- **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (3 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (3 weeks ago)
