@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1) (today)
-- [prometheus-community/helm-charts @ kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (3 weeks ago)
+- [Pavel Boldyrev](https://github.com/bpg) (4 weeks ago)
 - [Hamothy](https://github.com/sgoudham) (3 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (3 months ago)
 
@@ -34,7 +34,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 
 #### ⭐ Recent Stars
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (2 weeks ago)
-- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (2 weeks ago)
+- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (3 weeks ago)
 - **[goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)** - GitHub Action for GoReleaser (3 weeks ago)
 
 #### 📄 Latest blog posts
