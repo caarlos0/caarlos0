@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [charmbracelet/charm @ v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5) (1 day ago)
-- [charmbracelet/vhs @ v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 weeks ago)
