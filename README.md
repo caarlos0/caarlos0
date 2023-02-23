@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [charmbracelet/charm @ v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5) (1 day ago)
+- [goreleaser/chglog @ v0.4.2](https://github.com/goreleaser/chglog/releases/tag/v0.4.2) (1 day ago)
+- [charmbracelet/log @ v0.1.1](https://github.com/charmbracelet/log/releases/tag/v0.1.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (4 weeks ago)
+- [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
 - [Hamothy](https://github.com/sgoudham) (3 months ago)
 - [Rodrigo Baron](https://github.com/rodrigobaron) (3 months ago)
 
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (1 day ago)
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 days ago)
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (2 weeks ago)
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (3 weeks ago)
 
