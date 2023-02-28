@@ -4,7 +4,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
-- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord&#39;s Rich Presence from Apple Music
+- **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord's Rich Presence from Apple Music
 - **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 
 #### 🚀 Latest releases I've contributed to
