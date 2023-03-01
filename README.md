@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1130.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1130.0) (1 day ago)
-- [charmbracelet/log @ v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1130.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1130.0) (2 days ago)
+- [charmbracelet/log @ v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2) (2 days ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
@@ -38,6 +38,6 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (4 weeks ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (4 weeks ago)
+- [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 month ago)
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 month ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 months ago)
