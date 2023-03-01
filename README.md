@@ -22,11 +22,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
-- **[Studio 21 - Deutschbuch A1 MIT DVD-Rom](https://literal.club/caarlos0/book/laura-nielsen-hermann-funk-beate-redecker-christina-kuhn-kerstin-rische-beate-lex-studio-21-c60yd)** by _Christina Kuhn, Hermann Funk, Laura Nielsen, Beate Redecker, Kerstin Rische, Beate Lex_
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
 - **[Notes from Underground](https://literal.club/caarlos0/book/notes-from-underground-2jluj)** by _Fyodor Dostoyevsky_
 - **[Homo Deus - A Brief History of Tomorrow](https://literal.club/caarlos0/book/yuval-noah-harari-homo-deus-ea6af)** by _Yuval Noah Harari_
+- **[Efficient Go](https://literal.club/caarlos0/book/bartlomiej-plotka-efficient-go-h2xgm)** by _Bartlomiej Plotka_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
