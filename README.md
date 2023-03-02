@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1130.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1130.1) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (today)
+- [withfig/autocomplete @ spec-build-number-0.1131.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1131.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.3.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
@@ -35,7 +35,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 #### ⭐ Recent Stars
 - **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (1 week ago)
 - **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (3 weeks ago)
-- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (4 weeks ago)
+- **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 month ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 month ago)
