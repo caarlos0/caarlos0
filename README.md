@@ -10,7 +10,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.6.0) (today)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
 - [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (3 days ago)
 
@@ -24,9 +24,9 @@ Many thanks everyone! 🙏
 #### 📚 Books I'm reading
 - **[The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://literal.club/caarlos0/book/the-daily-stoic-lbfbd)** by _Ryan Holiday, Stephen Hanselman_
 - **[Principles - Life and Work](https://literal.club/caarlos0/book/ray-dalioray-daliojeremy-bobbprinciples-a9caw)** by _Ray Dalio, Jeremy Bobb_
-- **[Notes from Underground](https://literal.club/caarlos0/book/notes-from-underground-2jluj)** by _Fyodor Dostoyevsky_
 - **[Homo Deus - A Brief History of Tomorrow](https://literal.club/caarlos0/book/yuval-noah-harari-homo-deus-ea6af)** by _Yuval Noah Harari_
 - **[Efficient Go](https://literal.club/caarlos0/book/bartlomiej-plotka-efficient-go-h2xgm)** by _Bartlomiej Plotka_
+- **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
