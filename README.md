@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (4 days ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
+- [goreleaser/goreleaser @ v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0) (today)
+- [goreleaser/goreleaser-pro @ v1.16.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.16.0-pro) (today)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
@@ -38,6 +38,6 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[goreleaser/goreleaser-pro-split-merge-example-real](https://github.com/goreleaser/goreleaser-pro-split-merge-example-real)** - Example repository using the upcoming split/merge feature of @goreleaser pro to build windows docker images (1 month ago)
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 day ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 month ago)
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 month ago)
-- [Announcing GoReleaser v1.14 — the Christmas release](https://carlosbecker.com/posts/goreleaser-v1.14/) (2 months ago)
