@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.7.1) (today)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [prometheus-community/helm-charts @ kube-state-metrics-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.0) (1 day ago)
 - [caarlos0/env @ v7.1.0](https://github.com/caarlos0/env/releases/tag/v7.1.0) (1 day ago)
 
 #### ❤️ Sponsors
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (today)
 - **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 day ago)
 - **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 weeks ago)
-- **[knz/lipgloss-convert](https://github.com/knz/lipgloss-convert)** - String conversion functions for lipgloss Styles (1 month ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 days ago)
