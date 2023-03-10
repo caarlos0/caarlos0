@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [withfig/autocomplete @ spec-build-number-0.1138.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.0) (1 day ago)
-- [charmbracelet/lipgloss @ v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1) (1 day ago)
+- [ko-build/ko @ v0.13.0](https://github.com/ko-build/ko/releases/tag/v0.13.0) (today)
+- [goreleaser/goreleaser @ v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) (today)
+- [goreleaser/goreleaser-pro @ v1.16.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.16.1-pro) (today)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
