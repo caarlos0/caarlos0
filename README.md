@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.0) (today)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (today)
-- [caarlos0/svu @ v1.10.1](https://github.com/caarlos0/svu/releases/tag/v1.10.1) (today)
+- [withfig/autocomplete @ spec-build-number-0.1138.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.0) (1 day ago)
+- [charmbracelet/lipgloss @ v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (1 day ago)
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (2 days ago)
+- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (2 days ago)
+- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (3 days ago)
 - **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (3 days ago)
+- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (4 days ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 month ago)
-- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (1 month ago)
+- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (2 months ago)
