@@ -11,13 +11,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [ko-build/ko @ v0.13.0](https://github.com/ko-build/ko/releases/tag/v0.13.0) (3 days ago)
-- [goreleaser/goreleaser @ v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) (3 days ago)
+- [ko-build/ko @ v0.13.0](https://github.com/ko-build/ko/releases/tag/v0.13.0) (4 days ago)
+- [goreleaser/goreleaser @ v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) (4 days ago)
 
 #### ❤️ Sponsors
+- [Misite Bao](https://github.com/misitebao) (1 day ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
 - [Hamothy](https://github.com/sgoudham) (3 months ago)
-- [Rodrigo Baron](https://github.com/rodrigobaron) (3 months ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (5 days ago)
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (6 days ago)
-- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (2 weeks ago)
+- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (6 days ago)
+- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 week ago)
+- **[charmbracelet/log](https://github.com/charmbracelet/log)** - A minimal, colorful Go logging library 🪵 (3 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 week ago)
