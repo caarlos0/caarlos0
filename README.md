@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [caarlos0/svu @ v1.10.2](https://github.com/caarlos0/svu/releases/tag/v1.10.2) (1 day ago)
+- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (2 days ago)
+- [caarlos0/svu @ v1.10.2](https://github.com/caarlos0/svu/releases/tag/v1.10.2) (2 days ago)
 
 #### ❤️ Sponsors
-- [Misite Bao](https://github.com/misitebao) (2 days ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (1 day ago)
+- [Misite Bao](https://github.com/misitebao) (3 days ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
-- [Hamothy](https://github.com/sgoudham) (3 months ago)
 
 Many thanks everyone! 🙏
 
