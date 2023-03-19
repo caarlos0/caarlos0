@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1138.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (4 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1138.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.1) (2 days ago)
+- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (5 days ago)
 
 #### ❤️ Sponsors
-- [fengyun.rui](https://github.com/rfyiamcool) (3 days ago)
-- [Misite Bao](https://github.com/misitebao) (5 days ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (4 days ago)
+- [Misite Bao](https://github.com/misitebao) (6 days ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 day ago)
+- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 days ago)
 - **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (1 week ago)
 - **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 week ago)
 
