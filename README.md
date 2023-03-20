@@ -11,12 +11,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1138.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.1) (2 days ago)
-- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (5 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1138.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.1) (3 days ago)
+- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (6 days ago)
 
 #### ❤️ Sponsors
-- [fengyun.rui](https://github.com/rfyiamcool) (4 days ago)
-- [Misite Bao](https://github.com/misitebao) (6 days ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (5 days ago)
+- [Misite Bao](https://github.com/misitebao) (1 week ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 days ago)
+- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (3 days ago)
 - **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (1 week ago)
 - **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 week ago)
+- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 weeks ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (1 month ago)
 - [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (2 months ago)
