@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1138.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1138.1) (3 days ago)
-- [gitleaks/gitleaks @ v8.16.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.1) (6 days ago)
+- [charmbracelet/wish @ v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0) (1 day ago)
+- [charmbracelet/log @ v0.2.0](https://github.com/charmbracelet/log/releases/tag/v0.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.26.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.26.1) (1 day ago)
 
 #### ❤️ Sponsors
-- [fengyun.rui](https://github.com/rfyiamcool) (5 days ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (6 days ago)
 - [Misite Bao](https://github.com/misitebao) (1 week ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (3 days ago)
-- **[alecthomas/assert](https://github.com/alecthomas/assert)** - A simple assertion library using Go generics (1 week ago)
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 week ago)
+- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (1 day ago)
+- **[JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim)** - bionic-like reading inside Neovim (1 day ago)
+- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 weeks ago)
