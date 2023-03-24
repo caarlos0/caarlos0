@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/log @ v0.2.1](https://github.com/charmbracelet/log/releases/tag/v0.2.1) (1 day ago)
-- [charmbracelet/wishlist @ v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1139.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1139.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [fengyun.rui](https://github.com/rfyiamcool) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (3 days ago)
-- **[JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim)** - bionic-like reading inside Neovim (3 days ago)
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (6 days ago)
+- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (4 days ago)
+- **[JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim)** - bionic-like reading inside Neovim (4 days ago)
+- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 weeks ago)
