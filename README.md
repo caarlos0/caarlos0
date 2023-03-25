@@ -3,21 +3,21 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - not yet
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 - **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord's Rich Presence from Apple Music
-- **[caarlos0/meta](https://github.com/caarlos0/meta)** - reusable github actions workflows and other shareable configuration files 🫥
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1139.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1139.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1139.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1139.0) (2 days ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
 - [fengyun.rui](https://github.com/rfyiamcool) (1 week ago)
 - [Misite Bao](https://github.com/misitebao) (1 week ago)
-- [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
+- [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (4 days ago)
-- **[JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim)** - bionic-like reading inside Neovim (4 days ago)
-- **[wez/wezterm](https://github.com/wez/wezterm)** - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
+- **[nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay)** - [maintainer=@Kranzes] (1 day ago)
+- **[goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)** - A demonstration of showing how to use 💃SLSA 3 Generic Generator with GoReleaser to release artifacts while generating signed SLSA provenance (1 day ago)
+- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (5 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 weeks ago)
