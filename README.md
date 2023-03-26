@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0) (2 days ago)
-- [withfig/autocomplete @ spec-build-number-0.1139.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1139.0) (2 days ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-20.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.0.2) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1141.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1141.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [fengyun.rui](https://github.com/rfyiamcool) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay)** - [maintainer=@Kranzes] (1 day ago)
-- **[goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)** - A demonstration of showing how to use 💃SLSA 3 Generic Generator with GoReleaser to release artifacts while generating signed SLSA provenance (1 day ago)
-- **[kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)** - The Uncompromising Nix Code Formatter (5 days ago)
+- **[serokell/nixfmt](https://github.com/serokell/nixfmt)** - A formatter for Nix code (1 day ago)
+- **[nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay)** - [maintainer=@Kranzes] (2 days ago)
+- **[goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)** - A demonstration of showing how to use 💃SLSA 3 Generic Generator with GoReleaser to release artifacts while generating signed SLSA provenance (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 weeks ago)
