@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - not yet
+- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - almost there...
 - **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 - **[caarlos0/discord-applemusic-rich-presence](https://github.com/caarlos0/discord-applemusic-rich-presence)** - Discord's Rich Presence from Apple Music
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1143.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1143.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-20.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.0.2) (2 days ago)
+- [charmbracelet/gum @ v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1144.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1144.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [fengyun.rui](https://github.com/rfyiamcool) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish)** - 🔍🐟 Fzf plugin for Fish (1 day ago)
-- **[serokell/nixfmt](https://github.com/serokell/nixfmt)** - A formatter for Nix code (2 days ago)
-- **[nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay)** - [maintainer=@Kranzes] (3 days ago)
+- **[Mic92/nix-index-database](https://github.com/Mic92/nix-index-database)** - Weekly updated nix-index database (1 day ago)
+- **[PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish)** - 🔍🐟 Fzf plugin for Fish (2 days ago)
+- **[serokell/nixfmt](https://github.com/serokell/nixfmt)** - A formatter for Nix code (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (3 weeks ago)
