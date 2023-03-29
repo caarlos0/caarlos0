@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/gum @ v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1144.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1144.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.7.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/gum @ v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [fengyun.rui](https://github.com/rfyiamcool) (1 week ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (2 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (2 weeks ago)
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[Mic92/nix-index-database](https://github.com/Mic92/nix-index-database)** - Weekly updated nix-index database (1 day ago)
-- **[PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish)** - 🔍🐟 Fzf plugin for Fish (2 days ago)
-- **[serokell/nixfmt](https://github.com/serokell/nixfmt)** - A formatter for Nix code (3 days ago)
+- **[nix-community/impermanence](https://github.com/nix-community/impermanence)** - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz] (1 day ago)
+- **[Mic92/nix-index-database](https://github.com/Mic92/nix-index-database)** - Weekly updated nix-index database (2 days ago)
+- **[PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish)** - 🔍🐟 Fzf plugin for Fish (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (3 weeks ago)
