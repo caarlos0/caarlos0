@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/dotfiles.nix @ 2023.03.31](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.03.31) (1 day ago)
-- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [caarlos0/dotfiles.nix @ 2023.03.31](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.03.31) (2 days ago)
+- [goreleaser/example-simple @ v1.1.0](https://github.com/goreleaser/example-simple/releases/tag/v1.1.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [pococms](https://github.com/pococms) (2 days ago)
+- [pococms](https://github.com/pococms) (3 days ago)
 - [fengyun.rui](https://github.com/rfyiamcool) (2 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (2 weeks ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (1 day ago)
-- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (2 days ago)
-- **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (3 days ago)
+- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (2 days ago)
+- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (3 days ago)
+- **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (4 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (3 weeks ago)
