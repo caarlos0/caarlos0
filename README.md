@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-20.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.1.0) (1 day ago)
+- [karlmutch/duat @ 0.17.0-rc.7](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.7) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [caarlos0/dotfiles.nix @ 2023.03.31](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.03.31) (3 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [pococms](https://github.com/pococms) (4 days ago)
+- [pococms](https://github.com/pococms) (5 days ago)
 - [fengyun.rui](https://github.com/rfyiamcool) (2 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (3 weeks ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (3 days ago)
-- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (4 days ago)
-- **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (5 days ago)
+- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (4 days ago)
+- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (5 days ago)
+- **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (6 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (4 weeks ago)
