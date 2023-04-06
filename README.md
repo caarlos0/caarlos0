@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [karlmutch/duat @ 0.17.0-rc.8](https://github.com/karlmutch/duat/releases/tag/0.17.0-rc.8) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.1) (1 day ago)
+- [charmbracelet/vhs @ v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1149.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1149.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [pococms](https://github.com/pococms) (6 days ago)
+- [pococms](https://github.com/pococms) (1 week ago)
 - [fengyun.rui](https://github.com/rfyiamcool) (3 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (3 weeks ago)
 
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (5 days ago)
-- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (6 days ago)
+- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (6 days ago)
+- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (1 week ago)
 - **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (1 week ago)
 
 #### 📄 Latest blog posts
