@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.1) (1 day ago)
-- [charmbracelet/vhs @ v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1149.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1149.0) (1 day ago)
+- [caarlos0/env @ v8.0.0](https://github.com/caarlos0/env/releases/tag/v8.0.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.20.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.3) (1 day ago)
+- [goreleaser/goreleaser-example-supply-chain @ v1.3.1](https://github.com/goreleaser/goreleaser-example-supply-chain/releases/tag/v1.3.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [pococms](https://github.com/pococms) (1 week ago)
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (6 days ago)
+- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (1 week ago)
 - **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (1 week ago)
 - **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (1 week ago)
 
