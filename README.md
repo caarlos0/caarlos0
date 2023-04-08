@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/env @ v8.0.0](https://github.com/caarlos0/env/releases/tag/v8.0.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.20.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.3) (1 day ago)
-- [goreleaser/goreleaser-example-supply-chain @ v1.3.1](https://github.com/goreleaser/goreleaser-example-supply-chain/releases/tag/v1.3.1) (1 day ago)
+- [neovim/neovim @ v0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0) (1 day ago)
+- [caarlos0-graveyard/test @ v1.0.3](https://github.com/caarlos0-graveyard/test/releases/tag/v1.0.3) (1 day ago)
+- [caarlos0/env @ v8.0.0](https://github.com/caarlos0/env/releases/tag/v8.0.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [pococms](https://github.com/pococms) (1 week ago)
