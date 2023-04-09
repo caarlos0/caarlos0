@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ v0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0) (1 day ago)
-- [caarlos0-graveyard/test @ v1.0.3](https://github.com/caarlos0-graveyard/test/releases/tag/v1.0.3) (1 day ago)
-- [caarlos0/env @ v8.0.0](https://github.com/caarlos0/env/releases/tag/v8.0.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [pococms](https://github.com/pococms) (1 week ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[nix-community/NUR](https://github.com/nix-community/NUR)** - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 day ago)
 - **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (1 week ago)
 - **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (1 week ago)
-- **[NixOS/nix](https://github.com/NixOS/nix)** - Nix, the purely functional package manager (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 month ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (2 months ago)
-- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (2 months ago)
+- [My workflow, part 1](https://carlosbecker.com/posts/workflow-pt1/) (3 months ago)
