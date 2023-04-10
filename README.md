@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.1) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1151.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1151.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [pococms](https://github.com/pococms) (1 week ago)
 - [fengyun.rui](https://github.com/rfyiamcool) (3 weeks ago)
-- [Misite Bao](https://github.com/misitebao) (3 weeks ago)
+- [Misite Bao](https://github.com/misitebao) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/NUR](https://github.com/nix-community/NUR)** - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 day ago)
+- **[nix-community/NUR](https://github.com/nix-community/NUR)** - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (2 days ago)
 - **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (1 week ago)
 - **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (1 week ago)
 
