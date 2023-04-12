@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser @ v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ v1.17.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.17.0-pro) (1 day ago)
-- [caarlos0/go-sshagent @ v0.0.2](https://github.com/caarlos0/go-sshagent/releases/tag/v0.0.2) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.28.0) (1 day ago)
+- [charmbracelet/keygen @ v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1) (1 day ago)
+- [caarlos0/clone-org @ v1.5.2](https://github.com/caarlos0/clone-org/releases/tag/v1.5.2) (1 day ago)
 
 #### ❤️ Sponsors
 - [pococms](https://github.com/pococms) (1 week ago)
-- [fengyun.rui](https://github.com/rfyiamcool) (3 weeks ago)
-- [Misite Bao](https://github.com/misitebao) (4 weeks ago)
+- [fengyun.rui](https://github.com/rfyiamcool) (4 weeks ago)
+- [Misite Bao](https://github.com/misitebao) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/NUR](https://github.com/nix-community/NUR)** - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (3 days ago)
-- **[LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)** - nix modules for darwin (1 week ago)
-- **[prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim)** - (F)recency sorting for all Telescope pickers. (1 week ago)
+- **[caarlos0/clone-org](https://github.com/caarlos0/clone-org)** - Clone all repos of a github organization (1 day ago)
+- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection (1 day ago)
+- **[nix-community/NUR](https://github.com/nix-community/NUR)** - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (4 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (1 day ago)
+- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (2 days ago)
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 month ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (2 months ago)
