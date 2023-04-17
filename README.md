@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1155.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1155.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1155.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1155.0) (3 days ago)
 
 #### ❤️ Sponsors
-- [David Birks](https://github.com/dbirks) (2 days ago)
+- [David Birks](https://github.com/dbirks) (3 days ago)
 - [pococms](https://github.com/pococms) (2 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ryantm/nixpkgs-update](https://github.com/ryantm/nixpkgs-update)** - Updating nixpkgs packages since 2018 (2 days ago)
-- **[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)** - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort (4 days ago)
-- **[echasnovski/mini.splitjoin](https://github.com/echasnovski/mini.splitjoin)** - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.  (4 days ago)
+- **[ryantm/nixpkgs-update](https://github.com/ryantm/nixpkgs-update)** - Updating nixpkgs packages since 2018 (3 days ago)
+- **[echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)** - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort (5 days ago)
+- **[echasnovski/mini.splitjoin](https://github.com/echasnovski/mini.splitjoin)** - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.  (5 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (6 days ago)
+- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (1 week ago)
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 month ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://carlosbecker.com/posts/goreleaser-v1.15/) (2 months ago)
