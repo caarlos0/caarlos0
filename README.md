@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.15.0) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.17.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (2 days ago)
 
 #### ❤️ Sponsors
-- [David Birks](https://github.com/dbirks) (6 days ago)
+- [David Birks](https://github.com/dbirks) (1 week ago)
 - [pococms](https://github.com/pococms) (3 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (1 day ago)
-- **[Wilfred/difftastic](https://github.com/Wilfred/difftastic)** - a structural diff that understands syntax 🟥🟩 (1 day ago)
-- **[mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged)** -  🤔 perhaps you don't need a Zsh plugin manager after all... (2 days ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 days ago)
+- **[Wilfred/difftastic](https://github.com/Wilfred/difftastic)** - a structural diff that understands syntax 🟥🟩 (2 days ago)
+- **[mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged)** -  🤔 perhaps you don't need a Zsh plugin manager after all... (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (1 week ago)
