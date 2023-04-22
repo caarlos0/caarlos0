@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.17.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.19.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (2 days ago)
+- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (3 days ago)
 
 #### ❤️ Sponsors
 - [David Birks](https://github.com/dbirks) (1 week ago)
@@ -26,15 +26,16 @@ Many thanks everyone! 🙏
 - **[Efficient Go](https://literal.club/caarlos0/book/bartlomiej-plotka-efficient-go-h2xgm)** by _Bartlomiej Plotka_
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[Surrounded by Idiots - The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood)](https://literal.club/caarlos0/book/thomas-erikson-surrounded-by-idiots-duzaj)** by _Thomas Erikson_
+- **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 days ago)
-- **[Wilfred/difftastic](https://github.com/Wilfred/difftastic)** - a structural diff that understands syntax 🟥🟩 (2 days ago)
-- **[mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged)** -  🤔 perhaps you don't need a Zsh plugin manager after all... (3 days ago)
+- **[ublue-os/fleek](https://github.com/ublue-os/fleek)** - Own your $HOME (1 day ago)
+- **[gotzmann/llama.go](https://github.com/gotzmann/llama.go)** - llama.go is like llama.cpp in pure Golang! (1 day ago)
+- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - my dotfiles, now in nix (1 day ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (1 week ago)
