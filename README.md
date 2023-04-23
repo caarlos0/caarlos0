@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.19.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (3 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.19.0) (2 days ago)
+- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (4 days ago)
 
 #### ❤️ Sponsors
 - [David Birks](https://github.com/dbirks) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ublue-os/fleek](https://github.com/ublue-os/fleek)** - Own your $HOME (1 day ago)
-- **[gotzmann/llama.go](https://github.com/gotzmann/llama.go)** - llama.go is like llama.cpp in pure Golang! (1 day ago)
-- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - my dotfiles, now in nix (1 day ago)
+- **[ublue-os/fleek](https://github.com/ublue-os/fleek)** - Own your $HOME (2 days ago)
+- **[gotzmann/llama.go](https://github.com/gotzmann/llama.go)** - llama.go is like llama.cpp in pure Golang! (2 days ago)
+- **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - my dotfiles, now in nix (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (1 week ago)
