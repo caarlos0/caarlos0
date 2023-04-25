@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service
 - **[caarlos0/nur](https://github.com/caarlos0/nur)** - My Nix User Repository
 - **[caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix)** - my dotfiles, now in nix
-- **[caarlos0/advent-of-code-2022](https://github.com/caarlos0/advent-of-code-2022)** - Advent Of Code 2022 — In Rust, btw
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-adapter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.2.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3) (5 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1157.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1157.0) (1 day ago)
+- [caarlos0/xdg-open-svc @ v0.1.1](https://github.com/caarlos0/xdg-open-svc/releases/tag/v0.1.1) (1 day ago)
+- [charmbracelet/wish @ v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [David Birks](https://github.com/dbirks) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim)** - Integration for nvim-dap with telescope.nvim (1 day ago)
-- **[ublue-os/fleek](https://github.com/ublue-os/fleek)** - Own your $HOME (3 days ago)
-- **[gotzmann/llama.go](https://github.com/gotzmann/llama.go)** - llama.go is like llama.cpp in pure Golang! (3 days ago)
+- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service (1 day ago)
+- **[nix-community/comma](https://github.com/nix-community/comma)** - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (1 day ago)
+- **[nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim)** - Integration for nvim-dap with telescope.nvim (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (2 weeks ago)
