@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1159.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1159.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-nats-exporter-2.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.12.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-smartctl-exporter-0.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.4.3) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1159.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1159.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [David Birks](https://github.com/dbirks) (2 weeks ago)
-- [pococms](https://github.com/pococms) (4 weeks ago)
+- [pococms](https://github.com/pococms) (1 month ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service (4 days ago)
-- **[nix-community/comma](https://github.com/nix-community/comma)** - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (4 days ago)
-- **[nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim)** - Integration for nvim-dap with telescope.nvim (5 days ago)
+- **[rgroli/other.nvim](https://github.com/rgroli/other.nvim)** - Open alternative files for the current buffer (1 day ago)
+- **[ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace)** - A Lua rewrite of vim-lastplace (1 day ago)
+- **[felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)** - 🇧🇷 A collection of amazing open source projects built by brazilian developers (1 day ago)
 
 #### 📄 Latest blog posts
-- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (4 days ago)
+- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (5 days ago)
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (2 weeks ago)
 - [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 month ago)
