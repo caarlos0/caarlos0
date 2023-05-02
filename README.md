@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/go-version @ v0.1.1](https://github.com/caarlos0/go-version/releases/tag/v0.1.1) (1 day ago)
+- [caarlos0/log @ v0.4.0](https://github.com/caarlos0/log/releases/tag/v0.4.0) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-0.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.30.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-21.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.2) (1 day ago)
 
 #### ❤️ Sponsors
+- [Zachary Rice](https://github.com/zricethezav) (1 day ago)
 - [David Birks](https://github.com/dbirks) (2 weeks ago)
-- [pococms](https://github.com/pococms) (1 month ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[rgroli/other.nvim](https://github.com/rgroli/other.nvim)** - Open alternative files for the current buffer (3 days ago)
-- **[felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)** - 🇧🇷 A collection of amazing open source projects built by brazilian developers (3 days ago)
-- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service (1 week ago)
+- **[upx/upx](https://github.com/upx/upx)** - UPX - the Ultimate Packer for eXecutables (1 day ago)
+- **[dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)** - 📖 A collection of pure POSIX sh alternatives to external processes. (1 day ago)
+- **[rgroli/other.nvim](https://github.com/rgroli/other.nvim)** - Open alternative files for the current buffer (4 days ago)
 
 #### 📄 Latest blog posts
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 week ago)
