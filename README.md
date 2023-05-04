@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.24.0) (1 day ago)
-- [charmbracelet/soft-serve @ v0.5.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.0) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [charmbracelet/soft-serve @ v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.1) (1 day ago)
+- [crazy-max/ghaction-upx @ v2.3.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.3.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Zachary Rice](https://github.com/zricethezav) (2 days ago)
+- [Zachary Rice](https://github.com/zricethezav) (3 days ago)
 - [David Birks](https://github.com/dbirks) (2 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)** - A starting point to setup some lsp related features in neovim. (1 day ago)
-- **[caarlos0/go-version](https://github.com/caarlos0/go-version)** - Version library extracted from sigs.k8s.io/release-utils (1 day ago)
-- **[upx/upx](https://github.com/upx/upx)** - UPX - the Ultimate Packer for eXecutables (2 days ago)
+- **[crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx)** - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- **[Wansmer/treesj](https://github.com/Wansmer/treesj)** - Neovim plugin for splitting/joining blocks of code (1 day ago)
+- **[VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)** - A starting point to setup some lsp related features in neovim. (2 days ago)
 
 #### 📄 Latest blog posts
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 week ago)
