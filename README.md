@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/soft-serve @ v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.1) (1 day ago)
-- [crazy-max/ghaction-upx @ v2.3.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.3.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.0.2) (1 day ago)
+- [charmbracelet/confettysh @ v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0) (1 day ago)
+- [charmbracelet/wishlist @ v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0) (1 day ago)
 
 #### ❤️ Sponsors
-- [Zachary Rice](https://github.com/zricethezav) (3 days ago)
-- [David Birks](https://github.com/dbirks) (2 weeks ago)
+- [Zachary Rice](https://github.com/zricethezav) (4 days ago)
+- [David Birks](https://github.com/dbirks) (3 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
 Many thanks everyone! 🙏
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx)** - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
-- **[Wansmer/treesj](https://github.com/Wansmer/treesj)** - Neovim plugin for splitting/joining blocks of code (1 day ago)
-- **[VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)** - A starting point to setup some lsp related features in neovim. (2 days ago)
+- **[direnv/direnv](https://github.com/direnv/direnv)** - unclutter your .profile (1 day ago)
+- **[crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx)** - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
+- **[Wansmer/treesj](https://github.com/Wansmer/treesj)** - Neovim plugin for splitting/joining blocks of code (2 days ago)
 
 #### 📄 Latest blog posts
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 week ago)
 - [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (3 weeks ago)
-- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (1 month ago)
+- [Announcing GoReleaser v1.16 — the late February release](https://carlosbecker.com/posts/goreleaser-v1.16/) (2 months ago)
