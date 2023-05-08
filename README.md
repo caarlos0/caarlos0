@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-22.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.2.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1166.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1166.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.20.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.4) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1167.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1167.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.3.2) (1 day ago)
 
 #### ❤️ Sponsors
-- [Zachary Rice](https://github.com/zricethezav) (6 days ago)
+- [Zachary Rice](https://github.com/zricethezav) (1 week ago)
 - [David Birks](https://github.com/dbirks) (3 weeks ago)
 - [Misite Bao](https://github.com/misitebao) (1 month ago)
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (2 days ago)
-- **[direnv/direnv](https://github.com/direnv/direnv)** - unclutter your .profile (3 days ago)
-- **[crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx)** - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (4 days ago)
+- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (1 day ago)
+- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (1 day ago)
+- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (3 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 days ago)
-- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 week ago)
-- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (3 weeks ago)
+- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (3 days ago)
+- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 weeks ago)
+- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (4 weeks ago)
