@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/x @ v0.1.0](https://github.com/charmbracelet/x/releases/tag/v0.1.0) (today)
-- [prometheus-community/helm-charts @ prometheus-pushgateway-2.1.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.6) (1 day ago)
-- [charmbracelet/bubbletea @ v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1168.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1168.0) (1 day ago)
+- [charmbracelet/glow @ v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.27.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.1) (1 day ago)
 
 #### ❤️ Sponsors
-- [Savannah Ostrowski](https://github.com/savannahostrowski) (1 day ago)
+- [Savannah Ostrowski](https://github.com/savannahostrowski) (2 days ago)
 - [Zachary Rice](https://github.com/zricethezav) (1 week ago)
 - [David Birks](https://github.com/dbirks) (3 weeks ago)
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (2 days ago)
-- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (2 days ago)
-- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (4 days ago)
+- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (3 days ago)
+- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (3 days ago)
+- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (5 days ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (4 days ago)
+- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 days ago)
+- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (5 days ago)
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 weeks ago)
-- [Announcing GoReleaser v1.17 — the late Easter release](https://carlosbecker.com/posts/goreleaser-v1.17/) (4 weeks ago)
