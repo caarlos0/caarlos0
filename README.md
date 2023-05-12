@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1175.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1175.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.27.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.2) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/soft-serve @ v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1175.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1175.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-state-metrics-5.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.2) (1 day ago)
 
 #### ❤️ Sponsors
-- [Savannah Ostrowski](https://github.com/savannahostrowski) (3 days ago)
+- [Savannah Ostrowski](https://github.com/savannahostrowski) (4 days ago)
 - [Zachary Rice](https://github.com/zricethezav) (1 week ago)
-- [David Birks](https://github.com/dbirks) (3 weeks ago)
+- [David Birks](https://github.com/dbirks) (4 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (4 days ago)
-- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (4 days ago)
-- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (6 days ago)
+- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (5 days ago)
+- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (5 days ago)
+- **[charmbracelet/x](https://github.com/charmbracelet/x)** - Charm experimental packages. (1 week ago)
 
 #### 📄 Latest blog posts
-- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (3 days ago)
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (6 days ago)
+- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (4 days ago)
+- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 week ago)
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 weeks ago)
