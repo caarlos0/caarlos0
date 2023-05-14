@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/mods @ v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1) (1 day ago)
-- [prometheus-community/helm-charts @ jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/mods @ v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1) (2 days ago)
+- [prometheus-community/helm-charts @ jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1) (2 days ago)
 
 #### ❤️ Sponsors
-- [Savannah Ostrowski](https://github.com/savannahostrowski) (5 days ago)
+- [Savannah Ostrowski](https://github.com/savannahostrowski) (6 days ago)
 - [Zachary Rice](https://github.com/zricethezav) (1 week ago)
-- [David Birks](https://github.com/dbirks) (4 weeks ago)
+- [David Birks](https://github.com/dbirks) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/mods](https://github.com/charmbracelet/mods)** - AI on the command line (1 day ago)
-- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (6 days ago)
-- **[elvis-epx/alarme-intelbras](https://github.com/elvis-epx/alarme-intelbras)** - Receptor IP para alarme Intelbras AMT-8000 (6 days ago)
+- **[robherley/snips.sh](https://github.com/robherley/snips.sh)** - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 day ago)
+- **[charmbracelet/mods](https://github.com/charmbracelet/mods)** - AI on the command line (2 days ago)
+- **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (1 week ago)
 
 #### 📄 Latest blog posts
-- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (5 days ago)
+- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (6 days ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 week ago)
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 weeks ago)
