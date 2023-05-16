@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [withfig/autocomplete @ spec-build-number-0.1177.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1177.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-45.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.28.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/mods @ v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1) (3 days ago)
-- [prometheus-community/helm-charts @ jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1) (3 days ago)
 
 #### ❤️ Sponsors
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 week ago)
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[robherley/snips.sh](https://github.com/robherley/snips.sh)** - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 days ago)
-- **[charmbracelet/mods](https://github.com/charmbracelet/mods)** - AI on the command line (3 days ago)
+- **[robherley/snips.sh](https://github.com/robherley/snips.sh)** - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 days ago)
+- **[charmbracelet/mods](https://github.com/charmbracelet/mods)** - AI on the command line (4 days ago)
 - **[mas-cli/mas](https://github.com/mas-cli/mas)** - :package: Mac App Store command line interface (1 week ago)
 
 #### 📄 Latest blog posts
