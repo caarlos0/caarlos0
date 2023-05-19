@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/vhs @ v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1179.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1179.0) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.28.1) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.1) (1 day ago)
+- [charmbracelet/vhs @ v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 week ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/nix-init](https://github.com/nix-community/nix-init)** - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (2 days ago)
-- **[nix-community/nurl](https://github.com/nix-community/nurl)** - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (2 days ago)
-- **[robherley/snips.sh](https://github.com/robherley/snips.sh)** - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (5 days ago)
+- **[nix-community/nix-init](https://github.com/nix-community/nix-init)** - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (3 days ago)
+- **[nix-community/nurl](https://github.com/nix-community/nurl)** - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (3 days ago)
+- **[robherley/snips.sh](https://github.com/robherley/snips.sh)** - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (6 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 week ago)
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 week ago)
+- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 weeks ago)
 - [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (3 weeks ago)
