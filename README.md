@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.29.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.2) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/vhs @ v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0) (3 days ago)
+- [charmbracelet/vhs @ v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0) (4 days ago)
 
 #### ❤️ Sponsors
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (1 day ago)
-- **[nix-community/nix-init](https://github.com/nix-community/nix-init)** - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (4 days ago)
-- **[nix-community/nurl](https://github.com/nix-community/nurl)** - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (4 days ago)
+- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (2 days ago)
+- **[nix-community/nix-init](https://github.com/nix-community/nix-init)** - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (5 days ago)
+- **[nix-community/nurl](https://github.com/nix-community/nurl)** - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (5 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 week ago)
