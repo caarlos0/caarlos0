@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-45.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.31.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-46.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.3.0) (1 day ago)
+- [charmbracelet/log @ v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/vhs @ v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0) (6 days ago)
 
 #### ❤️ Sponsors
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (2 weeks ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 day ago)
-- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (1 day ago)
-- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (4 days ago)
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (2 days ago)
+- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (2 days ago)
+- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (5 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 weeks ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 weeks ago)
-- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (4 weeks ago)
+- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 month ago)
