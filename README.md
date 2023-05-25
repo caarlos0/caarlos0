@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-46.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.3.0) (1 day ago)
-- [charmbracelet/log @ v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1180.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1180.0) (1 day ago)
+- [charmbracelet/bubbletea @ v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-46.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.4.0) (1 day ago)
 
 #### ❤️ Sponsors
+- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 day ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (2 weeks ago)
 - [Zachary Rice](https://github.com/zricethezav) (3 weeks ago)
-- [David Birks](https://github.com/dbirks) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (2 days ago)
-- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (2 days ago)
-- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (5 days ago)
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (3 days ago)
+- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (3 days ago)
+- **[rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)** - Selected Go-internal packages factored out from the standard library (6 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 weeks ago)
