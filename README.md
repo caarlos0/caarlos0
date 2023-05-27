@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-46.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.4.1) (1 day ago)
-- [charmbracelet/mods @ v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/mods @ v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (2 days ago)
+- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 days ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (2 weeks ago)
 - [Zachary Rice](https://github.com/zricethezav) (3 weeks ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (1 day ago)
-- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (4 days ago)
-- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (4 days ago)
+- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (2 days ago)
+- **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (5 days ago)
+- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (5 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 weeks ago)
