@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6) (3 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [caarlos0-graveyard/test @ v1.0.7](https://github.com/caarlos0-graveyard/test/releases/tag/v1.0.7) (1 day ago)
+- [neovim/neovim @ v0.9.1](https://github.com/neovim/neovim/releases/tag/v0.9.1) (1 day ago)
 
 #### ❤️ Sponsors
-- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (5 days ago)
+- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (6 days ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (3 weeks ago)
 - [Zachary Rice](https://github.com/zricethezav) (4 weeks ago)
 
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (4 days ago)
+- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (5 days ago)
 - **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 week ago)
 - **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (1 week ago)
 
