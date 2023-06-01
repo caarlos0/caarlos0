@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prom-label-proxy-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.3.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.17.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.4) (1 day ago)
+- [caarlos0/dotfiles.nix @ 2023.05.31](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.05.31) (1 day ago)
+- [charmbracelet/bubbles @ v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (6 days ago)
+- **[nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)** - An extensible framework for interacting with tests within NeoVim. (1 day ago)
+- **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (1 week ago)
 - **[ossf/allstar](https://github.com/ossf/allstar)** - GitHub App to set and enforce security policies (1 week ago)
-- **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** - An incremental parsing system for programming tools (1 week ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (3 weeks ago)
