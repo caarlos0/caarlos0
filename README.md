@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [goreleaser/nfpm @ v2.30.0](https://github.com/goreleaser/nfpm/releases/tag/v2.30.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1184.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1184.0) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.9.0) (3 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1184.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1184.0) (3 days ago)
 
 #### ❤️ Sponsors
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 week ago)
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[golang/tools](https://github.com/golang/tools)** - [mirror] Go Tools (4 days ago)
-- **[nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)** - An extensible framework for interacting with tests within NeoVim. (5 days ago)
+- **[golang/tools](https://github.com/golang/tools)** - [mirror] Go Tools (5 days ago)
+- **[nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)** - An extensible framework for interacting with tests within NeoVim. (6 days ago)
 - **[go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)** - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (1 week ago)
 
 #### 📄 Latest blog posts
