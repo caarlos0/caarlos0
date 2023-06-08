@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.17.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.5) (1 day ago)
-- [gitleaks/gitleaks @ v8.16.4](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.4) (1 day ago)
-- [charmbracelet/bubbletea @ v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-46.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.7.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/nfpm @ v2.30.1](https://github.com/goreleaser/nfpm/releases/tag/v2.30.1) (1 day ago)
 
 #### ❤️ Sponsors
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (2 weeks ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (1 day ago)
-- **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 day ago)
-- **[golang/tools](https://github.com/golang/tools)** - [mirror] Go Tools (6 days ago)
+- **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (2 days ago)
+- **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 days ago)
+- **[golang/tools](https://github.com/golang/tools)** - [mirror] Go Tools (1 week ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
