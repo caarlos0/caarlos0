@@ -11,8 +11,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0) (2 days ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0) (3 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (2 weeks ago)
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (4 days ago)
-- **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (4 days ago)
+- **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (5 days ago)
+- **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (5 days ago)
 - **[golang/tools](https://github.com/golang/tools)** - [mirror] Go Tools (1 week ago)
 
 #### 📄 Latest blog posts
