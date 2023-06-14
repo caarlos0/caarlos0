@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-elasticsearch-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.2.0) (1 day ago)
-- [goreleaser/goreleaser-action @ v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) (1 day ago)
-- [golangci/golangci-lint-action @ v3.6.0](https://github.com/golangci/golangci-lint-action/releases/tag/v3.6.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.3) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser-action @ v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (2 weeks ago)
+- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 weeks ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 month ago)
 - [Zachary Rice](https://github.com/zricethezav) (1 month ago)
 
@@ -32,7 +32,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (1 day ago)
+- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (2 days ago)
 - **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (1 week ago)
 - **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 week ago)
 
