@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-22.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-22.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.4) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-action @ v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 weeks ago)
@@ -26,15 +26,16 @@ Many thanks everyone! 🙏
 - **[Efficient Go](https://literal.club/caarlos0/book/bartlomiej-plotka-efficient-go-h2xgm)** by _Bartlomiej Plotka_
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
+- **[The 5 AM Club - Own Your Morning. Elevate Your Life.](https://literal.club/caarlos0/book/robin-sharma-the-5-am-club-nfkmj)** by _Robin Sharma_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (2 days ago)
-- **[savannahostrowski/ghost](https://github.com/savannahostrowski/ghost)** - Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI (1 week ago)
-- **[crablang/crab](https://github.com/crablang/crab)** - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 week ago)
+- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (1 day ago)
+- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (1 day ago)
+- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (3 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
