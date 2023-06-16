@@ -3,21 +3,21 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/fake-winpkgs](https://github.com/caarlos0/fake-winpkgs)**
 - **[caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)** - example teatest app
 - **[caarlos0/go-version](https://github.com/caarlos0/go-version)** - Version library extracted from sigs.k8s.io/release-utils
-- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-22.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.4) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1186.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1186.0) (1 day ago)
+- [gitleaks/gitleaks @ v8.17.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.17.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-postgres-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.5.0) (1 day ago)
 
 #### ❤️ Sponsors
+- [Benjamin Kane](https://github.com/bbkane) (1 day ago)
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 weeks ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 month ago)
-- [Zachary Rice](https://github.com/zricethezav) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (1 day ago)
-- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (1 day ago)
-- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (3 days ago)
+- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (2 days ago)
+- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (2 days ago)
+- **[nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt)** - Nix code formatter for nixpkgs [maintainer=@zimbatm] (4 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
