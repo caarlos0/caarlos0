@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-cloudwatch-exporter-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.1) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
-- [Benjamin Kane](https://github.com/bbkane) (2 days ago)
+- [Benjamin Kane](https://github.com/bbkane) (3 days ago)
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 weeks ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 month ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (1 day ago)
-- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (3 days ago)
-- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (3 days ago)
+- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (2 days ago)
+- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (4 days ago)
+- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (4 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
