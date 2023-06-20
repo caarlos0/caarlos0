@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.0) (1 day ago)
+- [caarlos0-graveyard/test @ v1.0.27](https://github.com/caarlos0-graveyard/test/releases/tag/v1.0.27) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-22.6.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.5) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
-- [Benjamin Kane](https://github.com/bbkane) (4 days ago)
+- [Benjamin Kane](https://github.com/bbkane) (5 days ago)
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (3 weeks ago)
 - [Savannah Ostrowski](https://github.com/savannahostrowski) (1 month ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (3 days ago)
-- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (5 days ago)
-- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (5 days ago)
+- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (4 days ago)
+- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (6 days ago)
+- **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (6 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
