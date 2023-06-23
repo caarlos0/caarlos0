@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [ko-build/ko @ v0.14.1](https://github.com/ko-build/ko/releases/tag/v0.14.1) (2 days ago)
-- [prometheus-community/helm-charts @ prometheus-pushgateway-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.3.0) (2 days ago)
+- [ko-build/ko @ v0.14.1](https://github.com/ko-build/ko/releases/tag/v0.14.1) (3 days ago)
 
 #### ❤️ Sponsors
-- [Carl Tashian](https://github.com/tashian) (1 day ago)
+- [Carl Tashian](https://github.com/tashian) (2 days ago)
 - [Benjamin Kane](https://github.com/bbkane) (1 week ago)
-- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (4 weeks ago)
+- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (6 days ago)
+- **[pure-css/pure](https://github.com/pure-css/pure)** - A set of small, responsive CSS modules that you can use in every web project. (1 week ago)
 - **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** - </> htmx - high power tools for HTML (1 week ago)
 - **[bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript)** - a small scripting language for the web (1 week ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 month ago)
-- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (1 month ago)
+- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 months ago)
