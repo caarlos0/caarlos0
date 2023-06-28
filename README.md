@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/nfpm @ v2.31.0](https://github.com/goreleaser/nfpm/releases/tag/v2.31.0) (1 day ago)
-- [goreleaser/chglog @ v0.5.0](https://github.com/goreleaser/chglog/releases/tag/v0.5.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-47.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.1) (1 day ago)
+- [charmbracelet/keygen @ v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3) (1 day ago)
+- [muesli/termenv @ v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2) (1 day ago)
 
 #### ❤️ Sponsors
-- [Carl Tashian](https://github.com/tashian) (6 days ago)
+- [Carl Tashian](https://github.com/tashian) (1 week ago)
 - [Benjamin Kane](https://github.com/bbkane) (1 week ago)
 - [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 month ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (1 day ago)
-- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (2 days ago)
-- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (4 days ago)
+- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (2 days ago)
+- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (3 days ago)
+- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (5 days ago)
 
 #### 📄 Latest blog posts
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
