@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/env @ v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0) (1 day ago)
-- [caarlos0/log @ v0.4.2](https://github.com/caarlos0/log/releases/tag/v0.4.2) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0) (1 day ago)
+- [dlvhdr/gh-dash @ v3.8.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.8.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.19.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.1-pro) (1 day ago)
 
 #### ❤️ Sponsors
 - [Carl Tashian](https://github.com/tashian) (1 week ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (3 days ago)
-- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (4 days ago)
-- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (6 days ago)
+- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (4 days ago)
+- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (5 days ago)
+- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (1 week ago)
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (2 days ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 month ago)
-- [Using open, pbcopy and pbpaste over SSH](https://carlosbecker.com/posts/pbcopy-pbpaste-open-ssh/) (2 months ago)
