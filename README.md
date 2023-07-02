@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [caarlos0/dotfiles.nix @ 2023.07.01](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.07.01) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [dlvhdr/gh-dash @ v3.8.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.8.0) (2 days ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
+- [Ben](https://github.com/iwpnd) (1 day ago)
 - [Carl Tashian](https://github.com/tashian) (1 week ago)
 - [Benjamin Kane](https://github.com/bbkane) (2 weeks ago)
-- [^.{5}\s.{2}ram.{3}$](https://github.com/umatare5) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (5 days ago)
-- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (6 days ago)
+- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (6 days ago)
+- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 week ago)
 - **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (3 days ago)
+- [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (4 days ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 month ago)
