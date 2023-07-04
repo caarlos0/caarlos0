@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-22.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.7.0) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-47.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.2.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [caarlos0/dotfiles.nix @ 2023.07.01](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.07.01) (2 days ago)
+- [caarlos0/dotfiles.nix @ 2023.07.01](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.07.01) (3 days ago)
 
 #### ❤️ Sponsors
-- [Supreeth Basabattini](https://github.com/supreeth7) (1 day ago)
-- [Ben](https://github.com/iwpnd) (2 days ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (2 days ago)
+- [Ben](https://github.com/iwpnd) (3 days ago)
 - [Carl Tashian](https://github.com/tashian) (1 week ago)
 
 Many thanks everyone! 🙏
@@ -37,6 +37,6 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 - **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (5 days ago)
+- [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (6 days ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (1 month ago)
+- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 months ago)
