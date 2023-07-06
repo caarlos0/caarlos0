@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0) (1 day ago)
+- [charmbracelet/vhs-action @ v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [caarlos0/dotfiles.nix @ 2023.07.01](https://github.com/caarlos0/dotfiles.nix/releases/tag/2023.07.01) (4 days ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Supreeth Basabattini](https://github.com/supreeth7) (3 days ago)
-- [Ben](https://github.com/iwpnd) (4 days ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (4 days ago)
+- [Ben](https://github.com/iwpnd) (5 days ago)
 - [Carl Tashian](https://github.com/tashian) (2 weeks ago)
 
 Many thanks everyone! 🙏
@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[The Pragmatic Programmer - From Journeyman to Master](https://literal.club/caarlos0/book/andrew-hunt-david-thomas-the-pragmatic-programmer-7eoqj)** by _Andrew Hunt, David Thomas_
+- **[Why We Sleep - Unlocking the Power of Sleep and Dreams](https://literal.club/caarlos0/book/why-we-sleep-nq5c9)** by _Matthew Walker_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
