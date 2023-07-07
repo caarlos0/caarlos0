@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/vhs-action @ v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0) (2 days ago)
+- [charmbracelet/vhs-action @ v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2) (2 days ago)
 
 #### ❤️ Sponsors
-- [Supreeth Basabattini](https://github.com/supreeth7) (4 days ago)
-- [Ben](https://github.com/iwpnd) (5 days ago)
-- [Carl Tashian](https://github.com/tashian) (2 weeks ago)
+- [Patrick Organ](https://github.com/patinthehat) (1 day ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (5 days ago)
+- [Ben](https://github.com/iwpnd) (6 days ago)
 
 Many thanks everyone! 🙏
 
@@ -35,9 +35,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 #### ⭐ Recent Stars
 - **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (1 week ago)
 - **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 week ago)
-- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (1 week ago)
+- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (1 week ago)
-- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (1 month ago)
+- [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 months ago)
