@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0) (1 day ago)
+- [goreleaser/goreleaser @ v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (1 day ago)
+- [goreleaser/goreleaser-pro @ v1.19.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.2-pro) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/vhs-action @ v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2) (2 days ago)
 
 #### ❤️ Sponsors
-- [Patrick Organ](https://github.com/patinthehat) (1 day ago)
-- [Supreeth Basabattini](https://github.com/supreeth7) (5 days ago)
-- [Ben](https://github.com/iwpnd) (6 days ago)
+- [Lawrence Gripper](https://github.com/lawrencegripper) (1 day ago)
+- [Patrick Organ](https://github.com/patinthehat) (2 days ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (6 days ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 day ago)
 - **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (1 week ago)
 - **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 week ago)
-- **[ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)** - Lua port of the most famous vim colorscheme (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (1 week ago)
