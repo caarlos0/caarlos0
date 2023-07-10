@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ kube-prometheus-stack-47.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.4.0) (1 day ago)
-- [dlvhdr/gh-dash @ v3.9.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.9.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-47.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.4.0) (2 days ago)
+- [dlvhdr/gh-dash @ v3.9.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.9.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Lawrence Gripper](https://github.com/lawrencegripper) (2 days ago)
-- [Patrick Organ](https://github.com/patinthehat) (3 days ago)
+- [Lawrence Gripper](https://github.com/lawrencegripper) (3 days ago)
+- [Patrick Organ](https://github.com/patinthehat) (4 days ago)
 - [Supreeth Basabattini](https://github.com/supreeth7) (1 week ago)
 
 Many thanks everyone! 🙏
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 days ago)
-- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (1 week ago)
+- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (3 days ago)
+- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (2 weeks ago)
 - **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (2 weeks ago)
 
 #### 📄 Latest blog posts
