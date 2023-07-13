@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prom-label-proxy-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.4.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.19.0) (1 day ago)
+- [charmbracelet/wishlist @ v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.20.6](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.6) (1 day ago)
 
 #### ❤️ Sponsors
-- [Lawrence Gripper](https://github.com/lawrencegripper) (5 days ago)
-- [Patrick Organ](https://github.com/patinthehat) (6 days ago)
+- [Lawrence Gripper](https://github.com/lawrencegripper) (6 days ago)
+- [Patrick Organ](https://github.com/patinthehat) (1 week ago)
 - [Supreeth Basabattini](https://github.com/supreeth7) (1 week ago)
 
 Many thanks everyone! 🙏
@@ -33,7 +33,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (5 days ago)
+- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (6 days ago)
 - **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (2 weeks ago)
 - **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (2 weeks ago)
 
