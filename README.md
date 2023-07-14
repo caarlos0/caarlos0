@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.19.0) (1 day ago)
-- [charmbracelet/wishlist @ v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.20.6](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.6) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.2.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/wishlist @ v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Lawrence Gripper](https://github.com/lawrencegripper) (6 days ago)
+- [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
 - [Patrick Organ](https://github.com/patinthehat) (1 week ago)
 - [Supreeth Basabattini](https://github.com/supreeth7) (1 week ago)
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (6 days ago)
-- **[ranger/ranger](https://github.com/ranger/ranger)** - A VIM-inspired filemanager for the console (2 weeks ago)
-- **[ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto)** - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (2 weeks ago)
+- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (1 day ago)
+- **[vc60er/deptree](https://github.com/vc60er/deptree)** - show golang dependence like tree (1 day ago)
+- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (2 weeks ago)
