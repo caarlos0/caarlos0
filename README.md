@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-blackbox-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.0.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/wishlist @ v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0) (2 days ago)
+- [goreleaser/nfpm @ v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
@@ -33,8 +33,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (1 day ago)
-- **[vc60er/deptree](https://github.com/vc60er/deptree)** - show golang dependence like tree (1 day ago)
+- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (2 days ago)
+- **[vc60er/deptree](https://github.com/vc60er/deptree)** - show golang dependence like tree (2 days ago)
 - **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
 
 #### 📄 Latest blog posts
