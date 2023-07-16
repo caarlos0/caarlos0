@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mysql-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.0.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/nfpm @ v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-mysql-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.0.0) (2 days ago)
+- [goreleaser/nfpm @ v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
 - [Patrick Organ](https://github.com/patinthehat) (1 week ago)
-- [Supreeth Basabattini](https://github.com/supreeth7) (1 week ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (2 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (2 days ago)
-- **[vc60er/deptree](https://github.com/vc60er/deptree)** - show golang dependence like tree (2 days ago)
-- **[ziglang/zig](https://github.com/ziglang/zig)** - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
+- **[bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)** (1 day ago)
+- **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (1 day ago)
+- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (3 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (2 weeks ago)
