@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0) (1 day ago)
-- [bensadeh/despell @ 1.0.0](https://github.com/bensadeh/despell/releases/tag/1.0.0) (1 day ago)
+- [prometheus-community/helm-charts @ alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [bensadeh/despell @ 1.0.0](https://github.com/bensadeh/despell/releases/tag/1.0.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
@@ -33,9 +33,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)** (2 days ago)
-- **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (2 days ago)
-- **[dagger/dagger](https://github.com/dagger/dagger)** - A programmable CI/CD engine that runs your pipelines in containers (4 days ago)
+- **[yoav-lavi/melody](https://github.com/yoav-lavi/melody)** - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable (1 day ago)
+- **[charmbracelet/pop](https://github.com/charmbracelet/pop)** - Send emails from your terminal 📬 (1 day ago)
+- **[LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)** - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (1 day ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (2 weeks ago)
