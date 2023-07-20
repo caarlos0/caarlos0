@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/soft-serve @ v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/pop @ v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0) (2 days ago)
+- [withfig/autocomplete @ spec-build-number-0.1188.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1188.0) (1 day ago)
+- [charmbracelet/wishlist @ v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.9.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
-- [Patrick Organ](https://github.com/patinthehat) (1 week ago)
+- [Patrick Organ](https://github.com/patinthehat) (2 weeks ago)
 - [Supreeth Basabattini](https://github.com/supreeth7) (2 weeks ago)
 
 Many thanks everyone! 🙏
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (1 day ago)
-- **[mickael-menu/zk](https://github.com/mickael-menu/zk)** - A plain text note-taking assistant (1 day ago)
-- **[mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim)** - Neovim extension for zk (1 day ago)
+- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (2 days ago)
+- **[mickael-menu/zk](https://github.com/mickael-menu/zk)** - A plain text note-taking assistant (2 days ago)
+- **[mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim)** - Neovim extension for zk (2 days ago)
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (3 weeks ago)
