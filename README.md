@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1188.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1188.0) (1 day ago)
-- [charmbracelet/wishlist @ v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.9.0) (1 day ago)
+- [charmbracelet/vhs @ v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-rabbitmq-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.8.0) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Lawrence Gripper](https://github.com/lawrencegripper) (1 week ago)
+- [Lawrence Gripper](https://github.com/lawrencegripper) (2 weeks ago)
 - [Patrick Organ](https://github.com/patinthehat) (2 weeks ago)
 - [Supreeth Basabattini](https://github.com/supreeth7) (2 weeks ago)
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (2 days ago)
-- **[mickael-menu/zk](https://github.com/mickael-menu/zk)** - A plain text note-taking assistant (2 days ago)
-- **[mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim)** - Neovim extension for zk (2 days ago)
+- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (1 day ago)
+- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (1 day ago)
+- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (3 days ago)
 
 #### 📄 Latest blog posts
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 day ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (3 weeks ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
-- [Announcing GoReleaser v1.18 — the maintainers month release](https://carlosbecker.com/posts/goreleaser-v1.18/) (2 months ago)
