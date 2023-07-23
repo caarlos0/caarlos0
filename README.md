@@ -10,14 +10,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/gum @ v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-node-exporter-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.20.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [charmbracelet/gum @ v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-node-exporter-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.20.1) (2 days ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (2 weeks ago)
 - [Patrick Organ](https://github.com/patinthehat) (2 weeks ago)
-- [Supreeth Basabattini](https://github.com/supreeth7) (2 weeks ago)
+- [Supreeth Basabattini](https://github.com/supreeth7) (3 weeks ago)
 
 Many thanks everyone! 🙏
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (2 days ago)
-- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (2 days ago)
-- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (4 days ago)
+- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (3 days ago)
+- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (3 days ago)
+- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (5 days ago)
 
 #### 📄 Latest blog posts
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (2 days ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (3 days ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (3 weeks ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
