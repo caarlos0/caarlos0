@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-snmp-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.7.0) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [charmbracelet/gum @ v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0) (3 days ago)
+- [dlvhdr/gh-dash @ v3.10.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.10.0) (1 day ago)
+- [caarlos0-graveyard/test @ v1.0.32](https://github.com/caarlos0-graveyard/test/releases/tag/v1.0.32) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Lawrence Gripper](https://github.com/lawrencegripper) (2 weeks ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (4 days ago)
-- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (4 days ago)
-- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (6 days ago)
+- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (5 days ago)
+- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (5 days ago)
+- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (1 week ago)
 
 #### 📄 Latest blog posts
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (4 days ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (5 days ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (3 weeks ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
