@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-kafka-exporter-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.3.0) (1 day ago)
-- [withfig/autocomplete @ spec-build-number-0.1191.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1191.0) (1 day ago)
+- [charmbracelet/charm @ v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6) (1 day ago)
+- [prometheus-community/helm-charts @ kube-prometheus-stack-48.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Ben Lechlitner](https://github.com/asphaltbuffet) (1 day ago)
-- [Mercedes-Benz Group](https://github.com/mercedes-benz) (1 day ago)
+- [Ben Lechlitner](https://github.com/asphaltbuffet) (2 days ago)
+- [Mercedes-Benz Group](https://github.com/mercedes-benz) (2 days ago)
 - [Lawrence Gripper](https://github.com/lawrencegripper) (2 weeks ago)
 
 Many thanks everyone! 🙏
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (6 days ago)
-- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (6 days ago)
-- **[srid/emanote](https://github.com/srid/emanote)** - Emanate a structured view of your plain-text notes (1 week ago)
+- **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (1 day ago)
+- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (1 week ago)
+- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (1 week ago)
 
 #### 📄 Latest blog posts
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (6 days ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 week ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (4 weeks ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
