@@ -10,13 +10,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ kube-prometheus-stack-48.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.2) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1195.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1195.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-redis-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.4.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
-- [Ben Lechlitner](https://github.com/asphaltbuffet) (3 days ago)
-- [Mercedes-Benz Group](https://github.com/mercedes-benz) (3 days ago)
+- [Ben Lechlitner](https://github.com/asphaltbuffet) (4 days ago)
+- [Mercedes-Benz Group](https://github.com/mercedes-benz) (4 days ago)
 - [Lawrence Gripper](https://github.com/lawrencegripper) (3 weeks ago)
 
 Many thanks everyone! 🙏
@@ -32,7 +32,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (2 days ago)
+- **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (3 days ago)
 - **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (1 week ago)
 - **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (1 week ago)
 
