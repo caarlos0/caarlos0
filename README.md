@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [caarlos0/dotfiles @ 2023.07.31](https://github.com/caarlos0/dotfiles/releases/tag/2023.07.31) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-operator-admission-webhook-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.5.0) (2 days ago)
+- [charmbracelet/log @ v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.2.0) (1 day ago)
+- [charmbracelet/pop @ v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (1 week ago)
@@ -32,7 +32,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (6 days ago)
+- **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (1 week ago)
 - **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (1 week ago)
 - **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (1 week ago)
 
