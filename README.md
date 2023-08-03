@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [charmbracelet/log @ v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.2.0) (1 day ago)
-- [charmbracelet/pop @ v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-adapter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.3.1) (1 day ago)
+- [goreleaser/goreleaser-cross @ v1.20.7](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.7) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
 
 #### ❤️ Sponsors
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (1 week ago)
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (1 day ago)
 - **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (1 week ago)
-- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (1 week ago)
-- **[wagoodman/dive](https://github.com/wagoodman/dive)** - A tool for exploring each layer in a docker image (1 week ago)
+- **[charmbracelet/nur](https://github.com/charmbracelet/nur)** (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 week ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (2 weeks ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (1 month ago)
 - [Writing Bubble Tea Tests](https://carlosbecker.com/posts/teatest/) (2 months ago)
