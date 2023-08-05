@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ kube-prometheus-stack-48.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-adapter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.3.1) (2 days ago)
-- [goreleaser/goreleaser-cross @ v1.20.7](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.7) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.20.7](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.7) (3 days ago)
 
 #### ❤️ Sponsors
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (1 week ago)
@@ -32,8 +32,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (1 day ago)
-- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (2 days ago)
+- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (2 days ago)
+- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (3 days ago)
 - **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (1 week ago)
 
 #### 📄 Latest blog posts
