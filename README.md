@@ -11,13 +11,13 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ alertmanager-snmp-notifier-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.2) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.20.7](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.7) (4 days ago)
+- [prometheus-community/helm-charts @ alertmanager-snmp-notifier-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.2) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.20.7](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.7) (5 days ago)
 
 #### ❤️ Sponsors
+- [Mukul Mantosh](https://github.com/mukulmantosh) (1 day ago)
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (1 week ago)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz) (1 week ago)
-- [Lawrence Gripper](https://github.com/lawrencegripper) (1 month ago)
 
 Many thanks everyone! 🙏
 
@@ -32,8 +32,8 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (3 days ago)
-- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (4 days ago)
+- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (4 days ago)
+- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (5 days ago)
 - **[YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey)** - Sign git commits with a YubiKey (1 week ago)
 
 #### 📄 Latest blog posts
