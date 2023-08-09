@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1197.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1197.1) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0) (1 day ago)
-- [goreleaser/goreleaser-example-sign-with-env @ v0.1.1](https://github.com/goreleaser/goreleaser-example-sign-with-env/releases/tag/v0.1.1) (1 day ago)
+- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1197.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1197.1) (2 days ago)
 
 #### ❤️ Sponsors
-- [Mukul Mantosh](https://github.com/mukulmantosh) (2 days ago)
+- [Mukul Mantosh](https://github.com/mukulmantosh) (3 days ago)
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (2 weeks ago)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz) (2 weeks ago)
 
@@ -32,9 +32,9 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (1 day ago)
-- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (5 days ago)
-- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (6 days ago)
+- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (2 days ago)
+- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (6 days ago)
+- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (1 week ago)
 
 #### 📄 Latest blog posts
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (2 weeks ago)
