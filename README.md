@@ -10,12 +10,12 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [withfig/autocomplete @ spec-build-number-0.1198.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1198.0) (1 day ago)
-- [goreleaser/goreleaser-cross @ v1.21.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.21.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
+- [withfig/autocomplete @ spec-build-number-0.1198.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1198.0) (2 days ago)
+- [goreleaser/goreleaser-cross @ v1.21.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.21.0) (2 days ago)
 
 #### ❤️ Sponsors
-- [Mukul Mantosh](https://github.com/mukulmantosh) (5 days ago)
+- [Mukul Mantosh](https://github.com/mukulmantosh) (6 days ago)
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (2 weeks ago)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz) (2 weeks ago)
 
@@ -32,11 +32,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (4 days ago)
+- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (1 day ago)
+- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (5 days ago)
 - **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (1 week ago)
-- **[Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)** - Staggeringly powerful macOS desktop automation with Lua (1 week ago)
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (2 days ago)
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (3 days ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (3 weeks ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (1 month ago)
