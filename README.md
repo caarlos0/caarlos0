@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser-pro @ nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (1 day ago)
+- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0) (2 days ago)
 
 #### ❤️ Sponsors
 - [Mukul Mantosh](https://github.com/mukulmantosh) (1 week ago)
@@ -26,13 +26,14 @@ Many thanks everyone! 🙏
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[The Pragmatic Programmer - From Journeyman to Master](https://literal.club/caarlos0/book/andrew-hunt-david-thomas-the-pragmatic-programmer-7eoqj)** by _Andrew Hunt, David Thomas_
 - **[Why We Sleep - Unlocking the Power of Sleep and Dreams](https://literal.club/caarlos0/book/why-we-sleep-nq5c9)** by _Matthew Walker_
+- **[A Philosophy of Software Design](https://literal.club/caarlos0/book/a-philosophy-of-software-design-u58xx)** by _John Ousterhout_
 
 You might want to check out my [books
 wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
-- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (6 days ago)
+- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (1 week ago)
 - **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (1 week ago)
 - **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (2 weeks ago)
 
