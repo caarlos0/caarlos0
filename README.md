@@ -11,8 +11,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0) (1 day ago)
+- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (2 days ago)
 
 #### ❤️ Sponsors
 - [Mukul Mantosh](https://github.com/mukulmantosh) (1 week ago)
@@ -39,5 +39,5 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 week ago)
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (4 weeks ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
 - [Announcing GoReleaser v1.19 — the big release](https://carlosbecker.com/posts/goreleaser-v1.19/) (1 month ago)
