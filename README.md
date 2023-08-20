@@ -11,11 +11,11 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0) (1 day ago)
-- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (2 days ago)
+- [prometheus-community/helm-charts @ prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0) (2 days ago)
+- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (3 days ago)
 
 #### ❤️ Sponsors
-- [Mukul Mantosh](https://github.com/mukulmantosh) (1 week ago)
+- [Mukul Mantosh](https://github.com/mukulmantosh) (2 weeks ago)
 - [Ben Lechlitner](https://github.com/asphaltbuffet) (3 weeks ago)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz) (3 weeks ago)
 
