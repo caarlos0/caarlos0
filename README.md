@@ -10,9 +10,9 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### 🚀 Latest releases I've contributed to
 
 
+- [prometheus-community/helm-charts @ prometheus-windows-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.1) (1 day ago)
 - [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [prometheus-community/helm-charts @ prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0) (2 days ago)
-- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (3 days ago)
+- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (4 days ago)
 
 #### ❤️ Sponsors
 - [Mukul Mantosh](https://github.com/mukulmantosh) (2 weeks ago)
@@ -34,7 +34,7 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 
 #### ⭐ Recent Stars
 - **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (1 week ago)
-- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (1 week ago)
+- **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (2 weeks ago)
 - **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (2 weeks ago)
 
 #### 📄 Latest blog posts
