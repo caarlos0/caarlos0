@@ -3,16 +3,16 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/ziglings](https://github.com/caarlos0/ziglings)** - learning some zig :P
 - **[caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)** - example teatest app
 - **[caarlos0/go-version](https://github.com/caarlos0/go-version)** - Version library extracted from sigs.k8s.io/release-utils
-- **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [prometheus-community/helm-charts @ prometheus-adapter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.1) (1 day ago)
-- [neovim/neovim @ nightly](https://github.com/neovim/neovim/releases/tag/nightly) (1 day ago)
-- [goreleaser/goreleaser @ nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (5 days ago)
+- [prometheus-community/helm-charts @ prometheus-statsd-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.10.0) (1 day ago)
+- [charmbracelet/log @ v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4) (1 day ago)
+- [gitleaks/gitleaks @ v8.18.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.18.0) (1 day ago)
 
 #### ❤️ Sponsors
 - [Mukul Mantosh](https://github.com/mukulmantosh) (2 weeks ago)
@@ -33,11 +33,11 @@ wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV) and the my
 [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### ⭐ Recent Stars
+- **[ratfactor/ziglings](https://github.com/ratfactor/ziglings)** - Learn the Zig programming language by fixing tiny broken programs. (1 day ago)
 - **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (1 week ago)
 - **[supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)** - A Language Server for Postgres (2 weeks ago)
-- **[calops/hmts.nvim](https://github.com/calops/hmts.nvim)** - Custom treesitter queries for Home Manager nix files, in Neovim (2 weeks ago)
 
 #### 📄 Latest blog posts
-- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (2 days ago)
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 week ago)
+- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (3 days ago)
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (2 weeks ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
