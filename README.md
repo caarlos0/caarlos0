@@ -22,10 +22,10 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/ziglings](https://github.com/caarlos0/ziglings)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop)
@@ -37,13 +37,12 @@ Many thanks everyone! 🙏
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[The Pragmatic Programmer - From Journeyman to Master](https://literal.club/caarlos0/book/andrew-hunt-david-thomas-the-pragmatic-programmer-7eoqj)** by _Andrew Hunt, David Thomas_
 - **[Working in Public - The Making and Maintenance of Open Source Software](https://literal.club/caarlos0/book/working-in-public-d4nqv)** by _Nadia Eghbal_
-- **[A Philosophy of Software Design](https://literal.club/caarlos0/book/a-philosophy-of-software-design-u58xx)** by _John Ousterhout_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (4 days ago)
+- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (5 days ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (2 weeks ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
