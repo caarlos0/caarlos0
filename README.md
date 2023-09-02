@@ -21,11 +21,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [caarlos0/ziglings](https://github.com/caarlos0/ziglings)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
