@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [caarlos0/ziglings](https://github.com/caarlos0/ziglings)
@@ -44,6 +44,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (1 week ago)
+- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (2 weeks ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (3 weeks ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
