@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [caarlos0/ziglings](https://github.com/caarlos0/ziglings)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -45,5 +45,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (2 weeks ago)
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (3 weeks ago)
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (4 weeks ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
