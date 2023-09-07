@@ -12,21 +12,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Oleg Balunenko](https://github.com/obalunenko)
-- [Mukul Mantosh](https://github.com/mukulmantosh)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
 - [Lawrence Gripper](https://github.com/lawrencegripper)
+- [Patrick Organ](https://github.com/patinthehat)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
