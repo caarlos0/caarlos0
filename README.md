@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
@@ -36,7 +36,6 @@ Many thanks everyone! 🙏
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[The Pragmatic Programmer - From Journeyman to Master](https://literal.club/caarlos0/book/andrew-hunt-david-thomas-the-pragmatic-programmer-7eoqj)** by _Andrew Hunt, David Thomas_
-- **[Working in Public - The Making and Maintenance of Open Source Software](https://literal.club/caarlos0/book/working-in-public-d4nqv)** by _Nadia Eghbal_
 - **[Der Struwwelpeter](https://literal.club/caarlos0/book/der-struwwelpeter-a0nkn)** by _Heinrich Hoffmann_
 
 You might want to check out my
