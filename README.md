@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [caarlos0/timea.go](https://github.com/caarlos0/timea.go)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
