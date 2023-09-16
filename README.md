@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [caarlos0/timea.go](https://github.com/caarlos0/timea.go)
