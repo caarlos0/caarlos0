@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
@@ -45,4 +45,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (4 weeks ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 month ago)
-- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (1 month ago)
+- [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (2 months ago)
