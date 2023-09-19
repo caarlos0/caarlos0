@@ -22,13 +22,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/timea.go](https://github.com/caarlos0/timea.go)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
@@ -43,6 +43,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (4 weeks ago)
+- [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (1 month ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 month ago)
 - [Wishlist Endpoint Discovery](https://carlosbecker.com/posts/wishlist-sd/) (2 months ago)
