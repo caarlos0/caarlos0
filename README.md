@@ -22,13 +22,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/timea.go](https://github.com/caarlos0/timea.go)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0/timea.go](https://github.com/caarlos0/timea.go)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
