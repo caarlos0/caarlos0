@@ -21,11 +21,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/ziglings](https://github.com/caarlos0/ziglings)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
