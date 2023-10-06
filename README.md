@@ -43,6 +43,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.21 — mostly bug fixes](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 week ago)
+- [Announcing GoReleaser v1.21 — mostly bug fixes](https://carlosbecker.com/posts/goreleaser-v1.21/) (2 weeks ago)
 - [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (1 month ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 month ago)
