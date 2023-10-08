@@ -21,14 +21,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
 - [goreleaser/nur](https://github.com/goreleaser/nur)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
@@ -45,4 +45,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.21 — mostly bug fixes](https://carlosbecker.com/posts/goreleaser-v1.21/) (2 weeks ago)
 - [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (1 month ago)
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (1 month ago)
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://carlosbecker.com/posts/goreleaser-v1.20/) (2 months ago)
