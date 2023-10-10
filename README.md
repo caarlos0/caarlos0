@@ -22,13 +22,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
+- [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nur](https://github.com/goreleaser/nur)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
