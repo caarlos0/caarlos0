@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/sync](https://github.com/caarlos0/sync)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/sync](https://github.com/caarlos0/sync)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
