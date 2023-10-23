@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)** - Homekit bridge for Shelly Flood and Smoke sensors
 - **[caarlos0/ziglings](https://github.com/caarlos0/ziglings)** - learning some zig :P
 - **[caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)** - example teatest app
 - **[caarlos0/go-version](https://github.com/caarlos0/go-version)** - Version library extracted from sigs.k8s.io/release-utils
 - **[caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)** - xdg-open as a service
-- **[caarlos0/nur](https://github.com/caarlos0/nur)** - My Nix User Repository
 
 
 #### ❤️ Recent Sponsors
@@ -21,15 +21,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/sync](https://github.com/caarlos0/sync)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
 
 #### 📚 Books I'm reading
