@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Solarman Inverter bridge for homekit.
 - **[caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)** - Homekit bridge for Shelly Flood and Smoke sensors
 - **[caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)** - Homekit bridge for Intelbras AMT8000 Alarm Systems
 - **[caarlos0/ziglings](https://github.com/caarlos0/ziglings)** - learning some zig :P
 - **[caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)** - example teatest app
-- **[caarlos0/go-version](https://github.com/caarlos0/go-version)** - Version library extracted from sigs.k8s.io/release-utils
 
 
 #### ❤️ Recent Sponsors
@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/sync](https://github.com/caarlos0/sync)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
-- [caarlos0/linktree](https://github.com/caarlos0/linktree)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
