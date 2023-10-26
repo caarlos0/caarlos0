@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Solarman Inverter bridge for homekit.
+- **[caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)**
+- **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
 - **[caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)** - Homekit bridge for Shelly Flood and Smoke sensors
 - **[caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)** - Homekit bridge for Intelbras AMT8000 Alarm Systems
 - **[caarlos0/ziglings](https://github.com/caarlos0/ziglings)** - learning some zig :P
-- **[caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)** - example teatest app
 
 
 #### ❤️ Recent Sponsors
@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/sync](https://github.com/caarlos0/sync)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
