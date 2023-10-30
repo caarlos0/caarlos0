@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
+- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
