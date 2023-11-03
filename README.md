@@ -22,10 +22,10 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
