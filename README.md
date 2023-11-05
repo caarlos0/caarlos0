@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Relay router based on a contact sensor, to open or close my garage
 - **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
 - **[caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)** - Go client for the SolarmanPV API
 - **[caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)** - Prometheus Exporter for SolarmanPV
 - **[caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)** - Homekit bridge for Shelly Flood and Smoke sensors
-- **[caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)** - Homekit bridge for Intelbras AMT8000 Alarm Systems
 
 
 #### ❤️ Recent Sponsors
@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
