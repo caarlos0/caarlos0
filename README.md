@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
-- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -44,6 +44,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (2 days ago)
+- [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (3 days ago)
 - [Announcing GoReleaser v1.21 — mostly bug fixes](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 month ago)
 - [A brief and incomplete history of modal text editors](https://carlosbecker.com/posts/ed/) (2 months ago)
