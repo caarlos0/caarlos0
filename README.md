@@ -43,6 +43,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (5 days ago)
-- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (6 days ago)
+- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (6 days ago)
+- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 week ago)
 - [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (1 week ago)
