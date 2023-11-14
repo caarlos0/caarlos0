@@ -24,13 +24,13 @@ Many thanks everyone! 🙏
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -43,6 +43,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (6 days ago)
+- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (1 week ago)
 - [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 week ago)
 - [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (1 week ago)
