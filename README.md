@@ -3,7 +3,7 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Relay router based on a contact sensor, to open or close my garage
+- **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Homekit controller and firmware for an ESP8266-based automated garage door
 - **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
 - **[caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)** - Go client for the SolarmanPV API
 - **[caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)** - Prometheus Exporter for SolarmanPV
@@ -22,13 +22,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 
