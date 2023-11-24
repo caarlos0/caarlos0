@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
