@@ -44,5 +44,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (2 weeks ago)
-- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (2 weeks ago)
+- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (3 weeks ago)
 - [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (3 weeks ago)
