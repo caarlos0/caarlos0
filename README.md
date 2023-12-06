@@ -22,8 +22,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
@@ -44,5 +44,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (4 weeks ago)
-- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (4 weeks ago)
+- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 month ago)
 - [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (1 month ago)
