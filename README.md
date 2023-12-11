@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
