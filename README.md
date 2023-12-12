@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [caarlos0/meta](https://github.com/caarlos0/meta)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
