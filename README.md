@@ -21,12 +21,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [caarlos0/meta](https://github.com/caarlos0/meta)
