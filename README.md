@@ -21,11 +21,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
-- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
