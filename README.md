@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
@@ -35,7 +35,6 @@ Many thanks everyone! 🙏
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
-- **[Der Struwwelpeter](https://literal.club/caarlos0/book/der-struwwelpeter-a0nkn)** by _Heinrich Hoffmann_
 - **[Modern Software Engineering - Doing What Really Works to Build Better Software Faster](https://literal.club/caarlos0/book/david-farley-modern-software-engineering-ayoqv)** by _David Farley_
 
 You might want to check out my
