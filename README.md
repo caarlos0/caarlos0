@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -44,4 +44,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (1 month ago)
 - [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 month ago)
-- [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (1 month ago)
+- [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (2 months ago)
