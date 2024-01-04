@@ -11,26 +11,26 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
-- [Mercedes-Benz Group](https://github.com/mercedes-benz)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
