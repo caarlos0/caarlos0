@@ -22,14 +22,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
@@ -43,5 +43,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (1 month ago)
-- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (1 month ago)
+- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (2 months ago)
 - [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (2 months ago)
