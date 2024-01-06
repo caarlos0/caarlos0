@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -42,6 +42,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (1 month ago)
-- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.21/) (2 months ago)
-- [Integrating Alarm Systems with Homekit](https://carlosbecker.com/posts/homekit-alarms/) (2 months ago)
+- [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 week ago)
+- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (2 months ago)
+- [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.22/) (2 months ago)
