@@ -21,27 +21,27 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [caarlos0/env](https://github.com/caarlos0/env)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
-- **[Modern Software Engineering - Doing What Really Works to Build Better Software Faster](https://literal.club/caarlos0/book/david-farley-modern-software-engineering-ayoqv)** by _David Farley_
+- **[Man's Search for Meaning](https://literal.club/caarlos0/book/mans-search-for-meaning-f33cf)** by _Viktor E. Frankl_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 week ago)
+- [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (2 weeks ago)
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (2 months ago)
 - [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.22/) (2 months ago)
