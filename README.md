@@ -11,31 +11,32 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
-- [Ben Lechlitner](https://github.com/asphaltbuffet)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Man's Search for Meaning](https://literal.club/caarlos0/book/mans-search-for-meaning-f33cf)** by _Viktor E. Frankl_
+- **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
