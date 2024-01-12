@@ -23,20 +23,21 @@ Many thanks everyone! 🙏
 
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [muesli/termenv](https://github.com/muesli/termenv)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [caarlos0/duration](https://github.com/caarlos0/duration)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Man's Search for Meaning](https://literal.club/caarlos0/book/mans-search-for-meaning-f33cf)** by _Viktor E. Frankl_
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
+- **[Tidy First?](https://literal.club/caarlos0/book/kent-beck-tidy-first-ewn0y)** by _Kent Beck_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
