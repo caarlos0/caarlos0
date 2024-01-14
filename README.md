@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
