@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
@@ -37,6 +37,7 @@ Many thanks everyone! 🙏
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[Tidy First?](https://literal.club/caarlos0/book/kent-beck-tidy-first-ewn0y)** by _Kent Beck_
+- **[Deep Work - Rules for Focused Success in a Distracted World](https://literal.club/caarlos0/book/deep-work-wbun9)** by _Cal Newport_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
