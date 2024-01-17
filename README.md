@@ -23,12 +23,12 @@ Many thanks everyone! 🙏
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 - [muesli/termenv](https://github.com/muesli/termenv)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 
