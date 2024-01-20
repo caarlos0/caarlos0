@@ -21,15 +21,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [muesli/termenv](https://github.com/muesli/termenv)
 
 #### 📚 Books I'm reading
