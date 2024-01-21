@@ -11,19 +11,19 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Geoff Bourne](https://github.com/itzg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
-- [Oleg Balunenko](https://github.com/obalunenko)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
