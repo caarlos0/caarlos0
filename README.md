@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
@@ -44,6 +44,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (4 weeks ago)
+- [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 month ago)
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (2 months ago)
 - [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.22/) (2 months ago)
