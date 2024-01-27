@@ -21,8 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
@@ -30,7 +31,6 @@ Many thanks everyone! 🙏
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
