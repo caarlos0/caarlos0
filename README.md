@@ -21,10 +21,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
