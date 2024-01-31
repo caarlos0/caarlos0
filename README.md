@@ -21,23 +21,22 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[Tidy First?](https://literal.club/caarlos0/book/kent-beck-tidy-first-ewn0y)** by _Kent Beck_
-- **[Deep Work - Rules for Focused Success in a Distracted World](https://literal.club/caarlos0/book/deep-work-wbun9)** by _Cal Newport_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
