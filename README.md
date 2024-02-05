@@ -44,5 +44,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 month ago)
-- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (2 months ago)
+- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (3 months ago)
 - [Announcing GoReleaser v1.22 — steady improvement](https://carlosbecker.com/posts/goreleaser-v1.22/) (3 months ago)
