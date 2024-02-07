@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
-- [charmbracelet/log](https://github.com/charmbracelet/log)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
