@@ -37,12 +37,13 @@ Many thanks everyone! 🙏
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[Tidy First?](https://literal.club/caarlos0/book/kent-beck-tidy-first-ewn0y)** by _Kent Beck_
+- **[Superintelligence - Paths, Dangers, Strategies](https://literal.club/caarlos0/book/superintelligence-5elo8)** by _Nick Bostrom_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (6 days ago)
+- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (1 week ago)
 - [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 month ago)
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (3 months ago)
