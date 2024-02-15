@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
