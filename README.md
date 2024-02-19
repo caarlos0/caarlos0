@@ -24,13 +24,13 @@ Many thanks everyone! 🙏
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -44,6 +44,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (1 week ago)
+- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (2 weeks ago)
 - [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (1 month ago)
 - [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (3 months ago)
