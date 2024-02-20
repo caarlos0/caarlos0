@@ -12,24 +12,24 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Surendra Tiwari](https://github.com/surendratiwari3)
-- [Geoff Bourne](https://github.com/itzg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
+- [Alexey Palazhchenko](https://github.com/AlekSi)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
+- [maaslalani/glyphs](https://github.com/maaslalani/glyphs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
