@@ -22,14 +22,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [maaslalani/glyphs](https://github.com/maaslalani/glyphs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
