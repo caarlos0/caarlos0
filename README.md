@@ -27,8 +27,8 @@ Many thanks everyone! 🙏
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
