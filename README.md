@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
