@@ -11,20 +11,20 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Shunsuke Suzuki](https://github.com/suzuki-shunsuke)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
-- [Oleg Balunenko](https://github.com/obalunenko)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
