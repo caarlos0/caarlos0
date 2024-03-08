@@ -22,14 +22,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [charmbracelet/log](https://github.com/charmbracelet/log)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
