@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/log](https://github.com/charmbracelet/log)
