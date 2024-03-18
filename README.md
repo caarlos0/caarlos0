@@ -22,8 +22,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
