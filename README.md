@@ -21,14 +21,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/nur](https://github.com/charmbracelet/nur)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
