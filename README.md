@@ -11,25 +11,25 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Bartek Pacia](https://github.com/bartekpacia)
 - [Rocket.Chat](https://github.com/RocketChat)
 - [Shunsuke Suzuki](https://github.com/suzuki-shunsuke)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
-- [Encore](https://github.com/encoredev)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+- [charmbracelet/nur](https://github.com/charmbracelet/nur)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
