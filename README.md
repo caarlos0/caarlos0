@@ -21,8 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
@@ -30,7 +31,6 @@ Many thanks everyone! 🙏
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
