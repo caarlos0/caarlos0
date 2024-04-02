@@ -13,24 +13,24 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### ❤️ Recent Sponsors
 - [Bartek Pacia](https://github.com/bartekpacia)
 - [Rocket.Chat](https://github.com/RocketChat)
-- [Shunsuke Suzuki](https://github.com/suzuki-shunsuke)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
+- [Encore](https://github.com/encoredev)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
