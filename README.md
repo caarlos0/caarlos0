@@ -21,16 +21,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
@@ -42,6 +42,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (2 days ago)
 - [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (1 month ago)
 - [Announcing GoReleaser v1.23 — the last of 2023](https://carlosbecker.com/posts/goreleaser-v1.23/) (3 months ago)
-- [Automating my hard-to-automate garage doors](https://carlosbecker.com/posts/homekit-garage/) (4 months ago)
