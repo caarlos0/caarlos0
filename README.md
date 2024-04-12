@@ -42,6 +42,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (2 days ago)
+- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (3 days ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 week ago)
 - [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (2 months ago)
