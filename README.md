@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -42,6 +42,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (4 days ago)
+- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (5 days ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 week ago)
 - [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (2 months ago)
