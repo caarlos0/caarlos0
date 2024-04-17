@@ -21,15 +21,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
 #### 📚 Books I'm reading
