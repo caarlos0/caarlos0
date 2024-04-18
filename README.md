@@ -11,18 +11,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Gefferson Ferraz](https://github.com/geffersonFerraz)
 - [Alyx](https://github.com/AlyxPink)
 - [Bartek Pacia](https://github.com/bartekpacia)
 - [Rocket.Chat](https://github.com/RocketChat)
 - [Ethan Li](https://github.com/ethanjli)
-- [Replicate](https://github.com/replicate)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
