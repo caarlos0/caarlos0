@@ -22,9 +22,9 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
