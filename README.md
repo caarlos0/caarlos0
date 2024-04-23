@@ -22,12 +22,12 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
@@ -42,6 +42,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 week ago)
-- [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (2 weeks ago)
+- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (2 weeks ago)
+- [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (3 weeks ago)
 - [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (2 months ago)
