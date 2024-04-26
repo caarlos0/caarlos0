@@ -14,23 +14,23 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Gefferson Ferraz](https://github.com/geffersonFerraz)
 - [Alyx](https://github.com/AlyxPink)
 - [Bartek Pacia](https://github.com/bartekpacia)
-- [Rocket.Chat](https://github.com/RocketChat)
 - [Ethan Li](https://github.com/ethanjli)
+- [Replicate](https://github.com/replicate)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[studio [21] Grundstufe A2: Teilband 2 - Das Deutschbuch (Kurs- und Übungsbuch mit DVD-ROM)](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-a2-teilband-2-das-deutschbuch-kurs-und-ubungsbuch-mit-dvd-rom-9zuoy)** by _Hermann Funk_
