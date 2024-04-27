@@ -11,7 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 
-{{- range sponsors 5 }}
+{{- range sponsors 10 }}
 - [{{ or .User.Name .User.Login }}]({{ .User.URL }})
 {{- end }}
 
