@@ -16,21 +16,26 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Bartek Pacia](https://github.com/bartekpacia)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
+- [Encore](https://github.com/encoredev)
+- [Alexey Palazhchenko](https://github.com/AlekSi)
+- [Oleg Balunenko](https://github.com/obalunenko)
+- [Ben Lechlitner](https://github.com/asphaltbuffet)
+- [Mercedes-Benz Group](https://github.com/mercedes-benz)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
