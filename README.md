@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
@@ -49,4 +49,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (3 weeks ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
-- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (2 months ago)
+- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (3 months ago)
