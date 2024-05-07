@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/uhr](https://github.com/caarlos0/uhr)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (3 weeks ago)
+- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (4 weeks ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
 - [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (3 months ago)
