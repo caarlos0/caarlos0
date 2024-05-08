@@ -26,6 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
@@ -33,9 +36,6 @@ Many thanks everyone! 🙏
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
