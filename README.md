@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [muesli/termenv](https://github.com/muesli/termenv)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
