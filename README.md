@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [muesli/termenv](https://github.com/muesli/termenv)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [muesli/termenv](https://github.com/muesli/termenv)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
