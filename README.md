@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [muesli/termenv](https://github.com/muesli/termenv)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (1 day ago)
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
-- [Announcing GoReleaser v1.24 - the first of 2024](https://carlosbecker.com/posts/goreleaser-v1.24/) (3 months ago)
