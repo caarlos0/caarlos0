@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [AnnatarHe](https://github.com/AnnatarHe)
 - [Gefferson Ferraz](https://github.com/geffersonFerraz)
 - [Alyx](https://github.com/AlyxPink)
 - [Ethan Li](https://github.com/ethanjli)
@@ -20,7 +21,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
-- [Lawrence Gripper](https://github.com/lawrencegripper)
 
 Many thanks everyone! 🙏
 
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (1 day ago)
+- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (2 days ago)
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
