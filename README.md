@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [muesli/termenv](https://github.com/muesli/termenv)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (2 days ago)
+- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (3 days ago)
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
 - [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
