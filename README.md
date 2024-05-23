@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
