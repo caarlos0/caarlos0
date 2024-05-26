@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
