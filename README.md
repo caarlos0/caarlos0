@@ -28,14 +28,14 @@ Many thanks everyone! 🙏
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
