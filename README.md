@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 
