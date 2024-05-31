@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 day ago)
 - [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (2 weeks ago)
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
-- [Announcing GoReleaser v1.25 - Easter Edition](https://carlosbecker.com/posts/goreleaser-v1.25/) (1 month ago)
