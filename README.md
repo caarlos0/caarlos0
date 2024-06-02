@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (2 days ago)
+- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (3 days ago)
 - [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (3 weeks ago)
 - [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
