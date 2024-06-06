@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [caarlos0/sync](https://github.com/caarlos0/sync)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
+- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (6 days ago)
+- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (3 days ago)
+- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 week ago)
 - [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (3 weeks ago)
-- [GoTime #311 - Ship software, not code](https://carlosbecker.com/posts/gotime-shipping/) (1 month ago)
