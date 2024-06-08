@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0-graveyard/gorel-dir-glob-repro](https://github.com/caarlos0-graveyard/gorel-dir-glob-repro)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
+- [caarlos0/sync](https://github.com/caarlos0/sync)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (4 days ago)
+- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (5 days ago)
 - [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 week ago)
-- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (3 weeks ago)
+- [Announcing GoReleaser v1.26 - The last v1, probably](https://carlosbecker.com/posts/goreleaser-v1.26/) (4 weeks ago)
