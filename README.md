@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/sync](https://github.com/caarlos0/sync)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 day ago)
-- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (6 days ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 days ago)
+- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (1 week ago)
 - [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 week ago)
