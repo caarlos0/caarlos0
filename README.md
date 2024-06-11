@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0-graveyard/gorel-dir-glob-repro](https://github.com/caarlos0-graveyard/gorel-dir-glob-repro)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [caarlos0/sync](https://github.com/caarlos0/sync)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 days ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (3 days ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (1 week ago)
 - [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 week ago)
