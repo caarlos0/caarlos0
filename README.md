@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [catppuccin/go](https://github.com/catppuccin/go)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm)
-- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
+- [caarlos0/sync](https://github.com/caarlos0/sync)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (4 days ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (5 days ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (1 week ago)
-- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (1 week ago)
+- [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (2 weeks ago)
