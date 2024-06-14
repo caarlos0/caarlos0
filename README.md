@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [catppuccin/go](https://github.com/catppuccin/go)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/meta](https://github.com/caarlos0/meta)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [catppuccin/go](https://github.com/catppuccin/go)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm)
-- [caarlos0/sync](https://github.com/caarlos0/sync)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (5 days ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (6 days ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (1 week ago)
 - [Updating Snapcraft secrets](https://carlosbecker.com/posts/snap-secret/) (2 weeks ago)
