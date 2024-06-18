@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/meta](https://github.com/caarlos0/meta)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [catppuccin/go](https://github.com/catppuccin/go)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
