@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/meta](https://github.com/caarlos0/meta)
 
 #### 📚 Books I'm reading
 - **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 day ago)
+- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (2 days ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 week ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (2 weeks ago)
