@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (4 days ago)
+- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (5 days ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 weeks ago)
-- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (2 weeks ago)
+- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (3 weeks ago)
