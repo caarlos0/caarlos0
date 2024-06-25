@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
@@ -38,7 +38,6 @@ Many thanks everyone! 🙏
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 
 #### 📚 Books I'm reading
-- **[How Democracies Die](https://literal.club/caarlos0/book/how-democracies-die-5395k)** by _Steven Levitsky, Daniel Ziblatt_
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
 
@@ -47,6 +46,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (5 days ago)
+- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (6 days ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 weeks ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (3 weeks ago)
