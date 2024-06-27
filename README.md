@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
