@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 
 #### 📚 Books I'm reading
@@ -47,5 +47,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 week ago)
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 weeks ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (3 weeks ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (3 weeks ago)
