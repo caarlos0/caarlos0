@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
@@ -48,4 +48,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 week ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (3 weeks ago)
-- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (3 weeks ago)
+- [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (4 weeks ago)
