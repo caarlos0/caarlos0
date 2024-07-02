@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Eden Zimbelman](https://github.com/zimeg)
 - [Alyx](https://github.com/AlyxPink)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
-- [Lawrence Gripper](https://github.com/lawrencegripper)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
