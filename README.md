@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,5 +47,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (2 weeks ago)
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (3 weeks ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (4 weeks ago)
 - [Announcing GoReleaser v2](https://carlosbecker.com/posts/goreleaser-v2/) (1 month ago)
