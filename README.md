@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
