@@ -26,20 +26,21 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
+- **[How to Live - 27 conflicting answers and one weird conclusion](https://literal.club/caarlos0/book/how-to-live-8mkzr)** by _Derek Sivers_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
