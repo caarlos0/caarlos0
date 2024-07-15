@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/log](https://github.com/caarlos0/log)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (1 day ago)
+- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (2 days ago)
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (3 weeks ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 month ago)
