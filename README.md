@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (3 days ago)
-- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (3 weeks ago)
+- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (4 days ago)
+- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (4 weeks ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 month ago)
