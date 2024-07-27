@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
 
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (1 week ago)
+- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (2 weeks ago)
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 month ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 month ago)
