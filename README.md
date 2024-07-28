@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
