@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Replicate](https://github.com/replicate)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
-- [Lawrence Gripper](https://github.com/lawrencegripper)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
