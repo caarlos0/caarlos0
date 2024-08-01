@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
