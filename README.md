@@ -27,14 +27,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 
 #### 📚 Books I'm reading
