@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
