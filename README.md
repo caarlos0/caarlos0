@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,4 +49,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (3 weeks ago)
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 month ago)
-- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (1 month ago)
+- [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 months ago)
