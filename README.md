@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (3 weeks ago)
+- [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (4 weeks ago)
 - [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/) (1 month ago)
 - [Starlink: installation, first impressions, and running it through UniFi](https://carlosbecker.com/posts/starlink-unifi/) (2 months ago)
