@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (2 days ago)
-- [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (4 days ago)
+- [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (3 days ago)
+- [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (5 days ago)
 - [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (1 month ago)
