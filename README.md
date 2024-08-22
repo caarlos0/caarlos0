@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
 - **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Homekit controller and firmware for an ESP8266-based automated garage door
 - **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
 - **[caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)** - Go client for the SolarmanPV API
 - **[caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)** - Prometheus Exporter for SolarmanPV
-- **[caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)** - Homekit bridge for Shelly Flood and Smoke sensors
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [akash-network/rpc-proxy](https://github.com/akash-network/rpc-proxy)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
