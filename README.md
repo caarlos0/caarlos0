@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
