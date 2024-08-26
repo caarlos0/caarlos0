@@ -31,9 +31,9 @@ Many thanks everyone! 🙏
 - [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 
@@ -48,5 +48,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (1 week ago)
-- [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (1 week ago)
+- [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (2 weeks ago)
 - [Announcing GoReleaser v2.1](https://carlosbecker.com/posts/goreleaser-v2.1/) (1 month ago)
