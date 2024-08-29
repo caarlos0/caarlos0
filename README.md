@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/nur](https://github.com/goreleaser/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (4 days ago)
+- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (5 days ago)
 - [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (2 weeks ago)
 - [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (2 weeks ago)
