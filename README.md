@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
 - **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
 - **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Homekit controller and firmware for an ESP8266-based automated garage door
 - **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
 - **[caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)** - Go client for the SolarmanPV API
-- **[caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)** - Prometheus Exporter for SolarmanPV
 
 
 #### ❤️ Recent Sponsors
@@ -15,27 +15,27 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
-- [Replicate](https://github.com/replicate)
 - [Encore](https://github.com/encoredev)
 - [Leonardo Rifeli](https://github.com/leonardorifeli)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
+- [Mercedes-Benz Group](https://github.com/mercedes-benz)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/nur](https://github.com/goreleaser/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nur](https://github.com/goreleaser/nur)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (5 days ago)
+- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (6 days ago)
 - [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (2 weeks ago)
 - [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (2 weeks ago)
