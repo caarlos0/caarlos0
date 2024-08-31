@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nur](https://github.com/goreleaser/nur)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/transactional](https://github.com/caarlos0/transactional)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (6 days ago)
+- [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (1 week ago)
 - [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (2 weeks ago)
 - [Semana acadêmica ISEPE](https://carlosbecker.com/posts/semana-academica-isepe/) (2 weeks ago)
