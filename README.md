@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr)
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Setting up a Wireguard VPN in Unifi](https://carlosbecker.com/posts/unifi-vpn/) (1 day ago)
+- [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (2 days ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (1 week ago)
 - [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (2 weeks ago)
