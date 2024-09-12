@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
 
 #### 📚 Books I'm reading
