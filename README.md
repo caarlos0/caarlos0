@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [muesli/termenv](https://github.com/muesli/termenv)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [catppuccin/go](https://github.com/catppuccin/go)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (1 day ago)
 - [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (1 week ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (2 weeks ago)
-- [Announcing GoReleaser v2.2](https://carlosbecker.com/posts/goreleaser-v2.2/) (4 weeks ago)
