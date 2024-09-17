@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [catppuccin/go](https://github.com/catppuccin/go)
 - [muesli/termenv](https://github.com/muesli/termenv)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (4 days ago)
+- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (5 days ago)
 - [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (2 weeks ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (3 weeks ago)
