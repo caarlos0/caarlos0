@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)**
 - **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
 - **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
 - **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Homekit controller and firmware for an ESP8266-based automated garage door
 - **[caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)** - Homekit bridge for Solarman Inverters
-- **[caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)** - Go client for the SolarmanPV API
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [catppuccin/go](https://github.com/catppuccin/go)
-- [muesli/termenv](https://github.com/muesli/termenv)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (5 days ago)
+- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (6 days ago)
 - [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (2 weeks ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (3 weeks ago)
