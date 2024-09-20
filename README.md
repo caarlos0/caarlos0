@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm)
 
