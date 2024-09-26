@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (1 week ago)
+- [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (2 weeks ago)
 - [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (3 weeks ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (1 month ago)
