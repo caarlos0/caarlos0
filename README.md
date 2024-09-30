@@ -48,5 +48,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (2 weeks ago)
-- [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (4 weeks ago)
+- [Setting up a Wireguard VPN in UniFi](https://carlosbecker.com/posts/unifi-vpn/) (1 month ago)
 - [Interview with Josh Medeski](https://carlosbecker.com/posts/interview-josh-medeski/) (1 month ago)
