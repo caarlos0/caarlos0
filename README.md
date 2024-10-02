@@ -34,8 +34,8 @@ Many thanks everyone! 🙏
 - [caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
