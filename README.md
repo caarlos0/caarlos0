@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
