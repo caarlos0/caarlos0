@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (1 day ago)
-- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (3 days ago)
+- [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (2 days ago)
+- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (4 days ago)
 - [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (1 month ago)
