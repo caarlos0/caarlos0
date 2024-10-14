@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (2 days ago)
-- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (4 days ago)
+- [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (3 days ago)
+- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (5 days ago)
 - [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (1 month ago)
