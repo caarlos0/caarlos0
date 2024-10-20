@@ -16,20 +16,20 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Encore](https://github.com/encoredev)
-- [Leonardo Rifeli](https://github.com/leonardorifeli)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
+- [Lawrence Gripper](https://github.com/lawrencegripper)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [caarlos0/env](https://github.com/caarlos0/env)
