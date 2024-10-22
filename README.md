@@ -34,8 +34,8 @@ Many thanks everyone! 🙏
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
