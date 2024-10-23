@@ -34,8 +34,8 @@ Many thanks everyone! 🙏
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -48,5 +48,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (1 week ago)
-- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (1 week ago)
+- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (2 weeks ago)
 - [Announcing GoReleaser v2.3](https://carlosbecker.com/posts/goreleaser-v2.3/) (1 month ago)
