@@ -27,13 +27,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
