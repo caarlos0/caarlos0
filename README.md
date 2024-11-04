@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (3 days ago)
+- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (2 days ago)
+- [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (4 days ago)
 - [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (3 weeks ago)
-- [Gumroad, where is my money?](https://carlosbecker.com/posts/gumroad/) (3 weeks ago)
