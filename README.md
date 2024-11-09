@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer)
-- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+- [caarlos0/teatest-example](https://github.com/caarlos0/teatest-example)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (6 days ago)
+- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (1 week ago)
 - [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (1 week ago)
 - [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (4 weeks ago)
