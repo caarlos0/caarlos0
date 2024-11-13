@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
+- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer)
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
