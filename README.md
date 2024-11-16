@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/sync](https://github.com/caarlos0/sync)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/go-version](https://github.com/caarlos0/go-version)
+- [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (1 week ago)
+- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (2 weeks ago)
 - [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (2 weeks ago)
 - [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (1 month ago)
