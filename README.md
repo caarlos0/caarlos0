@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/log](https://github.com/caarlos0/log)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/go-version](https://github.com/caarlos0/go-version)
+- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
