@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (1 day ago)
 - [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (2 weeks ago)
 - [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (2 weeks ago)
-- [I love Continuity Camera, I hate Continuity Camera](https://carlosbecker.com/posts/continuity-camera/) (1 month ago)
