@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Ochi Daiki](https://github.com/ddddddO)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Oleg Balunenko](https://github.com/obalunenko)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Mercedes-Benz Group](https://github.com/mercedes-benz)
-- [Lawrence Gripper](https://github.com/lawrencegripper)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/log](https://github.com/caarlos0/log)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version)
-- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (1 day ago)
+- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (2 days ago)
 - [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (2 weeks ago)
 - [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (2 weeks ago)
