@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Lea Anthony](https://github.com/leaanthony)
 - [Kevin Ernst](https://github.com/ernstki)
 - [Ochi Daiki](https://github.com/ddddddO)
 - [Datadog, Inc.](https://github.com/DataDog)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
-- [Ben Lechlitner](https://github.com/asphaltbuffet)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/rustlings](https://github.com/caarlos0/rustlings)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
