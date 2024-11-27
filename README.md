@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)**
+- **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
+- **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
 - **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)** - gathering data to find patterns on traffic accidents where i live
 - **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
 - **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
-- **[caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)** - Homekit controller and firmware for an ESP8266-based automated garage door
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/rustlings](https://github.com/caarlos0/rustlings)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
