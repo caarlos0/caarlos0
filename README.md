@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (1 day ago)
 - [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (1 week ago)
-- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (3 weeks ago)
-- [Using AI to aid color scheme migrations](https://carlosbecker.com/posts/ai-colorschemes/) (4 weeks ago)
+- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (4 weeks ago)
