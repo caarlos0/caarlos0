@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)
 - [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (1 day ago)
-- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (1 week ago)
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 days ago)
+- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (2 weeks ago)
 - [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (4 weeks ago)
