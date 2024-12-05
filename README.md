@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
 - [caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (5 days ago)
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (6 days ago)
 - [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (2 weeks ago)
 - [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (1 month ago)
