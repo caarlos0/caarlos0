@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Kevin Ernst](https://github.com/ernstki)
 - [Ochi Daiki](https://github.com/ddddddO)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Ethan Li](https://github.com/ethanjli)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
-- [Oleg Balunenko](https://github.com/obalunenko)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
 - [caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (6 days ago)
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (1 week ago)
 - [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (2 weeks ago)
 - [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (1 month ago)
