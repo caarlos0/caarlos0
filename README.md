@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 
 #### 📚 Books I'm reading
