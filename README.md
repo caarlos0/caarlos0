@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/nur](https://github.com/charmbracelet/nur)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
