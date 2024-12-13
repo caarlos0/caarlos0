@@ -26,27 +26,29 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [muesli/termenv](https://github.com/muesli/termenv)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
-- [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
 - **[How to Live - 27 conflicting answers and one weird conclusion](https://literal.club/caarlos0/book/how-to-live-8mkzr)** by _Derek Sivers_
+- **[The Science of Rapid Skill Acquisition - Advanced Methods to Learn, Remember, and Master New Skills and Information [Second Edition]](https://literal.club/caarlos0/book/peter-hollins-the-science-of-rapid-skill-acquisition-buu1b)** by _Peter Hollins_
+- **[How to Be a Christian - Reflections and Essays](https://literal.club/caarlos0/book/c-s-lewis-how-to-be-a-christian-coyd5)** by _C. S. Lewis_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (1 week ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (1 day ago)
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
 - [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (3 weeks ago)
-- [Announcing GoReleaser v2.4](https://carlosbecker.com/posts/goreleaser-v2.4/) (1 month ago)
