@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (3 days ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (4 days ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
 - [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (4 weeks ago)
