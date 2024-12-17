@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Radu Lucuț](https://github.com/radulucut)
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Kevin Ernst](https://github.com/ernstki)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Encore](https://github.com/encoredev)
-- [Alexey Palazhchenko](https://github.com/AlekSi)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (4 days ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 days ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (5 days ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
-- [Increasing GitHub Actions Disk Space](https://carlosbecker.com/posts/github-actions-disk-space/) (4 weeks ago)
