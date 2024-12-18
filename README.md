@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 days ago)
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (5 days ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (3 days ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (6 days ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
