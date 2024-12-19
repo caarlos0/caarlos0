@@ -15,27 +15,27 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Kevin Ernst](https://github.com/ernstki)
-- [Ochi Daiki](https://github.com/ddddddO)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Encore](https://github.com/encoredev)
+- [Alexey Palazhchenko](https://github.com/AlekSi)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/env](https://github.com/caarlos0/env)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (3 days ago)
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (6 days ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (4 days ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (1 week ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
