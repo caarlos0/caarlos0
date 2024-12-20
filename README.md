@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (4 days ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (5 days ago)
 - [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (1 week ago)
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (2 weeks ago)
+- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (3 weeks ago)
