@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
@@ -33,7 +34,6 @@ Many thanks everyone! 🙏
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 
@@ -49,6 +49,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (5 days ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (6 days ago)
 - [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (1 week ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (3 weeks ago)
