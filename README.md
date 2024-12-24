@@ -14,21 +14,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Radu Lucuț](https://github.com/radulucut)
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
-- [Kevin Ernst](https://github.com/ernstki)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
+- [Oleg Balunenko](https://github.com/obalunenko)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
