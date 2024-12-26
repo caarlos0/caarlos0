@@ -50,5 +50,5 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (1 week ago)
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (1 week ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (2 weeks ago)
 - [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (3 weeks ago)
