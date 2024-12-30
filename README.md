@@ -26,8 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
@@ -35,7 +36,6 @@ Many thanks everyone! 🙏
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
