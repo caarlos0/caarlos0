@@ -26,21 +26,20 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
-- **[How to Live - 27 conflicting answers and one weird conclusion](https://literal.club/caarlos0/book/how-to-live-8mkzr)** by _Derek Sivers_
 - **[The Science of Rapid Skill Acquisition - Advanced Methods to Learn, Remember, and Master New Skills and Information [Second Edition]](https://literal.club/caarlos0/book/peter-hollins-the-science-of-rapid-skill-acquisition-buu1b)** by _Peter Hollins_
 - **[How to Be a Christian - Reflections and Essays](https://literal.club/caarlos0/book/c-s-lewis-how-to-be-a-christian-coyd5)** by _C. S. Lewis_
 
