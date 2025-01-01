@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -41,13 +41,12 @@ Many thanks everyone! 🙏
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
 - **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
 - **[The Science of Rapid Skill Acquisition - Advanced Methods to Learn, Remember, and Master New Skills and Information [Second Edition]](https://literal.club/caarlos0/book/peter-hollins-the-science-of-rapid-skill-acquisition-buu1b)** by _Peter Hollins_
-- **[How to Be a Christian - Reflections and Essays](https://literal.club/caarlos0/book/c-s-lewis-how-to-be-a-christian-coyd5)** by _C. S. Lewis_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (2 days ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 weeks ago)
 - [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (2 weeks ago)
-- [Side Projects Reverie](https://carlosbecker.com/posts/side-projects/) (1 month ago)
