@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (2 days ago)
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 days ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 weeks ago)
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (2 weeks ago)
+- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (3 weeks ago)
