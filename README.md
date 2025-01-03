@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 days ago)
+- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 day ago)
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (4 days ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 weeks ago)
-- [Automatically merge dependabot pull requests](https://carlosbecker.com/posts/dependabot-automerge/) (3 weeks ago)
