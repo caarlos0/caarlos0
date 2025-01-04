@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 day ago)
-- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (4 days ago)
+- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (2 days ago)
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (5 days ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (2 weeks ago)
