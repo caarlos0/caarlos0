@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 
 #### 📚 Books I'm reading
