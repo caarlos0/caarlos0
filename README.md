@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -49,4 +49,4 @@ and my [literal.club profile](https://literal.club/caarlos0) as well.
 #### 📄 Latest blog posts
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 week ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (1 week ago)
-- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (3 weeks ago)
+- [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (4 weeks ago)
