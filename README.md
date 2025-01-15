@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-split-merge-real](https://github.com/goreleaser/example-split-merge-real)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
