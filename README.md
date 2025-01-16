@@ -11,7 +11,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
-- [Radu Lucuț](https://github.com/radulucut)
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
@@ -21,21 +20,22 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
+- [Ben Lechlitner](https://github.com/asphaltbuffet)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-split-merge-real](https://github.com/goreleaser/example-split-merge-real)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [goreleaser/example-split-merge-real](https://github.com/goreleaser/example-split-merge-real)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 #### 📚 Books I'm reading
 - **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
@@ -47,6 +47,6 @@ You might want to check out my
 and my [literal.club profile](https://literal.club/caarlos0) as well.
 
 #### 📄 Latest blog posts
-- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 week ago)
+- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (2 weeks ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (2 weeks ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (1 month ago)
