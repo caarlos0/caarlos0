@@ -24,13 +24,14 @@ Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
 
-{{- range literalClubCurrentlyReading 5 }}
-- **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/caarlos0/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
+{{- range goodReadsCurrentlyReading 5 }}
+- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end }}
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
-and my [literal.club profile](https://literal.club/caarlos0) as well.
+and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
+as well.
 
 #### 📄 Latest blog posts
 
