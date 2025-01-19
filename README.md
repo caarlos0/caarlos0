@@ -26,25 +26,27 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-- [caarlos0/log](https://github.com/caarlos0/log)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
-- **[Der Wille zur Macht](https://literal.club/caarlos0/book/friedrich-nietzsche-der-wille-zur-macht-5cvbc)** by _Friedrich Nietzsche_
-- **[studio [21] Grundstufe B1: Gesamtband. Vokabeltaschenbuch](https://literal.club/caarlos0/book/hermann-funk-studio-21-grundstufe-b1-gesamtband-vokabeltaschenbuch-goh4l)** by _Hermann Funk_
-- **[The Science of Rapid Skill Acquisition - Advanced Methods to Learn, Remember, and Master New Skills and Information [Second Edition]](https://literal.club/caarlos0/book/peter-hollins-the-science-of-rapid-skill-acquisition-buu1b)** by _Peter Hollins_
+- **[Colecao Saberes - 100 minutos para entender Aristoteles](https://www.goodreads.com/book/show/120972089-colecao-saberes---100-minutos-para-entender-aristoteles)** by _Cultural_
+- **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
+- **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
+- **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
-and my [literal.club profile](https://literal.club/caarlos0) as well.
+and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
+as well.
 
 #### 📄 Latest blog posts
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (2 weeks ago)
