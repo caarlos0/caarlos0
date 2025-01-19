@@ -27,14 +27,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [caarlos0/log](https://github.com/caarlos0/log)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
+- [caarlos0/log](https://github.com/caarlos0/log)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
 
 #### 📚 Books I'm reading
