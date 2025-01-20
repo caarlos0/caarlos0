@@ -26,18 +26,19 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 - [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
+- **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
 - **[Colecao Saberes - 100 minutos para entender Aristoteles](https://www.goodreads.com/book/show/120972089-colecao-saberes---100-minutos-para-entender-aristoteles)** by _Cultural_
 - **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
 - **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
@@ -50,5 +51,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (2 weeks ago)
-- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (2 weeks ago)
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 weeks ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://carlosbecker.com/posts/goreleaser-v2.5/) (1 month ago)
