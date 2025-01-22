@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-- [caarlos0/log](https://github.com/caarlos0/log)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
