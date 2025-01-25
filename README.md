@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)**
 - **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
 - **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
 - **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)** - gathering data to find patterns on traffic accidents where i live
 - **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
-- **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (3 days ago)
+- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (4 days ago)
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (3 weeks ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 weeks ago)
