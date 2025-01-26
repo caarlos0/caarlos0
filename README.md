@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (4 days ago)
+- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (5 days ago)
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (3 weeks ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 weeks ago)
