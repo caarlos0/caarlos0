@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (5 days ago)
+- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (6 days ago)
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (3 weeks ago)
-- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (3 weeks ago)
+- [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (4 weeks ago)
