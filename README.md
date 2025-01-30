@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [caarlos0/uhr](https://github.com/caarlos0/uhr)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 week ago)
-- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (3 weeks ago)
+- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (4 weeks ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (1 month ago)
