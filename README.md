@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/uhr](https://github.com/caarlos0/uhr)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/uhr](https://github.com/caarlos0/uhr)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
