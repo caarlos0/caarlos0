@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)**
 - **[caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)**
 - **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
 - **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
 - **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)** - gathering data to find patterns on traffic accidents where i live
-- **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/uhr](https://github.com/caarlos0/uhr)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/uhr](https://github.com/caarlos0/uhr)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 week ago)
-- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (4 weeks ago)
+- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 month ago)
 - [Testing only changed Go packages](https://carlosbecker.com/posts/go-test-changed/) (1 month ago)
