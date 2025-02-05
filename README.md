@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/uhr](https://github.com/caarlos0/uhr)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
