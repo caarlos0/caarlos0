@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [nitric](https://github.com/nitrictech)
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
@@ -20,18 +21,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Encore](https://github.com/encoredev)
 - [Alexey Palazhchenko](https://github.com/AlekSi)
 - [Oleg Balunenko](https://github.com/obalunenko)
-- [Ben Lechlitner](https://github.com/asphaltbuffet)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
