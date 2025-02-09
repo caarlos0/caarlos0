@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/uhr](https://github.com/caarlos0/uhr)
