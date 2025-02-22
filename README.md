@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/meta](https://github.com/caarlos0/meta)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [muesli/termenv](https://github.com/muesli/termenv)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [svu v3](https://carlosbecker.com/posts/svu3/) (2 days ago)
 - [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (1 week ago)
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
-- [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://carlosbecker.com/posts/goreleaser-rust-zig/) (1 month ago)
