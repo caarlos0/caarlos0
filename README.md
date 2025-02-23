@@ -26,19 +26,19 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-notarized-apps](https://github.com/goreleaser/example-notarized-apps)
 - [muesli/termenv](https://github.com/muesli/termenv)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/meta](https://github.com/caarlos0/meta)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 #### 📚 Books I'm reading
-- **[Maxims for Thinking Analytically: The wisdom of legendary Harvard Professor Richard Zeckhauser](https://www.goodreads.com/book/show/58489701-maxims-for-thinking-analytically)** by _Dan Levy_
+- **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
 - **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
 - **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
 - **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [svu v3](https://carlosbecker.com/posts/svu3/) (2 days ago)
+- [svu v3](https://carlosbecker.com/posts/svu3/) (3 days ago)
 - [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (1 week ago)
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
