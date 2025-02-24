@@ -29,10 +29,10 @@ Many thanks everyone! 🙏
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/example-notarized-apps](https://github.com/goreleaser/example-notarized-apps)
-- [muesli/termenv](https://github.com/muesli/termenv)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/env](https://github.com/caarlos0/env)
+- [muesli/termenv](https://github.com/muesli/termenv)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [caarlos0/meta](https://github.com/caarlos0/meta)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [svu v3](https://carlosbecker.com/posts/svu3/) (3 days ago)
-- [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (1 week ago)
+- [svu v3](https://carlosbecker.com/posts/svu3/) (4 days ago)
+- [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (2 weeks ago)
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
