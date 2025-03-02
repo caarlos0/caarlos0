@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [Andrey Nering](https://github.com/andreynering)
 - [Rapha Amorim](https://github.com/raphamorim)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
-- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [raphamorim/rio](https://github.com/raphamorim/rio)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/example-notarized-apps](https://github.com/goreleaser/example-notarized-apps)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
