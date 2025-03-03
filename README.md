@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [svu v3](https://carlosbecker.com/posts/svu3/) (1 week ago)
-- [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (2 weeks ago)
+- [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (3 weeks ago)
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
