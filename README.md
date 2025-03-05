@@ -3,14 +3,15 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/streamlit-test](https://github.com/caarlos0/streamlit-test)**
-- **[caarlos0/zig-windows-latest](https://github.com/caarlos0/zig-windows-latest)**
 - **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
 - **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
 - **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)** - gathering data to find patterns on traffic accidents where i live
+- **[caarlos0/isxblockedinbrazilyet](https://github.com/caarlos0/isxblockedinbrazilyet)** - Is 𝕏 blocked in Brazil yet?
+- **[caarlos0/mdtree](https://github.com/caarlos0/mdtree)** - Convert markdown lists into ASCII trees
 
 
 #### ❤️ Recent Sponsors
+- [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [Andrey Nering](https://github.com/andreynering)
@@ -20,22 +21,21 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
-- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
+- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [raphamorim/rio](https://github.com/raphamorim/rio)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/example-notarized-apps](https://github.com/goreleaser/example-notarized-apps)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
