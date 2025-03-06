@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/timer](https://github.com/caarlos0/timer)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr)
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
-- [caarlos0/version_exporter](https://github.com/caarlos0/version_exporter)
+- [caarlos0/sync](https://github.com/caarlos0/sync)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [raphamorim/rio](https://github.com/raphamorim/rio)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr)
+- [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after)
+- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [svu v3](https://carlosbecker.com/posts/svu3/) (1 week ago)
+- [svu v3](https://carlosbecker.com/posts/svu3/) (2 weeks ago)
 - [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (3 weeks ago)
 - [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
