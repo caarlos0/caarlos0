@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/sync](https://github.com/caarlos0/sync)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr)
-- [caarlos0/kube-shutdown-after](https://github.com/caarlos0/kube-shutdown-after)
-- [caarlos0/mdtree](https://github.com/caarlos0/mdtree)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (1 week ago)
+- [Cup o&#39; Go #100 - The strength of Go in the job market 📈, and some stress relief with Carlos Becker 🚀](https://carlosbecker.com/posts/cup-o-go/) (2 weeks ago)
 - [svu v3](https://carlosbecker.com/posts/svu3/) (2 weeks ago)
-- [Announcing GoReleaser v2.7](https://carlosbecker.com/posts/goreleaser-v2.7/) (3 weeks ago)
-- [Announcing GoReleaser v2.6](https://carlosbecker.com/posts/goreleaser-v2.6/) (1 month ago)
