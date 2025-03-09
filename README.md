@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
