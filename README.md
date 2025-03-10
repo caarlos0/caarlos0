@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 #### 📚 Books I'm reading
