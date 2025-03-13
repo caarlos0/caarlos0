@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/meta](https://github.com/caarlos0/meta)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -51,4 +51,4 @@ as well.
 #### 📄 Latest blog posts
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (2 weeks ago)
 - [Cup o&#39; Go #100 - The strength of Go in the job market 📈, and some stress relief with Carlos Becker 🚀](https://carlosbecker.com/posts/cup-o-go/) (2 weeks ago)
-- [svu v3](https://carlosbecker.com/posts/svu3/) (2 weeks ago)
+- [svu v3](https://carlosbecker.com/posts/svu3/) (3 weeks ago)
