@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [goreleaser/example-npm](https://github.com/goreleaser/example-npm)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (5 days ago)
+- [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (6 days ago)
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (2 weeks ago)
 - [Cup o&#39; Go #100 - The strength of Go in the job market 📈, and some stress relief with Carlos Becker 🚀](https://carlosbecker.com/posts/cup-o-go/) (3 weeks ago)
