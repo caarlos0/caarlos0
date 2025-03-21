@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [caarlos0-graveyard/go-custom-marshaling](https://github.com/caarlos0-graveyard/go-custom-marshaling)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [goreleaser/example-npm](https://github.com/goreleaser/example-npm)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (2 days ago)
 - [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (1 week ago)
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (3 weeks ago)
-- [Cup o&#39; Go #100 - The strength of Go in the job market 📈, and some stress relief with Carlos Becker 🚀](https://carlosbecker.com/posts/cup-o-go/) (3 weeks ago)
