@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0-graveyard/go-custom-marshaling](https://github.com/caarlos0-graveyard/go-custom-marshaling)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [caarlos0-graveyard/go-custom-marshaling](https://github.com/caarlos0-graveyard/go-custom-marshaling)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (4 days ago)
+- [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (5 days ago)
 - [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (1 week ago)
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (3 weeks ago)
