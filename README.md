@@ -28,13 +28,13 @@ Many thanks everyone! 🙏
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
@@ -51,4 +51,4 @@ as well.
 #### 📄 Latest blog posts
 - [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (1 week ago)
 - [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (2 weeks ago)
-- [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (4 weeks ago)
+- [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (1 month ago)
