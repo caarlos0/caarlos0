@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
