@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
 
