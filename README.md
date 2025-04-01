@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
