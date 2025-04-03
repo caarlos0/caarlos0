@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
