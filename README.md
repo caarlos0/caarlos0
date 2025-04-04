@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Harmo](https://github.com/HarmoDeveloper)
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -20,19 +21,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
-- [Jared Allard](https://github.com/jaredallard)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
