@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
