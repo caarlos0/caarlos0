@@ -16,7 +16,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [Andrey Nering](https://github.com/andreynering)
-- [Rapha Amorim](https://github.com/raphamorim)
+- [🅡🅐🅟🅗🅐](https://github.com/raphamorim)
 - [nitric](https://github.com/nitrictech)
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (3 weeks ago)
-- [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (4 weeks ago)
+- [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (1 month ago)
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (1 month ago)
