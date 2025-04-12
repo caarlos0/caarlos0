@@ -32,9 +32,9 @@ Many thanks everyone! 🙏
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 #### 📚 Books I'm reading
