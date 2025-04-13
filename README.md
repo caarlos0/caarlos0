@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
