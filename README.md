@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
