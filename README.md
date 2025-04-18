@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/linktree](https://github.com/caarlos0/linktree)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
 - [caarlos0/uhr](https://github.com/caarlos0/uhr)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/linktree](https://github.com/caarlos0/linktree)
-- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (4 weeks ago)
+- [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (1 month ago)
 - [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (1 month ago)
 - [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (1 month ago)
