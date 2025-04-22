@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
