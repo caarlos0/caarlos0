@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
