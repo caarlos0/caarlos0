@@ -11,7 +11,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
-- [Harmo](https://github.com/HarmoDeveloper)
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -21,6 +20,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Jonathon Chambers](https://github.com/FFCoder)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
+- [Jared Allard](https://github.com/jaredallard)
 
 Many thanks everyone! 🙏
 
