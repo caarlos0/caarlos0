@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
