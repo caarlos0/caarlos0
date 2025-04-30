@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (1 day ago)
 - [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (1 month ago)
 - [Announcing GoReleaser v2.8](https://carlosbecker.com/posts/goreleaser-v2.8/) (1 month ago)
-- [Live chat: Elton Minetto and Carlos Becker](https://carlosbecker.com/posts/gophercon-latam-live/) (2 months ago)
