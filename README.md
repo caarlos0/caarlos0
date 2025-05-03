@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (3 days ago)
-- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (4 days ago)
+- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (4 days ago)
+- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (5 days ago)
 - [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (1 month ago)
