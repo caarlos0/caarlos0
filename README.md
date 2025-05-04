@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (4 days ago)
-- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (5 days ago)
+- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (5 days ago)
+- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (6 days ago)
 - [Custom YAML marshal/unmarshal with Go](https://carlosbecker.com/posts/go-custom-marshaling/) (1 month ago)
