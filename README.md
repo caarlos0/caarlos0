@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 day ago)
+- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (2 days ago)
 - [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (1 week ago)
 - [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (1 week ago)
