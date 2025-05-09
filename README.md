@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (3 days ago)
+- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (4 days ago)
 - [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (1 week ago)
 - [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (1 week ago)
