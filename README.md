@@ -15,7 +15,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [Andrey Nering](https://github.com/andreynering)
-- [🅡🅐🅟🅗🅐](https://github.com/raphamorim)
+- [Rapha Amorim](https://github.com/raphamorim)
 - [nitric](https://github.com/nitrictech)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (5 days ago)
+- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (6 days ago)
 - [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (1 week ago)
 - [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (1 week ago)
