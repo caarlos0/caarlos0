@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/timer](https://github.com/caarlos0/timer)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 week ago)
-- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (1 week ago)
+- [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (2 weeks ago)
 - [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (2 weeks ago)
