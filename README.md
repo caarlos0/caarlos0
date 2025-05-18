@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
