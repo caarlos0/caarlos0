@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
@@ -35,7 +36,6 @@ Many thanks everyone! 🙏
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
