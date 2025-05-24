@@ -14,24 +14,24 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
-- [Andrey Nering](https://github.com/andreynering)
 - [Raphael Amorim](https://github.com/raphamorim)
 - [nitric](https://github.com/nitrictech)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
+- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/timer](https://github.com/caarlos0/timer)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)
