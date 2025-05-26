@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (2 weeks ago)
+- [Gophercon Latam: Building and serving TUIs over SSH with Go](https://carlosbecker.com/posts/gophercon-latam-2025/) (3 weeks ago)
 - [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (3 weeks ago)
-- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (3 weeks ago)
+- [Fallthrough #17 - Maintainers, Monetization, and Making The Time](https://carlosbecker.com/posts/fallthrough-e17/) (4 weeks ago)
