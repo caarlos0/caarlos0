@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
