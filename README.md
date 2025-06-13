@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (4 days ago)
+- [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (5 days ago)
 - [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 month ago)
 - [Announcing GoReleaser v2.9](https://carlosbecker.com/posts/goreleaser-v2.9/) (1 month ago)
