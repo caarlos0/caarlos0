@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
