@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (5 days ago)
+- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (6 days ago)
 - [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (2 weeks ago)
 - [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 month ago)
