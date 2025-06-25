@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
