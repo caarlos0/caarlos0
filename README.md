@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
