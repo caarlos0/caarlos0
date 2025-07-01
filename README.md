@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 week ago)
+- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (2 weeks ago)
 - [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (3 weeks ago)
 - [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 month ago)
