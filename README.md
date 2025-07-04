@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -51,4 +51,4 @@ as well.
 #### 📄 Latest blog posts
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (2 weeks ago)
 - [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (3 weeks ago)
-- [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (1 month ago)
+- [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (2 months ago)
