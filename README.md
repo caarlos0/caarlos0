@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [caarlos0/log](https://github.com/caarlos0/log)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (2 weeks ago)
-- [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (4 weeks ago)
+- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (3 weeks ago)
+- [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (1 month ago)
 - [Gophercon Latam 2025 - Serving TUIs over SSH using Go ✨](https://carlosbecker.com/posts/gophercon-latam-2025/) (2 months ago)
