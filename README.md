@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (1 week ago)
-- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (4 weeks ago)
+- [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
 - [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (1 month ago)
