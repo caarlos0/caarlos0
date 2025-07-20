@@ -4,10 +4,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 - **[caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)** - vibe coded telegram bot to check blood test results
+- **[caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)**
 - **[caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)** - Slides and materials for my talk at Gophercon Latam 2025
 - **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
 - **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
-- **[caarlos0/mcr-accidents-analyzer](https://github.com/caarlos0/mcr-accidents-analyzer)** - gathering data to find patterns on traffic accidents where i live
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/codecon-goreleaser/) (1 day ago)
 - [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (1 week ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
-- [Announcing GoReleaser v2.10](https://carlosbecker.com/posts/goreleaser-v2.10/) (1 month ago)
