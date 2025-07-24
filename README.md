@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/codecon-goreleaser/) (4 days ago)
+- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/codecon-goreleaser/) (5 days ago)
 - [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (2 weeks ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
