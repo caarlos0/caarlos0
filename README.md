@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/codecon-goreleaser/) (6 days ago)
+- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (1 week ago)
 - [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (2 weeks ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
