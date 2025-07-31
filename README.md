@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
 #### 📚 Books I'm reading
