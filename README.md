@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (2 weeks ago)
-- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (3 weeks ago)
+- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (4 weeks ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
