@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 
 #### 📚 Books I'm reading
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (2 weeks ago)
-- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (4 weeks ago)
+- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (1 month ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
