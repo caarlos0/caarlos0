@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (2 weeks ago)
+- [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (3 weeks ago)
 - [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (1 month ago)
 - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/) (1 month ago)
