@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
