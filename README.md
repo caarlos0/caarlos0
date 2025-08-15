@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
