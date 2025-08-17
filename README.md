@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Qyzar](https://github.com/qyzar)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
@@ -20,16 +21,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
-- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
