@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Quesma](https://github.com/QuesmaOrg)
 - [Qyzar](https://github.com/qyzar)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [SAP](https://github.com/SAP)
@@ -20,20 +21,19 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
-- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
 
