@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
 
