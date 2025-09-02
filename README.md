@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
