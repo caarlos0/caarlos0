@@ -27,13 +27,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 
