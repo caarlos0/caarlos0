@@ -27,14 +27,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (2 days ago)
+- [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (3 days ago)
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (1 month ago)
-- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (1 month ago)
+- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (2 months ago)
