@@ -27,8 +27,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
