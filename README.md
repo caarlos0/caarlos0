@@ -12,7 +12,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Quesma](https://github.com/QuesmaOrg)
-- [Qyzar](https://github.com/qyzar)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
@@ -21,21 +20,22 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
+- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
