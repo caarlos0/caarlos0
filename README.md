@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/pinata](https://github.com/caarlos0/pinata)** - GitHub Actions Pinner
 - **[caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)** - vibe coded telegram bot to check blood test results
 - **[caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)**
 - **[caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)** - Slides and materials for my talk at Gophercon Latam 2025
 - **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
-- **[caarlos0/rustlings](https://github.com/caarlos0/rustlings)** - my solutions to rustlings
 
 
 #### ❤️ Recent Sponsors
@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [goreleaser/example-poetry](https://github.com/goreleaser/example-poetry)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/example-poetry](https://github.com/goreleaser/example-poetry)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
