@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/example-poetry](https://github.com/goreleaser/example-poetry)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
