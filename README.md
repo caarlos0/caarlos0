@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
