@@ -11,7 +11,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
-- [Quesma](https://github.com/QuesmaOrg)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
@@ -21,21 +20,22 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
+- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [goreleaser/example-poetry](https://github.com/goreleaser/example-poetry)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/meta](https://github.com/caarlos0/meta)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
