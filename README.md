@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
-- [goreleaser/example-bun](https://github.com/goreleaser/example-bun)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/example-bun](https://github.com/goreleaser/example-bun)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 weeks ago)
 - [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (4 weeks ago)
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (2 months ago)
-- [Announcing GoReleaser v2.11](https://carlosbecker.com/posts/goreleaser-v2.11/) (2 months ago)
