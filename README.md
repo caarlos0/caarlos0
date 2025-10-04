@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
