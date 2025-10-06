@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
+- [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
