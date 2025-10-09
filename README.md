@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/log](https://github.com/caarlos0/log)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 weeks ago)
+- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (3 weeks ago)
 - [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (1 month ago)
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (2 months ago)
