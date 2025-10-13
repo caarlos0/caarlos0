@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/log](https://github.com/caarlos0/log)
 - [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
