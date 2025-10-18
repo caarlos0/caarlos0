@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/log](https://github.com/caarlos0/log)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (4 weeks ago)
+- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (1 month ago)
 - [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (1 month ago)
 - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/) (3 months ago)
