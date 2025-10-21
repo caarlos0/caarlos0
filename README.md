@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
