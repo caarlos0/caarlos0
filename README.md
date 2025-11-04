@@ -29,11 +29,11 @@ Many thanks everyone! 🙏
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
