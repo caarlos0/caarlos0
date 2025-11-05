@@ -12,7 +12,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
-- [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [nitric](https://github.com/nitrictech)
@@ -21,21 +20,22 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
 - [Ethan Li](https://github.com/ethanjli)
+- [Encore](https://github.com/encoredev)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/linktree](https://github.com/caarlos0/linktree)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/linktree](https://github.com/caarlos0/linktree)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
