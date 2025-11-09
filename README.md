@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)** - Telegram bot to transcribe and summarize audio messages
 - **[caarlos0/pinata](https://github.com/caarlos0/pinata)** - GitHub Actions Pinner
 - **[caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)** - vibe coded telegram bot to check blood test results
 - **[caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)** - Slides for my talk at Codecon Summit 2025
 - **[caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)** - Slides and materials for my talk at Gophercon Latam 2025
-- **[caarlos0/issue-magic](https://github.com/caarlos0/issue-magic)** - Auto-label GitHub issues 🦀
 
 
 #### ❤️ Recent Sponsors
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/example-zig-cgo](https://github.com/goreleaser/example-zig-cgo)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/log](https://github.com/caarlos0/log)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/log](https://github.com/caarlos0/log)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
