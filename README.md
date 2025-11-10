@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/example-zig-cgo](https://github.com/goreleaser/example-zig-cgo)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 - [caarlos0/log](https://github.com/caarlos0/log)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
