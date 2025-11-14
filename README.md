@@ -26,11 +26,11 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
