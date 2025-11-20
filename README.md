@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (2 days ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 day ago)
+- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (3 days ago)
 - [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 months ago)
-- [Announcing GoReleaser v2.12](https://carlosbecker.com/posts/goreleaser-v2.12/) (2 months ago)
