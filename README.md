@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/qrcode](https://github.com/caarlos0/qrcode)**
 - **[caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)** - Telegram bot to transcribe and summarize audio messages
 - **[caarlos0/pinata](https://github.com/caarlos0/pinata)** - GitHub Actions Pinner
 - **[caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)** - vibe coded telegram bot to check blood test results
 - **[caarlos0/codecon-2025](https://github.com/caarlos0/codecon-2025)** - Slides for my talk at Codecon Summit 2025
-- **[caarlos0/gophercon-2025](https://github.com/caarlos0/gophercon-2025)** - Slides and materials for my talk at Gophercon Latam 2025
 
 
 #### ❤️ Recent Sponsors
@@ -26,9 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 day ago)
-- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (3 days ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (2 days ago)
+- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (4 days ago)
 - [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 months ago)
