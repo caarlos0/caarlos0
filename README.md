@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/meta](https://github.com/caarlos0/meta)
+- [caarlos0/qrcode](https://github.com/caarlos0/qrcode)
 - [caarlos0/log](https://github.com/caarlos0/log)
+- [caarlos0/meta](https://github.com/caarlos0/meta)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/parttysh](https://github.com/caarlos0/parttysh)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (3 days ago)
-- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (5 days ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (4 days ago)
+- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (6 days ago)
 - [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 months ago)
