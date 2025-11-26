@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (6 days ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 week ago)
 - [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (1 week ago)
 - [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 months ago)
