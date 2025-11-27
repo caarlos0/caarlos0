@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
