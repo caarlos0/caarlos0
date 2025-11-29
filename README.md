@@ -27,11 +27,11 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode)
 - [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
