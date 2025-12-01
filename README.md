@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 day ago)
 - [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 week ago)
-- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (1 week ago)
-- [Escovando Bits #63 - Side projects que pagam as contas: guia realista](https://carlosbecker.com/posts/escovando-bits-63/) (2 months ago)
+- [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (2 weeks ago)
