@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (4 days ago)
+- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (5 days ago)
 - [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (2 weeks ago)
 - [Pinning GitHub Actions](https://carlosbecker.com/posts/pinning-github-actions/) (2 weeks ago)
