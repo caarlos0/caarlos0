@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (4 days ago)
+- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (5 days ago)
 - [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 week ago)
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (2 weeks ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (3 weeks ago)
