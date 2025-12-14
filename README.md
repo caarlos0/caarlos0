@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Ethan Troy](https://github.com/ethanolivertroy)
 - [Dharsan Baskar](https://github.com/dharsanb)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [KEINOS](https://github.com/KEINOS)
@@ -20,18 +21,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
-- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 week ago)
-- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 week ago)
+- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (2 weeks ago)
 - [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (3 weeks ago)
