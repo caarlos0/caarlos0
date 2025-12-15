@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum)
