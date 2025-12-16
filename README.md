@@ -12,7 +12,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Ethan Troy](https://github.com/ethanolivertroy)
-- [Dharsan Baskar](https://github.com/dharsanb)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -21,21 +20,22 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
+- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-supply-chain](https://github.com/goreleaser/example-supply-chain)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
