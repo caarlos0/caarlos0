@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
@@ -35,7 +36,6 @@ Many thanks everyone! 🙏
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 week ago)
+- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (2 weeks ago)
 - [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (2 weeks ago)
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (4 weeks ago)
+- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 month ago)
