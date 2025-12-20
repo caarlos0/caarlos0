@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
+- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
