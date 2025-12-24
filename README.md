@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/log](https://github.com/caarlos0/log)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
