@@ -26,8 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
@@ -35,7 +36,6 @@ Many thanks everyone! 🙏
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (3 weeks ago)
-- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (4 weeks ago)
+- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 month ago)
 - [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 month ago)
