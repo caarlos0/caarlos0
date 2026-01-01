@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [goreleaser/example-homebrew-tap](https://github.com/goreleaser/example-homebrew-tap)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
+- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
