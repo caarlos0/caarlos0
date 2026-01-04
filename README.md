@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/example-homebrew-tap](https://github.com/goreleaser/example-homebrew-tap)
 - [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (4 weeks ago)
+- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
 - [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 month ago)
 - [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 month ago)
