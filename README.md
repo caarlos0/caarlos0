@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (1 day ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
 - [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 month ago)
-- [Signing Git commits and tags with SSH](https://carlosbecker.com/posts/git-ssh-signing/) (1 month ago)
