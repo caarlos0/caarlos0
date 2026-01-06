@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - sign files with ssh keys
+- **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation from issue 316 in x/crypto/sssh
+- **[caarlos0/ssign](https://github.com/caarlos0/ssign)** - sign files with ssh keys
 - **[caarlos0/qrcode](https://github.com/caarlos0/qrcode)** - simple single-page qr code generator
 - **[caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)** - Telegram bot to transcribe and summarize audio messages
 - **[caarlos0/pinata](https://github.com/caarlos0/pinata)** - GitHub Actions Pinner
-- **[caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)** - vibe coded telegram bot to check blood test results
 
 
 #### ❤️ Recent Sponsors
@@ -26,15 +26,15 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/ssign](https://github.com/caarlos0/ssign)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
-- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
 #### 📚 Books I'm reading
