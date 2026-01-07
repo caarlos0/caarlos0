@@ -3,7 +3,7 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation from issue 316 in x/crypto/sssh
+- **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation
 - **[caarlos0/ssign](https://github.com/caarlos0/ssign)** - sign files with ssh keys
 - **[caarlos0/qrcode](https://github.com/caarlos0/qrcode)** - simple single-page qr code generator
 - **[caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)** - Telegram bot to transcribe and summarize audio messages
@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/ssign](https://github.com/caarlos0/ssign)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/ssign](https://github.com/caarlos0/ssign)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
+- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 
 #### 📚 Books I'm reading
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (2 days ago)
+- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 day ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (3 days ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
-- [Announcing GoReleaser v2.13](https://carlosbecker.com/posts/goreleaser-v2.13/) (1 month ago)
