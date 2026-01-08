@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/ssign](https://github.com/caarlos0/ssign)
@@ -38,10 +38,11 @@ Many thanks everyone! 🙏
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 
 #### 📚 Books I'm reading
+- **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
+- **[The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)** by _Ichiro Kishimi_
+- **[Learning Zig: A reimagined introduction to low-level programming with Zig](https://www.goodreads.com/book/show/234025445-learning-zig)** by _Alex Rios_
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
 - **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
-- **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
-- **[Studio 21: Vokabeltaschenbuch B1](https://www.goodreads.com/book/show/51094341-studio-21)** by _CORNELSEN VERLAG GMBH 6 CO._
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
@@ -49,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 day ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (3 days ago)
+- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (2 days ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (4 days ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
