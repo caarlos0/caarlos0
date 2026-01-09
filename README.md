@@ -27,6 +27,7 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -34,7 +35,6 @@ Many thanks everyone! 🙏
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 - [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 
 #### 📚 Books I'm reading
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (2 days ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (4 days ago)
+- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (3 days ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (5 days ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
