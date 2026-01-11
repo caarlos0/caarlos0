@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
 - [caarlos0/ssign](https://github.com/caarlos0/ssign)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 
 #### 📚 Books I'm reading
 - **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (4 days ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (6 days ago)
+- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (5 days ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (1 week ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
