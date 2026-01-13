@@ -13,7 +13,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### ❤️ Recent Sponsors
 - [Marcel Eichner](https://github.com/Ephigenia)
 - [Santosh Yadav](https://github.com/santoshyadavdev)
-- [Ethan Troy](https://github.com/ethanolivertroy)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -21,16 +20,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
+- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (6 days ago)
+- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 week ago)
 - [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (1 week ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
