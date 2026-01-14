@@ -26,23 +26,23 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/sshsig](https://github.com/caarlos0/sshsig)
 - [caarlos0/ssign](https://github.com/caarlos0/ssign)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 
 #### 📚 Books I'm reading
+- **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
+- **[Como orar](https://www.goodreads.com/book/show/52810908-como-orar)** by _C.S. Lewis_
 - **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
 - **[The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)** by _Ichiro Kishimi_
 - **[Learning Zig: A reimagined introduction to low-level programming with Zig](https://www.goodreads.com/book/show/234025445-learning-zig)** by _Alex Rios_
-- **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
-- **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
