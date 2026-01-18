@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/linktree](https://github.com/caarlos0/linktree)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [caarlos0/ssign](https://github.com/caarlos0/ssign)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -51,5 +51,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 week ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (1 week ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (2 weeks ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
