@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
