@@ -26,14 +26,14 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
