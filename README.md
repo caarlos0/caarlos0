@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
