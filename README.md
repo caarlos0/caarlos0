@@ -32,10 +32,10 @@ Many thanks everyone! 🙏
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [goreleaser/example-secure](https://github.com/goreleaser/example-secure)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -51,5 +51,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (2 weeks ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (2 weeks ago)
+- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (3 weeks ago)
 - [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
