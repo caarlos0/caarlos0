@@ -12,7 +12,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Marcel Eichner](https://github.com/Ephigenia)
-- [Santosh Yadav](https://github.com/santoshyadavdev)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -21,6 +20,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
+- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
