@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
@@ -33,15 +34,14 @@ Many thanks everyone! 🙏
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 
 #### 📚 Books I'm reading
+- **[Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/book/show/197773418-slow-productivity)** by _Cal Newport_
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
 - **[Como orar](https://www.goodreads.com/book/show/52810908-como-orar)** by _C.S. Lewis_
 - **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
-- **[The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)** by _Ichiro Kishimi_
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
 
 You might want to check out my
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Doing less, for her](https://carlosbecker.com/posts/less/) (1 day ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (3 weeks ago)
 - [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (4 weeks ago)
-- [OpenSource Fridays Brasil](https://carlosbecker.com/posts/oss-fridays-brasil-25/) (1 month ago)
