@@ -28,14 +28,14 @@ Many thanks everyone! 🙏
 
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-npm](https://github.com/goreleaser/example-npm)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
+- [goreleaser/example-npm](https://github.com/goreleaser/example-npm)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta)
-- [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
 - **[Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/book/show/197773418-slow-productivity)** by _Cal Newport_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Doing less, for her](https://carlosbecker.com/posts/less/) (2 days ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (1 day ago)
+- [Doing less, for her](https://carlosbecker.com/posts/less/) (3 days ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (4 weeks ago)
-- [LIVE from GitHub Universe: Inside the GitHub Secure Open Source Fund](https://carlosbecker.com/posts/github-podcast-universe-inside-secure-oss-fund/) (1 month ago)
