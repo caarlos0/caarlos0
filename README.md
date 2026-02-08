@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
+- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
-- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
 
 #### 📚 Books I'm reading
 - **[Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/book/show/197773418-slow-productivity)** by _Cal Newport_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Taste](https://carlosbecker.com/posts/taste/) (4 days ago)
-- [Doing less, for her](https://carlosbecker.com/posts/less/) (6 days ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (5 days ago)
+- [Doing less, for her](https://carlosbecker.com/posts/less/) (1 week ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
