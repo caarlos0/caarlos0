@@ -38,11 +38,11 @@ Many thanks everyone! 🙏
 - [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
 
 #### 📚 Books I'm reading
-- **[Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/book/show/197773418-slow-productivity)** by _Cal Newport_
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
 - **[Como orar](https://www.goodreads.com/book/show/52810908-como-orar)** by _C.S. Lewis_
 - **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
+- **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
 
 You might want to check out my
 [books wishlist](https://www.amazon.com.br/hz/wishlist/ls/EB8P7VS717SV)
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Taste](https://carlosbecker.com/posts/taste/) (5 days ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (6 days ago)
 - [Doing less, for her](https://carlosbecker.com/posts/less/) (1 week ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
