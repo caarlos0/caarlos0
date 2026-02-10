@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/log](https://github.com/caarlos0/log)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt)
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
-- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
+- [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh)
+- [caarlos0/log](https://github.com/caarlos0/log)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Taste](https://carlosbecker.com/posts/taste/) (6 days ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (1 week ago)
 - [Doing less, for her](https://carlosbecker.com/posts/less/) (1 week ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
