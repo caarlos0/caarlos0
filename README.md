@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Comet](https://github.com/comet-ml)
 - [Marcel Eichner](https://github.com/Ephigenia)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [SAP](https://github.com/SAP)
@@ -20,7 +21,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Datadog, Inc.](https://github.com/DataDog)
 - [Jared Allard](https://github.com/jaredallard)
-- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
@@ -28,13 +28,13 @@ Many thanks everyone! 🙏
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
 - [caarlos0/log](https://github.com/caarlos0/log)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
