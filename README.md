@@ -29,12 +29,12 @@ Many thanks everyone! 🙏
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh)
-- [caarlos0/log](https://github.com/caarlos0/log)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
