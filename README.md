@@ -51,5 +51,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Taste](https://carlosbecker.com/posts/taste/) (1 week ago)
-- [Doing less, for her](https://carlosbecker.com/posts/less/) (1 week ago)
+- [Doing less, for her](https://carlosbecker.com/posts/less/) (2 weeks ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
