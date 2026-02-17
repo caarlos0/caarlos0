@@ -32,9 +32,9 @@ Many thanks everyone! 🙏
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [caarlos0/log](https://github.com/caarlos0/log)
+- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/pinata](https://github.com/caarlos0/pinata)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
 
 #### 📚 Books I'm reading
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Taste](https://carlosbecker.com/posts/taste/) (1 week ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (2 weeks ago)
 - [Doing less, for her](https://carlosbecker.com/posts/less/) (2 weeks ago)
 - [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
