@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
 - [caarlos0/log](https://github.com/caarlos0/log)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [charmbracelet/x](https://github.com/charmbracelet/x)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (1 day ago)
 - [Taste](https://carlosbecker.com/posts/taste/) (2 weeks ago)
 - [Doing less, for her](https://carlosbecker.com/posts/less/) (2 weeks ago)
-- [Ultimate Go Software Design LIVE: Ep.63](https://carlosbecker.com/posts/live-ardanlabs-software-design-63/) (1 month ago)
