@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/go-solarman](https://github.com/caarlos0/go-solarman)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
-- [caarlos0/homekit-amt8000](https://github.com/caarlos0/homekit-amt8000)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
+- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/homebrew-tap](https://github.com/caarlos0/homebrew-tap)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (2 days ago)
+- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (3 days ago)
 - [Taste](https://carlosbecker.com/posts/taste/) (2 weeks ago)
 - [Doing less, for her](https://carlosbecker.com/posts/less/) (2 weeks ago)
