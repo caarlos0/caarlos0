@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
+- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
+- [caarlos0/env](https://github.com/caarlos0/env)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
-- [caarlos0/timer](https://github.com/caarlos0/timer)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (1 day ago)
-- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (5 days ago)
+- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (2 days ago)
+- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (6 days ago)
 - [Taste](https://carlosbecker.com/posts/taste/) (2 weeks ago)
