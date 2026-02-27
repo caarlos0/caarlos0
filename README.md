@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (5 days ago)
+- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (6 days ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (1 week ago)
 - [Taste](https://carlosbecker.com/posts/taste/) (3 weeks ago)
