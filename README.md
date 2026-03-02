@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/env](https://github.com/caarlos0/env)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc)
 - [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
