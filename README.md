@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/env](https://github.com/caarlos0/env)
+- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -52,4 +52,4 @@ as well.
 #### 📄 Latest blog posts
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (1 week ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (2 weeks ago)
-- [Taste](https://carlosbecker.com/posts/taste/) (4 weeks ago)
+- [Taste](https://carlosbecker.com/posts/taste/) (1 month ago)
