@@ -30,12 +30,12 @@ Many thanks everyone! 🙏
 - [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/svu](https://github.com/caarlos0/svu)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [caarlos0/env](https://github.com/caarlos0/env)
-- [caarlos0/homekit-shelly](https://github.com/caarlos0/homekit-shelly)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/esp8266-garage-door](https://github.com/caarlos0/esp8266-garage-door)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
