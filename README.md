@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0-graveyard/go-windows-sendfile-race](https://github.com/caarlos0-graveyard/go-windows-sendfile-race)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0-graveyard/go-windows-sendfile-race](https://github.com/caarlos0-graveyard/go-windows-sendfile-race)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -35,7 +35,7 @@ Many thanks everyone! 🙏
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
-- [caarlos0/homekit-solarman](https://github.com/caarlos0/homekit-solarman)
+- [caarlos0/solarman-exporter](https://github.com/caarlos0/solarman-exporter)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -50,6 +50,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (2 days ago)
+- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (3 days ago)
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (2 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (2 weeks ago)
