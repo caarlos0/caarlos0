@@ -26,20 +26,19 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0-graveyard/go-windows-sendfile-race](https://github.com/caarlos0-graveyard/go-windows-sendfile-race)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [caarlos0/svu](https://github.com/caarlos0/svu)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
-- **[Como cultivar uma vida de leitura](https://www.goodreads.com/book/show/55026832-como-cultivar-uma-vida-de-leitura)** by _C.S. Lewis_
 - **[[The Art of Doing Science and Engineering] - 2020 Edition: Learning to Learn - 2020, Paperback Edition](https://www.goodreads.com/book/show/155968362-the-art-of-doing-science-and-engineering---2020-edition)** by _Karios Mainec_
 - **[Introduction to Zig: a project-based book](https://www.goodreads.com/book/show/220362789-introduction-to-zig)** by _Pedro Duarte Faria_
 - **[Software Transparency: Supply Chain Security in an Era of a Software-Driven Society](https://www.goodreads.com/book/show/78919033-software-transparency)** by _Chris Hughes_
@@ -50,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (4 days ago)
+- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (5 days ago)
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (2 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (3 weeks ago)
