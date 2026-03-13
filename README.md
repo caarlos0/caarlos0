@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0-graveyard/go-windows-sendfile-race](https://github.com/caarlos0-graveyard/go-windows-sendfile-race)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (6 days ago)
+- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (1 week ago)
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (2 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (3 weeks ago)
