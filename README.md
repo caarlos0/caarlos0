@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (1 week ago)
-- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (2 weeks ago)
+- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (3 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (3 weeks ago)
