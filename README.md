@@ -11,6 +11,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [snapit-cypher](https://github.com/snapit-cypher)
 - [Comet](https://github.com/comet-ml)
 - [Marcel Eichner](https://github.com/Ephigenia)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
@@ -20,19 +21,18 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [nitric](https://github.com/nitrictech)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Jared Allard](https://github.com/jaredallard)
-- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
 - [caarlos0/lablaudo-bot](https://github.com/caarlos0/lablaudo-bot)
 - [caarlos0-graveyard/go-windows-sendfile-race](https://github.com/caarlos0-graveyard/go-windows-sendfile-race)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)
@@ -51,4 +51,4 @@ as well.
 #### 📄 Latest blog posts
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (1 week ago)
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (3 weeks ago)
-- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (3 weeks ago)
+- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (4 weeks ago)
