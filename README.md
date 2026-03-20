@@ -26,8 +26,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (1 week ago)
+- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (2 weeks ago)
 - [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (3 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (1 month ago)
