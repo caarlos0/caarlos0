@@ -26,10 +26,10 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
@@ -50,5 +50,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (2 weeks ago)
-- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (3 weeks ago)
+- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (4 weeks ago)
 - [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (1 month ago)
