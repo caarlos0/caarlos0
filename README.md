@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/example-nfpm-sign](https://github.com/goreleaser/example-nfpm-sign)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
