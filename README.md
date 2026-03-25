@@ -28,8 +28,8 @@ Many thanks everyone! 🙏
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (today)
+- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (1 day ago)
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (2 weeks ago)
-- [Announcing GoReleaser v2.14](https://carlosbecker.com/posts/goreleaser-v2.14/) (1 month ago)
-- [How GoReleaser strengthened security through GitHub&#39;s Secure Open Source Fund](https://carlosbecker.com/posts/goreleaser-github-secure-oss-fund/) (1 month ago)
