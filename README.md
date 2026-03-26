@@ -27,14 +27,14 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 - [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
 #### 📚 Books I'm reading
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (today)
-- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (1 day ago)
+- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (1 day ago)
+- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (2 days ago)
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (2 weeks ago)
