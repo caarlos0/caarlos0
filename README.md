@@ -3,11 +3,11 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/antennamap](https://github.com/caarlos0/antennamap)** - Cellphone Towers in West region of Parana
 - **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation
 - **[caarlos0/ssign](https://github.com/caarlos0/ssign)** - sign files with ssh keys
 - **[caarlos0/qrcode](https://github.com/caarlos0/qrcode)** - simple single-page qr code generator
 - **[caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer)** - Telegram bot to transcribe and summarize audio messages
-- **[caarlos0/pinata](https://github.com/caarlos0/pinata)** - GitHub Actions Pinner
 
 
 #### ❤️ Recent Sponsors
@@ -27,13 +27,13 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/.github](https://github.com/goreleaser/.github)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/antennamap](https://github.com/caarlos0/antennamap)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 - [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (3 days ago)
-- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (4 days ago)
+- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (4 days ago)
+- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (5 days ago)
 - [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (3 weeks ago)
