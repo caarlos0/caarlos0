@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           LITERAL_EMAIL: ${{ secrets.LITERAL_EMAIL }}
           LITERAL_PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
           GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID }}
