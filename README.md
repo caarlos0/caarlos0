@@ -3,7 +3,7 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
-- **[caarlos0/antennamap](https://github.com/caarlos0/antennamap)** - Cellphone Towers in Brazil
+- **[caarlos0/temsinal](https://github.com/caarlos0/temsinal)** - Cellphone Towers in Brazil
 - **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation
 - **[caarlos0/ssign](https://github.com/caarlos0/ssign)** - sign files with ssh keys
 - **[caarlos0/qrcode](https://github.com/caarlos0/qrcode)** - simple single-page qr code generator
@@ -27,15 +27,15 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
-- [caarlos0/antennamap](https://github.com/caarlos0/antennamap)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/.github](https://github.com/goreleaser/.github)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-simple](https://github.com/goreleaser/example-simple)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (5 days ago)
-- [Goodbye, Charm](https://carlosbecker.com/posts/goodbye-charm/) (6 days ago)
-- [You&#39;ll never see my child&#39;s face](https://carlosbecker.com/posts/children-privacy/) (3 weeks ago)
+- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 day ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (2 days ago)
+- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (6 days ago)
