@@ -15,27 +15,27 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Comet](https://github.com/comet-ml)
 - [Marcel Eichner](https://github.com/Ephigenia)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
-- [SAP](https://github.com/SAP)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
 - [nitric](https://github.com/nitrictech)
 - [Lea Anthony](https://github.com/leaanthony)
 - [Jared Allard](https://github.com/jaredallard)
+- [Eden Zimbelman](https://github.com/zimeg)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [goreleaser/.github](https://github.com/goreleaser/.github)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/.github](https://github.com/goreleaser/.github)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 day ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (2 days ago)
-- [Keeping sponsor lists up-to-date](https://carlosbecker.com/posts/sponsors-gen/) (6 days ago)
+- [carlos@github](https://carlosbecker.com/posts/github/) (4 days ago)
+- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (5 days ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (6 days ago)
