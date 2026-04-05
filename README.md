@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [carlos@github](https://carlosbecker.com/posts/github/) (4 days ago)
-- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (5 days ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (6 days ago)
+- [carlos@github](https://carlosbecker.com/posts/github/) (5 days ago)
+- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (6 days ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (1 week ago)
