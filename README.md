@@ -26,13 +26,13 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 - [goreleaser/.github](https://github.com/goreleaser/.github)
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [carlos@github](https://carlosbecker.com/posts/github/) (6 days ago)
+- [carlos@github](https://carlosbecker.com/posts/github/) (1 week ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 week ago)
 - [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (1 week ago)
