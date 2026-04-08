@@ -13,7 +13,6 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 #### ❤️ Recent Sponsors
 - [snapit-cypher](https://github.com/snapit-cypher)
 - [Comet](https://github.com/comet-ml)
-- [Marcel Eichner](https://github.com/Ephigenia)
 - [Chatpong Voranartaksorn](https://github.com/psychvc)
 - [KEINOS](https://github.com/KEINOS)
 - [Andrew](https://github.com/wobondar)
@@ -21,14 +20,15 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 - [Lea Anthony](https://github.com/leaanthony)
 - [Jared Allard](https://github.com/jaredallard)
 - [Eden Zimbelman](https://github.com/zimeg)
+- [Ethan Li](https://github.com/ethanjli)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
