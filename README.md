@@ -26,6 +26,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-deno](https://github.com/goreleaser/example-deno)
@@ -35,7 +36,6 @@ Many thanks everyone! 🙏
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
