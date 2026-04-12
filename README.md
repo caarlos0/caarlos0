@@ -26,12 +26,12 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/example-deno](https://github.com/goreleaser/example-deno)
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
@@ -51,4 +51,4 @@ as well.
 #### 📄 Latest blog posts
 - [carlos@github](https://carlosbecker.com/posts/github/) (1 week ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 week ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (1 week ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (2 weeks ago)
