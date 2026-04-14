@@ -26,7 +26,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [digitalxero/go-msix](https://github.com/digitalxero/go-msix)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
@@ -34,8 +36,6 @@ Many thanks everyone! 🙏
 - [caarlos0/linktree](https://github.com/caarlos0/linktree)
 - [caarlos0-graveyard/test](https://github.com/caarlos0-graveyard/test)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -49,6 +49,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [carlos@github](https://carlosbecker.com/posts/github/) (1 week ago)
+- [carlos@github](https://carlosbecker.com/posts/github/) (2 weeks ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (2 weeks ago)
 - [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (2 weeks ago)
