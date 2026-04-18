@@ -4,14 +4,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 5 }}
+{{- range recentRepos 3 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 
 #### ❤️ Recent Sponsors
 
-{{- range sponsors 10 }}
+{{- range sponsors 3 }}
 - [{{ or .User.Name .User.Login }}]({{ .User.URL }})
 {{- end }}
 
@@ -24,7 +24,7 @@ Many thanks everyone! 🙏
 
 #### 📚 Books I'm reading
 
-{{- range goodReadsCurrentlyReading 5 }}
+{{- range goodReadsCurrentlyReading 3 }}
 - **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end }}
 
