@@ -26,16 +26,16 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [github/awesome-copilot](https://github.com/github/awesome-copilot)
+- [goreleaser/example-zig-cgo](https://github.com/goreleaser/example-zig-cgo)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
+- [goreleaser/example-zig](https://github.com/goreleaser/example-zig)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [digitalxero/go-msix](https://github.com/digitalxero/go-msix)
-- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
-- [goreleaser/example-deno](https://github.com/goreleaser/example-deno)
+- [goreleaser/example-split-merge-real](https://github.com/goreleaser/example-split-merge-real)
+- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy)
+- [goreleaser/example-homebrew-tap](https://github.com/goreleaser/example-homebrew-tap)
+- [goreleaser/example-npm](https://github.com/goreleaser/example-npm)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
