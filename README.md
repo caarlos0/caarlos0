@@ -17,16 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-cross](https://github.com/goreleaser/example-cross)
+- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/example-homebrew-tap](https://github.com/goreleaser/example-homebrew-tap)
-- [goreleaser/example-split-merge](https://github.com/goreleaser/example-split-merge)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [goreleaser/example-ko](https://github.com/goreleaser/example-ko)
-- [goreleaser/example-uv](https://github.com/goreleaser/example-uv)
-- [goreleaser/example-auto-snapshot](https://github.com/goreleaser/example-auto-snapshot)
-- [goreleaser/example-rust](https://github.com/goreleaser/example-rust)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
