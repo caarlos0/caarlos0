@@ -18,7 +18,7 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
-{{ range recentContributions 10 }}
+{{ range recentContributions 3 }}
 - [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end }}
 
