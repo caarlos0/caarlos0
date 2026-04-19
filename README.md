@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-mod-proxy](https://github.com/goreleaser/example-mod-proxy)
+- [goreleaser/example](https://github.com/goreleaser/example)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/example-homebrew-tap](https://github.com/goreleaser/example-homebrew-tap)
+- [goreleaser/example-templatefiles](https://github.com/goreleaser/example-templatefiles)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -34,4 +34,4 @@ as well.
 #### 📄 Latest blog posts
 - [carlos@github](https://carlosbecker.com/posts/github/) (2 weeks ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (2 weeks ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (2 weeks ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (3 weeks ago)
