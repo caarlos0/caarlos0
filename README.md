@@ -18,8 +18,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/example-cross](https://github.com/goreleaser/example-cross)
-- [goreleaser/example-split-merge](https://github.com/goreleaser/example-split-merge)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [goreleaser/example-poetry](https://github.com/goreleaser/example-poetry)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [carlos@github](https://carlosbecker.com/posts/github/) (2 weeks ago)
+- [carlos@github](https://carlosbecker.com/posts/github/) (3 weeks ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (3 weeks ago)
 - [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (3 weeks ago)
