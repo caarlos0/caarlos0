@@ -9,17 +9,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Weston Schmidt](https://github.com/schmidtw)
 - [snapit-cypher](https://github.com/snapit-cypher)
 - [Comet](https://github.com/comet-ml)
-- [Chatpong Voranartaksorn](https://github.com/psychvc)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [merencia/pairwith](https://github.com/merencia/pairwith)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
