@@ -18,8 +18,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [merencia/pairwith](https://github.com/merencia/pairwith)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -34,4 +34,4 @@ as well.
 #### 📄 Latest blog posts
 - [Hello, GitHub](https://carlosbecker.com/posts/github/) (3 weeks ago)
 - [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (3 weeks ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (3 weeks ago)
+- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (4 weeks ago)
