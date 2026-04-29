@@ -33,5 +33,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Hello, GitHub](https://carlosbecker.com/posts/github/) (4 weeks ago)
-- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (4 weeks ago)
+- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 month ago)
 - [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (1 month ago)
