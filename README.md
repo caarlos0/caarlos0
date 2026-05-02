@@ -3,9 +3,9 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/hevy](https://github.com/caarlos0/hevy)** - Hevy CLI
 - **[caarlos0/temsinal](https://github.com/caarlos0/temsinal)** - Cellphone Towers in Brazil
 - **[caarlos0/sshsig](https://github.com/caarlos0/sshsig)** - SSHSIG implementation
-- **[caarlos0/ssign](https://github.com/caarlos0/ssign)** - sign files with ssh keys
 
 
 #### ❤️ Recent Sponsors
@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/hevy](https://github.com/caarlos0/hevy)
+- [caarlos0/svu](https://github.com/caarlos0/svu)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
