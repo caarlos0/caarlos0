@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/example-node](https://github.com/goreleaser/example-node)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
