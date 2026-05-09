@@ -9,16 +9,16 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [GitHub SecureOSS Fund ](https://github.com/GitHub-SecureOSS-Fund)
 - [Weston Schmidt](https://github.com/schmidtw)
 - [snapit-cypher](https://github.com/snapit-cypher)
-- [Comet](https://github.com/comet-ml)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/nur](https://github.com/caarlos0/nur)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
 
 #### 📚 Books I'm reading
