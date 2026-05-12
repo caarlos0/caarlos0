@@ -18,7 +18,7 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
