@@ -18,8 +18,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [charmbracelet/nur](https://github.com/charmbracelet/nur)
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
