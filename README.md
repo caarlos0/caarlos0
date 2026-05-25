@@ -17,8 +17,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [caarlos0/temsinal](https://github.com/caarlos0/temsinal)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (1 day ago)
+- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (5 days ago)
 - [Hello, GitHub](https://carlosbecker.com/posts/github/) (1 month ago)
-- [Mapping Brazilian Cell Towers](https://carlosbecker.com/posts/tem-sinal/) (1 month ago)
-- [Announcing GoReleaser v2.15](https://carlosbecker.com/posts/goreleaser-v2.15/) (1 month ago)
