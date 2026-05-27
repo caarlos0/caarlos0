@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (2 days ago)
-- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (6 days ago)
-- [Hello, GitHub](https://carlosbecker.com/posts/github/) (1 month ago)
+- [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (1 day ago)
+- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (3 days ago)
+- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (1 week ago)
