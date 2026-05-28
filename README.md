@@ -17,8 +17,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (1 day ago)
-- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (3 days ago)
+- [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (2 days ago)
+- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (4 days ago)
 - [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (1 week ago)
