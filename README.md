@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/hevy](https://github.com/caarlos0/hevy)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -34,4 +34,4 @@ as well.
 #### 📄 Latest blog posts
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (1 week ago)
 - [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (1 week ago)
-- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (1 week ago)
+- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (2 weeks ago)
