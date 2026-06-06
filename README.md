@@ -3,9 +3,9 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/gumroad-dash](https://github.com/caarlos0/gumroad-dash)** - The Missing Gumroad Dashboard
 - **[caarlos0/noss-2026](https://github.com/caarlos0/noss-2026)** - NOSS 2026 Talk
 - **[caarlos0/hevy](https://github.com/caarlos0/hevy)** - Hevy CLI
-- **[caarlos0/temsinal](https://github.com/caarlos0/temsinal)** - Cellphone Towers in Brazil
 
 
 #### ❤️ Recent Sponsors
@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/gumroad-dash](https://github.com/caarlos0/gumroad-dash)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [caarlos0/hevy](https://github.com/caarlos0/hevy)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
