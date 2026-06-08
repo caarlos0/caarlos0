@@ -10,8 +10,8 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Christopher Butler](https://github.com/techsaint)
-- [GitHub SecureOSS Fund ](https://github.com/GitHub-SecureOSS-Fund)
 - [Weston Schmidt](https://github.com/schmidtw)
+- [Comet](https://github.com/comet-ml)
 
 Many thanks everyone! 🙏
 
