@@ -18,8 +18,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (2 weeks ago)
+- [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (3 weeks ago)
 - [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (3 weeks ago)
 - [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (3 weeks ago)
