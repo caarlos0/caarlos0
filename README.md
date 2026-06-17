@@ -34,4 +34,4 @@ as well.
 #### 📄 Latest blog posts
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (3 weeks ago)
 - [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (3 weeks ago)
-- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (3 weeks ago)
+- [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (4 weeks ago)
