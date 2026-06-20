@@ -3,9 +3,9 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/prowl](https://github.com/caarlos0/prowl)** - A tiny terminal radar for your GitHub pull requests.
 - **[caarlos0/gumroad-dash](https://github.com/caarlos0/gumroad-dash)** - The Missing Gumroad Dashboard
 - **[caarlos0/noss-2026](https://github.com/caarlos0/noss-2026)** - NOSS 2026 Talk
-- **[caarlos0/hevy](https://github.com/caarlos0/hevy)** - Hevy CLI
 
 
 #### ❤️ Recent Sponsors
@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [caarlos0/env](https://github.com/caarlos0/env)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
