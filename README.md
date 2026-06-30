@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
