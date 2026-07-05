@@ -3,9 +3,9 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/assets](https://github.com/caarlos0/assets)** - GoReleaser.com assets
 - **[caarlos0/ttop](https://github.com/caarlos0/ttop)** - A tmux-aware process tree with top-style CPU/memory views
 - **[caarlos0/prowl](https://github.com/caarlos0/prowl)** - A tiny terminal radar for your GitHub pull requests.
-- **[caarlos0/gumroad-dash](https://github.com/caarlos0/gumroad-dash)** - The Missing Gumroad Dashboard
 
 
 #### ❤️ Recent Sponsors
@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/hevy](https://github.com/caarlos0/hevy)
-- [caarlos0/linktree](https://github.com/caarlos0/linktree)
+- [caarlos0/assets](https://github.com/caarlos0/assets)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
