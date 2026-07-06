@@ -17,9 +17,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [caarlos0/assets](https://github.com/caarlos0/assets)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
+- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (2 days ago)
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (1 month ago)
-- [Announcing GoReleaser v2.16](https://carlosbecker.com/posts/goreleaser-v2.16/) (1 month ago)
 - [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (1 month ago)
