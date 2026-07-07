@@ -3,9 +3,9 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/homekit-unifi-alarm](https://github.com/caarlos0/homekit-unifi-alarm)** - One-way Homekit controller for Unifi Protect Alarm
 - **[caarlos0/assets](https://github.com/caarlos0/assets)** - GoReleaser.com assets
 - **[caarlos0/ttop](https://github.com/caarlos0/ttop)** - A tmux-aware process tree with top-style CPU/memory views
-- **[caarlos0/prowl](https://github.com/caarlos0/prowl)** - A tiny terminal radar for your GitHub pull requests.
 
 
 #### ❤️ Recent Sponsors
@@ -17,8 +17,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [caarlos0/homekit-unifi-alarm](https://github.com/caarlos0/homekit-unifi-alarm)
 - [goreleaser/mcp](https://github.com/goreleaser/mcp)
-- [caarlos0/assets](https://github.com/caarlos0/assets)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
@@ -32,6 +32,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (2 days ago)
+- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (3 days ago)
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (1 month ago)
 - [Unsubscribe from a GitHub organization](https://carlosbecker.com/posts/gh-org-unsub/) (1 month ago)
