@@ -4,14 +4,14 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 3 }}
+{{- range recentRepos 6 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 
 #### ❤️ Recent Sponsors
 
-{{- range sponsors 3 }}
+{{- range sponsors 4 }}
 - [{{ or .User.Name .User.Login }}]({{ .User.URL }})
 {{- end }}
 
