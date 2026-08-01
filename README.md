@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/prowl](https://github.com/caarlos0/prowl)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl)
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross)
 
 #### 📚 Books I'm reading
@@ -37,5 +37,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (3 weeks ago)
-- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (3 weeks ago)
+- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (4 weeks ago)
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (2 months ago)
