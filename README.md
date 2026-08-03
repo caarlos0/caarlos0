@@ -37,5 +37,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (3 weeks ago)
-- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (4 weeks ago)
+- [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (1 month ago)
 - [AI didn&#39;t kill portfolios](https://carlosbecker.com/posts/portfolio/) (2 months ago)
