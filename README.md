@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl)
 
 #### 📚 Books I'm reading
@@ -36,6 +36,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (3 days ago)
+- [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (4 days ago)
 - [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (1 month ago)
 - [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (1 month ago)
