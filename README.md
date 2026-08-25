@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 - [caarlos0/pinata](https://github.com/caarlos0/pinata)
 
 #### 📚 Books I'm reading
