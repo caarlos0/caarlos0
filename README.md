@@ -22,8 +22,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [caarlos0/hevy](https://github.com/caarlos0/hevy)
 - [goreleaser/fileglob](https://github.com/goreleaser/fileglob)
-- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
