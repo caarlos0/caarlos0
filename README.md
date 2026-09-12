@@ -36,6 +36,6 @@ and my [Goodreads](https://www.goodreads.com/user/show/51005066-carlos-becker)
 as well.
 
 #### 📄 Latest blog posts
-- [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (3 weeks ago)
+- [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (4 weeks ago)
 - [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (2 months ago)
 - [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (2 months ago)
