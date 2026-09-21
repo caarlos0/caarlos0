@@ -12,10 +12,10 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [James Blackwell](https://github.com/jdblack)
 - [Christopher Butler](https://github.com/techsaint)
 - [Weston Schmidt](https://github.com/schmidtw)
 - [Comet](https://github.com/comet-ml)
-- [KEINOS](https://github.com/KEINOS)
 
 Many thanks everyone! 🙏
 
@@ -23,7 +23,7 @@ Many thanks everyone! 🙏
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/matter-tuya](https://github.com/caarlos0/matter-tuya)
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
