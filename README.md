@@ -21,8 +21,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [caarlos0/matter-tuya](https://github.com/caarlos0/matter-tuya)
 - [caarlos0/solarman-matter](https://github.com/caarlos0/solarman-matter)
+- [caarlos0/matter-tuya](https://github.com/caarlos0/matter-tuya)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
 
 #### 📚 Books I'm reading
