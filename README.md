@@ -12,17 +12,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 
 #### ❤️ Recent Sponsors
+- [Arkadius Jonczek](https://github.com/arkadiusjonczek)
 - [James Blackwell](https://github.com/jdblack)
 - [Christopher Butler](https://github.com/techsaint)
 - [Weston Schmidt](https://github.com/schmidtw)
-- [Comet](https://github.com/comet-ml)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl)
 
 #### 📚 Books I'm reading
