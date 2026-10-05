@@ -37,5 +37,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (1 month ago)
-- [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (2 months ago)
+- [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (3 months ago)
 - [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (3 months ago)
