@@ -23,7 +23,7 @@ Many thanks everyone! 🙏
 
 - [biblialibera/biblialibera.org](https://github.com/biblialibera/biblialibera.org)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
