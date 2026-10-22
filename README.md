@@ -13,17 +13,17 @@ I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### ❤️ Recent Sponsors
 - [Arkadius Jonczek](https://github.com/arkadiusjonczek)
-- [James Blackwell](https://github.com/jdblack)
 - [Christopher Butler](https://github.com/techsaint)
 - [Weston Schmidt](https://github.com/schmidtw)
+- [Comet](https://github.com/comet-ml)
 
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
-- [caarlos0/nur](https://github.com/caarlos0/nur)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
