@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+- [caarlos0/goreleaserfiles](https://github.com/caarlos0/goreleaserfiles)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
@@ -37,5 +37,5 @@ as well.
 
 #### 📄 Latest blog posts
 - [Old man goes to a Jiu Jitsu tournament](https://carlosbecker.com/posts/bjj-comp/) (2 months ago)
-- [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (3 months ago)
+- [Still doing less, for her](https://carlosbecker.com/posts/lesser/) (4 months ago)
 - [GoReleaser announcements are moving](https://carlosbecker.com/posts/goreleaser-announcements/) (4 months ago)
