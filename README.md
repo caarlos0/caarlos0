@@ -3,12 +3,12 @@
 I'm [Carlos](https://caarlos0.dev), I write and operate software for a living.
 
 #### 👨‍💻 Repositories I created recently
+- **[caarlos0/copilot](https://github.com/caarlos0/copilot)** - Personal GitHub Copilot agents and reusable skills, packaged as installable plugins.
 - **[caarlos0/solarman-matter](https://github.com/caarlos0/solarman-matter)** - Matter bridge for a Solarman-compatible logger
 - **[caarlos0/matter-tuya](https://github.com/caarlos0/matter-tuya)** - Matter bridge for Tuya devices
 - **[caarlos0/simple-proxy](https://github.com/caarlos0/simple-proxy)** - Simple HTTP proxy that follows a blocklist.txt
 - **[caarlos0/bjj-journey](https://github.com/caarlos0/bjj-journey)** - Your BJJ Journey
 - **[caarlos0/homekit-unifi-alarm](https://github.com/caarlos0/homekit-unifi-alarm)** - One-way Homekit controller for Unifi Protect Alarm
-- **[caarlos0/how-much-retirement-does-it-cost](https://github.com/caarlos0/how-much-retirement-does-it-cost)** - How much retirement does it cost?
 
 
 #### ❤️ Recent Sponsors
@@ -22,8 +22,8 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)
+- [caarlos0/copilot](https://github.com/caarlos0/copilot)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [goreleaser/mcp](https://github.com/goreleaser/mcp)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
