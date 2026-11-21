@@ -21,9 +21,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [goreleaser/example-rust-split-merge](https://github.com/goreleaser/example-rust-split-merge)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog)
+- [goreleaser/homebrew-tap](https://github.com/goreleaser/homebrew-tap)
 - [caarlos0/copilot](https://github.com/caarlos0/copilot)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 
 #### 📚 Books I'm reading
 - **[Jiu-Jitsu University](https://www.goodreads.com/book/show/5055380-jiu-jitsu-university)** by _Saulo Ribeiro_
